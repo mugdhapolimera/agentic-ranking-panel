@@ -1,0 +1,46 @@
+
+
+```json
+{
+    "first_set": {
+        "individual_scores": {
+            "1": {"score": 0, "explanation": "Focuses on stellar population synthesis, unrelated to AGN diagnostics in dwarfs."},
+            "2": {"score": 2, "explanation": "Discusses emission-line classification, relevant but not specific to low-metallicity dwarfs."},
+            "3": {"score": 2, "explanation": "Examines AGN host properties but lacks focus on dwarfs/low-metallicity."},
+            "4": {"score": 1, "explanation": "Mass-metallicity relation in star-forming galaxies is tangential to AGN diagnostics."},
+            "5": {"score": 1, "explanation": "Focuses on massive galaxies and dynamical models, not dwarfs or emission-line diagnostics."},
+            "6": {"score": 2, "explanation": "Theoretical modeling of starbursts includes AGN classification but lacks dwarf-specific analysis."},
+            "7": {"score": 2, "explanation": "AGN classification via BPT aligns with the main paper but covers broader galaxy populations."},
+            "8": {"score": 3, "explanation": "Directly relevant to intermediate-mass BHs in low-mass galaxies."},
+            "9": {"score": 0, "explanation": "Describes a spectral synthesis tool, only indirectly related."},
+            "10": {"score": 2, "explanation": "Emission-line classification methods are relevant but not optimized for dwarfs."}
+        },
+        "overall_score": 2,
+        "ranking_quality": 1
+    },
+    "second_set": {
+        "individual_scores": {
+            "1": {"score": 3, "explanation": "Directly identifies AGN in dwarfs using spatially-resolved BPT diagnostics and SF-AGN."},
+            "2": {"score": 3, "explanation": "Expands dwarf AGN census with DESI data, focusing on low-mass galaxies and AGN fractions."},
+            "3": {"score": 3, "explanation": "Explores AGN misclassification in BPT star-forming regions, relevant to SF-AGN."},
+            "4": {"score": 3, "explanation": "Searches for AGN in low-mass galaxies using BPT and mid-IR, directly aligned with the main paper."},
+            "5": {"score": 3, "explanation": "Finds AGN-like line ratios in isolated quiescent dwarfs, addressing low-mass AGN."},
+            "6": {"score": 3, "explanation": "Expands AGN sample in dwarfs using SDSS, matching the main paper's focus."},
+            "7": {"score": 3, "explanation": "Low-mass BH sample in AGN hosts directly relevant to dwarf AGN studies."},
+            "8": {"score": 3, "explanation": "Focuses on low-metallicity AGN diagnostics, a perfect match to the main paper."},
+            "9": {"score": 2, "explanation": "Emission-line grids for low-metallicity galaxies support photoionization modeling."},
+            "10": {"score": 3, "explanation": "X-ray confirmation of AGN in dwarfs validates the main paper's methodology."},
+            "11": {"score": 2, "explanation": "Separates AGN/shocks/SF emission but limited to a single galaxy."},
+            "12": {"score": 3, "explanation": "Studies NLR in low-mass AGN, aligning with metallicity and BH mass analysis."},
+            "13": {"score": 2, "explanation": "Predicts MBH signatures in dwarfs but lacks direct observational overlap."}
+        },
+        "overall_score": 3,
+        "ranking_quality": 3
+    },
+    "comparison": {
+        "better_set": "B",
+        "relative_score": 3,
+        "justification": "The second set is vastly superior. All results directly address AGN in low-metallicity dwarfs, emission-line diagnostics (including BPT variants), and BH masses. Results 1–8 and 10–12 are perfect matches to the main paper's focus, while the first set has only a few relevant papers (e.g., Results 2, 7, 8) and lacks specificity to dwarfs. The second set's ranking places the most relevant results (e.g., MAD, DESI, low-metallicity diagnostics) at the top, ensuring high utility for the main paper's research questions."
+    }
+}
+```

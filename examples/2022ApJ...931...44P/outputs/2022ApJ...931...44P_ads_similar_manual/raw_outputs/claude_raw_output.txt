@@ -1,0 +1,138 @@
+Performing independent analysis of the first set of results...
+
+Result 1 is somewhat relevant as it discusses stellar population synthesis models, but it does not focus on the main topic of finding AGN candidates in low-metallicity dwarf galaxies. Score: 1
+"The paper discusses modeling stellar populations, which could be tangentially relevant for interpreting galaxy spectra, but it does not directly address the main paper's methodology or research questions."
+
+Result 2 is relevant in discussing emission line diagnostics for classifying galaxies, but it does not specifically focus on dwarf or low-metallicity galaxies. Score: 2  
+"This paper examines using emission line ratios to classify different types of galaxies, which aligns with the main paper's methodology. However, it does not specifically target low-metallicity dwarf galaxies."
+
+Result 3 discusses the properties of AGN host galaxies, which is relevant to the main paper's topic, but the focus is on more massive galaxies rather than dwarfs. Score: 2
+"While studying AGN host galaxy properties is relevant, this paper does not concentrate on the dwarf galaxy regime that the main paper is interested in."
+
+Result 4 is highly relevant, examining the mass-metallicity relation for star-forming galaxies using SDSS data, which connects to the main paper's interest in low-metallicity dwarfs. Score: 3
+"This paper directly investigates the relationship between stellar mass and gas-phase metallicity in galaxies, including in the low-mass dwarf regime, making it very relevant to the main paper."
+
+Result 5 is not very relevant, as it focuses on modeling the demographics of supermassive black holes rather than AGN in low-mass dwarf galaxies. Score: 1
+"This work aims to constrain black hole masses and occupation fractions, but it does not specifically consider the low-mass or dwarf galaxy population of interest in the main paper."
+
+Result 6 has some relevance in modeling starburst galaxies and separating different ionization sources like AGN and star formation. However, it does not explicitly address low-metallicity dwarfs. Score: 2
+"While separating AGN and star formation contributions is relevant to the main paper's methodology, this work does not concentrate on the low-metallicity dwarf galaxy regime."
+
+Result 7 is relevant in analyzing AGN host properties and providing a classification scheme, though the focus appears to be on more massive galaxies rather than dwarfs. Score: 2 
+"This paper proposes an empirical classification for different galaxy types hosting AGN, which connects to the main paper's goals. However, it likely does not emphasize the low-mass dwarf population."
+
+Result 8 discusses searching for intermediate-mass black holes, which has some tangential relevance, but it does not directly tackle AGN in low-metallicity dwarfs. Score: 1
+"While studying intermediate-mass black holes is related, this paper does not appear to concentrate on the key topics of AGN, low-metallicity, and dwarf galaxies presented in the main paper."
+
+Result 9 examines updates to the Cloudy spectral synthesis code, which could have utility for modeling galaxy spectra, but is not a central focus of the main paper. Score: 1
+"This paper describes improvements to a spectral modeling code, which provides supporting context, but does not directly address the main paper's research questions."
+
+Result 10 proposes a classification scheme for emission-line galaxies, making it relevant to the methodology of the main paper, though it does not explicitly mention low-metallicity or dwarf galaxies. Score: 2
+"Developing classification techniques using emission lines is relevant to the main paper's approach, though this specific work may not highlight the low-metallicity dwarf regime."
+
+The first set contains some relevant results scattered throughout, particularly those examining emission line diagnostics, the mass-metallicity relation, and AGN/galaxy classifications. However, few results appear to hit the central topic of AGN in low-metallicity dwarf galaxies. The most relevant results (4, 2, 3, 7) are ranked moderately well within the top half.
+
+Overall content score for the first set: 2
+The results cover topics related to the main paper's methodology and broader context, but rarely hit the specific intersection of AGN, low-metallicity, and dwarf galaxies.
+
+Ranking quality for the first set: 2 
+The most relevant results are ranked decently by the search engine, though not perfectly ordered.
+
+Performing independent analysis of the second set of results...
+
+Result 1 is an excellent match, directly identifying a new sample of AGN candidates in dwarf galaxies using spatially-resolved spectroscopy, aligning perfectly with the main paper. Score: 3
+"This paper describes a large sample of AGN discovered in dwarf galaxies using integral-field spectroscopy and BPT diagrams, making it extremely relevant to the main paper's focus."
+
+Result 2 is highly relevant, reporting on a search for dwarf galaxy AGN candidates in early DESI data, comparing well to the goals of the main paper. Score: 3
+"By systematically hunting for AGN signatures in dwarf galaxies using DESI spectra, this work matches the methodology and objectives laid out in the main paper."
+
+Result 3 examines AGN that are classified as star-forming on the BPT diagram, connecting to the main paper's interest in optimizing AGN selection for dwarf galaxies. Score: 3
+"Investigating AGN that are potentially missed by standard BPT cuts is very relevant to the main paper's goal of developing improved selection criteria for dwarf AGN candidates."
+
+Result 4 is relevant in searching for AGN in a sample of low-mass galaxies using multiple selection techniques like optical emission lines and mid-IR colors. Score: 2
+"While focused on low-mass galaxies, this work does not explicitly specify a low-metallicity criteria, reducing its relevance somewhat compared to the main paper."  
+
+Result 5 is relevant, finding AGN-like emission lines in a sample of isolated low-mass quiescent galaxies, which connects to AGN in the dwarf regime. Score: 3
+"Discovering AGN signatures in a population of low-mass isolated galaxies aligns well with studying AGN in dwarf systems as described in the main paper."
+
+Result 6 presents a sample of dwarf galaxies showing optical AGN signatures, with estimated black hole masses, making it highly relevant. Score: 3
+"Identifying and characterizing a sample of AGN candidates in dwarf galaxies matches the core objective of the main paper very well."
+
+Result 7 discusses a sample of low-mass AGN candidates selected from SDSS spectra, which is relevant though perhaps not specifically low-metallicity. Score: 2
+"While focused on low-mass AGN, this work does not explicitly require a low-metallicity criteria, reducing relevance slightly compared to the main paper's interests."
+
+Result 8 examines emission line diagnostics for identifying low-metallicity AGN, making it extremely relevant to the methodology of the main paper. Score: 3  
+"Developing techniques to robustly select AGN in low-metallicity galaxies using emission line ratios is a central focus of this work, matching the main paper's goals."
+
+Result 9 models emission line properties of star-forming galaxies, including the low-metallicity regime, providing useful context relevant to the main paper. Score: 2
+"While concentrated on star-forming galaxies, the exploration of low-metallicity systems makes this result relevant for interpreting the main paper's targets."
+
+Result 10 presents X-ray and UV observations further characterizing the AGN nature of dwarf galaxy candidates, complementing the main paper's optical analysis. Score: 3
+"Following up optically-selected dwarf AGN candidates with X-ray data to confirm their nature is highly relevant and an excellent complement to the main paper."
+
+Result 11 demonstrates a 3D emission line diagnostic diagram to separate AGN and shock contributions, potentially useful for the methodology of the main paper. Score: 2
+"Improving emission line diagnostics by separating AGN from shocks could be relevant for the selection techniques described in the main paper, though not a central focus."
+
+Result 12 analyzes emission line properties for a sample of low-mass AGN, providing relevant context, though not explicitly in the low-metallicity regime. Score: 2
+"Characterizing emission lines in low-mass AGN is relevant for interpreting the main paper's targets, though the low-metallicity aspect is not explicitly mentioned."  
+
+Result 13 uses simulations to study the observability and merger prospects for massive black holes in dwarf galaxies, providing relevant context. Score: 2
+"While focused on simulating massive black holes in dwarfs, rather than observational AGN selection, this work provides useful complementary context."
+
+The second set is stacked with highly relevant results at the top that directly match the main paper's focus on AGN candidates in low-metallicity dwarf galaxies from both observational and theoretical perspectives. The results are very well ordered by relevance, with only a few moderately relevant ones interspersed.  
+
+Overall content score for the second set: 3
+This set contains a wealth of highly relevant results that closely align with identifying and characterizing AGN in dwarf, low-metallicity galaxies using techniques like emission line diagnostics.
+
+Ranking quality for the second set: 3
+The ordering is excellent, with the most relevant results prioritized at the top and less relevant ones towards the bottom.
+
+Comparing the two sets:
+The second set of results is clearly superior in addressing the specific research focus of the main paper on AGN in low-metallicity dwarf galaxies. It contains more numerous and higher quality relevant results that match well with the paper's methodology and objectives. The first set has some related material scattered throughout on emission line diagnostics, AGN host galaxies, etc. but rarely hits the key intersection of topics that the second set successfully targets.
+
+The ordering of the second set is also much better, with the truly relevant results prioritized towards the top. While the first set has decent ranking in the top half, the most relevant papers are not as highly prioritized.
+
+In summary, the second set better matches the main paper's research thrust, contains more high-quality relevant results, and has superior ranking by relevance compared to the first set.
+
+{
+    "first_set": {
+        "individual_scores": {
+            "1": {"score": 1, "explanation": "The paper discusses modeling stellar populations, which could be tangentially relevant for interpreting galaxy spectra, but it does not directly address the main paper's methodology or research questions."},
+            "2": {"score": 2, "explanation": "This paper examines using emission line ratios to classify different types of galaxies, which aligns with the main paper's methodology. However, it does not specifically target low-metallicity dwarf galaxies."},
+            "3": {"score": 2, "explanation": "While studying AGN host galaxy properties is relevant, this paper does not concentrate on the dwarf galaxy regime that the main paper is interested in."},
+            "4": {"score": 3, "explanation": "This paper directly investigates the relationship between stellar mass and gas-phase metallicity in galaxies, including in the low-mass dwarf regime, making it very relevant to the main paper."},
+            "5": {"score": 1, "explanation": "This work aims to constrain black hole masses and occupation fractions, but it does not specifically consider the low-mass or dwarf galaxy population of interest in the main paper."},
+            "6": {"score": 2, "explanation": "While separating AGN and star formation contributions is relevant to the main paper's methodology, this work does not concentrate on the low-metallicity dwarf galaxy regime."},
+            "7": {"score": 2, "explanation": "This paper proposes an empirical classification for different galaxy types hosting AGN, which connects to the main paper's goals. However, it likely does not emphasize the low-mass dwarf population."},
+            "8": {"score": 1, "explanation": "While studying intermediate-mass black holes is related, this paper does not appear to concentrate on the key topics of AGN, low-metallicity, and dwarf galaxies presented in the main paper."},
+            "9": {"score": 1, "explanation": "This paper describes improvements to a spectral modeling code, which provides supporting context, but does not directly address the main paper's research questions."},
+            "10": {"score": 2, "explanation": "Developing classification techniques using emission lines is relevant to the main paper's approach, though this specific work may not highlight the low-metallicity dwarf regime."}
+        },
+        "overall_score": 2,
+        "ranking_quality": 2
+    },
+    "second_set": {
+        "individual_scores": {
+            "1": {"score": 3, "explanation": "This paper describes a large sample of AGN discovered in dwarf galaxies using integral-field spectroscopy and BPT diagrams, making it extremely relevant to the main paper's focus."},
+            "2": {"score": 3, "explanation": "By systematically hunting for AGN signatures in dwarf galaxies using DESI spectra, this work matches the methodology and objectives laid out in the main paper."},
+            "3": {"score": 3, "explanation": "Investigating AGN that are potentially missed by standard BPT cuts is very relevant to the main paper's goal of developing improved selection criteria for dwarf AGN candidates."},
+            "4": {"score": 2, "explanation": "While focused on low-mass galaxies, this work does not explicitly specify a low-metallicity criteria, reducing its relevance somewhat compared to the main paper."},
+            "5": {"score": 3, "explanation": "Discovering AGN signatures in a population of low-mass isolated galaxies aligns well with studying AGN in dwarf systems as described in the main paper."},
+            "6": {"score": 3, "explanation": "Identifying and characterizing a sample of AGN candidates in dwarf galaxies matches the core objective of the main paper very well."},
+            "7": {"score": 2, "explanation": "While focused on low-mass AGN, this work does not explicitly require a low-metallicity criteria, reducing relevance slightly compared to the main paper's interests."},
+            "8": {"score": 3, "explanation": "Developing techniques to robustly select AGN in low-metallicity galaxies using emission line ratios is a central focus of this work, matching the main paper's goals."},
+            "9": {"score": 2, "explanation": "While concentrated on star-forming galaxies, the exploration of low-metallicity systems makes this result relevant for interpreting the main paper's targets."},
+            "10": {"score": 3, "explanation": "Following up optically-selected dwarf AGN candidates with X-ray data to confirm their nature is highly relevant and an excellent complement to the main paper."},
+            "11": {"score": 2, "explanation": "Improving emission line diagnostics by separating AGN from shocks could be relevant for the selection techniques described in the main paper, though not a central focus."},
+            "12": {"score": 2, "explanation": "Characterizing emission lines in low-mass AGN is relevant for interpreting the main paper's targets, though the low-metallicity aspect is not explicitly mentioned."},
+            "13": {"score": 2, "explanation": "While focused on simulating massive black holes in dwarfs, rather than observational AGN selection, this work provides useful complementary context."}
+        },
+        "overall_score": 3,
+        "ranking_quality": 3
+    },
+    "comparison": {
+        "better_set": "B",
+        "relative_score": 3,
+        "justification": "The second set of results is clearly superior in addressing the specific research focus of the main paper on AGN in low-metallicity dwarf galaxies. It contains more numerous and higher quality relevant results that match well with the paper's methodology and objectives. The first set has some related material scattered throughout on emission line diagnostics, AGN host galaxies, etc. but rarely hits the key intersection of topics that the second set successfully targets. The ordering of the second set is also much better, with the truly relevant results prioritized towards the top. While the first set has decent ranking in the top half, the most relevant papers are not as highly prioritized. In summary, the second set better matches the main paper's research thrust, contains more high-quality relevant results, and has superior ranking by relevance compared to the first set."
+    }
+}

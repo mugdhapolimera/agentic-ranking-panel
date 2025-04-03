@@ -1,0 +1,99 @@
+{
+  "first_set": {
+    "individual_scores": {
+      "1": {
+        "score": 3,
+        "explanation": "All evaluators scored the first result highly, indicating it was relevant and useful."
+      },
+      "2": {
+        "score": 3,
+        "explanation": "Two evaluators scored this result a 3, and one scored it a 2, suggesting it was generally relevant."
+      },
+      "3": {
+        "score": 2,
+        "explanation": "Scores varied from 1 to 2, indicating moderate relevance."
+      },
+      "4": {
+        "score": 2,
+        "explanation": "Two evaluators scored this a 2, and one scored it a 3, suggesting moderate relevance."
+      },
+      "5": {
+        "score": 2,
+        "explanation": "Scores ranged from 1 to 3, indicating moderate overall relevance."
+      },
+      "6": {
+        "score": 3,
+        "explanation": "All evaluators scored this result highly, suggesting it was very relevant."
+      },
+      "7": {
+        "score": 2,
+        "explanation": "Scores varied from 1 to 2, indicating moderate relevance."
+      },
+      "8": {
+        "score": 2,
+        "explanation": "Two evaluators scored this a 1 or 2, while one scored it a 3, suggesting moderate relevance."
+      },
+      "9": {
+        "score": 1,
+        "explanation": "Two evaluators scored this a 0 or 1, while one scored it a 3, indicating low overall relevance."
+      },
+      "10": {
+        "score": 2,
+        "explanation": "Scores ranged from 1 to 3, suggesting moderate relevance."
+      }
+    },
+    "overall_score": 2,
+    "ranking_quality": 2
+  },
+  "second_set": {
+    "individual_scores": {
+      "1": {
+        "score": 0,
+        "explanation": "All evaluators scored this result a 0, indicating it was not relevant."
+      },
+      "2": {
+        "score": 2,
+        "explanation": "Two evaluators scored this a 2, while one scored it a 1, suggesting moderate relevance."
+      },
+      "3": {
+        "score": 2,
+        "explanation": "Two evaluators scored this a 2, while one scored it a 1, suggesting moderate relevance."
+      },
+      "4": {
+        "score": 1,
+        "explanation": "Two evaluators scored this a 1, while one scored it a 2, indicating low relevance."
+      },
+      "5": {
+        "score": 0,
+        "explanation": "Two evaluators scored this a 0, while one scored it a 1, suggesting it was not relevant."
+      },
+      "6": {
+        "score": 2,
+        "explanation": "Two evaluators scored this a 3, while one scored it a 0, indicating moderate relevance."
+      },
+      "7": {
+        "score": 2,
+        "explanation": "All evaluators scored this a 2, suggesting moderate relevance."
+      },
+      "8": {
+        "score": 2,
+        "explanation": "Two evaluators scored this a 2, while one scored it a 1, suggesting moderate relevance."
+      },
+      "9": {
+        "score": 0,
+        "explanation": "Two evaluators scored this a 0, while one scored it a 1, suggesting it was not relevant."
+      },
+      "10": {
+        "score": 2,
+        "explanation": "Two evaluators scored this a 2, while one scored it a 3, suggesting moderate relevance."
+      }
+    },
+    "overall_score": 1,
+    "ranking_quality": 1
+  },
+  "comparison": {
+    "better_set": "A",
+    "relative_score": 2,
+    "justification": "All evaluators agreed that the first set of search results was better overall, with higher individual scores and ranking quality. While there were some disagreements on specific result scores, the consensus was that the first set was more relevant and better ranked than the second set."
+  }
+}

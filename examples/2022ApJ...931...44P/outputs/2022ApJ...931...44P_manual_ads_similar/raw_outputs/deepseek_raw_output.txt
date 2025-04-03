@@ -1,0 +1,44 @@
+
+
+{
+    "first_set": {
+        "individual_scores": {
+            "1": {"score": 3, "explanation": "Directly aligns with the main paper's methodology, using spatially-resolved [S II]/[O I] diagnostics to identify dwarf AGN and SF-AGN. Reports a high AGN fraction (20%), supporting the main paper's conclusions."},
+            "2": {"score": 2, "explanation": "Relevant due to focus on dwarf AGN via BPT and fiber-size limitations, but less emphasis on metallicity effects or optimized diagnostics."},
+            "3": {"score": 2, "explanation": "Addresses BPT misclassification (key to the main paper's problem) but focuses on X-ray AGN rather than metallicity-driven diagnostics."},
+            "4": {"score": 2, "explanation": "Overlaps in methodology (BPT, He II diagnostics) but reports lower AGN fractions, contrasting with the main paper's findings."},
+            "5": {"score": 1, "explanation": "Discovers AGN-like line ratios in quiescent dwarfs but does not address metallicity or SF-AGN classification."},
+            "6": {"score": 3, "explanation": "Directly relevant: identifies dwarf AGN via BPT and discusses BH masses in low-mass galaxies, mirroring the main paper's focus."},
+            "7": {"score": 1, "explanation": "Focuses on BH demographics rather than emission-line diagnostics or metallicity effects."},
+            "8": {"score": 3, "explanation": "Perfect match: analyzes low-metallicity AGN diagnostics and validates the main paper's approach using [N II] as a metallicity indicator."},
+            "9": {"score": 3, "explanation": "Highly relevant: provides theoretical emission-line grids for low-metallicity galaxies, directly supporting the main paper's modeling."},
+            "10": {"score": 1, "explanation": "Confirms AGN via X-ray but lacks focus on optical diagnostics or metallicity."},
+            "11": {"score": 2, "explanation": "Methodology for separating emission sources is relevant but applied to a single galaxy, not dwarf AGN."},
+            "12": {"score": 2, "explanation": "Examines NLR properties in low-mass AGN, including metallicity trends, but less focused on diagnostic optimization."},
+            "13": {"score": 0, "explanation": "Focuses on simulations and gravitational waves, unrelated to emission-line diagnostics."}
+        },
+        "overall_score": 2,
+        "ranking_quality": 2
+    },
+    "second_set": {
+        "individual_scores": {
+            "1": {"score": 0, "explanation": "Focuses on stellar population synthesis, unrelated to AGN or emission-line diagnostics."},
+            "2": {"score": 3, "explanation": "Highly relevant: establishes emission-line classification parameters for excitation mechanisms, foundational to the main paper's diagnostics."},
+            "3": {"score": 2, "explanation": "Links AGN properties to host galaxy stellar populations (including metallicity) but does not address dwarf galaxies."},
+            "4": {"score": 2, "explanation": "Relevant for metallicity-stellar mass relation but not AGN diagnostics."},
+            "5": {"score": 0, "explanation": "Focuses on BH demographics, unrelated to emission-line diagnostics."},
+            "6": {"score": 3, "explanation": "Strong relevance: models starburst galaxies and optical diagnostics, critical for understanding AGN/star-forming separation."},
+            "7": {"score": 2, "explanation": "Discusses Seyfert/LINER classification and AGN host properties but lacks focus on dwarfs or metallicity."},
+            "8": {"score": 1, "explanation": "Mentions intermediate-mass BHs but does not address emission-line diagnostics."},
+            "9": {"score": 1, "explanation": "Describes spectral synthesis code (Cloudy) useful for modeling but not directly applied to dwarf AGN."},
+            "10": {"score": 3, "explanation": "Highly relevant: proposes emission-line classification methods aligned with the main paper's diagnostic goals."}
+        },
+        "overall_score": 1,
+        "ranking_quality": 1
+    },
+    "comparison": {
+        "better_set": "A",
+        "relative_score": 3,
+        "justification": "The first set is significantly better. It contains multiple papers (Results 1, 6, 8, 9) that directly address the main paper's focus on low-metallicity dwarf AGN identification using optimized emission-line diagnostics ([S II]/[O I] vs BPT). These results validate the main paper's methodology, discuss SF-AGN, and explore metallicity effects. The second set includes foundational work on emission-line classification (Results 2, 6, 10) but lacks the same depth on dwarf AGN, metallicity, or diagnostic optimization. The first set's ordering prioritizes highly relevant studies, while the second set's top results are less focused on the specific research questions."
+    }
+}

@@ -1,0 +1,111 @@
+{
+  "first_set": {
+    "individual_scores": {
+      "1": {
+        "score": 1,
+        "explanation": "Most evaluators gave low scores for this result, suggesting it is not highly relevant or useful."
+      },
+      "2": {
+        "score": 2,
+        "explanation": "Evaluators generally agreed this result has some relevance and usefulness, but is not outstanding."
+      },
+      "3": {
+        "score": 2,
+        "explanation": "Similar to result 2, evaluators found this result moderately relevant and useful."
+      },
+      "4": {
+        "score": 2,
+        "explanation": "While one evaluator gave a high score, the others found this result only moderately relevant."
+      },
+      "5": {
+        "score": 1,
+        "explanation": "Most evaluators gave low scores for this result, suggesting it is not highly relevant or useful."
+      },
+      "6": {
+        "score": 2,
+        "explanation": "Evaluators generally agreed this result has some relevance and usefulness, but is not outstanding."
+      },
+      "7": {
+        "score": 2,
+        "explanation": "Similar to result 6, evaluators found this result moderately relevant and useful."
+      },
+      "8": {
+        "score": 2,
+        "explanation": "While one evaluator gave a high score, the others found this result only moderately relevant."
+      },
+      "9": {
+        "score": 1,
+        "explanation": "Most evaluators gave low scores for this result, suggesting it is not highly relevant or useful."
+      },
+      "10": {
+        "score": 2,
+        "explanation": "Evaluators generally agreed this result has some relevance and usefulness, but is not outstanding."
+      }
+    },
+    "overall_score": 2,
+    "ranking_quality": 2
+  },
+  "second_set": {
+    "individual_scores": {
+      "1": {
+        "score": 3,
+        "explanation": "All evaluators agreed this result was highly relevant and useful."
+      },
+      "2": {
+        "score": 3,
+        "explanation": "Evaluators consistently gave high scores, indicating this result was very relevant and useful."
+      },
+      "3": {
+        "score": 3,
+        "explanation": "Similar to results 1 and 2, this result was seen as highly relevant and useful by all evaluators."
+      },
+      "4": {
+        "score": 3,
+        "explanation": "While one evaluator gave a slightly lower score, most agreed this result was highly relevant."
+      },
+      "5": {
+        "score": 3,
+        "explanation": "All evaluators agreed this result was highly relevant and useful."
+      },
+      "6": {
+        "score": 3,
+        "explanation": "Evaluators consistently gave high scores, indicating this result was very relevant and useful."
+      },
+      "7": {
+        "score": 3,
+        "explanation": "Similar to results 5 and 6, this result was seen as highly relevant and useful by all evaluators."
+      },
+      "8": {
+        "score": 3,
+        "explanation": "Evaluators consistently gave high scores, indicating this result was very relevant and useful."
+      },
+      "9": {
+        "score": 2,
+        "explanation": "While most evaluators found this result relevant, one gave a lower score, resulting in a moderate overall score."
+      },
+      "10": {
+        "score": 3,
+        "explanation": "All evaluators agreed this result was highly relevant and useful."
+      },
+      "11": {
+        "score": 2,
+        "explanation": "While most evaluators found this result relevant, one gave a lower score, resulting in a moderate overall score."
+      },
+      "12": {
+        "score": 3,
+        "explanation": "Evaluators consistently gave high scores, indicating this result was very relevant and useful."
+      },
+      "13": {
+        "score": 2,
+        "explanation": "While most evaluators found this result relevant, one gave a lower score, resulting in a moderate overall score."
+      }
+    },
+    "overall_score": 3,
+    "ranking_quality": 3
+  },
+  "comparison": {
+    "better_set": "B",
+    "relative_score": 3,
+    "justification": "All three evaluators agreed that the second set of search results was better overall, with higher individual scores for most results, a higher overall score, and better ranking quality. While there were some disagreements on a few individual results, the consensus is clear that the second set was superior."
+  }
+}

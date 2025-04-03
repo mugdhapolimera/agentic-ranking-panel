@@ -1,0 +1,129 @@
+STEP 1: INDEPENDENT ANALYSIS
+
+First Set:
+
+1. Score: 3
+Explanation: This result is highly relevant and matches the methodology of the main paper in identifying and characterizing low-metallicity dwarf galaxies hosting AGNs using emission line diagnostics.
+
+2. Score: 3
+Explanation: This result is also highly relevant, expanding the census of dwarf AGN candidates using survey data, which aligns with the goals of the main paper.
+
+3. Score: 1
+Explanation: While this paper discusses AGN in the star-forming region of emission line diagnostics, it focuses more on higher mass galaxies rather than low-metallicity dwarfs.
+
+4. Score: 2
+Explanation: This paper is relevant in searching for AGN in low-mass galaxies using optical and mid-IR data, though the specific focus on dwarf galaxies is not as strong as the main paper.
+
+5. Score: 2
+Explanation: This result explores AGN-like emission in isolated, low-mass quiescent galaxies, which has some relevance to the main topic but differs in methodology.
+
+6. Score: 3
+Explanation: This paper directly identifies a sample of dwarf galaxies hosting accreting massive black holes, making it highly relevant to the main paper's focus.
+
+7. Score: 2
+Explanation: While this paper presents a sample of low-mass black holes in active galaxies, the focus is not specifically on dwarf galaxies or low-metallicity environments.
+
+8. Score: 1
+Explanation: This paper discusses intermediate-mass black holes but is more of a review than a focused study on dwarf galaxy AGN.
+
+9. Score: 0
+Explanation: This paper describes updates to the Cloudy spectral synthesis code, which is not directly relevant to the main paper's topic.
+
+10. Score: 1
+Explanation: This paper proposes a classification scheme for emission-line galaxies, which has some relevance but is not focused on dwarf galaxies or AGN specifically.
+
+Overall Score: 2
+This set contains several highly relevant results that match the main paper's methodology and research questions, especially those focusing on identifying AGN in dwarf galaxies using emission line diagnostics. However, there are also some tangential or less relevant results included.
+
+Ranking Quality: 2
+The most relevant results are generally ranked higher, but the ordering is not perfect, with some less relevant papers scattered throughout.
+
+Second Set:
+
+1. Score: 0
+Explanation: This paper discusses stellar population synthesis models, which is not directly relevant to the main paper's focus on dwarf galaxy AGN.
+
+2. Score: 1
+Explanation: While this paper discusses emission line diagnostics for classifying galaxies, it is a general study and does not focus specifically on dwarf galaxies or AGN.
+
+3. Score: 1
+Explanation: This paper analyzes the host galaxies of AGN, but the focus is on higher mass systems rather than the low-mass dwarf galaxies of interest in the main paper.
+
+4. Score: 1
+Explanation: This paper examines the mass-metallicity relation in star-forming galaxies, which has some relevance to the low-metallicity dwarf galaxy focus of the main paper but is not a direct match.
+
+5. Score: 0
+Explanation: This paper discusses the demographics of massive dark objects in galaxy centers, which is not directly relevant to the specific topic of dwarf galaxy AGN.
+
+6. Score: 0 
+Explanation: This paper models starburst galaxies, which is not directly relevant to the main paper's focus on AGN in dwarf galaxies.
+
+7. Score: 2
+Explanation: This paper analyzes the host properties of AGN and proposes a classification scheme, which has some relevance to the main paper's methodology, although the focus is not specifically on dwarf galaxies.
+
+8. Score: 2
+Explanation: This paper discusses intermediate-mass black holes, which has some relevance to the dwarf galaxy AGN topic, although it is more of a review than a focused study.
+
+9. Score: 0
+Explanation: This paper describes updates to the Cloudy spectral synthesis code, which is not directly relevant to the main paper's topic.
+
+10. Score: 2
+Explanation: This paper proposes a spectral classification scheme for emission-line galaxies, which has some relevance to the methodology used in the main paper.
+
+Overall Score: 1
+While there are a few results that have some relevance to the topic of dwarf galaxy AGN or emission line diagnostics, this set largely contains papers that are tangential or not focused on the specific research questions addressed in the main paper.
+
+Ranking Quality: 1
+The most relevant results are scattered throughout the set, with no clear ordering by relevance to the main paper's topic.
+
+STEP 2: COMPARISON
+
+The first set of results is more relevant and better addresses the main paper's research focus on identifying and characterizing AGN in low-metallicity dwarf galaxies using emission line diagnostics. Several papers in the first set directly match the main paper's methodology and goals, presenting samples of dwarf galaxies hosting AGN identified through emission line ratios.
+
+In contrast, the second set contains mostly tangential or less relevant results, with only a few papers that have some connection to the topic of dwarf galaxy AGN or emission line diagnostics in general.
+
+The ordering of results by relevance is also better in the first set, with the most relevant papers generally appearing higher in the list, although not perfectly ordered. The second set has a poor ordering, with relevant results scattered throughout.
+
+Overall, the first set is moderately better than the second set in addressing the specific research questions and methodology outlined in the main paper.
+
+STEP 3: FINAL EVALUATION
+
+{
+    "first_set": {
+        "individual_scores": {
+            "1": {"score": 3, "explanation": "Highly relevant and matches the methodology of the main paper."},
+            "2": {"score": 3, "explanation": "Highly relevant, expanding the census of dwarf AGN candidates."},
+            "3": {"score": 1, "explanation": "Discusses AGN in star-forming regions but not focused on dwarf galaxies."},
+            "4": {"score": 2, "explanation": "Relevant in searching for AGN in low-mass galaxies but not specifically focused on dwarfs."},
+            "5": {"score": 2, "explanation": "Explores AGN-like emission in isolated, low-mass quiescent galaxies."},
+            "6": {"score": 3, "explanation": "Directly identifies a sample of dwarf galaxies hosting accreting massive black holes."},
+            "7": {"score": 2, "explanation": "Presents a sample of low-mass black holes in active galaxies but not focused on dwarfs."},
+            "8": {"score": 1, "explanation": "Discusses intermediate-mass black holes but is a review rather than a focused study."},
+            "9": {"score": 0, "explanation": "Describes updates to the Cloudy spectral synthesis code, not directly relevant."},
+            "10": {"score": 1, "explanation": "Proposes a classification scheme for emission-line galaxies but not focused on dwarfs or AGN."}
+        },
+        "overall_score": 2,
+        "ranking_quality": 2
+    },
+    "second_set": {
+        "individual_scores": {
+            "1": {"score": 0, "explanation": "Discusses stellar population synthesis models, not directly relevant."},
+            "2": {"score": 1, "explanation": "Discusses emission line diagnostics but not focused on dwarf galaxies or AGN."},
+            "3": {"score": 1, "explanation": "Analyzes the host galaxies of AGN but not focused on low-mass systems."},
+            "4": {"score": 1, "explanation": "Examines the mass-metallicity relation in star-forming galaxies, some relevance but not a direct match."},
+            "5": {"score": 0, "explanation": "Discusses massive dark objects in galaxy centers, not directly relevant."},
+            "6": {"score": 0, "explanation": "Models starburst galaxies, not directly relevant."},
+            "7": {"score": 2, "explanation": "Analyzes the host properties of AGN and proposes a classification scheme, some relevance."},
+            "8": {"score": 2, "explanation": "Discusses intermediate-mass black holes, some relevance but a review rather than a focused study."},
+            "9": {"score": 0, "explanation": "Describes updates to the Cloudy spectral synthesis code, not directly relevant."},
+            "10": {"score": 2, "explanation": "Proposes a spectral classification scheme for emission-line galaxies, some relevance."}
+        },
+        "overall_score": 1,
+        "ranking_quality": 1
+    },
+    "comparison": {
+        "better_set": "A",
+        "relative_score": 2,
+        "justification": "The first set of results is moderately better than the second set in addressing the main paper's research focus on identifying and characterizing AGN in low-metallicity dwarf galaxies using emission line diagnostics. Several papers in the first set directly match the main paper's methodology and goals, while the second set contains mostly tangential or less relevant results. The ordering of results by relevance is also better in the first set, with the most relevant papers generally appearing higher in the list."
+    }
+}

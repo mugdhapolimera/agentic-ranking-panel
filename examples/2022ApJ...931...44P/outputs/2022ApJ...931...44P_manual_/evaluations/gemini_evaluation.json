@@ -1,0 +1,41 @@
+{
+  "first_set": {
+    "individual_scores": [
+      3,
+      3,
+      2,
+      2,
+      2,
+      3,
+      2,
+      3,
+      2,
+      3,
+      1,
+      2,
+      2
+    ],
+    "overall_score": 3,
+    "ranking_quality": 2
+  },
+  "second_set": {
+    "individual_scores": [
+      0,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "overall_score": 1,
+    "ranking_quality": 0
+  },
+  "comparison": {
+    "better_set": "A",
+    "relative_score": 3
+  }
+}
