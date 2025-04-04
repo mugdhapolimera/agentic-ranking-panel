@@ -1,0 +1,41 @@
+```json
+{
+    "first_set": {
+        "individual_scores": {
+            "1": {"score": 2, "explanation": "This paper discusses modeling stellar populations and their spectra, which is relevant to studying galaxy emission lines but not a direct match for the main paper's focus on finding dwarf AGN."},
+            "2": {"score": 2, "explanation": "This paper proposes a classification scheme for emission-line objects, which is relevant to the main paper's aim of classifying dwarf galaxies. However, it does not specifically address low-metallicity or dwarf galaxies."},
+            "3": {"score": 2, "explanation": "This paper studies the host galaxies of AGN, including their stellar populations and emission line properties. While relevant to the main topic, it does not specifically focus on low-metallicity dwarfs."},
+            "4": {"score": 2, "explanation": "This paper investigates the mass-metallicity relation in star-forming galaxies, which is relevant background for studying low-metallicity dwarf AGN. However, it does not directly address AGN."},
+            "5": {"score": 1, "explanation": "This paper constructs dynamical models for galaxies to measure central massive dark objects, which is tangentially relevant to the main paper's focus on AGN but not a direct match."},
+            "6": {"score": 1, "explanation": "This paper models the spectral energy distributions of starburst galaxies, which is relevant to understanding galaxy emission lines but not a direct match for the main paper's focus on low-metallicity dwarf AGN."},
+            "7": {"score": 2, "explanation": "This paper analyzes the host properties of AGN and proposes a classification scheme, which is relevant to the main paper's aims. However, it does not specifically address low-metallicity or dwarf galaxies."},
+            "8": {"score": 1, "explanation": "This paper reviews searches for intermediate-mass black holes, which is tangentially relevant to the main paper's focus on AGN in dwarf galaxies but not a direct match."},
+            "9": {"score": 1, "explanation": "This paper describes improvements to the spectral synthesis code Cloudy, which is useful for modeling galaxy emission lines but not a direct match for the main paper's specific topic."},
+            "10": {"score": 2, "explanation": "This paper discusses a classification scheme for emission-line galaxies, separating AGN from star-forming galaxies. While relevant to the main topic, it does not specifically address low-metallicity or dwarf galaxies."}
+        },
+        "overall_score": 2,
+        "ranking_quality": 2
+    },
+    "second_set": {
+        "individual_scores": {
+            "1": {"score": 3, "explanation": "This paper directly matches the main paper's topic and methodology, proposing a new emission line classification scheme to find low-metallicity dwarf AGN candidates in the RESOLVE survey."},
+            "2": {"score": 3, "explanation": "This paper compares different methods for finding dwarf AGN in the RESOLVE and ECO surveys, directly addressing the main paper's research questions."},
+            "3": {"score": 3, "explanation": "This paper presents a multiwavelength census of dwarf AGN in RESOLVE and ECO, using the classification scheme proposed in the main paper as well as other methods, highly relevant to the main topic."},
+            "4": {"score": 3, "explanation": "This paper investigates AGN in dwarf and giant galaxies, using the multi-diagnostic classification proposed in the main paper to uncover a hidden population of dwarf AGN candidates."},
+            "5": {"score": 2, "explanation": "This paper applies Bayesian inference to model the AGN/star formation mixing fraction in RESOLVE and ECO galaxies, relevant to better classifying dwarf AGN but not a direct match for the main paper's methodology."},
+            "6": {"score": 2, "explanation": "This paper presents initial efforts to detect low-metallicity AGN in RESOLVE using emission line profile fitting, which is relevant to the main paper's aims but follows a different methodology."},
+            "7": {"score": 2, "explanation": "This paper examines emission-line diagnostics for identifying low-metallicity AGN, relevant to the main paper's topic but not using the same multi-diagnostic approach."},
+            "8": {"score": 1, "explanation": "This paper describes a method for identifying AGN based on emission line excess, relevant to AGN classification but not specifically focused on low-metallicity dwarfs."},
+            "9": {"score": 2, "explanation": "This paper explores the environments of dwarf galaxies with optical AGN signatures, relevant to understanding the properties of dwarf AGN hosts though not a direct match for the main paper's methodology."},
+            "10": {"score": 2, "explanation": "This paper reports the first detection of low-metallicity AGN in dwarf galaxies, highly relevant to the main paper's topic though following a different approach."}
+        },
+        "overall_score": 3,
+        "ranking_quality": 3
+    },
+    "comparison": {
+        "better_set": "B",
+        "relative_score": 3,
+        "justification": "The second set of results is much more relevant and focused on the main paper's specific research topic of finding and classifying low-metallicity dwarf AGN candidates using optimized emission-line diagnostics. Many of the papers directly address the methodology proposed in the main paper, apply it to the RESOLVE and ECO surveys, or present complementary approaches to the same goal. In contrast, the first set contains mostly tangentially relevant papers on topics like stellar population modeling, AGN host properties, and general emission-line classification schemes. While some of those papers provide useful background, very few directly match the main paper's novel focus on low-metallicity dwarf AGN. Additionally, the second set is exceptionally well-ordered, with the most relevant papers appearing first, while the first set has relevant papers scattered throughout. Overall, the second set is a much better match for addressing the main paper's research questions and presenting its core methodology."
+    }
+}
+```

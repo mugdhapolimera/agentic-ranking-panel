@@ -1,0 +1,43 @@
+
+
+```json
+{
+    "first_set": {
+        "individual_scores": {
+            "1": {"score": 0, "explanation": "Focuses on stellar population synthesis unrelated to AGN diagnostics or low-metallicity dwarfs."},
+            "2": {"score": 2, "explanation": "Relevant to emission-line classification but lacks specificity to low-metallicity dwarfs."},
+            "3": {"score": 1, "explanation": "Discusses AGN host properties but focuses on massive galaxies, not dwarfs."},
+            "4": {"score": 2, "explanation": "Addresses mass-metallicity relation, relevant to metallicity-dependent AGN diagnostics."},
+            "5": {"score": 1, "explanation": "Focuses on massive galaxies and MDOs, tangential to dwarf AGN."},
+            "6": {"score": 3, "explanation": "Directly relevant to photoionization models and AGN diagnostics."},
+            "7": {"score": 3, "explanation": "Strong overlap in AGN classification and host properties analysis."},
+            "8": {"score": 3, "explanation": "Focuses on IMBHs, critical to the main paper’s dwarf AGN context."},
+            "9": {"score": 0, "explanation": "Describes code updates, not application to AGN diagnostics."},
+            "10": {"score": 2, "explanation": "Relevant to classification methods but not specific to low-metallicity dwarfs."}
+        },
+        "overall_score": 2,
+        "ranking_quality": 1
+    },
+    "second_set": {
+        "individual_scores": {
+            "1": {"score": 3, "explanation": "Directly addresses RESOLVE, SF-AGN, and low-metallicity AGN diagnostics."},
+            "2": {"score": 3, "explanation": "Compares AGN detection methods in RESOLVE/ECO, aligning with the main paper."},
+            "3": {"score": 3, "explanation": "Focuses on multi-diagnostic AGN identification and SF-AGN in dwarfs."},
+            "4": {"score": 3, "explanation": "Explicitly extends the main paper’s methodology to RESOLVE/ECO."},
+            "5": {"score": 3, "explanation": "Applies Bayesian methods to AGN/SF mixing in the same surveys."},
+            "6": {"score": 3, "explanation": "Targets low-metallicity AGN detection in RESOLVE, matching the main goal."},
+            "7": {"score": 3, "explanation": "Models low-metallicity AGN diagnostics, directly supporting the main paper."},
+            "8": {"score": 2, "explanation": "Relevant to AGN identification but not specific to dwarfs."},
+            "9": {"score": 1, "explanation": "Examines dwarf AGN environments, tangential to diagnostics."},
+            "10": {"score": 3, "explanation": "Reports low-metallicity AGN in dwarfs, validating the main paper’s findings."}
+        },
+        "overall_score": 3,
+        "ranking_quality": 3
+    },
+    "comparison": {
+        "better_set": "B",
+        "relative_score": 3,
+        "justification": "The second set is far superior. All results except 8 and 9 directly address the main paper’s focus on low-metallicity dwarf AGN, using RESOLVE/ECO data and multi-diagnostic methods. Results are perfectly ordered, with the most relevant (SF-AGN, multi-method comparisons) at the top. The first set includes tangential topics (stellar populations, code updates) and has weaker relevance to dwarfs. The second set’s methodology, surveys, and findings align seamlessly with the main paper, making it a much better match."
+    }
+}
+```

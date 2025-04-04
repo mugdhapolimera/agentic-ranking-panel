@@ -96,7 +96,7 @@ def create_manual_rankings():
     print("------------------------")
     print("Reading bibcodes from top10_manual.txt...")
     # Read bibcodes from file
-    with open(os.path.join(ROOT_DIR, "top10_manual.txt"), "r") as f:
+    with open(os.path.join(ROOT_DIR, "examples/2022ApJ...931...44P/inputs/top10_full_prompt_embeddings.txt"), "r") as f:
         bibcodes = [line.strip() for line in f if line.strip()]
     
     if not bibcodes:
@@ -159,7 +159,7 @@ def create_manual_rankings():
     print("\nStep 6: Saving Results")
     print("---------------------")
     # Save to JSON file in inputs directory
-    output_file = os.path.join(inputs_dir, f"{main_paper_bibcode}_manual.json")
+    output_file = os.path.join(inputs_dir, f"{main_paper_bibcode}_full_prompt.json")
     print(f"Saving results to: {output_file}")
     paper_data.to_json(output_file)
     print("Successfully saved results!")

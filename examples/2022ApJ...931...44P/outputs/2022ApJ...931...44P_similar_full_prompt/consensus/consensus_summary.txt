@@ -1,0 +1,8 @@
+Consensus Evaluation Summary
+==========================
+
+Better Set: B
+Relative Score: 3
+
+Justification:
+All three evaluators agreed that the second set of search results was better, with an overall score of 3 compared to 2 for the first set. The individual result scores were also higher for the second set, with more results scoring a 3 (highly relevant). The ranking quality was also higher for the second set, indicating that the order of the results was better optimized.
