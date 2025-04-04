@@ -238,6 +238,175 @@ The tool uses a 0-3 scoring system:
 - [LiteLLM](https://github.com/BerriAI/litellm) for LLM API integration
 - [ADS API](https://ui.adsabs.harvard.edu/) for paper metadata 
 
+## Example run
+
+=== LLM Comparator ===
+This tool compares two sets of search results using multiple LLMs
+
+Initializing evaluator...
+
+=== Available Bibcodes ===
+
+Available bibcodes:
+1. 2020AAS...23520720P
+2. 2022ApJ...931...44P
+
+Select a bibcode to analyze (enter number):
+> 2
+
+Selected bibcode: 2022ApJ...931...44P
+
+Step 1: File Selection
+----------------------
+
+=== File Selection ===
+
+Creating directory structure for bibcode: 2022ApJ...931...44P
+  - Base directory: /Users/mugdhapolimera/github/search-results-llm-evaluator/examples/2022ApJ...931...44P
+  - Inputs directory: /Users/mugdhapolimera/github/search-results-llm-evaluator/examples/2022ApJ...931...44P/inputs
+  - Outputs directory: /Users/mugdhapolimera/github/search-results-llm-evaluator/examples/2022ApJ...931...44P/outputs
+
+Available files:
+1. 2022ApJ...931...44P_manual.json
+2. 2022ApJ...931...44P_useful.json
+3. 2022ApJ...931...44P_similar.json
+4. 2022ApJ...931...44P_full_prompt.json
+
+Select two files to compare (enter numbers separated by space):
+> 3 4
+
+Which file should be Set A (first set) and which should be Set B (second set)?
+1. 2022ApJ...931...44P_similar.json as Set A, 2022ApJ...931...44P_full_prompt.json as Set B
+2. 2022ApJ...931...44P_full_prompt.json as Set A, 2022ApJ...931...44P_similar.json as Set B
+Enter 1 or 2: 1
+
+Selected files:
+Set A (first set): 2022ApJ...931...44P_similar.json
+Set B (second set): 2022ApJ...931...44P_full_prompt.json
+
+Creating comparison directory: 2022ApJ...931...44P_similar_full_prompt
+
+Creating directory structure for bibcode: 2022ApJ...931...44P
+  - Base directory: /Users/mugdhapolimera/github/search-results-llm-evaluator/examples/2022ApJ...931...44P
+  - Inputs directory: /Users/mugdhapolimera/github/search-results-llm-evaluator/examples/2022ApJ...931...44P/inputs
+  - Outputs directory: /Users/mugdhapolimera/github/search-results-llm-evaluator/examples/2022ApJ...931...44P/outputs
+  - Comparison directory: /Users/mugdhapolimera/github/search-results-llm-evaluator/examples/2022ApJ...931...44P/outputs/2022ApJ...931...44P_similar_full_prompt
+  - Raw outputs directory: /Users/mugdhapolimera/github/search-results-llm-evaluator/examples/2022ApJ...931...44P/outputs/2022ApJ...931...44P_similar_full_prompt/raw_outputs
+  - Evaluations directory: /Users/mugdhapolimera/github/search-results-llm-evaluator/examples/2022ApJ...931...44P/outputs/2022ApJ...931...44P_similar_full_prompt/evaluations
+  - Consensus directory: /Users/mugdhapolimera/github/search-results-llm-evaluator/examples/2022ApJ...931...44P/outputs/2022ApJ...931...44P_similar_full_prompt/consensus
+
+Loading selected files...
+Loaded Set A: 2022ApJ...931...44P - RESOLVE and ECO: Finding Low-metallicity z   0 Dwarf AGN Candidates Using Optimized Emission-line Diagnostics
+Loaded Set B: 2022ApJ...931...44P - RESOLVE and ECO: Finding Low-metallicity z   0 Dwarf AGN Candidates Using Optimized Emission-line Diagnostics
+
+Step 2: Creating Evaluator Agents
+--------------------------------
+Initializing Claude agent...
+Initializing Gemini agent...
+Initializing DeepSeek agent...
+
+Step 3: Running Parallel Evaluations
+-----------------------------------
+Starting parallel evaluation with all three agents...
+Submitting evaluation tasks to agents...
+
+[Claude] Generating evaluation prompt...
+
+[Gemini] Generating evaluation prompt...
+[Claude] Sending prompt to LLM...
+
+[Deepseek] Generating evaluation prompt...
+[Gemini] Sending prompt to LLM...
+Waiting for all evaluations to complete...
+[Deepseek] Sending prompt to LLM...
+[Gemini] Received response from LLM
+[Gemini] Saved raw response to /Users/mugdhapolimera/github/search-results-llm-evaluator/examples/2022ApJ...931...44P/outputs/2022ApJ...931...44P_similar_full_prompt/raw_outputs/gemini_raw_output.txt
+[Claude] Received response from LLM
+[Claude] Saved raw response to /Users/mugdhapolimera/github/search-results-llm-evaluator/examples/2022ApJ...931...44P/outputs/2022ApJ...931...44P_similar_full_prompt/raw_outputs/claude_raw_output.txt
+[Deepseek] Received response from LLM
+[Deepseek] Saved raw response to /Users/mugdhapolimera/github/search-results-llm-evaluator/examples/2022ApJ...931...44P/outputs/2022ApJ...931...44P_similar_full_prompt/raw_outputs/deepseek_raw_output.txt
+All evaluations completed successfully
+
+Step 4: Parsing Evaluation Scores
+--------------------------------
+Parsing scores from Claude's evaluation...
+[Claude] Parsing scores from raw response...
+[Claude] Successfully parsed JSON from response
+[Claude] Saved parsed evaluation to /Users/mugdhapolimera/github/search-results-llm-evaluator/examples/2022ApJ...931...44P/outputs/2022ApJ...931...44P_similar_full_prompt/evaluations/claude_evaluation.json
+Parsing scores from Gemini's evaluation...
+[Gemini] Parsing scores from raw response...
+[Gemini] Successfully parsed JSON from response
+[Gemini] Saved parsed evaluation to /Users/mugdhapolimera/github/search-results-llm-evaluator/examples/2022ApJ...931...44P/outputs/2022ApJ...931...44P_similar_full_prompt/evaluations/gemini_evaluation.json
+Parsing scores from DeepSeek's evaluation...
+[Deepseek] Parsing scores from raw response...
+[Deepseek] Successfully parsed JSON from response
+[Deepseek] Saved parsed evaluation to /Users/mugdhapolimera/github/search-results-llm-evaluator/examples/2022ApJ...931...44P/outputs/2022ApJ...931...44P_similar_full_prompt/evaluations/deepseek_evaluation.json
+
+Step 5: Generating Consensus
+---------------------------
+Creating consensus evaluator...
+Generating consensus from all evaluations...
+
+=== Starting Evaluation Process ===
+
+=== Processing Agents in Parallel ===
+
+=== Processing Claude ===
+[Claude] Sending prompt to LLM...
+
+=== Processing Gemini ===
+
+=== Processing Deepseek ===
+[Gemini] Sending prompt to LLM...
+[Deepseek] Sending prompt to LLM...
+[Gemini] Received response from LLM
+[Gemini] Saved raw response to /Users/mugdhapolimera/github/search-results-llm-evaluator/examples/2022ApJ...931...44P/outputs/2022ApJ...931...44P_similar_full_prompt/raw_outputs/gemini_raw_output.txt
+[Gemini] Parsing scores from raw response...
+[Gemini] Successfully parsed JSON from response
+[Gemini] Saved parsed evaluation to /Users/mugdhapolimera/github/search-results-llm-evaluator/examples/2022ApJ...931...44P/outputs/2022ApJ...931...44P_similar_full_prompt/evaluations/gemini_evaluation.json
+[Claude] Received response from LLM
+[Claude] Saved raw response to /Users/mugdhapolimera/github/search-results-llm-evaluator/examples/2022ApJ...931...44P/outputs/2022ApJ...931...44P_similar_full_prompt/raw_outputs/claude_raw_output.txt
+[Claude] Parsing scores from raw response...
+[Claude] Successfully parsed JSON from response
+[Claude] Saved parsed evaluation to /Users/mugdhapolimera/github/search-results-llm-evaluator/examples/2022ApJ...931...44P/outputs/2022ApJ...931...44P_similar_full_prompt/evaluations/claude_evaluation.json
+[Deepseek] Received response from LLM
+[Deepseek] Saved raw response to /Users/mugdhapolimera/github/search-results-llm-evaluator/examples/2022ApJ...931...44P/outputs/2022ApJ...931...44P_similar_full_prompt/raw_outputs/deepseek_raw_output.txt
+[Deepseek] Parsing scores from raw response...
+[Deepseek] Successfully parsed JSON from response
+[Deepseek] Saved parsed evaluation to /Users/mugdhapolimera/github/search-results-llm-evaluator/examples/2022ApJ...931...44P/outputs/2022ApJ...931...44P_similar_full_prompt/evaluations/deepseek_evaluation.json
+
+=== All agents processed in 45.72 seconds ===
+
+=== Generating Consensus ===
+[Claude] Sending consensus prompt to LLM...
+[Claude] Extracting JSON from consensus response...
+[Claude] Successfully parsed JSON from consensus response
+[Claude] Validating consensus data structure...
+[Claude] Consensus data structure validated successfully
+[Claude] Saved consensus evaluation to /Users/mugdhapolimera/github/search-results-llm-evaluator/examples/2022ApJ...931...44P/outputs/2022ApJ...931...44P_similar_full_prompt/consensus/consensus_evaluation.json
+[Claude] Saved consensus summary to /Users/mugdhapolimera/github/search-results-llm-evaluator/examples/2022ApJ...931...44P/outputs/2022ApJ...931...44P_similar_full_prompt/consensus/consensus_summary.txt
+
+=== Updating PaperData Objects with Scores ===
+Updating individual agent scores...
+Updating search result scores...
+PaperData objects updated with scores
+
+=== Saving Final Results ===
+Saved final results to /Users/mugdhapolimera/github/search-results-llm-evaluator/examples/2022ApJ...931...44P/outputs/2022ApJ...931...44P_similar_full_prompt/consensus/final_results.json
+Saved Set A data to /Users/mugdhapolimera/github/search-results-llm-evaluator/examples/2022ApJ...931...44P/outputs/2022ApJ...931...44P_similar_full_prompt/consensus/set_a_final.json
+Saved Set B data to /Users/mugdhapolimera/github/search-results-llm-evaluator/examples/2022ApJ...931...44P/outputs/2022ApJ...931...44P_similar_full_prompt/consensus/set_b_final.json
+Final results saved
+
+=== Evaluation Complete! ===
+Results have been saved in: /Users/mugdhapolimera/github/search-results-llm-evaluator/examples/2022ApJ...931...44P/outputs/2022ApJ...931...44P_similar_full_prompt/consensus
+
+You can find the following files:
+- Raw outputs: /Users/mugdhapolimera/github/search-results-llm-evaluator/examples/2022ApJ...931...44P/outputs/2022ApJ...931...44P_similar_full_prompt/raw_outputs
+- Individual evaluations: /Users/mugdhapolimera/github/search-results-llm-evaluator/examples/2022ApJ...931...44P/outputs/2022ApJ...931...44P_similar_full_prompt/evaluations
+- Consensus results: /Users/mugdhapolimera/github/search-results-llm-evaluator/examples/2022ApJ...931...44P/outputs/2022ApJ...931...44P_similar_full_prompt/consensus
+
+Thank you for using the LLM Comparator!
+
 ## File Structure
 
 The tool creates the following directory structure:
