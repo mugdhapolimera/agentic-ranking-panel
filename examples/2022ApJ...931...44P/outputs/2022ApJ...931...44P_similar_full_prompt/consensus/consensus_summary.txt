@@ -5,4 +5,4 @@ Better Set: B
 Relative Score: 3
 
 Justification:
-All three evaluators agreed that the second set of search results was better, with higher overall scores and ranking quality scores. The consensus scores also reflect a higher overall score and ranking quality for the second set, indicating it was more relevant and well-ranked than the first set.
+All evaluators agreed that the second set of search results was better than the first set. The consensus individual scores and overall scores reflect this, with the second set having higher scores across the board. While there were some disagreements among evaluators on specific result scores, the overall assessment was clear that the second set was superior.

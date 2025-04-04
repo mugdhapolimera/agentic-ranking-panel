@@ -1,32 +1,96 @@
+STEP 1: INDEPENDENT ANALYSIS
+
+First Set of Results:
+
+1. Result 1: Score 3 - This result is highly relevant and directly addresses the main paper's topic of finding low-metallicity dwarf AGN candidates using optimized emission-line diagnostics. It describes using a multi-diagnostic approach to identify a new category of "star-forming AGN" in the RESOLVE survey.
+
+2. Result 2: Score 2 - Relevant but not as focused on the main methodology. It discusses theoretical stellar population synthesis and photoionization models for predicting optical line evolution across cosmic time.
+
+3. Result 3: Score 2 - Relevant in studying emission-line ratios at high redshift, but not directly related to finding low-metallicity dwarf AGN at z~0 using optimized diagnostics.
+
+4. Result 4: Score 1 - Provides background on alternative diagnostic diagrams and the "forgotten" population of weak-line galaxies, but does not directly address the main paper's methodology.
+
+5. Result 5: Score 2 - Relevant in using MaNGA data to refine strong line diagnostics, but not specifically focused on low-metallicity dwarfs or the optimized multi-diagnostic approach.
+
+6. Result 6: Score 3 - Highly relevant, as it discusses using JWST data to investigate emission-line diagnostics for high-redshift star-forming galaxies, including some of the same diagnostic plots used in the main paper.
+
+7. Result 7: Score 2 - Relevant in studying narrow-line ratios in Type 1 AGN, but not specifically focused on low-metallicity dwarfs or the optimized multi-diagnostic approach.
+
+8. Result 8: Score 2 - Relevant in investigating excitation properties of z~2.3 star-forming galaxies using emission-line diagnostics, but not directly related to the main paper's methodology.
+
+9. Result 9: Score 1 - Provides some background on nebular excitation in high-redshift galaxies, but does not directly address the main paper's topic or methodology.
+
+10. Result 10: Score 3 - Highly relevant, as it presents a sample of dwarf galaxies exhibiting optical signatures of accreting massive black holes, which is directly related to the main paper's goals.
+
+Overall Score: 2 - While some results are highly relevant, others are only tangentially related or focus on different redshift ranges or galaxy types.
+
+Ranking Quality: 2 - The most relevant results (1, 6, 10) are near the top, but the ordering could be improved to better group the most relevant results together.
+
+Second Set of Results:
+
+1. Result 1: Score 3 - Highly relevant and directly addresses the main paper's methodology of using a multi-diagnostic approach to find low-metallicity dwarf AGN candidates in the RESOLVE survey.
+
+2. Result 2: Score 3 - Highly relevant in comparing different methods for finding dwarf AGN in the RESOLVE and ECO surveys, including the multi-diagnostic approach used in the main paper.
+
+3. Result 3: Score 3 - Highly relevant, as it summarizes the findings of the main paper in identifying a significant population of "star-forming AGN" in dwarf galaxies using the multi-diagnostic approach.
+
+4. Result 4: Score 3 - Highly relevant, as it discusses the main paper's methodology and findings in detail, including the identification of a hidden population of "star-forming AGN" in low-metallicity dwarfs.
+
+5. Result 5: Score 3 - Highly relevant, as it proposes using a Bayesian classification scheme to predict AGN/star formation mixing fractions in RESOLVE and ECO galaxies, which is closely related to the main paper's goals.
+
+6. Result 6: Score 2 - Somewhat relevant in discussing efforts to identify low-metallicity AGN in the RESOLVE survey, but does not directly address the main paper's methodology.
+
+7. Result 7: Score 2 - Relevant in discussing emission-line diagnostics for low-metallicity AGN, but does not directly address the main paper's methodology or findings.
+
+8. Result 8: Score 1 - Provides background on identifying AGN based on emission-line excess, but does not directly relate to the main paper's focus on low-metallicity dwarfs or the multi-diagnostic approach.
+
+9. Result 9: Score 1 - Explores the environments of dwarf galaxies with optical AGN characteristics, which is tangentially related to the main paper but not a direct focus.
+
+10. Result 10: Score 3 - Highly relevant, as it discusses the discovery of low-metallicity dwarf galaxies with broad emission lines, indicating the presence of accreting massive black holes, which directly relates to the main paper's goals.
+
+Overall Score: 3 - Nearly all results are highly relevant and focused on the main paper's topic and methodology.
+
+Ranking Quality: 3 - The results are extremely well-ordered, with the most relevant results (1-5) at the top, followed by moderately relevant results, and less relevant results at the bottom.
+
+STEP 2: COMPARISON
+
+The second set of results is clearly superior in addressing the main paper's research focus on finding low-metallicity dwarf AGN candidates using optimized emission-line diagnostics. Nearly all of the results in the second set are highly relevant and directly related to the main paper's topic and methodology, whereas the first set contains a mix of relevant and tangentially related results.
+
+In terms of the quality and relevance of the results, the second set is much better. It includes several results that summarize the main paper's findings and methodology (1-5), as well as other highly relevant results (6, 10) that directly address the discovery and identification of low-metallicity dwarf AGN. In contrast, the first set only has a few highly relevant results (1, 6, 10), with many others being only moderately or tangentially related.
+
+The ordering of results by relevance is also significantly better in the second set. The most relevant and important results are consistently at the top, followed by moderately relevant results, and less relevant results at the bottom. The first set's ordering is less optimal, with relevant and less relevant results mixed together.
+
+STEP 3: FINAL EVALUATION
+
 {
     "first_set": {
         "individual_scores": {
-            "1": {"score": 2, "explanation": "The result is relevant to modeling stellar populations and galaxy spectra, which relates to the main paper's methodology, but does not directly address active galactic nuclei in dwarf galaxies."},
-            "2": {"score": 3, "explanation": "This result is directly relevant to the main paper's topic, as it discusses emission-line diagnostics for classifying extragalactic objects, including active galactic nuclei."},
-            "3": {"score": 2, "explanation": "The result explores the host galaxies of active galactic nuclei, which is relevant to the main paper's research questions, but does not specifically focus on dwarf galaxies."},
-            "4": {"score": 2, "explanation": "The result examines the mass-metallicity relation in star-forming galaxies, which is tangentially relevant to the low-metallicity aspect of the main paper, but does not directly address active galactic nuclei."},
-            "5": {"score": 1, "explanation": "This result focuses on modeling the dynamics of galaxy centers, including the presence of massive dark objects, but does not directly relate to dwarf galaxies or active galactic nuclei."},
-            "6": {"score": 2, "explanation": "While this result models starburst galaxies and discusses emission-line diagnostics, it does not specifically address low-metallicity dwarf galaxies or active galactic nuclei."},
-            "7": {"score": 3, "explanation": "This result directly addresses the classification of active galactic nuclei using emission-line diagnostics, which is highly relevant to the main paper's methodology and research questions."},
-            "8": {"score": 1, "explanation": "This result discusses intermediate-mass black holes, which is tangentially relevant to the main paper's topic, but does not specifically focus on low-metallicity dwarf galaxies or active galactic nuclei."},
-            "9": {"score": 2, "explanation": "The result discusses the modeling of emission-line spectra, which is relevant to the main paper's methodology, but does not specifically address low-metallicity dwarf galaxies or active galactic nuclei."},
-            "10": {"score": 2, "explanation": "This result discusses the classification of emission-line galaxies, which is relevant to the main paper's methodology, but does not specifically focus on low-metallicity dwarf galaxies or active galactic nuclei."}
+            "1": {"score": 3, "explanation": "Highly relevant and directly addresses the main paper's topic and methodology."},
+            "2": {"score": 2, "explanation": "Relevant but not focused on the main methodology of finding low-metallicity dwarf AGN."},
+            "3": {"score": 2, "explanation": "Relevant in studying emission-line ratios at high redshift, but not directly related to the main paper's methodology."},
+            "4": {"score": 1, "explanation": "Provides background on alternative diagnostic diagrams and weak-line galaxies, but does not directly address the main paper's methodology."},
+            "5": {"score": 2, "explanation": "Relevant in using MaNGA data to refine strong line diagnostics, but not specifically focused on low-metallicity dwarfs or the multi-diagnostic approach."},
+            "6": {"score": 3, "explanation": "Highly relevant, as it discusses using JWST data to investigate emission-line diagnostics for high-redshift star-forming galaxies, including some of the same diagnostic plots used in the main paper."},
+            "7": {"score": 2, "explanation": "Relevant in studying narrow-line ratios in Type 1 AGN, but not specifically focused on low-metallicity dwarfs or the optimized multi-diagnostic approach."},
+            "8": {"score": 2, "explanation": "Relevant in investigating excitation properties of z~2.3 star-forming galaxies using emission-line diagnostics, but not directly related to the main paper's methodology."},
+            "9": {"score": 1, "explanation": "Provides some background on nebular excitation in high-redshift galaxies, but does not directly address the main paper's topic or methodology."},
+            "10": {"score": 3, "explanation": "Highly relevant, as it presents a sample of dwarf galaxies exhibiting optical signatures of accreting massive black holes, which is directly related to the main paper's goals."}
         },
         "overall_score": 2,
         "ranking_quality": 2
     },
     "second_set": {
         "individual_scores": {
-            "1": {"score": 3, "explanation": "This result directly addresses the main paper's topic of finding low-metallicity dwarf active galactic nuclei candidates using optimized emission-line diagnostics, making it a perfect match."},
-            "2": {"score": 3, "explanation": "This result compares different methods of finding low-metallicity dwarf active galactic nuclei in the same surveys as the main paper, making it highly relevant."},
-            "3": {"score": 3, "explanation": "This result provides a comprehensive census of dwarf active galactic nuclei in the same surveys as the main paper, using multiple methods, including the one proposed in the main paper, making it a perfect match."},
-            "4": {"score": 3, "explanation": "This result investigates active galactic nuclei in dwarf and giant galaxies, using the same methodology as the main paper, making it highly relevant."},
-            "5": {"score": 2, "explanation": "While this result discusses active galactic nuclei and star formation mixing fractions, it is not specifically focused on low-metallicity dwarf galaxies, making it somewhat less relevant."},
-            "6": {"score": 2, "explanation": "This result discusses efforts to detect low-metallicity active galactic nuclei in the same survey as the main paper, making it relevant, but it is only an initial result."},
-            "7": {"score": 2, "explanation": "This result examines emission-line diagnostics for low-metallicity active galactic nuclei, which is relevant to the main paper's methodology, but does not specifically focus on dwarf galaxies."},
-            "8": {"score": 1, "explanation": "While this result discusses the detection of broad emission lines in dwarf galaxies, which could indicate active galactic nuclei, it does not directly address the main paper's methodology or focus on low-metallicity galaxies."},
-            "9": {"score": 2, "explanation": "This result explores the environments of dwarf galaxies with active galactic nuclei characteristics, which is tangentially relevant to the main paper's research questions, but does not directly address the emission-line diagnostics methodology."},
-            "10": {"score": 2, "explanation": "This result reports the detection of low-metallicity active galactic nuclei in dwarf galaxies, which is highly relevant to the main paper's topic, but does not discuss the emission-line diagnostics methodology in detail."}
+            "1": {"score": 3, "explanation": "Highly relevant and directly addresses the main paper's methodology of using a multi-diagnostic approach to find low-metallicity dwarf AGN candidates in the RESOLVE survey."},
+            "2": {"score": 3, "explanation": "Highly relevant in comparing different methods for finding dwarf AGN in the RESOLVE and ECO surveys, including the multi-diagnostic approach used in the main paper."},
+            "3": {"score": 3, "explanation": "Highly relevant, as it summarizes the findings of the main paper in identifying a significant population of 'star-forming AGN' in dwarf galaxies using the multi-diagnostic approach."},
+            "4": {"score": 3, "explanation": "Highly relevant, as it discusses the main paper's methodology and findings in detail, including the identification of a hidden population of 'star-forming AGN' in low-metallicity dwarfs."},
+            "5": {"score": 3, "explanation": "Highly relevant, as it proposes using a Bayesian classification scheme to predict AGN/star formation mixing fractions in RESOLVE and ECO galaxies, which is closely related to the main paper's goals."},
+            "6": {"score": 2, "explanation": "Somewhat relevant in discussing efforts to identify low-metallicity AGN in the RESOLVE survey, but does not directly address the main paper's methodology."},
+            "7": {"score": 2, "explanation": "Relevant in discussing emission-line diagnostics for low-metallicity AGN, but does not directly address the main paper's methodology or findings."},
+            "8": {"score": 1, "explanation": "Provides background on identifying AGN based on emission-line excess, but does not directly relate to the main paper's focus on low-metallicity dwarfs or the multi-diagnostic approach."},
+            "9": {"score": 1, "explanation": "Explores the environments of dwarf galaxies with optical AGN characteristics, which is tangentially related to the main paper but not a direct focus."},
+            "10": {"score": 3, "explanation": "Highly relevant, as it discusses the discovery of low-metallicity dwarf galaxies with broad emission lines, indicating the presence of accreting massive black holes, which directly relates to the main paper's goals."}
         },
         "overall_score": 3,
         "ranking_quality": 3
@@ -34,6 +98,6 @@
     "comparison": {
         "better_set": "B",
         "relative_score": 3,
-        "justification": "The second set of results directly addresses the main paper's research focus on finding low-metallicity dwarf active galactic nuclei candidates using optimized emission-line diagnostics. Several results in this set perfectly match the main paper's topic and methodology, including the use of the same surveys (RESOLVE and ECO) and the application of the proposed multi-diagnostic classification scheme. The results are also well-ordered by relevance, with the most directly relevant results appearing first. In contrast, while the first set contains some relevant results related to emission-line diagnostics and active galactic nuclei, few results specifically address low-metallicity dwarf galaxies or the proposed methodology. The second set clearly provides more high-quality and directly relevant results to the main paper's research questions and methodology."
+        "justification": "The second set of results is much better than the first set in addressing the main paper's research focus on finding low-metallicity dwarf AGN candidates using optimized emission-line diagnostics. Nearly all of the results in the second set are highly relevant and directly related to the main paper's topic and methodology, whereas the first set contains a mix of relevant and tangentially related results. The ordering of results by relevance is also significantly better in the second set, with the most important and relevant results consistently at the top."
     }
 }

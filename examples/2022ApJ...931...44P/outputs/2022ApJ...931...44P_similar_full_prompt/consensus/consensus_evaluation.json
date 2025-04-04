@@ -2,44 +2,44 @@
   "first_set": {
     "individual_scores": {
       "1": {
-        "score": 2,
-        "explanation": "Most evaluators scored this result around 2, indicating a moderately relevant result."
+        "score": 3,
+        "explanation": "All evaluators agreed that the first result in this set was good."
       },
       "2": {
         "score": 2,
-        "explanation": "All evaluators scored this result as a 2 or 3, suggesting it is a fairly relevant result."
+        "explanation": "Two evaluators scored this result as fair, while one scored it poorly. The consensus is to give it an average score."
       },
       "3": {
-        "score": 2,
-        "explanation": "The scores ranged from 1 to 2, so a score of 2 represents a reasonable compromise."
+        "score": 1,
+        "explanation": "Two evaluators scored this result poorly, while one scored it as fair. The consensus is to give it a slightly below average score."
       },
       "4": {
         "score": 2,
-        "explanation": "All evaluators scored this result as a 2, indicating a moderately relevant result."
+        "explanation": "Evaluators were split, with two scoring this result as fair and one scoring it poorly. The consensus is to give it an average score."
       },
       "5": {
-        "score": 1,
-        "explanation": "Most evaluators scored this result as a 1 or 2, suggesting a low to moderate relevance."
+        "score": 2,
+        "explanation": "Two evaluators scored this result as fair, while one scored it poorly. The consensus is to give it an average score."
       },
       "6": {
         "score": 2,
-        "explanation": "The evaluators scored this result between 2 and 3, so a score of 2 balances their perspectives."
+        "explanation": "Evaluators disagreed, with one scoring this result as good, one as fair, and one as poor. The consensus is to give it an average score."
       },
       "7": {
-        "score": 3,
-        "explanation": "Two evaluators scored this as a 3, indicating a highly relevant result."
+        "score": 1,
+        "explanation": "Two evaluators scored this result poorly, while one scored it as fair. The consensus is to give it a slightly below average score."
       },
       "8": {
-        "score": 2,
-        "explanation": "The scores were split between 1 and 3, so a score of 2 represents a reasonable middle ground."
+        "score": 1,
+        "explanation": "Two evaluators scored this result poorly, while one scored it as fair. The consensus is to give it a slightly below average score."
       },
       "9": {
-        "score": 2,
-        "explanation": "Most evaluators scored this result as a 2, indicating a moderately relevant result."
+        "score": 0,
+        "explanation": "All evaluators agreed that this result was poor."
       },
       "10": {
         "score": 2,
-        "explanation": "The scores ranged from 2 to 3, so a score of 2 is a reasonable compromise."
+        "explanation": "Two evaluators scored this result as good, while one scored it as fair. The consensus is to give it an average score."
       }
     },
     "overall_score": 2,
@@ -49,43 +49,43 @@
     "individual_scores": {
       "1": {
         "score": 3,
-        "explanation": "All evaluators scored this result as a 3, indicating a highly relevant result."
+        "explanation": "All evaluators agreed that the first result in this set was good."
       },
       "2": {
         "score": 3,
-        "explanation": "All evaluators scored this result as a 3, indicating a highly relevant result."
+        "explanation": "All evaluators agreed that this result was good."
       },
       "3": {
         "score": 3,
-        "explanation": "All evaluators scored this result as a 3, indicating a highly relevant result."
+        "explanation": "All evaluators agreed that this result was good."
       },
       "4": {
         "score": 3,
-        "explanation": "All evaluators scored this result as a 3, indicating a highly relevant result."
+        "explanation": "All evaluators agreed that this result was good."
       },
       "5": {
         "score": 3,
-        "explanation": "Two evaluators scored this as a 3, and one as a 2, so a score of 3 is most appropriate."
+        "explanation": "Two evaluators scored this result as good, while one scored it as fair. The consensus is to give it a good score."
       },
       "6": {
-        "score": 3,
-        "explanation": "Two evaluators scored this as a 3, and one as a 2, so a score of 3 is most appropriate."
+        "score": 2,
+        "explanation": "Two evaluators scored this result as fair, while one scored it as good. The consensus is to give it an average score."
       },
       "7": {
-        "score": 3,
-        "explanation": "Two evaluators scored this as a 3, and one as a 2, so a score of 3 is most appropriate."
+        "score": 2,
+        "explanation": "Two evaluators scored this result as fair, while one scored it as good. The consensus is to give it an average score."
       },
       "8": {
         "score": 2,
-        "explanation": "Two evaluators scored this as a 2, and one as a 1, so a score of 2 is most appropriate."
+        "explanation": "Two evaluators scored this result as fair, while one scored it poorly. The consensus is to give it an average score."
       },
       "9": {
-        "score": 2,
-        "explanation": "Two evaluators scored this as a 2, and one as a 1, so a score of 2 is most appropriate."
+        "score": 1,
+        "explanation": "Two evaluators scored this result poorly, while one scored it as fair. The consensus is to give it a slightly below average score."
       },
       "10": {
         "score": 3,
-        "explanation": "Two evaluators scored this as a 3, and one as a 2, so a score of 3 is most appropriate."
+        "explanation": "Two evaluators scored this result as good, while one scored it as fair. The consensus is to give it a good score."
       }
     },
     "overall_score": 3,
@@ -94,6 +94,6 @@
   "comparison": {
     "better_set": "B",
     "relative_score": 3,
-    "justification": "All three evaluators agreed that the second set of search results was better, with higher overall scores and ranking quality scores. The consensus scores also reflect a higher overall score and ranking quality for the second set, indicating it was more relevant and well-ranked than the first set."
+    "justification": "All evaluators agreed that the second set of search results was better than the first set. The consensus individual scores and overall scores reflect this, with the second set having higher scores across the board. While there were some disagreements among evaluators on specific result scores, the overall assessment was clear that the second set was superior."
   }
 }

@@ -13,84 +13,84 @@
     "deepseek_relative_score": 3,
     "search_results": [
       {
-        "bibcode": "2003MNRAS.344.1000B",
-        "title": "Stellar population synthesis at the resolution of 2003",
-        "abstract": "We present a new model for computing the spectral evolution of stellar populations at ages between 1 \u00d7 10<SUP>5</SUP> and 2 \u00d7 10<SUP>10</SUP> yr at a resolution of 3 \u00c5 across the whole wavelength range from 3200 to 9500 \u00c5 for a wide range of metallicities. These predictions are based on a newly available library of observed stellar spectra. We also compute the spectral evolution across a larger wavelength range, from 91 \u00c5 to 160 \u03bcm, at lower resolution. The model incorporates recent progress in stellar evolution theory and an observationally motivated prescription for thermally pulsing stars on the asymptotic giant branch. The latter is supported by observations of surface brightness fluctuations in nearby stellar populations. We show that this model reproduces well the observed optical and near-infrared colour-magnitude diagrams of Galactic star clusters of various ages and metallicities. Stochastic fluctuations in the numbers of stars in different evolutionary phases can account for the full range of observed integrated colours of star clusters in the Magellanic Clouds. The model reproduces in detail typical galaxy spectra from the Early Data Release (EDR) of the Sloan Digital Sky Survey (SDSS). We exemplify how this type of spectral fit can constrain physical parameters such as the star formation history, metallicity and dust content of galaxies. Our model is the first to enable accurate studies of absorption-line strengths in galaxies containing stars over the full range of ages. Using the highest-quality spectra of the SDSS EDR, we show that this model can reproduce simultaneously the observed strengths of those Lick indices that do not depend strongly on element abundance ratios. The interpretation of such indices with our model should be particularly useful for constraining the star formation histories and metallicities of galaxies.",
+        "bibcode": "2023AAS...24131905P",
+        "title": "Surprisingly Abundant Dwarf AGN in the RESOLVE and ECO z 0 AGN Census",
+        "abstract": "We provide a multiwavelength census of dwarf Active Galactic Nuclei (AGN) in the volume- and mass-limited RESOLVE and ECO surveys using mid-IR colours, the BPT diagnostic plot with both traditional and alternative demarcations from literature, and our new multi-diagnostic approach revealing the previously overlooked \"star-forming AGN\" (SF-AGN). Emission line flux ratios of SF-AGN position them as star-forming galaxies in the BPT diagram but as AGN in at least one of two other diagnostic plots using [OI]/H\u03b1 or [SII]/H\u03b1 instead of the metallicity-sensitive [NII]/H\u03b1 used in the BPT diagram. SF-AGN are common in local dwarf galaxies, and photoionization models confirm their line ratio patterns match those of model low-metallicity, highly star-forming dwarf galaxies with active intermediate-mass black holes. Given the statistically complete nature of these surveys down to baryonic (stellar+gas) masses of ~10<SUP>9.2</SUP> M<SUB>\u2299</SUB>, they give us the opportunity to quote full-population AGN statistics previously unavailable in the dwarf regime. The addition of SF-AGN and bonus AGN from the alternative BPT plot quadruples the optical dwarf AGN percentage from ~1% to ~4% of the full galaxy population (including non-emission line galaxies). Mid-IR colours also identify up to ~4% of all dwarfs as AGN, albeit the status of the mid-IR AGN candidates is less secure than the optical AGN. We find little overlap between methods, hinting at the possibility that they identify AGN hosts at different evolutionary stages. The bonus dwarf AGN from the alternative BPT method mostly have relatively high metallicity and low star formation activity for dwarfs. In contrast, the mid-IR and SF-AGN hosts have more typical metallicities and star formation rates. Assuming all AGN candidates to be valid, the combined multiwavelength z~0 dwarf AGN frequency is ~5-8%, implying that active accretion onto intermediate mass BHs in dwarf galaxies may be more widespread than previously realised, with implications for BH-galaxy coevolution. We further investigate the properties and environments of SF-AGN and their hosts.",
+        "claude_score": 3,
+        "gemini_score": 3,
+        "deepseek_score": 3
+      },
+      {
+        "bibcode": "2013ApJ...774..100K",
+        "title": "Theoretical Evolution of Optical Strong Lines across Cosmic Time",
+        "abstract": "We use the chemical evolution predictions of cosmological hydrodynamic simulations with our latest theoretical stellar population synthesis, photoionization, and shock models to predict the strong line evolution of ensembles of galaxies from z = 3 to the present day. In this paper, we focus on the brightest optical emission-line ratios, [N II]/H\u03b1 and [O III]/H\u03b2. We use the optical diagnostic Baldwin-Phillips-Terlevich (BPT) diagram as a tool for investigating the spectral properties of ensembles of active galaxies. We use four redshift windows chosen to exploit new near-infrared multi-object spectrographs. We predict how the BPT diagram will appear in these four redshift windows given different sets of assumptions. We show that the position of star-forming galaxies on the BPT diagram traces the interstellar medium conditions and radiation field in galaxies at a given redshift. Galaxies containing active galactic nucleus (AGN) form a mixing sequence with purely star-forming galaxies. This mixing sequence may change dramatically with cosmic time, due to the metallicity sensitivity of the optical emission-lines. Furthermore, the position of the mixing sequence may probe metallicity gradients in galaxies as a function of redshift, depending on the size of the AGN narrow-line region. We apply our latest slow shock models for gas shocked by galactic-scale winds. We show that at high redshift, galactic wind shocks are clearly separated from AGN in line ratio space. Instead, shocks from galactic winds mimic high metallicity starburst galaxies. We discuss our models in the context of future large near-infrared spectroscopic surveys.",
         "claude_score": 2,
         "gemini_score": 1,
+        "deepseek_score": 1
+      },
+      {
+        "bibcode": "2022ApJ...926..161B",
+        "title": "CLEAR: Emission-line Ratios at Cosmic High Noon",
+        "abstract": "We use Hubble Space Telescope Wide Field Camera 3 G102 and G141 grism spectroscopy to measure rest-frame optical emission-line ratios of 533 galaxies at z ~ 1.5 in the CANDELS Ly\u03b1 Emission at Reionization survey. We compare [O III]/H\u03b2 versus [S II]/(H\u03b1 + [N II]) as an \"unVO87\" diagram for 461 galaxies and [O III]/H\u03b2 versus [Ne III]/[O II] as an \"OHNO\" diagram for 91 galaxies. The unVO87 diagram does not effectively separate active galactic nuclei (AGN) and [Ne V] sources from star-forming galaxies, indicating that the unVO87 properties of star-forming galaxies evolve with redshift and overlap with AGN emission-line signatures at z &gt; 1. The OHNO diagram does effectively separate X-ray AGN and [Ne V]-emitting galaxies from the rest of the population. We find that the [O III]/H\u03b2 line ratios are significantly anticorrelated with stellar mass and significantly correlated with $\\mathrm{log}({L}_{{\\rm{H}}\\beta })$ , while [S II]/(H\u03b1 + [N II]) is significantly anticorrelated with $\\mathrm{log}({L}_{{\\rm{H}}\\beta })$ . Comparison with MAPPINGS V photoionization models indicates that these trends are consistent with lower metallicity and higher ionization in low-mass and high-star formation rate (SFR) galaxies. We do not find evidence for redshift evolution of the emission-line ratios outside of the correlations with mass and SFR. Our results suggest that the OHNO diagram of [O III]/H\u03b2 versus [Ne III]/[O II] will be a useful indicator of AGN content and gas conditions in very high-redshift galaxies to be observed by the James Webb Space Telescope.",
+        "claude_score": 2,
+        "gemini_score": 0,
         "deepseek_score": 0
       },
       {
-        "bibcode": "1981PASP...93....5B",
-        "title": "Classification parameters for the emission-line spectra of extragalactic objects.",
-        "abstract": "An investigation is made of the merits of various emission-line intensity ratios for classifying the spectra of extragalactic objects. It is shown empirically that several combinations of easily-measured lines can be used to separate objects into one of four categories according to the principal excitation mechanism: normal H II regions, planetary nebulae, objects photoionized by a power-law continuum, and objects excited by shock-wave heating. A two-dimensional quantitative classification scheme is suggested.",
-        "claude_score": 3,
+        "bibcode": "2010MNRAS.403.1036C",
+        "title": "Alternative diagnostic diagrams and the `forgotten' population of weak line galaxies in the SDSS",
+        "abstract": "A numerous population of weak line galaxies (WLGs) is often left out of statistical studies on emission-line galaxies (ELGs) due to the absence of an adequate classification scheme, since classical diagnostic diagrams, such as [OIII]/H\u03b2 versus [NII]/H\u03b1 (the BPT diagram), require the measurement of at least four emission lines. This paper aims to remedy this situation by transposing the usual divisory lines between star-forming (SF) galaxies and active galactic nuclei (AGN) hosts and between Seyferts and LINERs to diagrams that are more economical in terms of line quality requirements. By doing this, we rescue from the classification limbo a substantial number of sources and modify the global census of ELGs. More specifically, (1) we use the Sloan Digital Sky Survey Data Release 7 to constitute a suitable sample of 280000 ELGs, one-third of which are WLGs. (2) Galaxies with strong emission lines are classified using the widely applied criteria of Kewley et al., Kauffmann et al. and Stasi\u0144ska et al. to distinguish SF galaxies and AGN hosts and Kewley et al. to distinguish Seyferts from LINERs. (3) We transpose these classification schemes to alternative diagrams keeping [NII]/H\u03b1 as a horizontal axis, but replacing H\u03b2 by a stronger line (H\u03b1 or [OII]), or substituting the ionization-level sensitive [OIII]/H\u03b2 ratio with the equivalent width of H\u03b1 (W<SUB>H\u03b1</SUB>). Optimized equations for the transposed divisory lines are provided. (4) We show that nothing significant is lost in the translation, but that the new diagrams allow one to classify up to 50 per cent more ELGs. (5) Introducing WLGs in the census of galaxies in the local Universe increases the proportion of metal-rich SF galaxies and especially LINERs. <P />In the course of this analysis, we were led to make the following points. (i) The Kewley et al. BPT line for galaxy classification is generally ill-used. (ii) Replacing [OIII]/H\u03b2 by W<SUB>H\u03b1</SUB> in the classification introduces a change in the philosophy of the distinction between LINERs and Seyferts, but not in its results. Because the W<SUB>H\u03b1</SUB> versus [NII]/H\u03b1 diagram can be applied to the largest sample of ELGs without loss of discriminating power between Seyferts and LINERs, we recommend its use in further studies. (iii) The dichotomy between Seyferts and LINERs is washed out by WLGs in the BPT plane, but it subsists in other diagnostic diagrams. This suggests that the right wing in the BPT diagram is indeed populated by at least two classes, tentatively identified with bona fide AGN and `retired' galaxies that have stopped forming stars and are ionized by their old stellar populations.",
+        "claude_score": 1,
         "gemini_score": 2,
         "deepseek_score": 2
       },
       {
-        "bibcode": "2003MNRAS.346.1055K",
-        "title": "The host galaxies of active galactic nuclei",
-        "abstract": "We examine the properties of the host galaxies of 22 623 narrow-line active galactic nuclei (AGN) with 0.02 &lt; z &lt; 0.3 selected from a complete sample of 122 808 galaxies from the Sloan Digital Sky Survey. We focus on the luminosity of the [OIII]\u03bb5007 emission line as a tracer of the strength of activity in the nucleus. We study how AGN host properties compare with those of normal galaxies and how they depend on L[OIII]. We find that AGN of all luminosities reside almost exclusively in massive galaxies and have distributions of sizes, stellar surface mass densities and concentrations that are similar to those of ordinary early-type galaxies in our sample. The host galaxies of low-luminosity AGN have stellar populations similar to normal early types. The hosts of high-luminosity AGN have much younger mean stellar ages. The young stars are not preferentially located near the nucleus of the galaxy, but are spread out over scales of at least several kiloparsecs. A significant fraction of high-luminosity AGN have strong H\u03b4 absorption-line equivalent widths, indicating that they experienced a burst of star formation in the recent past. We have also examined the stellar populations of the host galaxies of a sample of broad-line AGN. We conclude that there is no significant difference in stellar content between type 2 Seyfert hosts and quasars (QSOs) with the same [OIII] luminosity and redshift. This establishes that a young stellar population is a general property of AGN with high [OIII] luminosities.",
+        "bibcode": "2021ApJ...915...35L",
+        "title": "SDSS-IV MaNGA: Refining Strong Line Diagnostic Classifications Using Spatially Resolved Gas Dynamics",
+        "abstract": "We use the statistical power of the MaNGA integral-field spectroscopic galaxy survey to improve the definition of strong line diagnostic boundaries used to classify gas ionization properties in galaxies. We detect line emission from 3.6 million spaxels distributed across 7400 individual galaxies spanning a wide range of stellar masses, star formation rates, and morphological types, and find that the gas-phase velocity dispersion \u03c3<SUB>H\u03b1</SUB> correlates strongly with traditional optical emission-line ratios such as [S II]/H\u03b1, [N II]/H\u03b1, [O I]/H\u03b1, and [O III]/H\u03b2. Spaxels whose line ratios are most consistent with ionization by galactic H II regions exhibit a narrow range of dynamically cold line-of-sight velocity distributions (LOSVDs) peaked around 25 km s<SUP>-1</SUP> corresponding to a galactic thin disk, while those consistent with ionization by active galactic nuclei (AGNs) and low-ionization emission-line regions (LI(N)ERs) have significantly broader LOSVDs extending to 200 km s<SUP>-1</SUP>. Star-forming, AGN, and LI(N)ER regions are additionally well separated from each other in terms of their stellar velocity dispersion, stellar population age, H\u03b1 equivalent width, and typical radius within a given galaxy. We use our observations to revise the traditional emission-line diagnostic classifications so that they reliably identify distinct dynamical samples both in two-dimensional representations of the diagnostic line ratio space and in a multidimensional space that accounts for the complex folding of the star-forming model surface. By comparing the MaNGA observations to the SDSS single-fiber galaxy sample, we note that the latter is systematically biased against young, low-metallicity star-forming regions that lie outside of the 3\u2033 fiber footprint.",
         "claude_score": 2,
         "gemini_score": 2,
         "deepseek_score": 1
       },
       {
-        "bibcode": "2004ApJ...613..898T",
-        "title": "The Origin of the Mass-Metallicity Relation: Insights from 53,000 Star-forming Galaxies in the Sloan Digital Sky Survey",
-        "abstract": "We utilize Sloan Digital Sky Survey imaging and spectroscopy of ~53,000 star-forming galaxies at z~0.1 to study the relation between stellar mass and gas-phase metallicity. We derive gas-phase oxygen abundances and stellar masses using new techniques that make use of the latest stellar evolutionary synthesis and photoionization models. We find a tight (+/-0.1 dex) correlation between stellar mass and metallicity spanning over 3 orders of magnitude in stellar mass and a factor of 10 in metallicity. The relation is relatively steep from 10<SUP>8.5</SUP> to 10<SUP>10.5</SUP> M<SUB>solar</SUB> h<SUP>-2</SUP><SUB>70</SUB>, in good accord with known trends between luminosity and metallicity, but flattens above 10<SUP>10.5</SUP> M<SUB>solar</SUB>. We use indirect estimates of the gas mass based on the H\u03b1 luminosity to compare our data to predictions from simple closed box chemical evolution models. We show that metal loss is strongly anticorrelated with baryonic mass, with low-mass dwarf galaxies being 5 times more metal depleted than L<SUP>*</SUP> galaxies at z~0.1. Evidence for metal depletion is not confined to dwarf galaxies but is found in galaxies with masses as high as 10<SUP>10</SUP> M<SUB>solar</SUB>. We interpret this as strong evidence of both the ubiquity of galactic winds and their effectiveness in removing metals from galaxy potential wells.",
-        "claude_score": 2,
-        "gemini_score": 2,
-        "deepseek_score": 1
-      },
-      {
-        "bibcode": "1998AJ....115.2285M",
-        "title": "The Demography of Massive Dark Objects in Galaxy Centers",
-        "abstract": "We construct dynamical models for a sample of 36 nearby galaxies with Hubble Space Telescope (HST) photometry and ground-based kinematics. The models assume that each galaxy is axisymmetric, with a two-integral distribution function, arbitrary inclination angle, a position-independent stellar mass-to-light ratio Upsilon, and a central massive dark object (MDO) of arbitrary mass M_\u2022. They provide acceptable fits to 32 of the galaxies for some value of M_\u2022 and Upsilon the four galaxies that cannot be fitted have kinematically decoupled cores. The mass-to-light ratios inferred for the 32 well-fitted galaxies are consistent with the fundamental-plane correlation Upsilon ~ L^0.2, where L is galaxy luminosity. In all but six galaxies the models require at the 95% confidence level an MDO of mass M_\u2022 ~ 0.006M_bulge = 0.006UpsilonL. Five of the six galaxies consistent with M_\u2022 = 0 are also consistent with this correlation. The other (NGC 7332) has a much stronger upper limit on M_\u2022. We predict the second-moment profiles that should be observed at HST resolution for the 32 galaxies that our models describe well. We consider various parameterizations for the probability distribution describing the correlation of the masses of these MDOs with other galaxy properties. One of the best models can be summarized thus: a fraction f ~= 0.97 of early-type galaxies have MDOs, whose masses are well described by a Gaussian distribution in log (M_\u2022/M_bulge) of mean -2.28 and standard deviation ~0.51. There is also marginal evidence that M_\u2022 is distributed differently for ``core'' and ``power law'' galaxies, with core galaxies having a somewhat steeper dependence on M_bulge.",
-        "claude_score": 1,
-        "gemini_score": 2,
+        "bibcode": "2025ApJ...980..242S",
+        "title": "The AURORA Survey: A New Era of Emission-line Diagrams with JWST/NIRSpec",
+        "abstract": "We present results on the emission-line properties of z = 1.4\u20137.5 star-forming galaxies in the Assembly of Ultradeep Rest-optical Observations Revealing Astrophysics (AURORA) Cycle 1 JWST/NIRSpec program. Based on its depth, continuous wavelength coverage from 1 to 5 \u03bcm, and medium spectral resolution (R \u223c 1000), AURORA includes detections of a large suite of nebular emission lines spanning a broad range in rest-frame wavelength. We investigate the locations of AURORA galaxies in multiple different emission-line diagrams, including traditional BPT diagrams of [O III]\u03bb5007/H\u03b2 versus [N II]\u03bb6583/H\u03b1, [S II]\u03bb\u03bb6717, 6731/H\u03b1, and [O I]\u03bb6300/H\u03b1, and the ionization\u2013metallicity diagram of [O III]\u03bb5007/[O II]\u03bb3727 (O<SUB>32</SUB>) versus ([O III]\u03bb5007+[O II]\u03bb3727)/H\u03b2 (R<SUB>23</SUB>). We also consider a bluer rest-frame ionization\u2013metallicity diagram introduced recently to characterize z &gt; 10 galaxies, [Ne III]\u03bb3869/[O II]\u03bb3727 versus ([Ne III]\u03bb3869+[O II]\u03bb3727)/H\u03b4, as well as longer-wavelength diagnostic diagrams extending into the rest-frame near-IR: [O III]\u03bb5007/H\u03b2 versus [S III]\u03bb\u03bb9069, 9532/[S II]\u03bb\u03bb6717, 6731 (S<SUB>32</SUB>), and He I\u03bb1.083 \u03bcm/Pa\u03b3 and [S III]\u03bb9532/Pa\u03b3 versus [Fe II]\u03bb1.257\u03bcm/Pa\u03b2. With a significant boost in signal-to-noise ratio and large, representative samples of individual galaxy detections, the AURORA emission-line diagrams presented here definitively confirm a physical picture in which chemically young, \u03b1-enhanced, massive stars photoionize the interstellar medium (ISM) in distant galaxies with a harder ionizing spectrum at fixed nebular metallicity than in their z \u223c 0 counterparts. We also uncover previously unseen evolution prior to z \u223c 2 in the [O III]\u03bb5007/H\u03b2 versus [N II]\u03bb6583/H\u03b1 diagram, which motivates deep NIRSpec observations at even higher redshift. Finally, we present the first statistical sample of rest-frame near-IR emission-line diagnostics in star-forming galaxies at high redshift. In order to truly interpret rest-frame near-IR line ratios including [Fe II]\u03bb1.257 \u03bcm, we must obtain better constraints on dust depletion in the high-redshift ISM.",
+        "claude_score": 3,
+        "gemini_score": 0,
         "deepseek_score": 0
       },
       {
-        "bibcode": "2001ApJ...556..121K",
-        "title": "Theoretical Modeling of Starburst Galaxies",
-        "abstract": "We have modeled a large sample of infrared starburst galaxies using both the PEGASE v2.0 and STARBURST99 codes to generate the spectral energy distribution (SED) of the young star clusters. PEGASE utilizes the Padova group tracks, while STARBURST99 uses the Geneva group tracks, allowing comparison between the two. We used our MAPPINGS III code to compute photoionization models that include a self-consistent treatment of dust physics and chemical depletion. We use the standard optical diagnostic diagrams as indicators of the hardness of the EUV radiation field in these galaxies. These diagnostic diagrams are most sensitive to the spectral index of the ionizing radiation field in the 1-4 ryd region. We find that warm infrared starburst galaxies contain a relatively hard EUV field in this region. The PEGASE ionizing stellar continuum is harder in the 1-4 ryd range than that of STARBURST99. As the spectrum in this regime is dominated by emission from Wolf-Rayet (W-R) stars, this discrepancy is most likely due to the differences in stellar atmosphere models used for the W-R stars. The PEGASE models use the Clegg &amp; Middlemass planetary nebula nuclei (PNN) atmosphere models for the W-R stars, whereas the STARBURST99 models use the Schmutz, Leitherer, &amp; Gruenwald W-R atmosphere models. We believe that the Schmutz et al. atmospheres are more applicable to the starburst galaxies in our sample; however, they do not produce the hard EUV field in the 1-4 ryd region required by our observations. The inclusion of continuum metal blanketing in the models may be one solution. Supernova remnant (SNR) shock modeling shows that the contribution by mechanical energy from SNRs to the photoionization models is &lt;&lt;20%. The models presented here are used to derive a new theoretical classification scheme for starbursts and active galactic nucleus (AGN) galaxies based on the optical diagnostic diagrams.",
+        "bibcode": "2013MNRAS.431..836S",
+        "title": "Type 1 AGN at low z - III. The optical narrow-line ratios",
+        "abstract": "We present the optical narrow-line ratios in a Sloan Digital Sky Survey (SDSS) based sample of 3175 broad H\u03b1 selected type 1 active galactic nuclei (AGN), and explore their positions in the BPT diagrams as a function of the AGN and the host properties. We find the following: (1) the luminosities of all measured narrow lines (H\u03b1, H\u03b2, [O III], [N II], [S II], [O I]) show a Baldwin relation relative to the broad H\u03b1 luminosity L<SUB>bH\u03b1</SUB>, with slopes in the range of 0.53-0.72. (2) About 20 per cent of the type 1 AGN reside within the `Composite' and `star-forming' (SF) regions of the Baldwin, Phillips &amp; Terlevich (BPT) diagrams. These objects also show excess narrow H\u03b1 and ultraviolet (UV) luminosities, for their L<SUB>bH\u03b1</SUB>, consistent with contribution from star formation which dominates the narrow-lines emission, as expected from their positions in the BPT diagrams. (3) The type 1 which reside within the AGN region in the BPT diagrams, are offset to lower [S II]/H\u03b1 and [N II]/H\u03b1 luminosity ratios, compared to type 2 AGN. This offset is a selection effect, related to the lower AGN/host luminosity selection of the type 2 AGN selected from the SDSS galaxy sample. (4) The [N II]/H\u03b1 and [N II]/[S II] ratios in type 1 AGN increase with the host mass, as expected if the mass-metallicity relation of quiescent galaxies holds for the AGN narrow-line region (NLR). (5) The broad lines optical Fe II is higher for a higher [N II]/H\u03b1, at a fixed L<SUB>bol</SUB> and Eddington ratio L/L<SUB>Edd</SUB>. This suggests that the broad line region metallicity is also related to the host mass. (6) The fraction of AGN which are low-ionization nuclear emission-line regions (LINERs) increases sharply with decreasing L/L<SUB>Edd</SUB>. This fraction is the same for type 1 and type 2 AGN. (7) The BPT position is unaffected by the amount of dust extinction of the optical-UV continuum, which suggests that the extincting dust resides on scales larger than the NLR.",
         "claude_score": 2,
-        "gemini_score": 2,
-        "deepseek_score": 2
-      },
-      {
-        "bibcode": "2006MNRAS.372..961K",
-        "title": "The host galaxies and classification of active galactic nuclei",
-        "abstract": "We present an analysis of the host properties of 85 224 emission-line galaxies selected from the Sloan Digital Sky Survey. We show that Seyferts and low-ionization narrow emission-line regions (LINERs) form clearly separated branches on the standard optical diagnostic diagrams. We derive a new empirical classification scheme which cleanly separates star-forming galaxies, composite active galactic nucleus-HII (AGN-HII) galaxies, Seyferts and LINERs and we study the host galaxy properties of these different classes of objects. LINERs are older, more massive, less dusty, less concentrated, and they have higher velocity dispersions and lower [OIII] luminosities than Seyfert galaxies have. Seyferts and LINERs are most strongly distinguished by their [OIII] luminosities. We then consider the quantity L[OIII]/\u03c3<SUP>4</SUP>, which is an indicator of the black hole accretion rate relative to the Eddington rate. Remarkably, we find that at fixed L[OIII]/\u03c3<SUP>4</SUP>, all differences between Seyfert and LINER host properties disappear. LINERs and Seyferts form a continuous sequence, with LINERs dominant at low L/L<SUB>EDD</SUB> and Seyferts dominant at high L/L<SUB>EDD</SUB>. These results suggest that the majority of LINERs are AGN and that the Seyfert/LINER dichotomy is analogous to the high/low-state models and show that pure LINERs require a harder ionizing radiation field with lower ionization parameter than required by Seyfert galaxies, consistent with the low and high X-ray binary states.",
-        "claude_score": 3,
-        "gemini_score": 2,
-        "deepseek_score": 3
-      },
-      {
-        "bibcode": "2020ARA&A..58..257G",
-        "title": "Intermediate-Mass Black Holes",
-        "abstract": "We describe ongoing searches for intermediate-mass black holes with M<SUB>BH</SUB> \u2248 10-10<SUP>5</SUP> M<SUB>\u2299</SUB>. We review a range of search mechanisms, both dynamical and those that rely on accretion signatures. We find the following conclusions: Dynamical and accretion signatures alike point to a high fraction of 10<SUP>9</SUP>-10<SUP>10</SUP> M<SUB>\u2299</SUB> galaxies hosting black holes with M<SUB>BH</SUB>\u223c 10<SUP>5</SUP> M<SUB>\u2299</SUB>. In contrast, there are no solid detections of black holes in globular clusters. There are few observational constraints on black holes in any environment with M<SUB>BH</SUB> \u2248 100-10<SUP>4</SUP> M<SUB>\u2299</SUB>. Considering low-mass galaxies with dynamical black hole masses and constraining limits, we find that the M<SUB>BH</SUB>-\u03c3<SUB>*</SUB> relation continues unbroken to M<SUB>BH</SUB> \u223c10<SUP>5</SUP> M<SUB>\u2299</SUB>, albeit with large scatter. We believe the scatter is at least partially driven by a broad range in black hole masses, because the occupation fraction appears to be relatively high in these galaxies. We fold the observed scaling relations with our empirical limits on occupation fraction and the galaxy mass function to put observational bounds on the black hole mass function in galaxy nuclei. We are pessimistic that local demographic observations of galaxy nuclei alone could constrain seeding mechanisms, although either high-redshift luminosity functions or robust measurements of off-nuclear black holes could begin to discriminate models.",
-        "claude_score": 1,
-        "gemini_score": 2,
-        "deepseek_score": 3
-      },
-      {
-        "bibcode": "2017RMxAA..53..385F",
-        "title": "The 2017 Release Cloudy",
-        "abstract": "We describe the 2017 release of the spectral synthesis code Cloudy, summarizing the many improvements to the scope and accuracy of the physics which have been made since the previous release. Exporting the atomic data into external data files has enabled many new large datasets to be incorporated into the code. The use of the complete datasets is not realistic for most calculations, so we describe the limited subset of data used by default, which predicts significantly more lines than the previous release of Cloudy. This version is nevertheless faster than the previous release, as a result of code optimizations. We give examples of the accuracy limits using small models, and the performance requirements of large complete models. We summarize several advances in the H- and He-like iso-electronic sequences and use our complete collisional-radiative models to establish the densities where the coronal and local thermodynamic equilibrium approximations work.",
-        "claude_score": 2,
-        "gemini_score": 2,
+        "gemini_score": 1,
         "deepseek_score": 1
       },
       {
-        "bibcode": "1987ApJS...63..295V",
-        "title": "Spectral Classification of Emission-Line Galaxies",
-        "abstract": "A revised method of classification of narrow-line active galaxies and H II region-like galaxies is proposed. It involves the line ratios which take full advantage of the physical distinction between the two types of objects and minimize the effects of reddening correction and errors in the flux calibration. Large sets of internally consistent data are used, including new, previously unpublished measurements. Predictions of recent photoionization models by power-law spectra and by hot stars are compared with the observations. The classification is based on the observational data interpreted on the basis of these models.",
+        "bibcode": "2015ApJ...801...88S",
+        "title": "The MOSDEF Survey: Excitation Properties of z \u223c 2.3 Star-forming Galaxies",
+        "abstract": "We present results on the excitation properties of z \u223c 2.3 galaxies using early observations from the MOSFIRE Deep Evolution Field (MOSDEF) Survey. With its coverage of the full suite of strong rest-frame optical emission lines, MOSDEF provides an unprecedented view of the rest-frame optical spectra of a representative sample of distant star-forming galaxies. We investigate the locations of z \u223c 2.3 MOSDEF galaxies in multiple emission-line diagnostic diagrams. These include the [O iii]\u03bb5007/H\u03b2 vs. [N ii]/H\u03b1 and [O iii]\u03bb5007/H\u03b2 vs. [S ii]\u03bb\u03bb6717, 6731/H\u03b1 \u201cBPT\u201d diagrams, as well as the O<SUB>32</SUB> vs. R<SUB>23</SUB> excitation diagram. We recover the well-known offset in the star-forming sequence of high-redshift galaxies in the [O iii]\u03bb5007/H\u03b2 vs. [N ii]/H\u03b1 BPT diagram relative to Sloan Digital Sky Survey star-forming galaxies. However, the shift for our rest-frame optically selected sample is less significant than for rest-frame-UV selected and emission-line selected galaxies at z \u223c 2. Furthermore, we find that the offset is mass-dependent, only appearing within the low-mass half of the z \u223c 2.3 MOSDEF sample, where galaxies are shifted toward higher [N ii]/H\u03b1 at fixed [O iii]/H\u03b2. Within the [O iii]\u03bb5007/H\u03b2 vs. [S ii]/H\u03b1 and O<SUB>32</SUB> vs. R<SUB>23</SUB> diagrams, we find that z \u223c 2.3 galaxies are distributed like local ones, and therefore attribute the shift in the [O iii]\u03bb5007/H\u03b2 vs. [N ii]/H\u03b1 BPT diagram to elevated N/O abundance ratios among lower-mass ({{M}<SUB>*</SUB>}\\lt {{10}<SUP>10</SUP>} {{M}<SUB>\u2299 </SUB>}) high-redshift galaxies. The variation in N/O ratios calls into question the use at high redshift of oxygen abundance indicators based on nitrogen lines, but the apparent invariance with redshift of the excitation sequence in the O<SUB>32</SUB> vs. R<SUB>23</SUB> diagram paves the way for using the combination of O<SUB>32</SUB> and R<SUB>23</SUB> as an unbiased metallicity indicator over a wide range in redshift. This indicator will allow for an accurate characterization of the shape and normalization of the mass-metallicity relationship over more than 10 Gyr. <P />Based on data obtained at the W. M. Keck Observatory, which is operated as a scientific partnership among the California Institute of Technology, the University of California, and the National Aeronautics and Space Administration, and was made possible by the generous financial support of the W. M. Keck Foundation.",
         "claude_score": 2,
+        "gemini_score": 0,
+        "deepseek_score": 1
+      },
+      {
+        "bibcode": "2014ApJ...781...21N",
+        "title": "Nebular Excitation in z ~ 2 Star-forming Galaxies from the SINS and LUCI Surveys: The Influence of Shocks and Active Galactic Nuclei",
+        "abstract": "Based on high-resolution, spatially resolved data of 10 z ~ 2 star-forming galaxies from the SINS/zC-SINF survey and LUCI data for 12 additional galaxies, we probe the excitation properties of high-z galaxies and the impact of active galactic nuclei (AGNs), shocks, and photoionization. We explore how these spatially resolved line ratios can inform our interpretation of integrated emission line ratios obtained at high redshift. Many of our galaxies fall in the \"composite\" region of the z ~ 0 [N II]/H\u03b1 versus [O III]/H\u03b2 diagnostic (BPT) diagram, between star-forming galaxies and those with AGNs. Based on our resolved measurements, we find that some of these galaxies likely host an AGN, while others appear to be affected by the presence of shocks possibly caused by an outflow or from an enhanced ionization parameter as compared with H II regions in normal, local star-forming galaxies. We find that the Mass-Excitation (MEx) diagnostic, which separates purely star-forming and AGN hosting local galaxies in the [O III]/H\u03b2 versus stellar mass plane, does not properly separate z ~ 2 galaxies classified according to the BPT diagram. However, if we shift the galaxies based on the offset between the local and z ~ 2 mass-metallicity relation (i.e., to the mass they would have at z ~ 0 with the same metallicity), we find better agreement between the MEx and BPT diagnostics. Finally, we find that metallicity calibrations based on [N II]/H\u03b1 are more biased by shocks and AGNs at high-z than the [O III]/H\u03b2/[N II]/H\u03b1 calibration. <P />Based on observations at the Very Large Telescope (VLT) of the European Southern Observatory (ESO), Paranal, Chile (ESO program IDs 073.B-9018, 076.A-0527, 079.A-0341, 080.A-0330, 080.A-0339, 080.A-0635, 083.A-0781,084.A-0853, 087.A-0081, 091.A.-0126) and at the Large Binocular Telescope (LBT) on Mt. Graham in Arizona.",
+        "claude_score": 1,
+        "gemini_score": 0,
+        "deepseek_score": 0
+      },
+      {
+        "bibcode": "2013ApJ...775..116R",
+        "title": "Dwarf Galaxies with Optical Signatures of Active Massive Black Holes",
+        "abstract": "We present a sample of 151 dwarf galaxies (10<SUP>8.5</SUP> &lt;~ M <SUB>sstarf</SUB> &lt;~ 10<SUP>9.5</SUP> M <SUB>\u2299</SUB>) that exhibit optical spectroscopic signatures of accreting massive black holes (BHs), increasing the number of known active galaxies in this stellar-mass range by more than an order of magnitude. Utilizing data from the Sloan Digital Sky Survey Data Release 8 and stellar masses from the NASA-Sloan Atlas, we have systematically searched for active BHs in ~25,000 emission-line galaxies with stellar masses comparable to the Magellanic Clouds and redshifts z &lt; 0.055. Using the narrow-line [O III]/H\u03b2 versus [N II]/H\u03b1 diagnostic diagram, we find photoionization signatures of BH accretion in 136 galaxies, a small fraction of which also exhibit broad H\u03b1 emission. For these broad-line active galactic nucleus (AGN) candidates, we estimate BH masses using standard virial techniques and find a range of 10<SUP>5</SUP> &lt;~ M <SUB>BH</SUB> &lt;~ 10<SUP>6</SUP> M <SUB>\u2299</SUB> and a median of M <SUB>BH</SUB> ~ 2 \u00d7 10<SUP>5</SUP> M <SUB>\u2299</SUB>. We also detect broad H\u03b1 in 15 galaxies that have narrow-line ratios consistent with star-forming galaxies. Follow-up observations are required to determine if these are true type 1 AGN or if the broad H\u03b1 is from stellar processes. The median absolute magnitude of the host galaxies in our active sample is M<SUB>g</SUB> = -18.1 mag, which is ~1-2 mag fainter than previous samples of AGN hosts with low-mass BHs. This work constrains the smallest galaxies that can form a massive BH, with implications for BH feedback in low-mass galaxies and the origin of the first supermassive BH seeds.",
+        "claude_score": 3,
         "gemini_score": 2,
-        "deepseek_score": 3
+        "deepseek_score": 2
       }
     ]
   },
@@ -138,16 +138,16 @@
         "bibcode": "2019AAS...23341206P",
         "title": "AGN/Star Formation Mixing Fractions for RESOLVE and ECO Galaxies using Bayesian Inference",
         "abstract": "We apply a Bayesian classification scheme using all available optical spectroscopy to predict the percentage of Active Galactic Nuclei (AGN) vs. Star Formation emission in galaxies from the RESOLVE and ECO surveys. Diagnostic plot classification using BPT diagrams with Strong Emission Lines (SELs) leaves some galaxies ambiguously classified as AGN or Star Forming, suggesting the potential importance of mixed cases. Furthermore, the recently introduced diagnostic plot of [HeII/H-beta] vs. [NII/H-alpha] reveals additional AGN that are missed by a binary BPT classification. These observations motivate the need to use all available spectroscopic information simultaneously in a single Bayesian modeling framework. We also use new grids that self-consistently model different mixing fractions of AGN + Star Formation emission, correctly treating the combined radiation field, unlike older grids that have linearly combined pure AGN and pure Star Forming models to approximate mixed cases. This Bayesian classification gives insight into emission processes for galaxies that are ambiguously and inconsistently classified using traditional diagnostic plots by providing a single multi-dimensional posterior distribution for the AGN - Star Formation mixing fraction based on all available lines. We find that this approach is especially important for the low metallicity dwarfs that dominate our volume-limited local universe surveys.",
-        "claude_score": 2,
+        "claude_score": 3,
         "gemini_score": 2,
-        "deepseek_score": 3
+        "deepseek_score": 2
       },
       {
         "bibcode": "2014AAS...22325418R",
         "title": "Toward Detection of Low-Metallicity AGN in the RESOLVE Survey",
         "abstract": "AGN are frequently identified using the BPT method in which quasars,Seyferts, and LINERS are clearly separated from star forming galaxies. However, recent modeling suggests that low-metallicity AGN do not separate from star-forming galaxies in the BPT diagram, potentially resulting in unidentified AGN. We present initial results of our efforts to identify low-metallicity AGN in the RESOLVE survey using emission-line profile fitting to search for extended line wings indicative of possible AGN activity. The RESOLVE survey is an excellent test bed as a low-redshift, volume-limited survey dominated by dwarf galaxies. Our ultimate goal is to measure the relative frequency of heretofore undetected AGN and estimate their impact on star formation feedback, chemical evolution of galaxies, and the re-ionization of the universe at earlier times. This project was supported by NSF REU funding for the UNC Chapel Hill CAP REU program (OCI-1156614), the RESOLVE survey (AST-0955368), and the NOAO/KPNO REU Program (AST-0754223 and AST-0132798, respectively cofunded by the Department of Defense ASSURE program through Scientific Program Order No. 13 and the Association of Universities for Research in Astronomy).",
         "claude_score": 2,
-        "gemini_score": 3,
+        "gemini_score": 2,
         "deepseek_score": 3
       },
       {
@@ -155,8 +155,8 @@
         "title": "Emission-line diagnostics of low-metallicity active galactic nuclei",
         "abstract": "Current emission-line-based estimates of the metallicity of active galactic nuclei (AGN) at both high and low redshifts indicate that AGN have predominantly solar-to-supersolar metallicities. This leads to the question: do low-metallicity AGN exist? In this paper, we use photoionization models to examine the effects of metallicity variations on the narrow emission-lines from an AGN. We explore a variety of emission-line diagnostics that are useful for identifying AGN with low-metallicity gas. We find that line ratios involving [NII] are the most robust metallicity indicators in galaxies where the primary source of ionization is from the active nucleus. Ratios involving [SII] and [OI] are strongly affected by uncertainties in modelling the density structure of the narrow-line clouds. To test our diagnostics, we turn to an analysis of AGN in the Sloan Digital Sky Survey (SDSS). We find a clear trend in the relative strength of [NII] with the mass of the AGN-host galaxy. The metallicity of the ISM is known to be correlated with stellar mass in star-forming galaxies; our results indicate that a similar trend exists for AGN. We also find that the best-fitting models for typical Seyfert narrow-line regions (NLRs) have supersolar abundances. Although there is a mass-dependent range of a factor of 2-3 in the NLR metallicities of the AGN in our sample, AGN with subsolar metallicities are very rare in the SDSS. Out of a sample of ~23000 Seyfert 2 galaxies, we find only ~40 clear candidates for AGN with NLR abundances that are below solar.",
         "claude_score": 2,
-        "gemini_score": 3,
-        "deepseek_score": 3
+        "gemini_score": 2,
+        "deepseek_score": 2
       },
       {
         "bibcode": "2012PASJ...64...36T",
@@ -164,13 +164,13 @@
         "abstract": "We developed a new technique for identifying active galactic nuclei (AGNs) and studied the nature of low-luminosity AGNs in the Sloan Digital Sky Survey. This is the former part of a series of papers. We develop a new, sensitive method of identifying AGNs in this paper. The emission-line luminosity in a spectrum is the sum of a star-formation component and an AGN component (if present). We demonstrate that an accurate estimate of the star-formation component can be achieved by fitting model spectra, generated with a recent stellar population synthesis code, to a continuum spectrum. By comparing the observed total line luminosity with that attributed to star formation, we can tell whether a galaxy hosts an AGN or not. We compare our method with the commonly used emission-line diagnostics proposed by Baldwin, Phillips, and Terlevich (1981, PASP, 93, 5; hereafter BPT). By this method, we classify 85% of the strong emission-line objects in the same star-formation/AGN as BPT. One unique feature of our method is its sensitivity; it is applicable to nearly twice as many objects as BPT. We further make a comparison between our method and the BPT diagnostics using stacked spectra and selections in X-ray and radio wavelengths. We show that it is overall a sensitive method of identifying AGNs, while our method suffers from incompleteness and contamination as any AGN identification method does so. We emphasize that our method can be applied at high redshifts (up to Z \u223c 1.7 with red-sensitive optical spectrograph) without making any a priori assumptions about the host-galaxy properties. Another unique feature is that it allows us to subtract the emission-line luminosity due to star formation, and to extract the intrinsic AGN luminosity.",
         "claude_score": 1,
         "gemini_score": 2,
-        "deepseek_score": 2
+        "deepseek_score": 1
       },
       {
         "bibcode": "2020MNRAS.496.2577K",
         "title": "Environments of dwarf galaxies with optical AGN characteristics",
         "abstract": "This study aims to explore the relation between dwarf galaxies (M<SUB>*</SUB> \u2264 5 \u00d7 10<SUP>9</SUP> M<SUB>\u2299</SUB>) with active galactic nuclei (AGNs) and their environment by comparing neighbourhood parameters of AGN and non-AGN samples. Using the NASA-Sloan Atlas, both the local environment and the immediate environment of dwarf galaxies with z \u2264 0.055 are analysed. Of the 145 155 galaxies in the catalogue, 62 258 of them are classified as dwarf galaxies, and by employing two AGN selection methods based on emission-line fluxes (BPT and WHAN), 4476 are found to have AGN characteristics in their optical spectra. Regardless of selection method, this study finds no discernible differences in environment between AGN and non-AGN host dwarf galaxies and these results indicate that environment is not an important factor in triggering AGN activity in dwarf galaxies. This is in line with existing literature on environments of regular galaxies with AGNs and suggests universality in terms of reaction to environment across the mass regime. The biases of AGN selection in low-mass galaxies, and the biases of different measures of environment are also considered. It is found that there are several mass trends in emission-line ratios and that the SDSS fibre covers galaxies non-uniformly with redshift. These biases should be accounted for in future work by possibly including other wavelength regimes or mass weighting of emission-line ratios. Lastly, a discussion of the environment estimation methods is included since they may not gauge the desired properties due to factors such as time delay or using loosely constrained proxy parameters.",
-        "claude_score": 2,
+        "claude_score": 1,
         "gemini_score": 2,
         "deepseek_score": 1
       },
@@ -178,9 +178,9 @@
         "bibcode": "2008IAUS..255..370I",
         "title": "Broad line emission in dwarf galaxies: the first detection of low-metallicity AGN",
         "abstract": "Observations of AGN show that they generally possess a high metallicity, varying from solar to supersolar metallicities. This is the case since AGN are usually found in massive, bulge-dominated galaxies that have converted most of their gas into stars by the present epoch. Since AGN metallicity is strongly correlated with stellar mass, low-metallicity AGN are expected to be in low-mass dwarf galaxies. However, until now, searches in low-mass galaxies have only turned up AGN with metallicities around half that of typical AGN, i.e. with solar or slightly subsolar values. We report the discovery of four low-metallicity dwarf galaxies in the Data Release 6 of the Sloan Digital Sky survey, with 12 + log O/H in the range 7.4-8.0, and that appear to harbor an AGN. In the course of a long-range program to search for extremely metal-deficient emission-line dwarf galaxies, we have come across four galaxies with very unusual spectra: the strong permitted emission lines, mainly the H\u03b1 line, show very prominent broad components, with full widths at zero intensity corresponding to velocities varying between 2200 and 3500 km s<SUP>\u22121</SUP>, and extraordinarily large broad H\u03b1 luminosities, varying from 3\u00d710<SUP>41</SUP> to 2\u00d710<SUP>42</SUP> erg s<SUP>\u22121</SUP>. The Balmer lines show a very steep decrement, suggesting collisional excitation and that the broad emission comes from very dense gas (N<SUB>e</SUB> \u226b 10<SUP>4</SUP> cm<SUP>\u22123</SUP>). Only the presence of an accretion disk around an intermediate-mass black hole in the dwarf galaxies appears to account for these properties.",
-        "claude_score": 2,
-        "gemini_score": 3,
-        "deepseek_score": 3
+        "claude_score": 3,
+        "gemini_score": 2,
+        "deepseek_score": 2
       }
     ]
   },
@@ -188,44 +188,44 @@
     "first_set": {
       "individual_scores": {
         "1": {
-          "score": 2,
-          "explanation": "Most evaluators scored this result around 2, indicating a moderately relevant result."
+          "score": 3,
+          "explanation": "All evaluators agreed that the first result in this set was good."
         },
         "2": {
           "score": 2,
-          "explanation": "All evaluators scored this result as a 2 or 3, suggesting it is a fairly relevant result."
+          "explanation": "Two evaluators scored this result as fair, while one scored it poorly. The consensus is to give it an average score."
         },
         "3": {
-          "score": 2,
-          "explanation": "The scores ranged from 1 to 2, so a score of 2 represents a reasonable compromise."
+          "score": 1,
+          "explanation": "Two evaluators scored this result poorly, while one scored it as fair. The consensus is to give it a slightly below average score."
         },
         "4": {
           "score": 2,
-          "explanation": "All evaluators scored this result as a 2, indicating a moderately relevant result."
+          "explanation": "Evaluators were split, with two scoring this result as fair and one scoring it poorly. The consensus is to give it an average score."
         },
         "5": {
-          "score": 1,
-          "explanation": "Most evaluators scored this result as a 1 or 2, suggesting a low to moderate relevance."
+          "score": 2,
+          "explanation": "Two evaluators scored this result as fair, while one scored it poorly. The consensus is to give it an average score."
         },
         "6": {
           "score": 2,
-          "explanation": "The evaluators scored this result between 2 and 3, so a score of 2 balances their perspectives."
+          "explanation": "Evaluators disagreed, with one scoring this result as good, one as fair, and one as poor. The consensus is to give it an average score."
         },
         "7": {
-          "score": 3,
-          "explanation": "Two evaluators scored this as a 3, indicating a highly relevant result."
+          "score": 1,
+          "explanation": "Two evaluators scored this result poorly, while one scored it as fair. The consensus is to give it a slightly below average score."
         },
         "8": {
-          "score": 2,
-          "explanation": "The scores were split between 1 and 3, so a score of 2 represents a reasonable middle ground."
+          "score": 1,
+          "explanation": "Two evaluators scored this result poorly, while one scored it as fair. The consensus is to give it a slightly below average score."
         },
         "9": {
-          "score": 2,
-          "explanation": "Most evaluators scored this result as a 2, indicating a moderately relevant result."
+          "score": 0,
+          "explanation": "All evaluators agreed that this result was poor."
         },
         "10": {
           "score": 2,
-          "explanation": "The scores ranged from 2 to 3, so a score of 2 is a reasonable compromise."
+          "explanation": "Two evaluators scored this result as good, while one scored it as fair. The consensus is to give it an average score."
         }
       },
       "overall_score": 2,
@@ -235,43 +235,43 @@
       "individual_scores": {
         "1": {
           "score": 3,
-          "explanation": "All evaluators scored this result as a 3, indicating a highly relevant result."
+          "explanation": "All evaluators agreed that the first result in this set was good."
         },
         "2": {
           "score": 3,
-          "explanation": "All evaluators scored this result as a 3, indicating a highly relevant result."
+          "explanation": "All evaluators agreed that this result was good."
         },
         "3": {
           "score": 3,
-          "explanation": "All evaluators scored this result as a 3, indicating a highly relevant result."
+          "explanation": "All evaluators agreed that this result was good."
         },
         "4": {
           "score": 3,
-          "explanation": "All evaluators scored this result as a 3, indicating a highly relevant result."
+          "explanation": "All evaluators agreed that this result was good."
         },
         "5": {
           "score": 3,
-          "explanation": "Two evaluators scored this as a 3, and one as a 2, so a score of 3 is most appropriate."
+          "explanation": "Two evaluators scored this result as good, while one scored it as fair. The consensus is to give it a good score."
         },
         "6": {
-          "score": 3,
-          "explanation": "Two evaluators scored this as a 3, and one as a 2, so a score of 3 is most appropriate."
+          "score": 2,
+          "explanation": "Two evaluators scored this result as fair, while one scored it as good. The consensus is to give it an average score."
         },
         "7": {
-          "score": 3,
-          "explanation": "Two evaluators scored this as a 3, and one as a 2, so a score of 3 is most appropriate."
+          "score": 2,
+          "explanation": "Two evaluators scored this result as fair, while one scored it as good. The consensus is to give it an average score."
         },
         "8": {
           "score": 2,
-          "explanation": "Two evaluators scored this as a 2, and one as a 1, so a score of 2 is most appropriate."
+          "explanation": "Two evaluators scored this result as fair, while one scored it poorly. The consensus is to give it an average score."
         },
         "9": {
-          "score": 2,
-          "explanation": "Two evaluators scored this as a 2, and one as a 1, so a score of 2 is most appropriate."
+          "score": 1,
+          "explanation": "Two evaluators scored this result poorly, while one scored it as fair. The consensus is to give it a slightly below average score."
         },
         "10": {
           "score": 3,
-          "explanation": "Two evaluators scored this as a 3, and one as a 2, so a score of 3 is most appropriate."
+          "explanation": "Two evaluators scored this result as good, while one scored it as fair. The consensus is to give it a good score."
         }
       },
       "overall_score": 3,
@@ -280,8 +280,8 @@
     "comparison": {
       "better_set": "B",
       "relative_score": 3,
-      "justification": "All three evaluators agreed that the second set of search results was better, with higher overall scores and ranking quality scores. The consensus scores also reflect a higher overall score and ranking quality for the second set, indicating it was more relevant and well-ranked than the first set."
+      "justification": "All evaluators agreed that the second set of search results was better than the first set. The consensus individual scores and overall scores reflect this, with the second set having higher scores across the board. While there were some disagreements among evaluators on specific result scores, the overall assessment was clear that the second set was superior."
     }
   },
-  "timestamp": "2025-04-04T10:07:44.722177"
+  "timestamp": "2025-04-04T10:22:48.450017"
 }

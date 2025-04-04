@@ -3,32 +3,32 @@
 {
     "first_set": {
         "individual_scores": {
-            "1": {"score": 0, "explanation": "Focuses on stellar population synthesis models unrelated to AGN classification or low-metallicity diagnostics."},
-            "2": {"score": 2, "explanation": "Relevant to emission-line classification but lacks focus on low-metallicity dwarfs."},
-            "3": {"score": 1, "explanation": "Discusses AGN host properties but not methodology for identifying dwarf AGN."},
-            "4": {"score": 1, "explanation": "Addresses metallicity trends but not AGN diagnostics."},
-            "5": {"score": 0, "explanation": "Focuses on massive galaxies and MDOs, irrelevant to dwarf AGN."},
-            "6": {"score": 2, "explanation": "Relevant photoionization modeling but not optimized for low-metallicity AGN."},
-            "7": {"score": 3, "explanation": "Directly addresses AGN classification and emission-line diagnostics, aligning with the main paper."},
-            "8": {"score": 3, "explanation": "Focuses on intermediate-mass black holes, critical for dwarf AGN."},
-            "9": {"score": 1, "explanation": "Code update tangential to the main paper's application of diagnostics."},
-            "10": {"score": 3, "explanation": "Proposes revised emission-line classification, closely related to the main paper."}
+            "1": {"score": 3, "explanation": "Directly addresses RESOLVE/ECO surveys, SF-AGN classification, and multi-diagnostic methods. Perfect match in topic and methodology."},
+            "2": {"score": 1, "explanation": "Focuses on BPT evolution at high-z, not directly relevant to low-z dwarfs or RESOLVE/ECO."},
+            "3": {"score": 0, "explanation": "Discusses high-z diagnostics (unVO87/OHNO), unrelated to low-z dwarfs or the main paper's focus."},
+            "4": {"score": 2, "explanation": "Explores alternative diagrams and WLGs, relevant to BPT limitations but not specific to dwarfs/low-metallicity."},
+            "5": {"score": 1, "explanation": "Refines diagnostics with velocity dispersion but lacks focus on dwarfs or metallicity."},
+            "6": {"score": 0, "explanation": "JWST near-IR diagnostics for high-z, irrelevant to the main paper's low-z context."},
+            "7": {"score": 1, "explanation": "Studies narrow-line ratios in type 1 AGN but not focused on dwarfs or SF-AGN."},
+            "8": {"score": 1, "explanation": "Examines BPT offsets at high-z; tangential to low-z dwarf AGN."},
+            "9": {"score": 0, "explanation": "Focuses on z~2 galaxies and shocks, unrelated to RESOLVE/ECO or SF-AGN."},
+            "10": {"score": 2, "explanation": "Identifies dwarf AGN via SDSS/BPT but lacks RESOLVE/ECO or SF-AGN context."}
         },
-        "overall_score": 2,
+        "overall_score": 1,
         "ranking_quality": 1
     },
     "second_set": {
         "individual_scores": {
-            "1": {"score": 3, "explanation": "Directly replicates the main paper's methodology and surveys (RESOLVE)."},
-            "2": {"score": 3, "explanation": "Compares multi-diagnostic methods from the main paper."},
-            "3": {"score": 3, "explanation": "Discusses SF-AGN and RESOLVE/ECO results identically to the main paper."},
-            "4": {"score": 3, "explanation": "Focuses on the multi-diagnostic system and SF-AGN in dwarfs."},
-            "5": {"score": 3, "explanation": "Enhances methodology with Bayesian mixing, relevant to low-metallicity dwarfs."},
-            "6": {"score": 3, "explanation": "Explicitly targets low-metallicity AGN in RESOLVE."},
-            "7": {"score": 3, "explanation": "Uses photoionization models for low-metallicity AGN diagnostics."},
-            "8": {"score": 2, "explanation": "Relevant AGN identification but not dwarf-specific."},
-            "9": {"score": 1, "explanation": "Focuses on environment, tangential to diagnostics."},
-            "10": {"score": 3, "explanation": "Reports low-metallicity dwarf AGN detections, critical to the main paper."}
+            "1": {"score": 3, "explanation": "Directly uses RESOLVE, SF-AGN, and photoionization models matching the main paper's methodology."},
+            "2": {"score": 3, "explanation": "Compares AGN detection methods in RESOLVE/ECO, emphasizing SF-AGN and metallicity."},
+            "3": {"score": 3, "explanation": "Identical to first set's Result 1; perfect alignment with the main paper."},
+            "4": {"score": 3, "explanation": "Focuses on multi-diagnostic classification in RESOLVE/ECO, directly addressing SF-AGN statistics."},
+            "5": {"score": 2, "explanation": "Relevant methodology (Bayesian mixing) but not central to the main paper's diagnostics."},
+            "6": {"score": 3, "explanation": "Targets low-metallicity AGN in RESOLVE using emission-line fitting, aligning with the main paper's goals."},
+            "7": {"score": 2, "explanation": "Examines low-metallicity AGN diagnostics but lacks RESOLVE/ECO specificity."},
+            "8": {"score": 1, "explanation": "New AGN identification method but not tailored to dwarfs or low-metallicity."},
+            "9": {"score": 1, "explanation": "Studies AGN environments in dwarfs but unrelated to diagnostics/SF-AGN."},
+            "10": {"score": 2, "explanation": "Detects low-metallicity AGN in dwarfs but uses broad-line methods, not RESOLVE/ECO."}
         },
         "overall_score": 3,
         "ranking_quality": 3
@@ -36,6 +36,6 @@
     "comparison": {
         "better_set": "B",
         "relative_score": 3,
-        "justification": "The second set is far superior. All results (1–7, 10) directly address the main paper's focus on low-metallicity dwarf AGN identification using multi-diagnostic methods, RESOLVE/ECO surveys, and SF-AGN. The first set has scattered relevance, with only a few results (7, 8, 10) partially aligning. The second set's results are perfectly ordered, starting with identical methodologies and progressing to supporting studies, while the first set buries key results (e.g., Result 7, 8, 10) among tangential ones."
+        "justification": "The second set is far superior. It includes multiple results (1, 2, 3, 4, 6) that directly address the main paper's focus on RESOLVE/ECO surveys, SF-AGN classification, and optimized emission-line diagnostics for low-metallicity dwarfs. These results replicate the main paper's methodology and expand on its findings. The first set has only one highly relevant result (Result 1) and several tangential studies. The second set's ordering prioritizes RESOLVE/ECO-specific analyses, ensuring the most relevant results appear early. The first set's ranking is weaker, with high-z or non-dwarf studies diluting relevance."
     }
 }

@@ -1,18 +1,18 @@
 {
   "first_set": {
     "individual_scores": [
+      3,
       1,
+      0,
       2,
       2,
-      2,
-      2,
-      2,
-      2,
-      2,
-      2,
+      0,
+      1,
+      0,
+      0,
       2
     ],
-    "overall_score": 2,
+    "overall_score": 1,
     "ranking_quality": 1
   },
   "second_set": {
@@ -22,14 +22,14 @@
       3,
       3,
       2,
-      3,
-      3,
       2,
       2,
-      3
+      2,
+      2,
+      2
     ],
     "overall_score": 3,
-    "ranking_quality": 3
+    "ranking_quality": 2
   },
   "comparison": {
     "better_set": "B",

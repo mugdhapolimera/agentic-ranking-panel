@@ -39,16 +39,16 @@
       "bibcode": "2019AAS...23341206P",
       "title": "AGN/Star Formation Mixing Fractions for RESOLVE and ECO Galaxies using Bayesian Inference",
       "abstract": "We apply a Bayesian classification scheme using all available optical spectroscopy to predict the percentage of Active Galactic Nuclei (AGN) vs. Star Formation emission in galaxies from the RESOLVE and ECO surveys. Diagnostic plot classification using BPT diagrams with Strong Emission Lines (SELs) leaves some galaxies ambiguously classified as AGN or Star Forming, suggesting the potential importance of mixed cases. Furthermore, the recently introduced diagnostic plot of [HeII/H-beta] vs. [NII/H-alpha] reveals additional AGN that are missed by a binary BPT classification. These observations motivate the need to use all available spectroscopic information simultaneously in a single Bayesian modeling framework. We also use new grids that self-consistently model different mixing fractions of AGN + Star Formation emission, correctly treating the combined radiation field, unlike older grids that have linearly combined pure AGN and pure Star Forming models to approximate mixed cases. This Bayesian classification gives insight into emission processes for galaxies that are ambiguously and inconsistently classified using traditional diagnostic plots by providing a single multi-dimensional posterior distribution for the AGN - Star Formation mixing fraction based on all available lines. We find that this approach is especially important for the low metallicity dwarfs that dominate our volume-limited local universe surveys.",
-      "claude_score": 2,
+      "claude_score": 3,
       "gemini_score": 2,
-      "deepseek_score": 3
+      "deepseek_score": 2
     },
     {
       "bibcode": "2014AAS...22325418R",
       "title": "Toward Detection of Low-Metallicity AGN in the RESOLVE Survey",
       "abstract": "AGN are frequently identified using the BPT method in which quasars,Seyferts, and LINERS are clearly separated from star forming galaxies. However, recent modeling suggests that low-metallicity AGN do not separate from star-forming galaxies in the BPT diagram, potentially resulting in unidentified AGN. We present initial results of our efforts to identify low-metallicity AGN in the RESOLVE survey using emission-line profile fitting to search for extended line wings indicative of possible AGN activity. The RESOLVE survey is an excellent test bed as a low-redshift, volume-limited survey dominated by dwarf galaxies. Our ultimate goal is to measure the relative frequency of heretofore undetected AGN and estimate their impact on star formation feedback, chemical evolution of galaxies, and the re-ionization of the universe at earlier times. This project was supported by NSF REU funding for the UNC Chapel Hill CAP REU program (OCI-1156614), the RESOLVE survey (AST-0955368), and the NOAO/KPNO REU Program (AST-0754223 and AST-0132798, respectively cofunded by the Department of Defense ASSURE program through Scientific Program Order No. 13 and the Association of Universities for Research in Astronomy).",
       "claude_score": 2,
-      "gemini_score": 3,
+      "gemini_score": 2,
       "deepseek_score": 3
     },
     {
@@ -56,8 +56,8 @@
       "title": "Emission-line diagnostics of low-metallicity active galactic nuclei",
       "abstract": "Current emission-line-based estimates of the metallicity of active galactic nuclei (AGN) at both high and low redshifts indicate that AGN have predominantly solar-to-supersolar metallicities. This leads to the question: do low-metallicity AGN exist? In this paper, we use photoionization models to examine the effects of metallicity variations on the narrow emission-lines from an AGN. We explore a variety of emission-line diagnostics that are useful for identifying AGN with low-metallicity gas. We find that line ratios involving [NII] are the most robust metallicity indicators in galaxies where the primary source of ionization is from the active nucleus. Ratios involving [SII] and [OI] are strongly affected by uncertainties in modelling the density structure of the narrow-line clouds. To test our diagnostics, we turn to an analysis of AGN in the Sloan Digital Sky Survey (SDSS). We find a clear trend in the relative strength of [NII] with the mass of the AGN-host galaxy. The metallicity of the ISM is known to be correlated with stellar mass in star-forming galaxies; our results indicate that a similar trend exists for AGN. We also find that the best-fitting models for typical Seyfert narrow-line regions (NLRs) have supersolar abundances. Although there is a mass-dependent range of a factor of 2-3 in the NLR metallicities of the AGN in our sample, AGN with subsolar metallicities are very rare in the SDSS. Out of a sample of ~23000 Seyfert 2 galaxies, we find only ~40 clear candidates for AGN with NLR abundances that are below solar.",
       "claude_score": 2,
-      "gemini_score": 3,
-      "deepseek_score": 3
+      "gemini_score": 2,
+      "deepseek_score": 2
     },
     {
       "bibcode": "2012PASJ...64...36T",
@@ -65,13 +65,13 @@
       "abstract": "We developed a new technique for identifying active galactic nuclei (AGNs) and studied the nature of low-luminosity AGNs in the Sloan Digital Sky Survey. This is the former part of a series of papers. We develop a new, sensitive method of identifying AGNs in this paper. The emission-line luminosity in a spectrum is the sum of a star-formation component and an AGN component (if present). We demonstrate that an accurate estimate of the star-formation component can be achieved by fitting model spectra, generated with a recent stellar population synthesis code, to a continuum spectrum. By comparing the observed total line luminosity with that attributed to star formation, we can tell whether a galaxy hosts an AGN or not. We compare our method with the commonly used emission-line diagnostics proposed by Baldwin, Phillips, and Terlevich (1981, PASP, 93, 5; hereafter BPT). By this method, we classify 85% of the strong emission-line objects in the same star-formation/AGN as BPT. One unique feature of our method is its sensitivity; it is applicable to nearly twice as many objects as BPT. We further make a comparison between our method and the BPT diagnostics using stacked spectra and selections in X-ray and radio wavelengths. We show that it is overall a sensitive method of identifying AGNs, while our method suffers from incompleteness and contamination as any AGN identification method does so. We emphasize that our method can be applied at high redshifts (up to Z \u223c 1.7 with red-sensitive optical spectrograph) without making any a priori assumptions about the host-galaxy properties. Another unique feature is that it allows us to subtract the emission-line luminosity due to star formation, and to extract the intrinsic AGN luminosity.",
       "claude_score": 1,
       "gemini_score": 2,
-      "deepseek_score": 2
+      "deepseek_score": 1
     },
     {
       "bibcode": "2020MNRAS.496.2577K",
       "title": "Environments of dwarf galaxies with optical AGN characteristics",
       "abstract": "This study aims to explore the relation between dwarf galaxies (M<SUB>*</SUB> \u2264 5 \u00d7 10<SUP>9</SUP> M<SUB>\u2299</SUB>) with active galactic nuclei (AGNs) and their environment by comparing neighbourhood parameters of AGN and non-AGN samples. Using the NASA-Sloan Atlas, both the local environment and the immediate environment of dwarf galaxies with z \u2264 0.055 are analysed. Of the 145 155 galaxies in the catalogue, 62 258 of them are classified as dwarf galaxies, and by employing two AGN selection methods based on emission-line fluxes (BPT and WHAN), 4476 are found to have AGN characteristics in their optical spectra. Regardless of selection method, this study finds no discernible differences in environment between AGN and non-AGN host dwarf galaxies and these results indicate that environment is not an important factor in triggering AGN activity in dwarf galaxies. This is in line with existing literature on environments of regular galaxies with AGNs and suggests universality in terms of reaction to environment across the mass regime. The biases of AGN selection in low-mass galaxies, and the biases of different measures of environment are also considered. It is found that there are several mass trends in emission-line ratios and that the SDSS fibre covers galaxies non-uniformly with redshift. These biases should be accounted for in future work by possibly including other wavelength regimes or mass weighting of emission-line ratios. Lastly, a discussion of the environment estimation methods is included since they may not gauge the desired properties due to factors such as time delay or using loosely constrained proxy parameters.",
-      "claude_score": 2,
+      "claude_score": 1,
       "gemini_score": 2,
       "deepseek_score": 1
     },
@@ -79,9 +79,9 @@
       "bibcode": "2008IAUS..255..370I",
       "title": "Broad line emission in dwarf galaxies: the first detection of low-metallicity AGN",
       "abstract": "Observations of AGN show that they generally possess a high metallicity, varying from solar to supersolar metallicities. This is the case since AGN are usually found in massive, bulge-dominated galaxies that have converted most of their gas into stars by the present epoch. Since AGN metallicity is strongly correlated with stellar mass, low-metallicity AGN are expected to be in low-mass dwarf galaxies. However, until now, searches in low-mass galaxies have only turned up AGN with metallicities around half that of typical AGN, i.e. with solar or slightly subsolar values. We report the discovery of four low-metallicity dwarf galaxies in the Data Release 6 of the Sloan Digital Sky survey, with 12 + log O/H in the range 7.4-8.0, and that appear to harbor an AGN. In the course of a long-range program to search for extremely metal-deficient emission-line dwarf galaxies, we have come across four galaxies with very unusual spectra: the strong permitted emission lines, mainly the H\u03b1 line, show very prominent broad components, with full widths at zero intensity corresponding to velocities varying between 2200 and 3500 km s<SUP>\u22121</SUP>, and extraordinarily large broad H\u03b1 luminosities, varying from 3\u00d710<SUP>41</SUP> to 2\u00d710<SUP>42</SUP> erg s<SUP>\u22121</SUP>. The Balmer lines show a very steep decrement, suggesting collisional excitation and that the broad emission comes from very dense gas (N<SUB>e</SUB> \u226b 10<SUP>4</SUP> cm<SUP>\u22123</SUP>). Only the presence of an accretion disk around an intermediate-mass black hole in the dwarf galaxies appears to account for these properties.",
-      "claude_score": 2,
-      "gemini_score": 3,
-      "deepseek_score": 3
+      "claude_score": 3,
+      "gemini_score": 2,
+      "deepseek_score": 2
     }
   ],
   "claude_relative_score": 3,
