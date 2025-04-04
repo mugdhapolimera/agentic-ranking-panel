@@ -484,6 +484,10 @@ class ConsensusEvaluator:
             print("\n=== Updating PaperData Objects with Scores ===")
             self._update_paper_data_scores(paper_data, new_paper_data)
             print("PaperData objects updated with scores")
+
+            # Save final results
+            self.save_final_results(paper_data, new_paper_data, consensus_dir)
+            print("Final results saved")
             
             return True
             
@@ -539,8 +543,13 @@ class ConsensusEvaluator:
         # Ensure the consensus directory exists
         os.makedirs(consensus_dir, exist_ok=True)
         
-        # Create a dictionary with both PaperData objects
+        # Create a dictionary with both PaperData objects and input information
         final_results = {
+            "input_paper": {
+                "bibcode": paper_data.bibcode,
+                "title": paper_data.title,
+                "abstract": paper_data.abstract
+            },
             "set_a": {
                 "bibcode": paper_data.bibcode,
                 "title": paper_data.title,

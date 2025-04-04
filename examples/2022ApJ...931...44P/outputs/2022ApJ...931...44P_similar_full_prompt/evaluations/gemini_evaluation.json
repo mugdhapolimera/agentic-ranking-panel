@@ -7,10 +7,10 @@
       2,
       2,
       2,
-      3,
-      3,
       2,
-      3
+      2,
+      2,
+      2
     ],
     "overall_score": 2,
     "ranking_quality": 1
@@ -21,15 +21,15 @@
       3,
       3,
       3,
+      2,
       3,
       3,
-      3,
-      3,
+      2,
       2,
       3
     ],
     "overall_score": 3,
-    "ranking_quality": 2
+    "ranking_quality": 3
   },
   "comparison": {
     "better_set": "B",

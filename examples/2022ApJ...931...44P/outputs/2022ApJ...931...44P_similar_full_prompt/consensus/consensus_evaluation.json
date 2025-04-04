@@ -3,27 +3,27 @@
     "individual_scores": {
       "1": {
         "score": 2,
-        "explanation": "The majority scored this result as a 2, indicating a moderately relevant result."
+        "explanation": "Most evaluators scored this result around 2, indicating a moderately relevant result."
       },
       "2": {
         "score": 2,
-        "explanation": "All evaluators agree on a score of 2 for this result."
+        "explanation": "All evaluators scored this result as a 2 or 3, suggesting it is a fairly relevant result."
       },
       "3": {
         "score": 2,
-        "explanation": "Two evaluators scored this as a 2, while one scored it as a 1. The consensus is a score of 2."
+        "explanation": "The scores ranged from 1 to 2, so a score of 2 represents a reasonable compromise."
       },
       "4": {
         "score": 2,
-        "explanation": "All evaluators agree on a score of 2 for this result."
+        "explanation": "All evaluators scored this result as a 2, indicating a moderately relevant result."
       },
       "5": {
         "score": 1,
-        "explanation": "Two evaluators scored this as a 1, while one scored it as a 2. The consensus is a score of 1."
+        "explanation": "Most evaluators scored this result as a 1 or 2, suggesting a low to moderate relevance."
       },
       "6": {
         "score": 2,
-        "explanation": "The scores varied from 1 to 3, but the majority scored this as a 2."
+        "explanation": "The evaluators scored this result between 2 and 3, so a score of 2 balances their perspectives."
       },
       "7": {
         "score": 3,
@@ -31,15 +31,15 @@
       },
       "8": {
         "score": 2,
-        "explanation": "The scores varied from 1 to 3, but the majority scored this as a 2."
+        "explanation": "The scores were split between 1 and 3, so a score of 2 represents a reasonable middle ground."
       },
       "9": {
-        "score": 1,
-        "explanation": "Two evaluators scored this as a 1, indicating a less relevant result."
+        "score": 2,
+        "explanation": "Most evaluators scored this result as a 2, indicating a moderately relevant result."
       },
       "10": {
         "score": 2,
-        "explanation": "The majority scored this result as a 2, indicating a moderately relevant result."
+        "explanation": "The scores ranged from 2 to 3, so a score of 2 is a reasonable compromise."
       }
     },
     "overall_score": 2,
@@ -49,43 +49,43 @@
     "individual_scores": {
       "1": {
         "score": 3,
-        "explanation": "All evaluators agree on a score of 3 for this result, indicating a highly relevant result."
+        "explanation": "All evaluators scored this result as a 3, indicating a highly relevant result."
       },
       "2": {
         "score": 3,
-        "explanation": "All evaluators agree on a score of 3 for this result."
+        "explanation": "All evaluators scored this result as a 3, indicating a highly relevant result."
       },
       "3": {
         "score": 3,
-        "explanation": "All evaluators agree on a score of 3 for this result."
+        "explanation": "All evaluators scored this result as a 3, indicating a highly relevant result."
       },
       "4": {
         "score": 3,
-        "explanation": "All evaluators agree on a score of 3 for this result."
+        "explanation": "All evaluators scored this result as a 3, indicating a highly relevant result."
       },
       "5": {
         "score": 3,
-        "explanation": "Two evaluators scored this as a 3, while one scored it as a 2. The consensus is a score of 3."
+        "explanation": "Two evaluators scored this as a 3, and one as a 2, so a score of 3 is most appropriate."
       },
       "6": {
         "score": 3,
-        "explanation": "Two evaluators scored this as a 3, while one scored it as a 2. The consensus is a score of 3."
+        "explanation": "Two evaluators scored this as a 3, and one as a 2, so a score of 3 is most appropriate."
       },
       "7": {
         "score": 3,
-        "explanation": "Two evaluators scored this as a 3, while one scored it as a 2. The consensus is a score of 3."
+        "explanation": "Two evaluators scored this as a 3, and one as a 2, so a score of 3 is most appropriate."
       },
       "8": {
         "score": 2,
-        "explanation": "Two evaluators scored this as a 3, while one scored it as a 1. The consensus is a score of 2."
+        "explanation": "Two evaluators scored this as a 2, and one as a 1, so a score of 2 is most appropriate."
       },
       "9": {
         "score": 2,
-        "explanation": "The scores varied from 1 to 2, but the majority scored this as a 2."
+        "explanation": "Two evaluators scored this as a 2, and one as a 1, so a score of 2 is most appropriate."
       },
       "10": {
         "score": 3,
-        "explanation": "All evaluators agree on a score of 3 for this result."
+        "explanation": "Two evaluators scored this as a 3, and one as a 2, so a score of 3 is most appropriate."
       }
     },
     "overall_score": 3,
@@ -94,6 +94,6 @@
   "comparison": {
     "better_set": "B",
     "relative_score": 3,
-    "justification": "All three evaluators agreed that the second set of search results was better, with an overall score of 3 compared to 2 for the first set. The individual result scores were also higher for the second set, with more results scoring a 3 (highly relevant). The ranking quality was also higher for the second set, indicating that the order of the results was better optimized."
+    "justification": "All three evaluators agreed that the second set of search results was better, with higher overall scores and ranking quality scores. The consensus scores also reflect a higher overall score and ranking quality for the second set, indicating it was more relevant and well-ranked than the first set."
   }
 }
