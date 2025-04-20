@@ -1,4 +1,4 @@
-# LLM Comparator (Agentic Evaluator)
+# Agentic "Review Panel" Evaluator
 
 A tool for comparing two sets of search results using multiple Large Language Models (LLMs) to evaluate their relevance and quality.
 
@@ -35,8 +35,8 @@ This tool is particularly useful for:
 
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/search-results-llm-evaluator.git
-   cd search-results-llm-evaluator
+   git clone https://github.com/yourusername/agentic-ranking-panel.git
+   cd agentic-ranking-panel
    ```
 
 2. Install dependencies:
@@ -262,9 +262,9 @@ Step 1: File Selection
 === File Selection ===
 
 Creating directory structure for bibcode: 2022ApJ...931...44P
-  - Base directory: /Users/mugdhapolimera/github/search-results-llm-evaluator/examples/2022ApJ...931...44P
-  - Inputs directory: /Users/mugdhapolimera/github/search-results-llm-evaluator/examples/2022ApJ...931...44P/inputs
-  - Outputs directory: /Users/mugdhapolimera/github/search-results-llm-evaluator/examples/2022ApJ...931...44P/outputs
+  - Base directory: agentic-ranking-panel/examples/2022ApJ...931...44P
+  - Inputs directory: agentic-ranking-panel/examples/2022ApJ...931...44P/inputs
+  - Outputs directory: agentic-ranking-panel/examples/2022ApJ...931...44P/outputs
 
 Available files:
 1. 2022ApJ...931...44P_manual.json
@@ -287,13 +287,13 @@ Set B (second set): 2022ApJ...931...44P_full_prompt.json
 Creating comparison directory: 2022ApJ...931...44P_similar_full_prompt
 
 Creating directory structure for bibcode: 2022ApJ...931...44P
-  - Base directory: /Users/mugdhapolimera/github/search-results-llm-evaluator/examples/2022ApJ...931...44P
-  - Inputs directory: /Users/mugdhapolimera/github/search-results-llm-evaluator/examples/2022ApJ...931...44P/inputs
-  - Outputs directory: /Users/mugdhapolimera/github/search-results-llm-evaluator/examples/2022ApJ...931...44P/outputs
-  - Comparison directory: /Users/mugdhapolimera/github/search-results-llm-evaluator/examples/2022ApJ...931...44P/outputs/2022ApJ...931...44P_similar_full_prompt
-  - Raw outputs directory: /Users/mugdhapolimera/github/search-results-llm-evaluator/examples/2022ApJ...931...44P/outputs/2022ApJ...931...44P_similar_full_prompt/raw_outputs
-  - Evaluations directory: /Users/mugdhapolimera/github/search-results-llm-evaluator/examples/2022ApJ...931...44P/outputs/2022ApJ...931...44P_similar_full_prompt/evaluations
-  - Consensus directory: /Users/mugdhapolimera/github/search-results-llm-evaluator/examples/2022ApJ...931...44P/outputs/2022ApJ...931...44P_similar_full_prompt/consensus
+  - Base directory: agentic-ranking-panel/examples/2022ApJ...931...44P
+  - Inputs directory: agentic-ranking-panel/examples/2022ApJ...931...44P/inputs
+  - Outputs directory: agentic-ranking-panel/examples/2022ApJ...931...44P/outputs
+  - Comparison directory: agentic-ranking-panel/examples/2022ApJ...931...44P/outputs/2022ApJ...931...44P_similar_full_prompt
+  - Raw outputs directory: agentic-ranking-panel/examples/2022ApJ...931...44P/outputs/2022ApJ...931...44P_similar_full_prompt/raw_outputs
+  - Evaluations directory: agentic-ranking-panel/examples/2022ApJ...931...44P/outputs/2022ApJ...931...44P_similar_full_prompt/evaluations
+  - Consensus directory: agentic-ranking-panel/examples/2022ApJ...931...44P/outputs/2022ApJ...931...44P_similar_full_prompt/consensus
 
 Loading selected files...
 Loaded Set A: 2022ApJ...931...44P - RESOLVE and ECO: Finding Low-metallicity z   0 Dwarf AGN Candidates Using Optimized Emission-line Diagnostics
@@ -320,11 +320,11 @@ Submitting evaluation tasks to agents...
 Waiting for all evaluations to complete...
 [Deepseek] Sending prompt to LLM...
 [Gemini] Received response from LLM
-[Gemini] Saved raw response to /Users/mugdhapolimera/github/search-results-llm-evaluator/examples/2022ApJ...931...44P/outputs/2022ApJ...931...44P_similar_full_prompt/raw_outputs/gemini_raw_output.txt
+[Gemini] Saved raw response to agentic-ranking-panel/examples/2022ApJ...931...44P/outputs/2022ApJ...931...44P_similar_full_prompt/raw_outputs/gemini_raw_output.txt
 [Claude] Received response from LLM
-[Claude] Saved raw response to /Users/mugdhapolimera/github/search-results-llm-evaluator/examples/2022ApJ...931...44P/outputs/2022ApJ...931...44P_similar_full_prompt/raw_outputs/claude_raw_output.txt
+[Claude] Saved raw response to agentic-ranking-panel/examples/2022ApJ...931...44P/outputs/2022ApJ...931...44P_similar_full_prompt/raw_outputs/claude_raw_output.txt
 [Deepseek] Received response from LLM
-[Deepseek] Saved raw response to /Users/mugdhapolimera/github/search-results-llm-evaluator/examples/2022ApJ...931...44P/outputs/2022ApJ...931...44P_similar_full_prompt/raw_outputs/deepseek_raw_output.txt
+[Deepseek] Saved raw response to agentic-ranking-panel/examples/2022ApJ...931...44P/outputs/2022ApJ...931...44P_similar_full_prompt/raw_outputs/deepseek_raw_output.txt
 All evaluations completed successfully
 
 Step 4: Parsing Evaluation Scores
@@ -332,15 +332,15 @@ Step 4: Parsing Evaluation Scores
 Parsing scores from Claude's evaluation...
 [Claude] Parsing scores from raw response...
 [Claude] Successfully parsed JSON from response
-[Claude] Saved parsed evaluation to /Users/mugdhapolimera/github/search-results-llm-evaluator/examples/2022ApJ...931...44P/outputs/2022ApJ...931...44P_similar_full_prompt/evaluations/claude_evaluation.json
+[Claude] Saved parsed evaluation to agentic-ranking-panel/examples/2022ApJ...931...44P/outputs/2022ApJ...931...44P_similar_full_prompt/evaluations/claude_evaluation.json
 Parsing scores from Gemini's evaluation...
 [Gemini] Parsing scores from raw response...
 [Gemini] Successfully parsed JSON from response
-[Gemini] Saved parsed evaluation to /Users/mugdhapolimera/github/search-results-llm-evaluator/examples/2022ApJ...931...44P/outputs/2022ApJ...931...44P_similar_full_prompt/evaluations/gemini_evaluation.json
+[Gemini] Saved parsed evaluation to agentic-ranking-panel/examples/2022ApJ...931...44P/outputs/2022ApJ...931...44P_similar_full_prompt/evaluations/gemini_evaluation.json
 Parsing scores from DeepSeek's evaluation...
 [Deepseek] Parsing scores from raw response...
 [Deepseek] Successfully parsed JSON from response
-[Deepseek] Saved parsed evaluation to /Users/mugdhapolimera/github/search-results-llm-evaluator/examples/2022ApJ...931...44P/outputs/2022ApJ...931...44P_similar_full_prompt/evaluations/deepseek_evaluation.json
+[Deepseek] Saved parsed evaluation to agentic-ranking-panel/examples/2022ApJ...931...44P/outputs/2022ApJ...931...44P_similar_full_prompt/evaluations/deepseek_evaluation.json
 
 Step 5: Generating Consensus
 ---------------------------
@@ -360,20 +360,20 @@ Generating consensus from all evaluations...
 [Gemini] Sending prompt to LLM...
 [Deepseek] Sending prompt to LLM...
 [Gemini] Received response from LLM
-[Gemini] Saved raw response to /Users/mugdhapolimera/github/search-results-llm-evaluator/examples/2022ApJ...931...44P/outputs/2022ApJ...931...44P_similar_full_prompt/raw_outputs/gemini_raw_output.txt
+[Gemini] Saved raw response to agentic-ranking-panel/examples/2022ApJ...931...44P/outputs/2022ApJ...931...44P_similar_full_prompt/raw_outputs/gemini_raw_output.txt
 [Gemini] Parsing scores from raw response...
 [Gemini] Successfully parsed JSON from response
-[Gemini] Saved parsed evaluation to /Users/mugdhapolimera/github/search-results-llm-evaluator/examples/2022ApJ...931...44P/outputs/2022ApJ...931...44P_similar_full_prompt/evaluations/gemini_evaluation.json
+[Gemini] Saved parsed evaluation to agentic-ranking-panel/examples/2022ApJ...931...44P/outputs/2022ApJ...931...44P_similar_full_prompt/evaluations/gemini_evaluation.json
 [Claude] Received response from LLM
-[Claude] Saved raw response to /Users/mugdhapolimera/github/search-results-llm-evaluator/examples/2022ApJ...931...44P/outputs/2022ApJ...931...44P_similar_full_prompt/raw_outputs/claude_raw_output.txt
+[Claude] Saved raw response to agentic-ranking-panel/examples/2022ApJ...931...44P/outputs/2022ApJ...931...44P_similar_full_prompt/raw_outputs/claude_raw_output.txt
 [Claude] Parsing scores from raw response...
 [Claude] Successfully parsed JSON from response
-[Claude] Saved parsed evaluation to /Users/mugdhapolimera/github/search-results-llm-evaluator/examples/2022ApJ...931...44P/outputs/2022ApJ...931...44P_similar_full_prompt/evaluations/claude_evaluation.json
+[Claude] Saved parsed evaluation to agentic-ranking-panel/examples/2022ApJ...931...44P/outputs/2022ApJ...931...44P_similar_full_prompt/evaluations/claude_evaluation.json
 [Deepseek] Received response from LLM
-[Deepseek] Saved raw response to /Users/mugdhapolimera/github/search-results-llm-evaluator/examples/2022ApJ...931...44P/outputs/2022ApJ...931...44P_similar_full_prompt/raw_outputs/deepseek_raw_output.txt
+[Deepseek] Saved raw response to agentic-ranking-panel/examples/2022ApJ...931...44P/outputs/2022ApJ...931...44P_similar_full_prompt/raw_outputs/deepseek_raw_output.txt
 [Deepseek] Parsing scores from raw response...
 [Deepseek] Successfully parsed JSON from response
-[Deepseek] Saved parsed evaluation to /Users/mugdhapolimera/github/search-results-llm-evaluator/examples/2022ApJ...931...44P/outputs/2022ApJ...931...44P_similar_full_prompt/evaluations/deepseek_evaluation.json
+[Deepseek] Saved parsed evaluation to agentic-ranking-panel/examples/2022ApJ...931...44P/outputs/2022ApJ...931...44P_similar_full_prompt/evaluations/deepseek_evaluation.json
 
 === All agents processed in 45.72 seconds ===
 
@@ -383,8 +383,8 @@ Generating consensus from all evaluations...
 [Claude] Successfully parsed JSON from consensus response
 [Claude] Validating consensus data structure...
 [Claude] Consensus data structure validated successfully
-[Claude] Saved consensus evaluation to /Users/mugdhapolimera/github/search-results-llm-evaluator/examples/2022ApJ...931...44P/outputs/2022ApJ...931...44P_similar_full_prompt/consensus/consensus_evaluation.json
-[Claude] Saved consensus summary to /Users/mugdhapolimera/github/search-results-llm-evaluator/examples/2022ApJ...931...44P/outputs/2022ApJ...931...44P_similar_full_prompt/consensus/consensus_summary.txt
+[Claude] Saved consensus evaluation to agentic-ranking-panel/examples/2022ApJ...931...44P/outputs/2022ApJ...931...44P_similar_full_prompt/consensus/consensus_evaluation.json
+[Claude] Saved consensus summary to agentic-ranking-panel/examples/2022ApJ...931...44P/outputs/2022ApJ...931...44P_similar_full_prompt/consensus/consensus_summary.txt
 
 === Updating PaperData Objects with Scores ===
 Updating individual agent scores...
@@ -392,18 +392,18 @@ Updating search result scores...
 PaperData objects updated with scores
 
 === Saving Final Results ===
-Saved final results to /Users/mugdhapolimera/github/search-results-llm-evaluator/examples/2022ApJ...931...44P/outputs/2022ApJ...931...44P_similar_full_prompt/consensus/final_results.json
-Saved Set A data to /Users/mugdhapolimera/github/search-results-llm-evaluator/examples/2022ApJ...931...44P/outputs/2022ApJ...931...44P_similar_full_prompt/consensus/set_a_final.json
-Saved Set B data to /Users/mugdhapolimera/github/search-results-llm-evaluator/examples/2022ApJ...931...44P/outputs/2022ApJ...931...44P_similar_full_prompt/consensus/set_b_final.json
+Saved final results to agentic-ranking-panel/examples/2022ApJ...931...44P/outputs/2022ApJ...931...44P_similar_full_prompt/consensus/final_results.json
+Saved Set A data to agentic-ranking-panel/examples/2022ApJ...931...44P/outputs/2022ApJ...931...44P_similar_full_prompt/consensus/set_a_final.json
+Saved Set B data to agentic-ranking-panel/examples/2022ApJ...931...44P/outputs/2022ApJ...931...44P_similar_full_prompt/consensus/set_b_final.json
 Final results saved
 
 === Evaluation Complete! ===
-Results have been saved in: /Users/mugdhapolimera/github/search-results-llm-evaluator/examples/2022ApJ...931...44P/outputs/2022ApJ...931...44P_similar_full_prompt/consensus
+Results have been saved in: agentic-ranking-panel/examples/2022ApJ...931...44P/outputs/2022ApJ...931...44P_similar_full_prompt/consensus
 
 You can find the following files:
-- Raw outputs: /Users/mugdhapolimera/github/search-results-llm-evaluator/examples/2022ApJ...931...44P/outputs/2022ApJ...931...44P_similar_full_prompt/raw_outputs
-- Individual evaluations: /Users/mugdhapolimera/github/search-results-llm-evaluator/examples/2022ApJ...931...44P/outputs/2022ApJ...931...44P_similar_full_prompt/evaluations
-- Consensus results: /Users/mugdhapolimera/github/search-results-llm-evaluator/examples/2022ApJ...931...44P/outputs/2022ApJ...931...44P_similar_full_prompt/consensus
+- Raw outputs: agentic-ranking-panel/examples/2022ApJ...931...44P/outputs/2022ApJ...931...44P_similar_full_prompt/raw_outputs
+- Individual evaluations: agentic-ranking-panel/examples/2022ApJ...931...44P/outputs/2022ApJ...931...44P_similar_full_prompt/evaluations
+- Consensus results: agentic-ranking-panel/examples/2022ApJ...931...44P/outputs/2022ApJ...931...44P_similar_full_prompt/consensus
 
 Thank you for using the LLM Comparator!
 
@@ -412,7 +412,7 @@ Thank you for using the LLM Comparator!
 The tool creates the following directory structure:
 
 ```
-search-results-llm-evaluator/
+agentic-ranking-panel/
 ├── agentic_evaluator/
 │   └── compare_search_results.py
 ├── make_input_files/
