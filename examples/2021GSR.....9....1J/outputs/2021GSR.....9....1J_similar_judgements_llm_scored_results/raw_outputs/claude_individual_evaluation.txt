@@ -1,0 +1,41 @@
+{
+    "individual_scores": {
+        "1": {"score": 3, "explanation": "This abstract is highly relevant to the main paper as it discusses experimental and numerical investigations into the dynamics of granular materials in microgravity, including mass transfer from regolith onto impactors, which is the main focus of the main paper."},
+        "2": {"score": 3, "explanation": "This abstract is highly relevant as it describes experiments investigating planetsimal formation via collisional accretion, including the COLLIDE and PRIME experiments that are discussed in the main paper."},
+        "3": {"score": 3, "explanation": "This abstract is highly relevant as it discusses the same mass transfer phenomenon from the COLLIDE and PRIME experiments that is the main focus of the main paper."},
+        "4": {"score": 3, "explanation": "This abstract is highly relevant as it discusses the behavior of regolith under low-velocity impacts in microgravity, which is the main topic of the main paper."},
+        "5": {"score": 3, "explanation": "This abstract is highly relevant as it discusses ground-based experiments investigating the same mass transfer phenomenon from the COLLIDE and PRIME experiments that is the main focus of the main paper."},
+        "6": {"score": 1, "explanation": "This abstract discusses impacts of dust aggregates at velocities above the fragmentation threshold, which is not directly related to the low-velocity impacts and mass transfer phenomenon discussed in the main paper."},
+        "7": {"score": 1, "explanation": "This abstract discusses high-velocity (up to 25 m/s) impacts of dust aggregates, which is not directly relevant to the low-velocity impacts and mass transfer phenomenon discussed in the main paper."},
+        "8": {"score": 3, "explanation": "This abstract is highly relevant as it discusses the PRIME experiments investigating low-velocity impacts into regolith in microgravity, which is the main topic of the main paper."},
+        "9": {"score": 2, "explanation": "This abstract is relevant as it discusses low-velocity impacts into dust targets in microgravity, which is related to the main paper's topic, but the focus is more on ejecta production rather than the mass transfer phenomenon discussed in the main paper."},
+        "10": {"score": 2, "explanation": "This abstract is relevant as it discusses low-velocity impacts in microgravity, which is related to the main paper's topic, but the focus is more on ejecta production rather than the mass transfer phenomenon discussed in the main paper."},
+        "11": {"score": 1, "explanation": "This abstract discusses low-velocity collisions of dust aggregates, which is somewhat related to the main paper's topic, but the focus is more on bouncing, fragmentation, and mass transfer between aggregates rather than mass transfer from regolith to impactors."},
+        "12": {"score": 3, "explanation": "This abstract is highly relevant as it discusses the COLLIDE-2 experiment, which is one of the main experiments discussed in the main paper."},
+        "13": {"score": 1, "explanation": "This abstract discusses low-velocity impact simulations, which is somewhat related to the main paper's topic, but it does not directly address the mass transfer phenomenon or the experiments discussed in the main paper."},
+        "14": {"score": 1, "explanation": "This abstract discusses collisions between decimeter-sized dust aggregates, which is not directly relevant to the low-velocity impacts into regolith and the mass transfer phenomenon discussed in the main paper."},
+        "15": {"score": 1, "explanation": "This abstract discusses collisions between centimeter-sized projectiles and decimeter-sized dust aggregates, which is not directly relevant to the low-velocity impacts into regolith and the mass transfer phenomenon discussed in the main paper."},
+        "16": {"score": 1, "explanation": "This abstract discusses experiments to determine momentum transfer in regolith-like targets, which is somewhat related to the main paper's topic but does not directly address the mass transfer phenomenon or the experiments discussed in the main paper."},
+        "17": {"score": 3, "explanation": "This abstract is highly relevant as it discusses the COLLIDE experiment, which is one of the main experiments discussed in the main paper."},
+        "18": {"score": 3, "explanation": "This abstract is highly relevant as it discusses low-velocity impacts into simulated regolith in microgravity, including measurements of the coefficient of restitution and penetration depth, which are directly related to the main paper's topic and methodology."},
+        "19": {"score": 1, "explanation": "This abstract discusses experiments on sticking, restructuring, and fragmentation of dust aggregates, which is not directly relevant to the low-velocity impacts into regolith and the mass transfer phenomenon discussed in the main paper."},
+        "20": {"score": 2, "explanation": "This abstract is relevant as it discusses low-velocity impacts into lunar regolith simulant, which is related to the main paper's topic, but the focus is more on ejecta production rather than the mass transfer phenomenon discussed in the main paper."}
+    },
+    "overall_analysis": {
+        "strengths": [
+            "Several results are highly relevant and closely aligned with the main paper's topic and methodology, particularly those discussing the COLLIDE, COLLIDE-2, and PRIME experiments.",
+            "The results cover a range of related topics, including low-velocity impacts into regolith, mass transfer phenomena, and microgravity experiments.",
+            "Some results provide additional context and background information related to the main paper's topic."
+        ],
+        "weaknesses": [
+            "Several results are only tangentially related to the main paper's topic or focus on different phenomena, such as high-velocity impacts, fragmentation of dust aggregates, or ejecta production.",
+            "Some results discuss simulations or theoretical models, which may not directly align with the experimental methodology of the main paper.",
+            "There is a lack of results discussing the specific analysis methods or findings related to the mass transfer phenomenon discussed in the main paper."
+        ],
+        "suggestions": [
+            "Include more results that directly address the mass transfer phenomenon observed in the COLLIDE, COLLIDE-2, and PRIME experiments, as this is the main focus of the main paper.",
+            "Provide additional results that discuss the experimental methodologies and analysis techniques used in these experiments, as the main paper focuses on the experimental approach.",
+            "Include fewer results that are only tangentially related or focus on different phenomena, such as high-velocity impacts or fragmentation of dust aggregates, as these are not directly relevant to the main paper's topic."
+        ]
+    }
+}

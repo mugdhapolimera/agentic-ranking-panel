@@ -1,0 +1,60 @@
+{
+  "individual_scores": {
+    "1": {
+      "score": 3,
+      "explanation": "This result is highly relevant to the main paper as it discusses the identification of active galactic nuclei (AGN) in dwarf galaxies using optical emission line diagnostics, which is the main focus of the main paper."
+    },
+    "2": {
+      "score": 3,
+      "explanation": "This result is also highly relevant as it explores the use of the He II emission line diagnostic to identify AGN in star-forming galaxies, which is one of the key methods discussed in the main paper."
+    },
+    "3": {
+      "score": 3,
+      "explanation": "This result is highly relevant as it discusses the use of optical variability to uncover AGN in low-mass galaxies, which is another method relevant to the main paper's topic."
+    },
+    "4": {
+      "score": 2,
+      "explanation": "This result is relevant as it discusses the relationship between black hole mass and total stellar mass in galaxies, which is related to the topic of AGN in low-mass galaxies. However, it is not as closely aligned with the main paper's methodology."
+    },
+    "5": {
+      "score": 2,
+      "explanation": "This result is relevant as it discusses emission line diagnostics for identifying intermediate-mass black holes (IMBHs) in dwarf galaxies, which is related to the main paper's topic. However, it focuses more on the modeling aspect rather than the observational data analysis approach used in the main paper."
+    },
+    "6": {
+      "score": 3,
+      "explanation": "This result is highly relevant as it uses a multiwavelength approach, including Chandra X-ray and Hubble Space Telescope data, to study AGN candidates in dwarf galaxies, which is closely aligned with the main paper's topic and methodology."
+    },
+    "7": {
+      "score": 2,
+      "explanation": "This result is somewhat relevant as it discusses the connection between star formation and AGN activity in galaxies, which is related to the topic of AGN in low-mass galaxies. However, it does not specifically focus on the low-mass regime or the emission line diagnostic methods used in the main paper."
+    },
+    "8": {
+      "score": 3,
+      "explanation": "This result is highly relevant as it presents a new sample of low-mass galaxies with AGN signatures, identified using emission line diagnostics, which is directly aligned with the main paper's topic and methodology."
+    },
+    "9": {
+      "score": 2,
+      "explanation": "This result is somewhat relevant as it discusses a spectroscopic survey of X-ray-selected AGN, which is related to the topic of AGN identification. However, it does not specifically focus on low-mass galaxies or the optical emission line diagnostic methods used in the main paper."
+    },
+    "10": {
+      "score": 3,
+      "explanation": "This result is highly relevant as it uses the He II emission line diagnostic to identify hidden AGN in star-forming galaxies, which is one of the key methods discussed in the main paper."
+    }
+  },
+  "overall_analysis": {
+    "strengths": [
+      "Several results are highly relevant and closely aligned with the main paper's topic and methodology, focusing on identifying AGN in low-mass galaxies using optical emission line diagnostics.",
+      "The results cover a range of different approaches, including the use of He II, optical variability, and multiwavelength data, providing a comprehensive view of the topic.",
+      "Some results present new samples of low-mass galaxies with AGN signatures, which can be valuable for future studies."
+    ],
+    "weaknesses": [
+      "A few results are only somewhat relevant as they discuss related topics but do not specifically focus on low-mass galaxies or the emission line diagnostic methods used in the main paper.",
+      "Some results are more focused on modeling or theoretical aspects rather than observational data analysis."
+    ],
+    "suggestions": [
+      "Future studies could explore combining different methods, such as optical emission line diagnostics, optical variability, and multiwavelength data, to improve the identification and characterization of AGN in low-mass galaxies.",
+      "Further investigation into the physical properties and host galaxy characteristics of the newly identified low-mass AGN samples could provide valuable insights into black hole formation and evolution in the low-mass regime.",
+      "Expanding the study to include a wider redshift range or different environments could help understand the role of AGN in low-mass galaxies in different cosmic epochs and environments."
+    ]
+  }
+}

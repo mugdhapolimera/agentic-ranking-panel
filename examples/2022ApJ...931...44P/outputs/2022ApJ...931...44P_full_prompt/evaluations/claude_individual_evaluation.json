@@ -1,0 +1,61 @@
+{
+  "individual_scores": {
+    "1": {
+      "score": 3,
+      "explanation": "This result is highly relevant to the main paper. It describes a modified emission line classification scheme to identify dwarf AGN candidates, including a new category of 'star-forming AGN' (SF-AGN) that was missed by previous methods. It applies this scheme to the RESOLVE survey, which is the same survey used in the main paper, and finds a higher percentage of dwarf AGN than previous estimates."
+    },
+    "2": {
+      "score": 3,
+      "explanation": "This result is also highly relevant to the main paper. It compares different methods of finding dwarf AGN in the RESOLVE and ECO surveys, including the comprehensive emission line classification method described in the main paper, a redefined BPT plot demarcation, and mid-IR color selection. It discusses the properties and differences between the AGN candidates identified by each method."
+    },
+    "3": {
+      "score": 3,
+      "explanation": "This result is highly relevant and closely aligned with the main paper. It presents a multiwavelength census of dwarf AGN in the RESOLVE and ECO surveys, using the same methods described in the main paper (emission line diagnostics, including the new 'SF-AGN' category, and mid-IR colors). It provides statistics on the dwarf AGN percentage and discusses the properties and implications of the newly identified SF-AGN."
+    },
+    "4": {
+      "score": 3,
+      "explanation": "This result is highly relevant to the main paper. It describes the motivation and methodology for uncovering AGN in dwarfs using a multi-diagnostic classification system that optimizes the use of existing optical diagnostics, which is the same approach used in the main paper. It applies this system to the RESOLVE and ECO surveys and discusses the higher percentage of dwarf AGN found compared to previous estimates."
+    },
+    "5": {
+      "score": 2,
+      "explanation": "This result is relevant and focused on the main paper's topic. It describes a Bayesian classification scheme for predicting the AGN vs. star formation emission in galaxies from the RESOLVE and ECO surveys, using all available optical spectroscopy. While it does not directly use the multi-diagnostic approach from the main paper, it aims to address the same issue of identifying mixed AGN and star formation emission, particularly in low-metallicity dwarfs."
+    },
+    "6": {
+      "score": 2,
+      "explanation": "This result is relevant to the main paper's topic, as it discusses efforts to identify low-metallicity AGN in the RESOLVE survey, which is the same survey used in the main paper. However, it focuses on a different methodology (emission line profile fitting) than the multi-diagnostic approach described in the main paper."
+    },
+    "7": {
+      "score": 2,
+      "explanation": "This result is relevant to the main paper's topic, as it examines emission line diagnostics for identifying low-metallicity AGN, which is a key motivation for the work presented in the main paper. However, it does not specifically discuss the multi-diagnostic approach used in the main paper or the RESOLVE and ECO surveys."
+    },
+    "8": {
+      "score": 2,
+      "explanation": "This result is relevant to the main paper's topic, as it presents a method for identifying AGN based on emission line excess, which is related to the emission line diagnostic approach used in the main paper. However, it does not specifically address the issue of low-metallicity dwarfs or the multi-diagnostic method described in the main paper."
+    },
+    "9": {
+      "score": 1,
+      "explanation": "This result is somewhat relevant but tangential to the main paper. It explores the relation between dwarf galaxies with AGN and their environment, which is not the primary focus of the main paper. While it mentions using emission line diagnostics to select AGN in dwarfs, it does not discuss the specific multi-diagnostic approach or the RESOLVE and ECO surveys."
+    },
+    "10": {
+      "score": 1,
+      "explanation": "This result is somewhat relevant but tangential to the main paper. It reports the discovery of low-metallicity dwarf galaxies with broad emission lines, suggesting the presence of AGN. While this is related to the topic of identifying low-metallicity AGN in dwarfs, it does not discuss the specific multi-diagnostic approach or the RESOLVE and ECO surveys used in the main paper."
+    }
+  },
+  "overall_analysis": {
+    "strengths": [
+      "Several results are highly relevant and closely aligned with the main paper's topic and methodology, providing additional details and context on the work presented in the main paper.",
+      "The results cover a range of related topics, including different methods for identifying dwarf AGN, properties of the identified AGN candidates, and implications for our understanding of AGN in low-mass galaxies.",
+      "The results make use of the same surveys (RESOLVE and ECO) and emission line diagnostic approaches as the main paper, allowing for direct comparisons and extensions of the work."
+    ],
+    "weaknesses": [
+      "Some results are only tangentially related to the main paper's topic or methodology, focusing on different surveys, techniques, or aspects of AGN identification.",
+      "There is some overlap and repetition between the results, as they often discuss similar topics or findings from different perspectives.",
+      "A few results lack specific details or context related to the main paper, making it harder to assess their direct relevance or alignment."
+    ],
+    "suggestions": [
+      "Future work could focus on providing a more comprehensive and unified analysis that synthesizes the various methods, findings, and implications from the different results.",
+      "Additional context or background information on the specific challenges and motivations for identifying low-metallicity dwarf AGN could be provided to better frame the relevance of the results.",
+      "More detailed comparisons between the different emission line diagnostic approaches, their strengths and weaknesses, and their performance in different scenarios (e.g., low-metallicity dwarfs) could be valuable."
+    ]
+  }
+}

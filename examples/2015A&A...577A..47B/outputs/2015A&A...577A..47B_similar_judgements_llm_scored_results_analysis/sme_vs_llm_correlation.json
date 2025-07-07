@@ -1,0 +1,9 @@
+{
+  "correlations": {
+    "claude": 0.5345224838248488,
+    "gemini": 0.975900072948533,
+    "deepseek": 0.9553936319574843,
+    "consensus": 0.9456108576893003
+  },
+  "output_file": "examples/2015A&A...577A..47B/outputs/2015A&A...577A..47B_similar_judgements_llm_scored_results.json"
+}

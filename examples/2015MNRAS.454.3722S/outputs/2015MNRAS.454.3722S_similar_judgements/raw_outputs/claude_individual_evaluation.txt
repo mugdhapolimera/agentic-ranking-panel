@@ -1,0 +1,30 @@
+{
+    "individual_scores": {
+        "1": {"score": 3, "explanation": "This result is highly relevant as it focuses on finding active galactic nuclei (AGN) in dwarf galaxies, which is the main topic of the paper. It also uses optical emission line diagnostics like the BPT diagram, similar to the methodology described in the paper."},
+        "2": {"score": 3, "explanation": "This result is also highly relevant as it explores the use of the He II emission line diagnostic to identify AGN in star-forming galaxies, which is a key part of the paper's methodology. It also uses the SDSS dataset like the paper."},
+        "3": {"score": 3, "explanation": "This result is highly relevant as it focuses on identifying AGN in low-mass galaxies using optical variability, which is an alternative method to the emission line diagnostics used in the paper. It also uses data from SDSS and cross-matches with other surveys like the paper."},
+        "4": {"score": 2, "explanation": "This result is relevant as it investigates the relationship between black hole mass and total stellar mass in galaxies, which is related to the topic of AGN in low-mass galaxies. However, it does not focus specifically on the emission line diagnostic methods used in the paper."},
+        "5": {"score": 2, "explanation": "This result is relevant as it discusses emission line diagnostics for identifying intermediate-mass black holes (IMBHs) in dwarf galaxies, which is related to the paper's topic. However, it does not focus on the specific methods used in the paper, such as the BPT or He II diagnostics."},
+        "6": {"score": 3, "explanation": "This result is highly relevant as it uses a combination of mid-IR, optical, and X-ray data to identify AGN candidates in dwarf galaxies, which is similar to the multiwavelength approach used in the paper. It also discusses the limitations of mid-IR selection for dwarf AGN, which is relevant to the paper's methodology."},
+        "7": {"score": 2, "explanation": "This result is somewhat relevant as it investigates the connection between star formation and AGN activity in the local universe, which is related to the paper's topic of AGN in low-mass galaxies. However, it does not focus specifically on the emission line diagnostic methods used in the paper."},
+        "8": {"score": 3, "explanation": "This result is highly relevant as it presents a new sample of low-mass galaxies with AGN signatures, identified using various emission line diagnostics similar to the paper's methodology. It also discusses the broad Hα emission and black hole mass estimates, which are important aspects of the paper."},
+        "9": {"score": 2, "explanation": "This result is somewhat relevant as it presents a spectroscopic survey of X-ray-selected AGN, which is related to the paper's topic of identifying AGN. However, it does not focus specifically on low-mass or dwarf galaxies, and does not discuss the emission line diagnostic methods used in the paper."},
+        "10": {"score": 3, "explanation": "This result is highly relevant as it uses the He II emission line diagnostic to identify hidden AGN in star-forming galaxies, which is a key part of the paper's methodology. It also uses spatially resolved data from the MaNGA survey, which is a different but complementary approach to the SDSS data used in the paper."}
+    },
+    "overall_analysis": {
+        "strengths": [
+            "Several results are highly relevant and closely aligned with the paper's topic and methodology, focusing on identifying AGN in low-mass or dwarf galaxies using emission line diagnostics like the BPT diagram and He II line.",
+            "Some results use alternative methods like optical variability or mid-IR data to identify AGN candidates, providing complementary approaches to the paper's methodology.",
+            "Many results utilize data from large surveys like SDSS, MaNGA, or WISE, similar to the paper's use of SDSS and other surveys.",
+            "Some results discuss the limitations and biases of different AGN selection methods, which is important for the paper's methodology."
+        ],
+        "weaknesses": [
+            "A few results are only tangentially related to the paper's topic or do not focus specifically on low-mass or dwarf galaxies.",
+            "Some results do not discuss the emission line diagnostic methods used in the paper, which are a key part of its methodology."
+        ],
+        "suggestions": [
+            "Future searches could include more specific keywords related to the emission line diagnostic methods used in the paper, such as 'BPT diagram' or 'He II emission line'.",
+            "Including additional keywords related to 'low-mass galaxies' or 'dwarf galaxies' could help filter out results that are not directly relevant to the paper's focus."
+        ]
+    }
+}

@@ -1,0 +1,63 @@
+
+
+```json
+{
+    "individual_scores": {
+        "1": {
+            "score": 3,
+            "explanation": "Highly relevant as it directly addresses emission line diagnostics for IMBHs in dwarf galaxies, includes ULX contamination modeling, and discusses optical/mid-IR degeneracies. Aligns closely with the main paper's focus on uncertainties in AGN identification and photoionization simulations."
+        },
+        "2": {
+            "score": 3,
+            "explanation": "Closely aligned with the main paper's methodology, exploring mid-IR diagnostics (e.g., [O IV]) and JWST applications. Both papers address uncertainties in IMBH detection and propose diagnostic diagrams, making this a strong match."
+        },
+        "3": {
+            "score": 2,
+            "explanation": "Relevant due to its focus on AGN vs. ULX differentiation in dwarf galaxies and photoionization modeling, but emphasizes X-ray/UV diagnostics more than optical/mid-IR. Overlaps in metallicity and AGN fraction analysis but less methodologically aligned with the main paper."
+        },
+        "4": {
+            "score": 1,
+            "explanation": "Tangential; focuses on LINER/Seyfert host galaxy properties using SDSS data, not dwarf galaxies or IMBHs. While AGN classification is related, the scope and targets differ significantly from the main paper."
+        },
+        "5": {
+            "score": 1,
+            "explanation": "Discusses IMBHs in AGN discs and LINERs but focuses on X-ray/gas dynamics rather than emission line diagnostics. Limited overlap with the main paper's optical/mid-IR diagnostics and dwarf galaxy context."
+        },
+        "6": {
+            "score": 2,
+            "explanation": "Relevant for its joint optical/mid-IR line ratio analysis and photoionization model testing, but targets Seyfert galaxies rather than dwarfs. Provides complementary insights but lacks IMBH-specific focus."
+        },
+        "7": {
+            "score": 1,
+            "explanation": "Describes a high-z AGN discovery with JWST but focuses on SMBH growth rather than IMBHs in local dwarfs. No direct relevance to the main paper's diagnostic diagrams or dwarf galaxy context."
+        },
+        "8": {
+            "score": 0,
+            "explanation": "Not relevant; focuses on high-z 'little red dots' and SMBHs in COSMOS-Web, unrelated to local dwarf galaxies or IMBH diagnostics. Context and targets differ entirely."
+        },
+        "9": {
+            "score": 2,
+            "explanation": "Relevant for studying IMBH candidates in dwarfs but uses variability (ZTF/WISE) rather than emission line diagnostics. Shares the goal of IMBH detection but diverges methodologically from the main paper."
+        },
+        "10": {
+            "score": 1,
+            "explanation": "Tangential; analyzes bolometric luminosities of AGN in a 12μm sample, not IMBHs or dwarf galaxies. Overlaps in SED modeling but lacks focus on diagnostic line ratios or JWST applications."
+        }
+    },
+    "overall_analysis": {
+        "strengths": [
+            "Results 1 and 2 provide direct methodological and topical alignment with the main paper, focusing on photoionization models, mid-IR diagnostics, and JWST applications.",
+            "Results 3 and 6 offer insights into AGN/ULX differentiation and optical/mid-IR line ratios, supporting the main paper's goals."
+        ],
+        "weaknesses": [
+            "Several results (4, 5, 7, 8, 10) are too general, target different galaxy populations, or use unrelated methodologies (e.g., X-ray, variability).",
+            "Limited exploration of JWST-specific diagnostics outside Results 1 and 2."
+        ],
+        "suggestions": [
+            "Include more studies on mid-IR diagnostics in metal-poor environments specific to dwarf galaxies.",
+            "Expand comparisons with high-z AGN studies to contextualize IMBH formation scenarios.",
+            "Integrate multi-wavelength approaches (e.g., combining variability and line-ratio diagnostics) for robust IMBH identification."
+        ]
+    }
+}
+```

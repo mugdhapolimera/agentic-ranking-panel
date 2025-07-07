@@ -1,0 +1,9 @@
+{
+  "correlations": {
+    "claude": 0.7013343843696721,
+    "gemini": 0.5008703226778093,
+    "deepseek": 0.06375767130633384,
+    "consensus": 0.6109598099719177
+  },
+  "output_file": "examples/2015MNRAS.454.3722S/outputs/2015MNRAS.454.3722S_similar_judgements_llm_scored_results.json"
+}

@@ -1,0 +1,101 @@
+{
+  "individual_scores": {
+    "1": {
+      "score": 3,
+      "explanation": "This result is highly relevant to the main paper as it presents observations and analysis of hydration features on asteroid (16) Psyche using JWST data, which is the main focus of the main paper."
+    },
+    "2": {
+      "score": 3,
+      "explanation": "This result is also highly relevant as it discusses quantifying the hydration abundance and distribution on asteroid (16) Psyche using JWST observations, which aligns closely with the main paper's topic and methodology."
+    },
+    "3": {
+      "score": 2,
+      "explanation": "This result is relevant as it discusses the detection of hydration features on M-class asteroids, which includes Psyche. However, it does not specifically mention JWST observations or provide a detailed analysis of Psyche's hydration features."
+    },
+    "4": {
+      "score": 2,
+      "explanation": "This result is relevant as it proposes JWST observations to quantify the hydration on asteroid (16) Psyche, which is the main focus of the main paper. However, it does not present any actual observations or analysis."
+    },
+    "5": {
+      "score": 1,
+      "explanation": "This result discusses the detection of a 2.85 \u03bcm feature on spinel-rich asteroids using JWST, which is somewhat related to the main paper's topic of hydration features. However, it does not specifically focus on asteroid (16) Psyche or the 3 \u03bcm and 6 \u03bcm features associated with hydration."
+    },
+    "6": {
+      "score": 2,
+      "explanation": "This result provides an overview of the astronomical evidence for hydrated minerals on asteroids, which is relevant to the main paper's topic. However, it does not specifically discuss JWST observations or focus on asteroid (16) Psyche."
+    },
+    "7": {
+      "score": 2,
+      "explanation": "This result proposes using JWST observations to study the abundance and distribution of water in asteroids, which is relevant to the main paper's topic. However, it does not specifically mention asteroid (16) Psyche or the 3 \u03bcm and 6 \u03bcm hydration features."
+    },
+    "8": {
+      "score": 2,
+      "explanation": "This result discusses the identification and distribution of hydrated minerals on outer main belt asteroids using ground-based observations, which is relevant to the main paper's topic. However, it does not involve JWST observations or specifically focus on asteroid (16) Psyche."
+    },
+    "9": {
+      "score": 2,
+      "explanation": "This result presents a method for estimating the water abundance on C-complex asteroids using AKARI observations, which is relevant to the main paper's topic. However, it does not involve JWST observations or specifically focus on asteroid (16) Psyche."
+    },
+    "10": {
+      "score": 3,
+      "explanation": "This result is highly relevant as it discusses the interpretation of potential hydration features on asteroid (16) Psyche's surface using JWST observations, which is the main focus of the main paper."
+    },
+    "11": {
+      "score": 1,
+      "explanation": "This result discusses JWST observations of the near-Earth asteroid (3200) Phaethon, which is not directly relevant to the main paper's focus on asteroid (16) Psyche and its hydration features."
+    },
+    "12": {
+      "score": 1,
+      "explanation": "This result presents a spectroscopic survey of small main-belt asteroids, which is somewhat related to the main paper's topic of asteroid observations. However, it does not involve JWST observations or specifically focus on asteroid (16) Psyche or hydration features."
+    },
+    "13": {
+      "score": 1,
+      "explanation": "This result discusses the sources of water and aqueous activity on chondrite parent asteroids, which is tangentially related to the main paper's topic of hydration on asteroids. However, it does not involve JWST observations or specifically focus on asteroid (16) Psyche."
+    },
+    "14": {
+      "score": 1,
+      "explanation": "This result presents visible spectroscopy observations of aqueous alteration on main-belt asteroids, which is somewhat related to the main paper's topic of hydration features. However, it does not involve JWST observations or specifically focus on asteroid (16) Psyche."
+    },
+    "15": {
+      "score": 2,
+      "explanation": "This result discusses JWST observations and compositional analysis of the asteroids Ceres, Pallas, and Hygiea, which is relevant to the main paper's topic of using JWST to study asteroid composition and hydration features. However, it does not specifically focus on asteroid (16) Psyche."
+    },
+    "16": {
+      "score": 1,
+      "explanation": "This result discusses the timing of core formation in asteroids based on isotopic evidence, which is not directly relevant to the main paper's focus on hydration features and JWST observations of asteroid (16) Psyche."
+    },
+    "17": {
+      "score": 1,
+      "explanation": "This result describes the JWST Disk Infrared Spectral Chemistry Survey (JDISCS), which is focused on studying protoplanetary disks and is not directly relevant to the main paper's topic of asteroid hydration features."
+    },
+    "18": {
+      "score": 1,
+      "explanation": "This result presents JWST transmission spectroscopy of the exoplanet HD 209458b, which is not relevant to the main paper's focus on asteroid hydration features and JWST observations of asteroid (16) Psyche."
+    },
+    "19": {
+      "score": 2,
+      "explanation": "This result discusses JWST observations of the Didymos binary asteroid system, which is relevant to the main paper's topic of using JWST to study asteroid composition and hydration features. However, it does not specifically focus on asteroid (16) Psyche or the 3 \u03bcm and 6 \u03bcm hydration features."
+    },
+    "20": {
+      "score": 2,
+      "explanation": "This result presents 3-\u03bcm spectrophotometry of C-class asteroids, which is relevant to the main paper's topic of studying hydration features on asteroids. However, it does not involve JWST observations or specifically focus on asteroid (16) Psyche."
+    }
+  },
+  "overall_analysis": {
+    "strengths": [
+      "Several results are highly relevant to the main paper's topic, providing detailed analysis of JWST observations and hydration features on asteroid (16) Psyche.",
+      "Some results discuss related topics, such as hydration features on other asteroids or methods for studying asteroid composition using JWST data.",
+      "The results cover a range of observational techniques and analytical approaches, providing a comprehensive view of the topic."
+    ],
+    "weaknesses": [
+      "Some results are only tangentially related to the main paper's topic or do not specifically focus on asteroid (16) Psyche or JWST observations.",
+      "A few results are not relevant to the main paper's topic, as they discuss unrelated topics such as exoplanets or protoplanetary disks.",
+      "There is a lack of diversity in the sources of the results, with many coming from the same research groups or collaborations."
+    ],
+    "suggestions": [
+      "Include more results from a wider range of research groups and collaborations to provide a more diverse perspective on the topic.",
+      "Focus the search on results that specifically discuss JWST observations of asteroid (16) Psyche and its hydration features, as these are most relevant to the main paper.",
+      "Consider including additional context or background information on the significance of studying hydration features on asteroids and the role of JWST in advancing this research area."
+    ]
+  }
+}

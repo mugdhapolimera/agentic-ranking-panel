@@ -1,0 +1,101 @@
+{
+  "individual_scores": {
+    "1": {
+      "score": 2,
+      "explanation": "This paper discusses experimental and theoretical work on the collisional physics of dust aggregates, which is relevant to the main paper's topic of investigating planetesimal formation through particle collisions. However, it does not specifically mention the CubeSat experiment described in the main paper."
+    },
+    "2": {
+      "score": 3,
+      "explanation": "This abstract is highly relevant as it describes simulation results from the Q-PACE CubeSat mission, which is the focus of the main paper. It discusses simulating the collisional evolution of particle ensembles, which aligns with the main paper's methodology."
+    },
+    "3": {
+      "score": 1,
+      "explanation": "This paper discusses the behavior of solid particles in the solar nebula and the formation of planetesimals through gravitational instability and collisional accretion. While it is related to the broader topic of planetesimal formation, it does not specifically mention the CubeSat experiment or the methodology described in the main paper."
+    },
+    "4": {
+      "score": 2,
+      "explanation": "This paper investigates the effect of erosive collisions on the ability of porous ice aggregates to cross the radial drift barrier, which is relevant to the main paper's topic of planetesimal formation. However, it does not directly discuss the CubeSat experiment or its methodology."
+    },
+    "5": {
+      "score": 2,
+      "explanation": "This paper discusses how electrical charging can overcome the bouncing barrier in planet formation, which is relevant to the main paper's topic. However, it does not mention the CubeSat experiment or its methodology."
+    },
+    "6": {
+      "score": 2,
+      "explanation": "This paper presents experimental results on the bouncing barriers in protoplanetary disks, which is relevant to the main paper's topic of investigating planetesimal formation through particle collisions. However, it does not specifically mention the CubeSat experiment or its methodology."
+    },
+    "7": {
+      "score": 1,
+      "explanation": "This paper presents a model for the growth of cometesimals in the solar nebula, which is tangentially related to the broader topic of planetesimal formation. However, it does not discuss the CubeSat experiment or its methodology."
+    },
+    "8": {
+      "score": 2,
+      "explanation": "This paper discusses the bouncing barrier in the growth of dust aggregates, which is relevant to the main paper's topic of investigating planetesimal formation through particle collisions. However, it does not specifically mention the CubeSat experiment or its methodology."
+    },
+    "9": {
+      "score": 2,
+      "explanation": "This paper presents a model for planetesimal formation and pebble delivery, which is relevant to the main paper's topic. However, it does not discuss the CubeSat experiment or its methodology."
+    },
+    "10": {
+      "score": 2,
+      "explanation": "This paper reviews the collision model for protoplanetary dust aggregates and their evolution in protoplanetary disks, which is relevant to the main paper's topic of investigating planetesimal formation through particle collisions. However, it does not specifically mention the CubeSat experiment or its methodology."
+    },
+    "11": {
+      "score": 2,
+      "explanation": "This paper discusses the multifaceted process of planetesimal formation, which is relevant to the main paper's topic. However, it does not mention the CubeSat experiment or its methodology."
+    },
+    "12": {
+      "score": 1,
+      "explanation": "This paper discusses the growth mechanisms of macroscopic bodies in protoplanetary disks, which is tangentially related to the broader topic of planetesimal formation. However, it does not discuss the CubeSat experiment or its methodology."
+    },
+    "13": {
+      "score": 1,
+      "explanation": "This paper discusses the formation of planetesimals in the solar nebula, which is tangentially related to the broader topic of planetesimal formation. However, it does not discuss the CubeSat experiment or its methodology."
+    },
+    "14": {
+      "score": 2,
+      "explanation": "This paper presents evidence that Kuiper belt planetesimals formed through the streaming instability, which is relevant to the main paper's topic of investigating planetesimal formation. However, it does not mention the CubeSat experiment or its methodology."
+    },
+    "15": {
+      "score": 2,
+      "explanation": "This paper discusses low-velocity collisions of centimeter-sized dust aggregates, which is relevant to the main paper's topic of investigating planetesimal formation through particle collisions. However, it does not specifically mention the CubeSat experiment or its methodology."
+    },
+    "16": {
+      "score": 2,
+      "explanation": "This paper investigates how planetesimals can form from mm-sized chondrules and chondrule aggregates, which is relevant to the main paper's topic of investigating planetesimal formation. However, it does not mention the CubeSat experiment or its methodology."
+    },
+    "17": {
+      "score": 2,
+      "explanation": "This paper proposes a scenario for the formation of icy planetesimals through static compression of fluffy dust aggregates, which is relevant to the main paper's topic of investigating planetesimal formation. However, it does not mention the CubeSat experiment or its methodology."
+    },
+    "18": {
+      "score": 2,
+      "explanation": "This paper describes a new mechanism for planetesimal accretion in the solar nebula, which is relevant to the main paper's topic of investigating planetesimal formation. However, it does not mention the CubeSat experiment or its methodology."
+    },
+    "19": {
+      "score": 2,
+      "explanation": "This paper investigates the growth of planetesimals into protoplanets through streaming instability and pebble accretion, which is relevant to the main paper's topic of investigating planetesimal formation. However, it does not mention the CubeSat experiment or its methodology."
+    },
+    "20": {
+      "score": 2,
+      "explanation": "This paper presents simulations of planetesimal growth in stellar binaries, which is relevant to the broader topic of planetesimal formation. However, it does not mention the CubeSat experiment or its methodology."
+    }
+  },
+  "overall_analysis": {
+    "strengths": [
+      "Many results are relevant to the topic of planetesimal formation and the collisional physics of dust aggregates.",
+      "Several results discuss similar methodologies, such as numerical simulations and laboratory experiments.",
+      "The results cover a wide range of aspects related to planetesimal formation, including collisional growth, bouncing barriers, and streaming instability."
+    ],
+    "weaknesses": [
+      "Most results do not specifically mention or discuss the CubeSat experiment described in the main paper.",
+      "There is a lack of results directly related to the specific methodology and experimental setup of the CubeSat mission.",
+      "Some results are only tangentially related to the main paper's topic and focus more on broader aspects of planet formation."
+    ],
+    "suggestions": [
+      "Include more results that specifically discuss the CubeSat experiment or similar CubeSat-based experiments for investigating planetesimal formation.",
+      "Expand the search to include papers that discuss the experimental setup, instrumentation, and data analysis techniques used in the CubeSat mission.",
+      "Consider including results that compare and contrast different experimental approaches (e.g., laboratory experiments, numerical simulations, and space-based experiments) for studying planetesimal formation."
+    ]
+  }
+}

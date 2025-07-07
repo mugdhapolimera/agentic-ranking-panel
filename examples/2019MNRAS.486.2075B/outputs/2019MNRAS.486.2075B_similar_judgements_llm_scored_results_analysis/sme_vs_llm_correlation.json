@@ -1,0 +1,9 @@
+{
+  "correlations": {
+    "claude": 0.5970223141259935,
+    "gemini": -0.09950371902099887,
+    "deepseek": 0.2952575323069086,
+    "consensus": null
+  },
+  "output_file": "examples/2019MNRAS.486.2075B/outputs/2019MNRAS.486.2075B_similar_judgements_llm_scored_results.json"
+}

@@ -1,0 +1,59 @@
+{
+  "individual_scores": {
+    "1": {
+      "score": 3,
+      "explanation": "This result is highly relevant to the main paper. It describes a modified emission line classification scheme that aims to identify AGN in low-metallicity dwarf galaxies, which is the main goal of the main paper. It also applies this scheme to the RESOLVE survey data, which is the same survey used in the main paper."
+    },
+    "2": {
+      "score": 2,
+      "explanation": "This result is relevant to the main paper as it compares different methods for finding dwarf AGN in the RESOLVE and ECO surveys, which are the same surveys used in the main paper. However, it does not go into the details of the multi-diagnostic classification scheme proposed in the main paper."
+    },
+    "3": {
+      "score": 3,
+      "explanation": "This result is highly relevant to the main paper. It provides a comprehensive census of dwarf AGN in the RESOLVE and ECO surveys using multiple methods, including the multi-diagnostic approach proposed in the main paper. It also discusses the statistical completeness of these surveys and the implications of the findings for the dwarf AGN population."
+    },
+    "4": {
+      "score": 2,
+      "explanation": "This result is relevant to the main paper as it discusses the challenges of identifying AGN in low-metallicity and highly star-forming dwarf galaxies using existing optical emission line diagnostics. It also mentions the multi-diagnostic classification system proposed in the main paper and its application to the RESOLVE and ECO surveys."
+    },
+    "5": {
+      "score": 1,
+      "explanation": "This result is somewhat relevant to the main paper as it applies a Bayesian classification scheme to predict AGN vs. star formation emission in galaxies from the RESOLVE and ECO surveys. However, it does not specifically focus on the multi-diagnostic classification scheme proposed in the main paper for identifying AGN in low-metallicity dwarfs."
+    },
+    "6": {
+      "score": 2,
+      "explanation": "This result is relevant to the main paper as it discusses efforts to identify low-metallicity AGN in the RESOLVE survey using emission line profile fitting, which is a complementary approach to the multi-diagnostic classification scheme proposed in the main paper."
+    },
+    "7": {
+      "score": 1,
+      "explanation": "This result is somewhat relevant to the main paper as it discusses the effects of metallicity variations on emission lines from AGN and the challenges of identifying low-metallicity AGN. However, it does not specifically focus on the multi-diagnostic classification scheme proposed in the main paper or the RESOLVE and ECO surveys."
+    },
+    "8": {
+      "score": 1,
+      "explanation": "This result is somewhat relevant to the main paper as it describes a method for identifying AGN based on emission line excess. However, it does not specifically focus on the multi-diagnostic classification scheme proposed in the main paper or the identification of AGN in low-metallicity dwarf galaxies."
+    },
+    "9": {
+      "score": 1,
+      "explanation": "This result is somewhat relevant to the main paper as it explores the relation between dwarf galaxies with AGN and their environment using the NASA-Sloan Atlas data. However, it does not specifically focus on the multi-diagnostic classification scheme proposed in the main paper or the RESOLVE and ECO surveys."
+    },
+    "10": {
+      "score": 1,
+      "explanation": "This result is somewhat relevant to the main paper as it discusses the discovery of low-metallicity AGN in dwarf galaxies from the Sloan Digital Sky Survey. However, it does not specifically focus on the multi-diagnostic classification scheme proposed in the main paper or the RESOLVE and ECO surveys."
+    }
+  },
+  "overall_analysis": {
+    "strengths": [
+      "Several results are highly relevant to the main paper's topic and methodology, particularly those that discuss the multi-diagnostic classification scheme and its application to the RESOLVE and ECO surveys.",
+      "The results cover a range of related topics, such as different methods for identifying dwarf AGN, the statistical completeness of the surveys, and the implications of the findings for the dwarf AGN population."
+    ],
+    "weaknesses": [
+      "Some results are only tangentially related to the main paper's topic or methodology, focusing on other aspects of AGN identification or dwarf galaxy properties.",
+      "There is limited discussion of the specific details or performance of the multi-diagnostic classification scheme proposed in the main paper."
+    ],
+    "suggestions": [
+      "Include more results that directly compare the multi-diagnostic classification scheme to other methods and provide a detailed evaluation of its performance and advantages.",
+      "Provide more information on the specific emission line diagnostics used in the multi-diagnostic scheme and the reasoning behind their selection.",
+      "Include results that discuss the potential implications and applications of the multi-diagnostic scheme beyond the RESOLVE and ECO surveys."
+    ]
+  }
+}

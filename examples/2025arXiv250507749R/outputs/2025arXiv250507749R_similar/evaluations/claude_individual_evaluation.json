@@ -1,0 +1,61 @@
+{
+  "individual_scores": {
+    "1": {
+      "score": 3,
+      "explanation": "This result is highly relevant to the main paper's topic of distinguishing active galactic nuclei (AGN) powered by intermediate-mass black holes (IMBHs) from other sources like ultraluminous X-ray sources (ULXs) in dwarf galaxies. It discusses the use of photoionization models to quantify the contributions of AGN and ULXs to the spectral energy distribution, and the implications for emission line diagnostics."
+    },
+    "2": {
+      "score": 2,
+      "explanation": "This result is relevant as it discusses the detection of AGN at high redshifts using JWST, including some with evidence for broad emission lines indicative of IMBHs. However, it does not specifically focus on dwarf galaxies or distinguishing AGN from other sources like ULXs."
+    },
+    "3": {
+      "score": 3,
+      "explanation": "This result is highly relevant to the main paper's topic, as it presents photoionization simulations tailored to investigate optical and mid-IR emission line diagnostics for distinguishing IMBH and stellar excitation in dwarf galaxies. It also addresses key uncertainties like the geometry of the surrounding gas clouds and the spectral energy distribution of the AGN."
+    },
+    "4": {
+      "score": 3,
+      "explanation": "This result is highly relevant as it reports the identification of a sample of IMBH candidates in galactic nuclei, confirmed as AGN through X-ray emission. It directly addresses the main paper's goal of finding IMBHs in dwarf galaxies and distinguishing them from other sources."
+    },
+    "5": {
+      "score": 2,
+      "explanation": "This result is somewhat relevant as it discusses potential observational signatures of IMBHs in AGN discs, including spectral features and variability. However, it does not specifically focus on dwarf galaxies or distinguishing IMBHs from other sources like ULXs."
+    },
+    "6": {
+      "score": 2,
+      "explanation": "This result is relevant as it reports the identification of a sample of IMBH candidates in Green Pea galaxies, which are compact dwarf galaxies. However, it does not specifically address the issue of distinguishing IMBHs from other sources like ULXs using emission line diagnostics."
+    },
+    "7": {
+      "score": 2,
+      "explanation": "This result is somewhat relevant as it discusses the IMBH in the stripped nuclear star cluster of a dwarf galaxy and its implications for black hole scaling relations. However, it does not directly address the issue of distinguishing IMBHs from other sources like ULXs using emission line diagnostics."
+    },
+    "8": {
+      "score": 3,
+      "explanation": "This result is highly relevant as it presents emission line diagnostics for selecting IMBH candidates in metal-poor, star-forming galaxies, based on photoionization simulations that include contributions from IMBHs, XRBs, and massive stars. It directly addresses the main paper's goal of distinguishing IMBHs from other sources like ULXs using emission line diagnostics."
+    },
+    "9": {
+      "score": 2,
+      "explanation": "This result is somewhat relevant as it discusses the high-ionization emission lines observed in a nearby blue compact dwarf galaxy, which is considered an analog to high-redshift galaxies. It explores the possibility of an IMBH contribution to the ionization, but does not directly address the issue of distinguishing IMBHs from other sources like ULXs."
+    },
+    "10": {
+      "score": 1,
+      "explanation": "This result is only tangentially relevant as it presents a census of ultraluminous X-ray sources (ULXs) in nearby galaxies. While it discusses the potential contribution of ULXs to the observed X-ray emission, it does not specifically address the issue of distinguishing IMBHs from ULXs using emission line diagnostics."
+    }
+  },
+  "overall_analysis": {
+    "strengths": [
+      "Several results are highly relevant and closely aligned with the main paper's topic of distinguishing IMBHs from other sources like ULXs in dwarf galaxies using emission line diagnostics.",
+      "The results cover a range of approaches, including photoionization models, observational data, and theoretical predictions.",
+      "Some results directly address key uncertainties and challenges in identifying IMBHs, such as the contributions from stellar populations and the role of metallicity."
+    ],
+    "weaknesses": [
+      "A few results are only tangentially relevant or do not directly address the main paper's specific focus on dwarf galaxies and emission line diagnostics.",
+      "There is limited discussion of the potential biases and limitations of the proposed emission line diagnostics.",
+      "Some results focus on observational signatures or scaling relations for IMBHs, but do not directly tackle the issue of distinguishing them from other sources."
+    ],
+    "suggestions": [
+      "More emphasis could be placed on directly comparing and evaluating the effectiveness of different emission line diagnostics in distinguishing IMBHs from ULXs and other sources in dwarf galaxies.",
+      "A more comprehensive discussion of the potential biases and limitations of the proposed emission line diagnostics would be valuable.",
+      "Additional results on the impact of metallicity, gas density, and other environmental factors on the emission line diagnostics could be included."
+    ]
+  }
+}

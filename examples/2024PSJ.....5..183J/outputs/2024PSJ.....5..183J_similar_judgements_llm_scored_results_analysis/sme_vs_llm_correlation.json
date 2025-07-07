@@ -1,0 +1,9 @@
+{
+  "correlations": {
+    "claude": 0.7637626158259734,
+    "gemini": 0.75,
+    "deepseek": 0.7947194142390264,
+    "consensus": 0.75
+  },
+  "output_file": "examples/2024PSJ.....5..183J/outputs/2024PSJ.....5..183J_similar_judgements_llm_scored_results.json"
+}

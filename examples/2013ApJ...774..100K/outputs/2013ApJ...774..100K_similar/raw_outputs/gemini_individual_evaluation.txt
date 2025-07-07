@@ -1,0 +1,65 @@
+```json
+{
+    "individual_scores": {
+        "1": {
+            "score": 3,
+            "explanation": "This paper directly addresses the central theme of the main paper, which is the theoretical evolution of optical strong lines across cosmic time. It specifically compares observations with theoretical predictions, focusing on the same key line ratios (OIII/Hbeta and NII/Halpha) and using a redshift-dependent classification line, making it highly relevant."
+        },
+        "2": {
+            "score": 3,
+            "explanation": "This result is highly relevant as it discusses AGN emission line diagnostics and the mass-metallicity relation at high redshift, utilizing the BPT diagram, which is a core component of the main paper's methodology. It also addresses the impact of selection effects and evolution, aligning with the theoretical approach of the main paper."
+        },
+        "3": {
+            "score": 2,
+            "explanation": "This paper is relevant because it presents observations of emission-line galaxies at high redshift and discusses their physical properties, including metallicity and ionization parameters. While it doesn't directly focus on the theoretical evolution or BPT diagram analysis as the primary goal, it provides observational data that could be used to test the theoretical models described in the main paper. Thus, relevant but not as closely aligned methodologically."
+        },
+        "4": {
+            "score": 3,
+            "explanation": "This paper is highly relevant as it uses emission-line ratios at high redshift to study galaxy properties. The use of specific emission lines such as [O III]/Hβ is a strong match with the main paper. The comparison with photoionization models also directly aligns with the main paper's methodology."
+        },
+        "5": {
+            "score": 1,
+            "explanation": "This paper focuses on finding low-metallicity dwarf AGN candidates using optimized emission-line diagnostics at z ~ 0. While it touches upon AGN and emission lines, its primary focus on local dwarfs and a different diagnostic approach (S II and O I plots) makes it less directly relevant to the main paper's theoretical evolution across cosmic time."
+        },
+        "6": {
+            "score": 2,
+            "explanation": "This paper discusses the mass-metallicity-star formation rate relation at high redshift, which is relevant to the broader context of galaxy evolution and emission-line properties. It also mentions the BPT diagram and the potential inconsistencies of using locally calibrated metallicity relations at high redshift, which connects to the main paper's concerns. However, it is not directly focused on theoretical modeling of the BPT diagram itself."
+        },
+        "7": {
+            "score": 3,
+            "explanation": "This result is highly relevant as it uses JWST observations to measure emission-line ratios at high redshift and compares them to lower-redshift samples. It studies the evolution of specific emission lines (Hα, [O III]/Hβ, and [Ne III]/[O II]) with redshift, stellar mass and star formation rate, aligning closely with the main paper's objectives and methodology. The comparison with MAPPINGS V models further strengthens the connection."
+        },
+        "8": {
+            "score": 3,
+            "explanation": "This paper is highly relevant because it investigates the excitation properties of star-forming galaxies at z ~ 2.3 using the BPT diagram and other emission-line diagnostics. The recovery of the offset in the star-forming sequence at high redshift and the discussion of N/O abundance ratios directly relate to the main paper's focus on the evolution of emission-line ratios across cosmic time."
+        },
+        "9": {
+            "score": 3,
+            "explanation": "This result is highly relevant as it investigates the physical conditions of ionized gas in high-z star-forming galaxies using diagnostic diagrams based on rest-frame optical emission lines and mentions the BPT diagram. The confirmation of an offset of the average location of star-forming galaxies in the BPT diagram is a direct connection. The comparison to theoretical models also strengthens the relevance."
+        },
+        "10": {
+            "score": 2,
+            "explanation": "This paper introduces new AGN diagnostic diagrams based on the [OIII]λ4363 auroral line, which is relevant to the broader topic of AGN identification and emission-line diagnostics. While it proposes alternative diagrams and focuses on AGN, the underlying theme of using emission lines to understand galaxy properties connects to the main paper. However, it diverges methodologically by focusing on a different set of lines and diagnostics."
+        }
+    },
+    "overall_analysis": {
+        "strengths": [
+            "Several results directly address the theoretical evolution of emission-line ratios, particularly focusing on the BPT diagram and its redshift dependence.",
+            "Many results provide observational data at high redshift, which can be used to test and refine theoretical models.",
+            "Several papers explicitly discuss the limitations of using local calibrations at high redshift, a key point in the main paper.",
+            "The use of photoionization models is common across multiple results, aligning with the main paper's methodology."
+        ],
+        "weaknesses": [
+            "Some results focus on specific galaxy populations (e.g., dwarf AGN) or alternative diagnostic diagrams, making them less directly relevant.",
+            "A few papers primarily present observational data without a strong theoretical component, reducing their methodological alignment.",
+            "The redshift ranges covered vary across the results, with some focusing on specific epochs rather than the broad cosmic evolution considered in the main paper."
+        ],
+        "suggestions": [
+            "Prioritize results that explicitly model the evolution of the BPT diagram or other key emission-line ratios with redshift.",
+            "Focus on papers that discuss the interplay between theoretical models and observational data.",
+            "Consider the specific redshift ranges covered by each paper and their relevance to the main paper's scope.",
+            "Investigate results that address the impact of selection effects and biases on emission-line diagnostics at high redshift."
+        ]
+    }
+}
+```

@@ -1,0 +1,30 @@
+{
+    "individual_scores": {
+        "1": {"score": 1, "explanation": "This paper describes a model for computing the spectral evolution of stellar populations, which is tangentially related to the main paper's topic of identifying dwarf AGN candidates using emission-line diagnostics. However, it does not directly address the classification of emission-line galaxies or the challenges associated with low-metallicity systems."},
+        "2": {"score": 3, "explanation": "This paper is highly relevant to the main paper as it investigates the use of emission-line intensity ratios for classifying extragalactic objects, including separating active galactic nuclei (AGN) from other types of objects. The methodology and goals align closely with the main paper's aim of optimizing emission-line diagnostics for identifying low-metallicity dwarf AGN candidates."},
+        "3": {"score": 2, "explanation": "This paper examines the properties of AGN host galaxies and their dependence on the [OIII] luminosity, which is relevant to the main paper's topic of identifying AGN in dwarf galaxies. However, it does not specifically address the challenges of low-metallicity systems or the optimization of emission-line diagnostics for this purpose."},
+        "4": {"score": 2, "explanation": "This paper investigates the mass-metallicity relation in star-forming galaxies, which is relevant to the main paper's focus on low-metallicity dwarf galaxies. However, it does not directly address the classification of AGN or the use of emission-line diagnostics for this purpose."},
+        "5": {"score": 0, "explanation": "This paper constructs dynamical models for nearby galaxies and studies the demographics of massive dark objects in their centers. It does not appear to be directly relevant to the main paper's topic of identifying low-metallicity dwarf AGN candidates using emission-line diagnostics."},
+        "6": {"score": 2, "explanation": "This paper models the spectral energy distributions of starburst galaxies and discusses the use of optical diagnostic diagrams for classifying AGN and star-forming galaxies. While it is relevant to the main paper's topic, it does not specifically address the challenges of low-metallicity systems or the optimization of emission-line diagnostics for this purpose."},
+        "7": {"score": 3, "explanation": "This paper is highly relevant to the main paper as it presents an analysis of the host properties of emission-line galaxies, including a new empirical classification scheme for separating star-forming galaxies, AGN-HII composites, Seyferts, and LINERs. The methodology and goals align closely with the main paper's aim of optimizing emission-line diagnostics for identifying low-metallicity dwarf AGN candidates."},
+        "8": {"score": 1, "explanation": "This paper describes ongoing searches for intermediate-mass black holes, which is tangentially related to the main paper's topic of identifying AGN in dwarf galaxies. However, it does not directly address the use of emission-line diagnostics or the challenges associated with low-metallicity systems."},
+        "9": {"score": 1, "explanation": "This paper describes the 2017 release of the Cloudy spectral synthesis code, which is relevant to the field of astrophysics but not directly related to the main paper's specific topic of identifying low-metallicity dwarf AGN candidates using emission-line diagnostics."},
+        "10": {"score": 3, "explanation": "This paper proposes a revised method for the spectral classification of emission-line galaxies, including separating AGN from H II region-like galaxies. The methodology and goals align closely with the main paper's aim of optimizing emission-line diagnostics for identifying low-metallicity dwarf AGN candidates."}
+    },
+    "overall_analysis": {
+        "strengths": [
+            "Several papers directly address the classification of emission-line galaxies and the use of emission-line diagnostics for separating AGN from other types of objects.",
+            "Some papers specifically focus on the challenges associated with low-metallicity systems or dwarf galaxies.",
+            "The search results cover a range of relevant topics, including stellar populations, starburst galaxies, and the properties of AGN host galaxies."
+        ],
+        "weaknesses": [
+            "Several papers are only tangentially related to the main paper's specific topic or do not address the challenges of low-metallicity systems or the optimization of emission-line diagnostics.",
+            "There is a lack of papers that directly combine the topics of low-metallicity dwarf galaxies and the optimization of emission-line diagnostics for identifying AGN candidates."
+        ],
+        "suggestions": [
+            "Additional papers that specifically address the challenges of identifying AGN in low-metallicity dwarf galaxies using optimized emission-line diagnostics would be helpful.",
+            "Papers that compare and contrast different emission-line diagnostic methods and their performance in low-metallicity systems could provide valuable insights.",
+            "Studies that explore the physical properties and mechanisms driving AGN activity in low-metallicity dwarf galaxies could complement the main paper's findings."
+        ]
+    }
+}

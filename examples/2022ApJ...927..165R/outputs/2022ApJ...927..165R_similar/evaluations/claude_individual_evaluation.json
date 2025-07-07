@@ -1,0 +1,61 @@
+{
+  "individual_scores": {
+    "1": {
+      "score": 3,
+      "explanation": "This result is highly relevant to the main paper's topic and methodology. It presents a novel photoionization model suite that incorporates both IMBHs and ULXs in a metal-poor, highly star-forming environment, similar to the main paper. It also discusses the challenges in identifying and characterizing dwarf AGN using emission line diagnostics, which is the main focus of the main paper."
+    },
+    "2": {
+      "score": 3,
+      "explanation": "This result is highly relevant to the main paper's topic and methodology. It describes a suite of photoionization models that account for various uncertainties in the physical conditions of galaxies hosting IMBHs, such as the IMBH SED shape, the mixing of non-thermal and starlight excitation, and the gas geometry. It also proposes mid-IR diagnostic diagrams using JWST to identify IMBHs in dwarf galaxies, which aligns closely with the main paper's goals."
+    },
+    "3": {
+      "score": 3,
+      "explanation": "This result is highly relevant to the main paper's topic and methodology. It investigates the contribution of ULXs in dwarf galaxies and how they can mimic the signatures expected from dwarf AGN. It uses self-consistent photoionization models to quantify the contributions of AGN, ULXs, and stars to the composite SED, and discusses the implications for emission line diagnostics in distinguishing between AGN and ULX contributions, which is a key focus of the main paper."
+    },
+    "4": {
+      "score": 2,
+      "explanation": "This result is relevant to the main paper's topic, as it discusses the classification of AGN using emission line diagnostics and the properties of their host galaxies. However, it does not specifically focus on dwarf galaxies or IMBHs, which are central to the main paper's methodology."
+    },
+    "5": {
+      "score": 2,
+      "explanation": "This result is relevant to the main paper's topic, as it discusses the observational signatures of IMBHs in AGN discs, including their potential impact on emission line ratios and X-ray properties. However, it does not specifically focus on dwarf galaxies or the challenges in identifying IMBHs in these systems using emission line diagnostics, which are the main focus of the main paper."
+    },
+    "6": {
+      "score": 2,
+      "explanation": "This result is relevant to the main paper's topic, as it investigates optical and mid-IR emission line diagnostics for studying AGN and star formation in nearby Seyfert galaxies. However, it does not specifically focus on dwarf galaxies or IMBHs, which are central to the main paper's methodology."
+    },
+    "7": {
+      "score": 1,
+      "explanation": "This result is somewhat relevant to the main paper's topic, as it reports the discovery of a high-redshift accreting supermassive black hole using JWST observations. However, it does not directly address the challenges of identifying IMBHs in dwarf galaxies or the use of emission line diagnostics for this purpose, which are the main focus of the main paper."
+    },
+    "8": {
+      "score": 2,
+      "explanation": "This result is relevant to the main paper's topic, as it discusses a population of compact and extremely red galaxies at high redshift that may host AGN, including potential IMBHs. It explores the implications of these objects for early galaxy and SMBH assembly, which is related to the main paper's focus on IMBHs in dwarf galaxies. However, it does not directly address the use of emission line diagnostics for identifying IMBHs in dwarf galaxies."
+    },
+    "9": {
+      "score": 3,
+      "explanation": "This result is highly relevant to the main paper's topic and methodology. It presents a sample of variability-selected AGN candidates in dwarf galaxies, which may harbor IMBHs. It discusses the advantages of variability searches for finding low-mass AGN that may be missed by spectroscopic approaches, and provides estimates of IMBH masses in these systems, which aligns closely with the main paper's goals."
+    },
+    "10": {
+      "score": 2,
+      "explanation": "This result is relevant to the main paper's topic, as it measures the bolometric luminosities of a complete sample of local AGN and derives bolometric corrections for various emission lines and continuum bands. However, it does not specifically focus on dwarf galaxies or IMBHs, which are central to the main paper's methodology."
+    }
+  },
+  "overall_analysis": {
+    "strengths": [
+      "Several results are highly relevant and closely aligned with the main paper's topic and methodology, focusing on photoionization models, emission line diagnostics, and the identification of IMBHs in dwarf galaxies.",
+      "The results cover a wide range of topics related to AGN, including their host galaxy properties, observational signatures, and the challenges in identifying them in low-mass systems.",
+      "Some results present novel approaches and techniques for identifying and characterizing IMBHs in dwarf galaxies, such as variability searches and mid-IR emission line diagnostics."
+    ],
+    "weaknesses": [
+      "A few results are tangential to the main paper's focus, discussing topics such as high-redshift AGN or AGN in more massive host galaxies.",
+      "While some results address emission line diagnostics, they do not specifically focus on the challenges of identifying IMBHs in dwarf galaxies using these diagnostics.",
+      "There is a lack of results directly comparing different emission line diagnostic methods or providing a comprehensive analysis of their strengths and weaknesses for identifying IMBHs in dwarf galaxies."
+    ],
+    "suggestions": [
+      "Additional results that directly compare and evaluate the effectiveness of different emission line diagnostic methods for identifying IMBHs in dwarf galaxies would be beneficial.",
+      "More results that specifically address the challenges and uncertainties associated with using emission line diagnostics in low-metallicity, highly star-forming environments, as is the case for dwarf galaxies, would be helpful.",
+      "Results that provide a comprehensive analysis of the physical conditions and uncertainties in dwarf galaxies hosting IMBHs, and how these affect the interpretation of emission line diagnostics, would be valuable."
+    ]
+  }
+}

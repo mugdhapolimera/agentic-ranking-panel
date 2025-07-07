@@ -1,0 +1,61 @@
+{
+  "individual_scores": {
+    "1": {
+      "score": 3,
+      "explanation": "This result is highly relevant as it is the same paper that the main paper is based on. It covers the same methodology of using optimized emission-line diagnostics to identify low-metallicity dwarf AGN candidates in the RESOLVE survey."
+    },
+    "2": {
+      "score": 3,
+      "explanation": "This result is also highly relevant as it is a follow-up study to the main paper, providing a multiwavelength census of dwarf AGN candidates in the RESOLVE and ECO surveys using the methodology outlined in the main paper."
+    },
+    "3": {
+      "score": 2,
+      "explanation": "This result is relevant as it discusses a new sample of AGN dwarf galaxies identified using spatially-resolved spectroscopy from the MaNGA survey. However, it does not directly use the same methodology as the main paper."
+    },
+    "4": {
+      "score": 2,
+      "explanation": "This result is relevant as it discusses X-ray active dwarf galaxies identified using SRG/eROSITA data, which could potentially be AGN candidates. However, it does not use the same optical emission-line diagnostics as the main paper."
+    },
+    "5": {
+      "score": 3,
+      "explanation": "This result is highly relevant as it discusses the methodology of using optimized emission-line diagnostics to identify AGN in dwarf galaxies, which is the main focus of the main paper."
+    },
+    "6": {
+      "score": 2,
+      "explanation": "This result is somewhat relevant as it discusses alternative emission-line diagnostic diagrams for identifying AGN in weak-line galaxies. However, it does not specifically focus on low-metallicity dwarf galaxies."
+    },
+    "7": {
+      "score": 2,
+      "explanation": "This result is relevant as it discusses identifying dwarf AGN candidates using DESI data and emission-line diagnostics. However, it does not use the same optimized diagnostics as the main paper."
+    },
+    "8": {
+      "score": 1,
+      "explanation": "This result is somewhat relevant as it discusses techniques for distinguishing AGN hosts from star-forming galaxies using emission-line diagnostics. However, it does not specifically focus on low-metallicity dwarf galaxies."
+    },
+    "9": {
+      "score": 1,
+      "explanation": "This result is somewhat relevant as it discusses emission-line diagnostics for identifying low-metallicity AGN. However, it does not specifically focus on dwarf galaxies or the RESOLVE survey."
+    },
+    "10": {
+      "score": 2,
+      "explanation": "This result is relevant as it discusses emission-line diagnostics for identifying intermediate-mass black holes in dwarf galaxies, which is related to the main paper's topic. However, it does not use the same methodology as the main paper."
+    }
+  },
+  "overall_analysis": {
+    "strengths": [
+      "Several results directly align with the main paper's topic and methodology, providing additional details and follow-up studies.",
+      "A few results discuss alternative emission-line diagnostics or techniques for identifying AGN in low-metallicity or dwarf galaxies.",
+      "Some results provide complementary data or samples that could be used in conjunction with the main paper's methodology."
+    ],
+    "weaknesses": [
+      "Some results are only tangentially related to the main paper's specific topic or do not focus on low-metallicity dwarf galaxies.",
+      "A few results discuss related topics but use different methodologies or data sources than the main paper.",
+      "There is a lack of results directly comparing or contrasting the main paper's methodology with other techniques."
+    ],
+    "suggestions": [
+      "Include more results that directly compare or contrast the main paper's methodology with other emission-line diagnostic techniques for identifying dwarf AGN candidates.",
+      "Provide additional results that apply the main paper's methodology to other surveys or datasets, to further validate and generalize the findings.",
+      "Include results that discuss potential limitations or biases of the main paper's methodology, and ways to address them."
+    ]
+  }
+}

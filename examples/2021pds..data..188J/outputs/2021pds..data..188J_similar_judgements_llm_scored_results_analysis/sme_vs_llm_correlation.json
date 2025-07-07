@@ -1,0 +1,9 @@
+{
+  "correlations": {
+    "claude": 0.8314794192830981,
+    "gemini": 0.8511025427814365,
+    "deepseek": 0.7472647177570733,
+    "consensus": -0.16666666666666663
+  },
+  "output_file": "examples/2021pds..data..188J/outputs/2021pds..data..188J_similar_judgements_llm_scored_results.json"
+}

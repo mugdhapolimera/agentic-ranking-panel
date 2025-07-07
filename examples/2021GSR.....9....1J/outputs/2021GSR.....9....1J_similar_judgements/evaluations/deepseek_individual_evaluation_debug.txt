@@ -1,0 +1,18 @@
+
+
+{
+    "individual_scores": {
+        "1": {"score": 1, "explanation": "Directly discusses the same microgravity experiments on regolith mass transfer using COLLIDE/PRIME programs and drop tower methods, aligning closely with the main paper's focus. However, likely part of the same author's research series, warranting a score of 1 as per user examples."},
+        "2": {"score": 1, "explanation": "Explicitly references COLLIDE/PRIME experiments, microgravity, and drop tower methodologies identical to the main paper. Focuses on mass transfer parameters, aligning with the main study but likely from the same research group."},
+        "3": {"score": 1, "explanation": "Describes the same COLLIDE/PRIME experiments and drop tower replication of rebound dynamics, mirroring the main paper's goals. Consistent with the user's examples where same-experiment abstracts receive a score of 1."},
+        "4": {"score": 1, "explanation": "Shares COLLIDE/PRIME experimental data but focuses on ejecta and coefficients of restitution rather than mass transfer. Still relevant to microgravity regolith behavior but tangential to the main paper's adhesive response focus."},
+        "5": {"score": 1, "explanation": "Reiterates COLLIDE/PRIME results and ground-based drop tower experiments on mass transfer thresholds, closely matching the main paper's methodology. Likely part of the same research campaign."},
+        "6": {"score": 1, "explanation": "Examines mass transfer in porous dust aggregates at higher velocities (1.5–6.0 m/s), which exceeds the main paper's low-energy focus. Some thematic overlap but different velocity regimes and materials."},
+        "7": {"score": 0, "explanation": "Focuses on high-velocity impacts (∼25 m/s) for planetesimal growth, far beyond the low-energy regime studied in the main paper. Not relevant to microgravity adhesive responses."},
+        "8": {"score": 1, "explanation": "Details PRIME-3 campaign results from the same experimental series, but emphasizes ejecta rather than mass transfer. Still relevant due to shared microgravity context and methodologies."},
+        "9": {"score": 1, "explanation": "Studies dust projectile impacts in microgravity with partial mass transfer, but uses mm-scale projectiles and dust targets, differing from the main paper's cm-scale regolith focus."},
+        "10": {"score": 1, "explanation": "Investigates ejecta in microgravity impacts up to 2.3 m/s, overlapping with the main paper's interest in low-energy collisions but not directly addressing adhesive mass transfer."},
+        "11": {"score": 2, "explanation": "Explores low-velocity collisions (8 mm/s–2 m/s) and mass transfer in dust aggregates, aligning thematically with the main paper. Different materials (dust vs. regolith) reduce direct alignment, but methodology and goals are relevant."},
+        "12": {"score": 1, "explanation": "Presents COLLIDE-2 results from the same experimental lineage, focusing on coefficients of restitution and ejecta. Relevant but tangential to the main paper's mass transfer emphasis."},
+        "13": {"score": 1, "explanation": "Simulates low-velocity impacts into granular media but focuses on code validation rather than experimental outcomes. Thematically related but methodologically distinct."},
+        "14": {"score": 1, "explanation": "Examines decimeter-scale dust collisions in microgravity, which shares the low-velocity focus but differs in scale and materials from

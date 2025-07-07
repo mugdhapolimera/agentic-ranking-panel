@@ -1,0 +1,51 @@
+{
+    "set_analyses": {
+        "1": {
+            "strengths": [
+                "Covers a range of topics related to emission line diagnostics and spectral synthesis modeling",
+                "Some results discuss metallicity effects and low-metallicity AGN"
+            ],
+            "weaknesses": [
+                "Most results are not directly focused on identifying low-metallicity dwarf AGN candidates",
+                "Limited relevance to the main paper's specific methodology and goals"
+            ],
+            "summary": "This set covers some related background topics, but does not directly address the main paper's methodology for identifying low-metallicity dwarf AGN candidates using optimized emission line diagnostics."
+        },
+        "2": {
+            "strengths": [
+                "Highly relevant to the main paper's topic and goals",
+                "Several results discuss methods for identifying low-metallicity AGN in dwarf galaxies",
+                "Covers similar surveys and emission line diagnostic approaches"
+            ],
+            "weaknesses": [
+                "Does not go into as much detail on the specific multi-diagnostic classification scheme proposed in the main paper"
+            ],
+            "summary": "This set is very relevant and useful for understanding the context and goals of the main paper, with multiple results directly addressing the identification of low-metallicity AGN in dwarf galaxies using emission line diagnostics."
+        },
+        "3": {
+            "strengths": [
+                "Extremely relevant and directly addresses the main paper's methodology and goals",
+                "Multiple results describe the specific multi-diagnostic emission line classification scheme",
+                "Provides details on the application to the RESOLVE and ECO surveys"
+            ],
+            "weaknesses": [
+                "Limited to discussing only the methods and initial results, lacking broader context"
+            ],
+            "summary": "This set is highly focused on the main paper and provides a comprehensive overview of the proposed multi-diagnostic emission line classification approach for identifying low-metallicity dwarf AGN candidates."
+        }
+    },
+    "comparison": {
+        "best_set": 3,
+        "justification": "Set 3 is clearly the most relevant and directly addresses the main paper's core methodology and goals. Multiple results provide detailed descriptions of the proposed multi-diagnostic emission line classification scheme and its application to the RESOLVE and ECO surveys to identify low-metallicity dwarf AGN candidates. For example, Result 1 outlines the key aspects of using the [NII]/Halpha, [SII]/Halpha, and [OI]/Halpha diagnostics in combination to identify a new category of 'star-forming AGN' in low-metallicity dwarfs. Result 3 then expands on these initial findings, quantifying the increased percentage of dwarf AGN identified compared to previous methods. This set gives the clearest understanding of the paper's novel approach.",
+        "key_differences": [
+            "Set 3 is laser-focused on the specific methods proposed in the main paper, while Sets 1 and 2 cover broader related topics",
+            "Set 3 goes into technical details on the multi-diagnostic classification scheme that are lacking in the other sets",
+            "Set 3 provides quantitative results on the increased dwarf AGN fractions identified using this new approach"
+        ],
+        "improvement_suggestions": [
+            "For Set 1, including more results specifically on low-metallicity AGN identification methods would increase the relevance",
+            "Set 2 could be improved by adding more technical details on the multi-diagnostic classification scheme itself, beyond just the motivation and goals",
+            "While very focused, Set 3 could benefit from some additional context on previous emission line diagnostic methods and their limitations for dwarf galaxies"
+        ]
+    }
+}

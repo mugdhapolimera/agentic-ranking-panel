@@ -1,0 +1,61 @@
+{
+  "individual_scores": {
+    "1": {
+      "score": 3,
+      "explanation": "Highly relevant. The paper identifies low-mass AGNs in dwarf galaxies using multi-diagnostic emission-line analysis and virial BH mass estimates, directly aligning with the main paper's focus on optical signatures of AGNs in low-mass galaxies. The methodology (SDSS data, emission-line diagnostics, broad H\u03b1) and mass range (10^5-10^6 M\u2299) closely match the main paper."
+    },
+    "2": {
+      "score": 2,
+      "explanation": "Relevant but broader in scope. While it investigates BH-galaxy scaling relations and includes low-mass BHs, the focus is on the M_BH-M_stellar relation across all masses rather than specifically identifying AGNs in dwarfs. The overlap in BH mass range and use of SDSS data make it partially aligned."
+    },
+    "3": {
+      "score": 2,
+      "explanation": "Partially relevant. The paper studies low-mass BHs at high redshift (z=4-11) using JWST, which differs from the main paper's local universe focus. However, the discussion of BH over-massiveness relative to hosts and challenges in optical diagnostics (e.g., metal-poor AGNs) connects to the main paper's themes."
+    },
+    "4": {
+      "score": 3,
+      "explanation": "Highly relevant. This work systematically identifies low-mass BHs in Seyfert 1 galaxies using SDSS, virial mass estimates, and optical diagnostics. The sample (M_BH ~10^5-10^6 M\u2299) and focus on AGN selection in low-mass hosts closely mirror the main paper's goals."
+    },
+    "5": {
+      "score": 3,
+      "explanation": "Highly relevant. This study confirms AGNs in nearby dwarfs using SDSS emission-line diagnostics and discusses BH masses (10^3-10^4 M\u2299) and AGN fractions, directly addressing the main paper's focus on optical signatures of low-mass BHs in dwarfs."
+    },
+    "6": {
+      "score": 2,
+      "explanation": "Relevant but narrower in focus. The paper evaluates transient vs. persistent broad H\u03b1 emission in dwarf AGN candidates, addressing a specific uncertainty in the main paper's methodology. While critical for validation, it is a follow-up study rather than a primary identification effort."
+    },
+    "7": {
+      "score": 2,
+      "explanation": "Partially relevant. The radio-based identification of off-nuclear BHs in dwarfs introduces a complementary method but diverges from the main paper's optical diagnostics. The focus on non-nuclear BHs is novel but less aligned with the main paper's central theme."
+    },
+    "8": {
+      "score": 3,
+      "explanation": "Highly relevant. This work confirms AGNs in dwarfs using X-ray/UV data, validating optical signatures. The overlap in sample selection (Reines et al. 2013) and BH mass range (10^4-10^6 M\u2299) strongly supports the main paper's findings."
+    },
+    "9": {
+      "score": 3,
+      "explanation": "Highly relevant. This paper develops optimized emission-line diagnostics (e.g., [S II]/H\u03b1 and [O I]/H\u03b1 diagrams) to identify dwarf AGNs, directly addressing the main paper's methodological core. The focus on low-metallicity AGNs and SF-AGN classification is closely aligned."
+    },
+    "10": {
+      "score": 1,
+      "explanation": "Marginally relevant. While it discusses a low-mass BH (log M_BH ~6.95) in a high-redshift galaxy, the focus on z=8.679 and JWST data diverges from the main paper's local universe context. The connection to BH seeding is tangential."
+    }
+  },
+  "overall_analysis": {
+    "strengths": [
+      "Multiple results (1, 4, 5, 8, 9) directly align with the main paper's focus on optical AGN identification in dwarfs, using similar methodologies (SDSS, emission-line diagnostics, virial masses).",
+      "Results 6 and 8 provide critical validation (multi-epoch spectroscopy and X-ray data) for AGN persistence and accretion, strengthening the main paper's conclusions.",
+      "Result 9's optimized diagnostics offer a methodological advancement directly applicable to the main paper's goals."
+    ],
+    "weaknesses": [
+      "Results 3 and 10 focus on high-redshift AGNs, which are less relevant to the main paper's local universe context.",
+      "Result 7's radio-based approach, while innovative, diverges from the optical methodology central to the main paper.",
+      "Result 2's broad scaling-relation focus dilutes its relevance to the specific topic of dwarf AGN identification."
+    ],
+    "suggestions": [
+      "Prioritize studies that explicitly address optical diagnostics and low-mass BH identification in the local universe.",
+      "Include multi-wavelength confirmations (e.g., X-ray, radio) to strengthen AGN validation in future work.",
+      "Explore the interplay between metallicity and AGN detectability in dwarf galaxies, as hinted in Results 3 and 9."
+    ]
+  }
+}

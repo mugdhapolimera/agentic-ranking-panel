@@ -1,0 +1,31 @@
+{
+    "individual_scores": {
+        "1": {"score": 3, "explanation": "This result is highly relevant to the main paper as it discusses the theoretical predictions and observations of the BPT diagram across cosmic time, which is the main focus of the main paper."},
+        "2": {"score": 3, "explanation": "This result is highly relevant as it investigates the impact of selection effects and evolution on AGN emission line diagnostics and the mass-metallicity relation up to redshift z~2, which aligns well with the main paper's topic."},
+        "3": {"score": 2, "explanation": "This result is relevant as it presents physical properties of emission-line galaxies at high redshift derived from near-infrared spectroscopy, which is related to the main paper's topic. However, it does not directly discuss the theoretical modeling of emission line ratios across cosmic time."},
+        "4": {"score": 3, "explanation": "This result is highly relevant as it measures rest-frame optical emission-line ratios of galaxies at z~1.5 and compares them with theoretical models, which is directly aligned with the main paper's methodology and topic."},
+        "5": {"score": 3, "explanation": "This result is highly relevant as it presents a new classification scheme for identifying dwarf AGN candidates using optimized emission-line diagnostics, which is directly related to the main paper's topic and methodology."},
+        "6": {"score": 2, "explanation": "This result is relevant as it discusses the mass-metallicity-star formation rate relation at high redshift, which is related to the main paper's topic. However, it does not directly focus on the theoretical modeling of emission line ratios across cosmic time."},
+        "7": {"score": 3, "explanation": "This result is highly relevant as it uses JWST data to measure rest-frame optical emission-line ratios of galaxies at z>2 and compares them with lower-redshift samples, which aligns well with the main paper's topic and methodology."},
+        "8": {"score": 2, "explanation": "This result is relevant as it investigates the excitation properties of star-forming galaxies at z~2.3 using emission-line diagnostic diagrams, which is related to the main paper's topic. However, it does not directly discuss the theoretical modeling of emission line ratios across cosmic time."},
+        "9": {"score": 2, "explanation": "This result is relevant as it investigates the physical conditions of ionized gas in high-redshift star-forming galaxies using emission-line diagnostic diagrams, which is related to the main paper's topic. However, it does not directly focus on the theoretical modeling of emission line ratios across cosmic time."},
+        "10": {"score": 2, "explanation": "This result is relevant as it presents new AGN diagnostic diagrams based on the [OIII]λ4363 auroral line, which is related to the main paper's topic of emission-line diagnostics. However, it does not directly discuss the theoretical modeling of emission line ratios across cosmic time."}
+    },
+    "overall_analysis": {
+        "strengths": [
+            "Several results are highly relevant and closely aligned with the main paper's topic and methodology, providing valuable insights and complementary perspectives.",
+            "The results cover a wide range of redshifts, from local galaxies to high-redshift sources, allowing for a comprehensive understanding of the evolution of emission line ratios across cosmic time.",
+            "The results incorporate both observational data and theoretical models, enabling a comparison between predictions and observations."
+        ],
+        "weaknesses": [
+            "Some results are tangential or only partially related to the main paper's focus on theoretical modeling of emission line ratios across cosmic time.",
+            "There is a lack of results directly discussing the main paper's specific methodology or the details of the theoretical models used.",
+            "The results do not provide a comprehensive evaluation or critique of the main paper's findings or methodology."
+        ],
+        "suggestions": [
+            "Include more results that directly discuss the theoretical models and methodologies used in the main paper, providing a more detailed evaluation and comparison.",
+            "Incorporate results that critically analyze the main paper's findings, strengths, and limitations, offering constructive feedback and alternative perspectives.",
+            "Expand the search to include preprints or conference proceedings that may have more up-to-date or complementary research related to the main paper's topic."
+        ]
+    }
+}

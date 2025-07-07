@@ -1,0 +1,156 @@
+{
+  "correlations": {
+    "claude": 0.6123724356957945,
+    "gemini": 0.2721655269759087,
+    "deepseek": 0.6085806194501846,
+    "consensus": NaN
+  },
+  "claude": {
+    "mae": 1.6,
+    "rmse": 1.7511900715418265,
+    "t_stat": -6.7434178433881975,
+    "t_p": 8.427518409605717e-05,
+    "wilcoxon_stat": 0.0,
+    "wilcoxon_p": 0.001953125,
+    "kappa": 0.0,
+    "bland_altman_mean_diff": 1.6,
+    "bland_altman_std_diff": 0.7118052168020874,
+    "confusion_matrix": [
+      [
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        2,
+        2,
+        6
+      ],
+      [
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0
+      ]
+    ]
+  },
+  "gemini": {
+    "mae": 0.2333333333333334,
+    "rmse": 0.31622776601683794,
+    "t_stat": -1.0000000000000002,
+    "t_p": 0.34343639613791355,
+    "wilcoxon_stat": 6.0,
+    "wilcoxon_p": 0.53125,
+    "kappa": 0.0,
+    "bland_altman_mean_diff": 0.10000000000000002,
+    "bland_altman_std_diff": 0.3,
+    "confusion_matrix": [
+      [
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        1,
+        9,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0
+      ]
+    ]
+  },
+  "deepseek": {
+    "mae": 1.7,
+    "rmse": 1.798147194568157,
+    "t_stat": -8.703865897025185,
+    "t_p": 1.1216560926215206e-05,
+    "wilcoxon_stat": 0.0,
+    "wilcoxon_p": 0.001953125,
+    "kappa": 0.0,
+    "bland_altman_mean_diff": 1.7,
+    "bland_altman_std_diff": 0.5859465277082315,
+    "confusion_matrix": [
+      [
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        1,
+        3,
+        6
+      ],
+      [
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0
+      ]
+    ]
+  },
+  "consensus": {
+    "mae": 1.0,
+    "rmse": 1.2909944487358056,
+    "t_stat": -1.7320508075688774,
+    "t_p": 0.22540333075851657,
+    "wilcoxon_stat": 0.0,
+    "wilcoxon_p": 0.5,
+    "kappa": 0.0,
+    "bland_altman_mean_diff": 1.0,
+    "bland_altman_std_diff": 0.816496580927726,
+    "confusion_matrix": [
+      [
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        1,
+        1,
+        1
+      ],
+      [
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0
+      ]
+    ]
+  }
+}

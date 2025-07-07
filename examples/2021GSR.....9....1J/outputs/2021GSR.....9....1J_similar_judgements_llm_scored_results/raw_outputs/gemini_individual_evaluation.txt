@@ -1,0 +1,103 @@
+```json
+{
+    "individual_scores": {
+        "1": {
+            "score": 1,
+            "explanation": "This paper discusses granular dynamics in microgravity with a focus on planet formation. While it mentions regolith and low-energy impacts, the primary focus is on the aggregation of smaller particles into pebbles. The main paper focuses on mass transfer events related to regolith adhesion, so this result is somewhat relevant but not a direct match."
+        },
+        "2": {
+            "score": 1,
+            "explanation": "This paper focuses on planetesimal formation via collisional accretion and the response of regolith to low-energy collisions in microgravity. It mentions the COLLIDE and PRIME experiments, which are related to the main paper's theme of regolith impacts. The use of a drop tower is also relevant. However, the focus on planetesimal formation makes it less directly relevant to the main paper's emphasis on adhesive response and mass transfer."
+        },
+        "3": {
+            "score": 1,
+            "explanation": "This paper focuses on mass transfer via low-velocity rebound in a microgravity environment. It mentions COLLIDE and PRIME experiments and the use of a drop tower. The focus on mass transfer is relevant, but the emphasis on rebound velocities and the growth of planetesimals makes it somewhat tangential to the main paper's focus on adhesive response and the specific parameters influencing mass transfer."
+        },
+        "4": {
+            "score": 1,
+            "explanation": "This paper focuses on regolith behavior under asteroid-level gravity conditions and low-velocity impact experiments. It discusses the PRIME and COLLIDE experiments and highlights the changes in regolith behavior with varying gravity levels. While relevant to the general topic of regolith impacts, the focus on gravity levels and ejecta production makes it less directly connected to the main paper's emphasis on adhesive response and mass transfer thresholds."
+        },
+        "5": {
+            "score": 1,
+            "explanation": "This paper focuses on mass transfer via low-velocity impacts into regolith. It mentions the COLLIDE and PRIME experiments and ground-based experiments simulating microgravity conditions. The focus on mass transfer is relevant, but the description of ground-based experiments and the plans for further microgravity experiments make it less directly related to the main paper's specific findings and parameters influencing mass transfer."
+        },
+        "6": {
+            "score": 1,
+            "explanation": "This paper focuses on multiple impacts of dust aggregates at velocities above the fragmentation threshold, studying mass-accretion efficiency and volume filling factor. The use of drop tower experiments under microgravity conditions is relevant. However, the focus on higher impact velocities and dust aggregate properties makes it less directly related to the main paper's emphasis on low-energy collisions and adhesive response."
+        },
+        "7": {
+            "score": 0,
+            "explanation": "This paper focuses on the growth of planetesimals by impacts at relatively high velocities (up to 25 m/s). While it involves impact experiments, the high velocities and focus on planetesimal growth make it irrelevant to the main paper's focus on low-energy collisions and adhesive response."
+        },
+        "8": {
+            "score": 1,
+            "explanation": "This paper focuses on ejecta production in microgravity from low-velocity impacts in regolith, reporting results from the PRIME campaign. While relevant to the general topic of regolith impacts and microgravity conditions, the emphasis on ejecta velocities and coefficients of restitution makes it less directly connected to the main paper's emphasis on adhesive response and mass transfer events."
+        },
+        "9": {
+            "score": 1,
+            "explanation": "This paper focuses on impacts into weak dust targets under microgravity conditions and the formation of planetesimals. The use of drop tower experiments is relevant. However, the focus on mass loss, ejecta velocities, and planetesimal formation makes it less directly related to the main paper's emphasis on adhesive response and specific parameters influencing mass transfer in low-energy collisions."
+        },
+        "10": {
+            "score": 1,
+            "explanation": "This paper focuses on ejecta from impacts at 0.2-2.3 m/s in low gravity conditions. While it involves microgravity impact experiments and the use of regolith simulant, the emphasis on ejecta velocities and masses makes it less directly connected to the main paper's emphasis on adhesive response and mass transfer thresholds."
+        },
+        "11": {
+            "score": 1,
+            "explanation": "This paper discusses low-velocity collisions of centimeter-sized dust aggregates, focusing on bouncing, fragmentation, and mass transfer in free particle-particle collisions. The use of a drop tower to simulate microgravity is relevant. The focus on fragmentation and the critical energy for disruptive collisions is related, but the results are not directly on the adhesive response of regolith."
+        },
+        "12": {
+            "score": 1,
+            "explanation": "This paper presents results from the COLLIDE-2 experiment, focusing on low velocity impacts into dust. It includes coefficients of restitution, ejecta velocities, and limits on ejecta masses. The microgravity aspect is relevant, but the focus is on ejecta and the impact parameters are not exactly aligned with the main paper."
+        },
+        "13": {
+            "score": 0,
+            "explanation": "This paper presents low-velocity impact simulations with pkdgrav and Chrono. The paper focuses on numerical simulations, the material properties of the glass beads, and performance comparisons of the two codes. Since this is a simulation, and not specifically focused on mass transfer or adhesive properties, it is not relevant."
+        },
+        "14": {
+            "score": 0,
+            "explanation": "This paper presents collision experiments of decimeter dust in microgravity. The velocity range is similar to the main paper, but the scale of the dust aggregates is far larger. While relevant to collisions, the specific focus on decimeter-sized bodies and their fragmentation is not relevant to the adhesive response of smaller regolith particles."
+        },
+        "15": {
+            "score": 0,
+            "explanation": "This paper presents collisions between centimeter and decimeter dust agglomerates. The focus is on the accretion efficiency and critical fragmentation strength. It is not directly relevant to the main paper's investigation of the adhesive response of regolith."
+        },
+        "16": {
+            "score": 0,
+            "explanation": "This paper is about momentum transfer in regolith-like targets using an electro-thermal accelerator. While relevant to impacts, the methodology and focus are different. The primary paper looks at low-energy disturbances and mass transfer, while this result is looking at momentum transfer and cratering, which is not relevant."
+        },
+        "17": {
+            "score": 1,
+            "explanation": "This paper describes the COLLIDE experiment, a microgravity experiment studying low-velocity collisions into a simulated regolith. It reports very little dust ejecta was produced and provides coefficients of restitution. The experiment being in microgravity is relevant. Overall, it is related but not as closely aligned with the specific focus of the main paper."
+        },
+        "18": {
+            "score": 1,
+            "explanation": "This paper focuses on slow impacts on surfaces of small bodies, examining the coefficient of restitution and penetration depth into the regolith. It highlights the differences in impact behavior between microgravity and 1g conditions. The results are about regolith, the methodology is experiments, but the results are about rebound and penetration depth, and not adhesive response."
+        },
+        "19": {
+            "score": 0,
+            "explanation": "This paper presents experiments on sticking, restructuring, and fragmentation of preplanetary dust aggregates. While it mentions microgravity experiments, the focus is on aggregate behavior and the formation of dust layers. The focus is not the specific parameters of mass transfer."
+        },
+        "20": {
+            "score": 0,
+            "explanation": "This paper focuses on low-energy impacts onto lunar regolith simulant, primarily focusing on ejecta mass and velocity distributions. It describes experiments under both 1g and microgravity conditions. The experiments are low-energy impacts, but not about mass transfer."
+        }
+    },
+    "overall_analysis": {
+        "strengths": [
+            "Several results focus on low-velocity impacts into regolith simulant under microgravity conditions, which is directly relevant to the main paper.",
+            "Some results describe experiments conducted using drop towers and parabolic flights, similar to the methodology described in the main paper.",
+            "A few results mention the COLLIDE and PRIME experiments, indicating a connection to related research efforts."
+        ],
+        "weaknesses": [
+            "Many results focus on ejecta production, coefficients of restitution, and fragmentation, which are related but not the primary focus of the main paper.",
+            "Some results investigate higher impact velocities or different size scales (e.g., decimeter-sized bodies), making them less directly relevant.",
+            "A few results focus on numerical simulations or specific experimental setups, rather than the adhesive response and mass transfer events emphasized in the main paper."
+        ],
+        "suggestions": [
+            "Focus on results that explicitly mention mass transfer events or adhesive properties of regolith.",
+            "Prioritize results that investigate low-energy collisions with impact velocities and particle sizes similar to those described in the main paper.",
+            "Look for results that specifically address the influence of microgravity on mass transfer events and the role of rebound accelerations."
+        ]
+    }
+}
+```

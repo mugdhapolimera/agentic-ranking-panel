@@ -1,0 +1,34 @@
+{
+    "individual_scores": {
+        "1": {"score": 3, "explanation": "This result is highly relevant to the main paper as it describes a new sample of AGN dwarf galaxies identified using spatially-resolved spectroscopy and emission-line diagnostics, which is closely aligned with the methodology of the main paper."},
+        "2": {"score": 3, "explanation": "This result is highly relevant as it reports on the identification of a large number of dwarf AGN candidates using data from the DESI survey and emission-line diagnostics, which is directly related to the topic and methodology of the main paper."},
+        "3": {"score": 2, "explanation": "This result is relevant as it investigates the reliability of the BPT diagram for identifying AGN in galaxies, including the presence of X-ray AGN in the star-forming region of the diagram. However, it does not specifically focus on dwarf galaxies or optimized emission-line diagnostics."},
+        "4": {"score": 2, "explanation": "This result is relevant as it investigates AGN activity in low-mass galaxies using various emission-line diagnostics and multi-wavelength data. However, it does not specifically focus on optimizing the emission-line diagnostics for low-metallicity dwarfs."},
+        "5": {"score": 2, "explanation": "This result is relevant as it investigates AGN-like emission-line ratios in low-mass quiescent galaxies using the BPT diagram. However, it does not directly address the issue of optimizing emission-line diagnostics for identifying AGN in low-metallicity dwarf galaxies."},
+        "6": {"score": 3, "explanation": "This result is highly relevant as it presents a sample of dwarf galaxies with optical spectroscopic signatures of accreting massive black holes, which is directly related to the main paper's topic and methodology."},
+        "7": {"score": 2, "explanation": "This result is relevant as it presents a sample of low-mass black holes in active galaxies identified using emission-line diagnostics. However, it does not specifically focus on optimizing the diagnostics for low-metallicity dwarf galaxies."},
+        "8": {"score": 2, "explanation": "This result is relevant as it investigates emission-line diagnostics for identifying low-metallicity AGN. However, it does not specifically focus on dwarf galaxies or optimizing the diagnostics for this population."},
+        "9": {"score": 2, "explanation": "This result is relevant as it presents theoretical models for emission-line diagnostics in star-forming galaxies, including low-metallicity galaxies. However, it does not directly address the issue of optimizing diagnostics for identifying AGN in low-metallicity dwarfs."},
+        "10": {"score": 2, "explanation": "This result is relevant as it presents X-ray and UV observations of AGN candidates in nearby dwarf galaxies. However, it does not directly address the issue of optimizing emission-line diagnostics for identifying these AGN."},
+        "11": {"score": 1, "explanation": "This result is somewhat relevant as it discusses separating line emission from different ionization sources in NGC 1068. However, it does not directly address the issue of identifying AGN in low-metallicity dwarf galaxies or optimizing emission-line diagnostics for this purpose."},
+        "12": {"score": 2, "explanation": "This result is relevant as it investigates the physical properties of the narrow-line region in low-mass active galaxies, which is related to the main paper's topic. However, it does not specifically focus on optimizing emission-line diagnostics for identifying AGN in low-metallicity dwarfs."},
+        "13": {"score": 1, "explanation": "This result is only somewhat relevant as it discusses the multimessenger signatures of massive black holes in dwarf galaxies from simulations. However, it does not directly address the issue of identifying AGN in low-metallicity dwarfs using emission-line diagnostics."}
+    },
+    "overall_analysis": {
+        "strengths": [
+            "Several results are highly relevant and closely aligned with the main paper's topic and methodology, presenting new samples of dwarf AGN candidates identified using optimized emission-line diagnostics.",
+            "Many results investigate relevant topics such as AGN in low-mass galaxies, emission-line diagnostics for low-metallicity galaxies, and the properties of narrow-line regions in low-mass AGN.",
+            "The results cover a wide range of approaches, including observational studies, theoretical modeling, and multimessenger signatures."
+        ],
+        "weaknesses": [
+            "Some results are only tangentially related to the main paper's specific focus on optimizing emission-line diagnostics for identifying AGN in low-metallicity dwarf galaxies.",
+            "A few results are not directly relevant to the main paper's topic or methodology.",
+            "There is a lack of results that directly compare the performance of different emission-line diagnostics for identifying AGN in low-metallicity dwarfs."
+        ],
+        "suggestions": [
+            "Future work could focus on directly comparing the performance of different emission-line diagnostics, such as the BPT diagram, [S II]/Hα, and [O I]/Hα, in identifying AGN in low-metallicity dwarf galaxies.",
+            "Additional studies could investigate the impact of various factors, such as metallicity, ionization parameter, and gas density, on the emission-line ratios of AGN in low-metallicity dwarfs.",
+            "Combining multi-wavelength data, such as X-ray and radio observations, with optimized emission-line diagnostics could provide a more comprehensive understanding of AGN in low-metallicity dwarfs."
+        ]
+    }
+}

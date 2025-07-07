@@ -1,0 +1,64 @@
+```json
+{
+    "individual_scores": {
+        "1": {
+            "score": 3,
+            "explanation": "This paper focuses on the theoretical evolution of optical strong lines, including the use of the BPT diagram to investigate the spectral properties of active galaxies. It directly relates to the main paper's focus on optical emission-line diagnostics for identifying AGN, particularly in the context of low-metallicity galaxies. The use of photoionization models and the discussion of metallicity sensitivity align well with the main paper's methodology and findings."
+        },
+        "2": {
+            "score": 3,
+            "explanation": "This result is highly relevant. It specifically mentions the RESOLVE and ECO surveys, the BPT diagnostic plot, and the identification of 'star-forming AGN' (SF-AGN) using alternative diagnostic plots. The abstract directly addresses the main paper's research question of finding AGN in dwarf galaxies and uses a similar multi-diagnostic approach. It also provides quantitative results on the AGN percentage, making it highly valuable."
+        },
+        "3": {
+            "score": 3,
+            "explanation": "This paper examines emission-line ratios at z ~ 1.5 and compares different diagnostic diagrams for separating AGN from star-forming galaxies. It is highly relevant because it directly addresses the effectiveness of different emission-line diagnostics, a key focus of the main paper. The discussion of redshift evolution and the use of photoionization models further strengthens its relevance."
+        },
+        "4": {
+            "score": 3,
+            "explanation": "This paper is highly relevant as it focuses on refining strong line diagnostic classifications using the MaNGA survey. It mentions several of the key emission-line ratios discussed in the main paper ([S II]/Hα, [N II]/Hα, [O I]/Hα, and [O III]/Hβ) and discusses how to improve the reliability of these diagnostics for identifying different ionization sources (H II regions, AGN, LINERs). The focus on improving diagnostic boundaries aligns closely with the main paper's goal of optimizing emission-line diagnostics."
+        },
+        "5": {
+            "score": 3,
+            "explanation": "This paper directly addresses the use of emission-line diagrams, including BPT diagrams, for characterizing star-forming galaxies at high redshift using JWST/NIRSpec data. The discussion of different emission-line ratios ([O III]/Hβ, [N II]/Hα, [S II]/Hα, [O I]/Hα) and ionization-metallicity diagrams aligns very well with the main paper's focus on emission-line diagnostics and their application to understanding galaxy properties.  The comparison of high-redshift galaxies with local counterparts adds to its relevance."
+        },
+        "6": {
+            "score": 3,
+            "explanation": "This paper directly addresses the limitations of classical diagnostic diagrams like the BPT diagram and proposes alternative diagrams for classifying galaxies, particularly weak line galaxies (WLGs). The focus on improving classification schemes and using alternative line ratios makes it highly relevant to the main paper's goal of optimizing emission-line diagnostics for identifying AGN. It also addresses the issue of galaxies being missed by traditional methods, which is a key motivation of the main paper."
+        },
+        "7": {
+            "score": 3,
+            "explanation": "This paper presents optical narrow-line ratios in a sample of type 1 AGN and explores their positions in BPT diagrams. It directly relates to the main paper's investigation of emission-line diagnostics for identifying AGN. The discussion of the BPT diagram, line luminosities, and the impact of star formation contributes directly to the main paper's topic."
+        },
+        "8": {
+            "score": 3,
+            "explanation": "This paper studies the excitation properties of z ∼ 2.3 galaxies using emission-line diagnostic diagrams, including BPT diagrams. The investigation of [O iii]/Hβ vs. [N ii]/Hα and [O iii]/Hβ vs. [S ii]/Hα directly relates to the main paper's focus on emission-line diagnostics. The discussion of offsets in the star-forming sequence and the role of N/O abundance ratios enhances its relevance."
+        },
+        "9": {
+            "score": 3,
+            "explanation": "This paper investigates the excitation properties of high-z galaxies and the impact of AGN, shocks, and photoionization using spatially resolved data. It directly addresses the challenges of interpreting emission line ratios and the influence of different ionization sources, which aligns with the main paper's objectives. The discussion of the BPT diagram and the Mass-Excitation diagnostic adds to its relevance."
+        },
+        "10": {
+            "score": 3,
+            "explanation": "This paper investigates the physical conditions of ionized gas in high-z star-forming galaxies using diagnostic diagrams based on rest-frame optical emission lines. The confirmation of an offset in the BPT diagram and the discussion of factors such as ionization parameter, gas density, and the ionizing radiation field are highly relevant to the main paper's exploration of emission-line diagnostics. The exclusion of AGN ionization based on Chandra observations is also relevant."
+        }
+    },
+    "overall_analysis": {
+        "strengths": [
+            "Strong focus on emission-line diagnostics and their application to identifying AGN.",
+            "Several papers specifically mention and utilize the BPT diagram.",
+            "Many papers explore the limitations of traditional diagnostics and propose alternative methods.",
+            "Multiple papers use and discuss the RESOLVE and ECO surveys.",
+            "Significant attention to the effects of metallicity, redshift, and ionization sources on emission-line ratios."
+        ],
+        "weaknesses": [
+            "Some papers focus on high-redshift galaxies, while the main paper focuses on z ~ 0 dwarfs, potentially limiting the direct applicability of some findings.",
+            "The range of galaxy types and environments studied may introduce some heterogeneity in the results."
+        ],
+        "suggestions": [
+            "Further investigate the specific adaptations of emission-line diagnostics required for low-metallicity dwarf galaxies based on the findings from high-redshift studies.",
+            "Compare the effectiveness of different diagnostic diagrams across a wider range of galaxy types and environments to identify the most robust methods.",
+            "Explore the use of machine learning techniques to further optimize emission-line diagnostics and improve the accuracy of AGN identification."
+        ]
+    }
+}
+```

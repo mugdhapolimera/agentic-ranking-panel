@@ -1,0 +1,64 @@
+
+
+```json
+{
+    "individual_scores": {
+        "1": {
+            "score": 3,
+            "explanation": "This paper focuses on theoretical models of emission-line diagnostics (including BPT diagrams) and AGN-star-forming galaxy mixing sequences, closely aligning with the main paper's methodology. While it examines high-redshift galaxies, the core focus on metallicity-sensitive line ratios and AGN identification methods is highly relevant."
+        },
+        "2": {
+            "score": 3,
+            "explanation": "Directly uses RESOLVE/ECO surveys, introduces SF-AGN classification, and employs multi-diagnostic methods (including BPT alternatives). This appears to be a companion study or follow-up to the main paper, addressing identical goals and datasets."
+        },
+        "3": {
+            "score": 3,
+            "explanation": "Investigates alternative emission-line diagrams (e.g., [Ne III]/[O II]) for AGN identification at high-z. While redshift differs from the main paper, the methodology of optimizing diagnostics for metallicity biases and AGN separation is closely aligned."
+        },
+        "4": {
+            "score": 3,
+            "explanation": "Refines BPT classifications using spatially resolved dynamics and metallicity trends. Highly relevant to the main paper's goal of improving AGN identification, though focused on general galaxies rather than dwarfs specifically."
+        },
+        "5": {
+            "score": 3,
+            "explanation": "Explores JWST-era emission-line diagnostics, including BPT and metallicity-sensitive diagrams. While focused on high-z, the methodological overlap with the main paper's optimization of line ratios for AGN detection is strong."
+        },
+        "6": {
+            "score": 3,
+            "explanation": "Addresses classification limitations of traditional BPT and introduces alternative diagrams to recover overlooked AGN. Directly parallels the main paper's goal of improving AGN identification in underrepresented populations."
+        },
+        "7": {
+            "score": 3,
+            "explanation": "Analyzes BPT positions of type 1 AGN and discusses metallicity trends. While not dwarf-specific, the focus on AGN-host metallicity correlations and BPT classification challenges aligns with the main paper's themes."
+        },
+        "8": {
+            "score": 3,
+            "explanation": "Examines BPT offsets in high-z galaxies linked to metallicity and N/O ratios. Though redshift differs, the analysis of metallicity-driven biases in line ratios directly supports the main paper's methodology."
+        },
+        "9": {
+            "score": 3,
+            "explanation": "Studies composite BPT regions and shocks/AGN effects on line ratios. Relevant to the main paper's exploration of ambiguous AGN classifications, though focused on high-z dynamics."
+        },
+        "10": {
+            "score": 3,
+            "explanation": "Investigates BPT offsets and metallicity in high-z galaxies, emphasizing ionization parameter effects. Methodologically aligned with the main paper's focus on metallicity-sensitive diagnostics, despite redshift differences."
+        }
+    },
+    "overall_analysis": {
+        "strengths": [
+            "High relevance to emission-line diagnostics and AGN classification methodologies",
+            "Strong alignment with metallicity effects on line ratios",
+            "Multiple papers address BPT limitations and propose alternative diagrams"
+        ],
+        "weaknesses": [
+            "Several studies focus on high-redshift galaxies, diverging from the main paper's z~0 focus",
+            "Few papers explicitly target low-metallicity dwarfs, the main paper's core population"
+        ],
+        "suggestions": [
+            "Prioritize studies specifically analyzing low-metallicity dwarfs in the local universe",
+            "Include more papers using RESOLVE/ECO or similar volume-limited surveys",
+            "Seach for works discussing intermediate-mass black holes in dwarfs to strengthen AGN relevance"
+        ]
+    }
+}
+```

@@ -1,0 +1,63 @@
+```json
+{
+    "individual_scores": {
+        "1": {
+            "score": 3,
+            "explanation": "This result is highly relevant. It focuses on identifying low-mass galaxies with AGN signatures, similar to the main paper. The abstract explicitly mentions dwarf galaxies and the search for massive black holes using spectroscopic signatures. The stellar mass range considered aligns with the main paper. The use of emission-line diagnostics further strengthens the relevance."
+        },
+        "2": {
+            "score": 2,
+            "explanation": "This result is relevant as it explores the relationship between black hole mass and host galaxy stellar mass, a topic related to the main paper's focus on dwarf galaxies hosting massive black holes. While it doesn't exclusively focus on dwarf galaxies, it includes them in the sample and uses similar methods (SDSS spectroscopy, virial BH mass estimation). The inclusion of AGNs and low-mass BHs connects it to the main paper."
+        },
+        "3": {
+            "score": 2,
+            "explanation": "This result is relevant due to its focus on identifying accreting supermassive black holes. Although it is at a higher redshift than the main paper, it still touches upon similar methodologies such as emission line detection and black hole mass estimation. The result discusses the location of these AGNs on the narrow-line excitation-diagnostic diagrams, which is directly relevant to the main paper's methodology."
+        },
+        "4": {
+            "score": 2,
+            "explanation": "This result is relevant because it discusses a systematic search for low-mass black holes in active galactic nuclei using broad Hα emission lines. The use of SDSS data and virial mass estimation techniques aligns well with the main paper's approach. The focus on low-mass BHs makes it a relevant contribution."
+        },
+        "5": {
+            "score": 3,
+            "explanation": "This result is highly relevant. It focuses specifically on identifying AGNs in nearby dwarf galaxies using optical emission-line diagnostics, mirroring the main paper's objective and methodology. The mention of intermediate-mass black holes (IMBHs) and the focus on the least massive objects containing central black holes make it highly aligned with the main paper."
+        },
+        "6": {
+            "score": 3,
+            "explanation": "This result is highly relevant. It uses multi-epoch spectroscopy to confirm the AGN nature of candidate dwarf galaxies, building directly upon the work of Reines et al. (2013), which is likely the source of the main paper. The mention of persistent broad Hα emission and the measurement of stellar velocity dispersions in low-mass galaxies are strong indicators of relevance. The objects studied are directly related to those identified as AGN candidates in the main paper."
+        },
+        "7": {
+            "score": 2,
+            "explanation": "This result is relevant as it identifies massive black holes in dwarf galaxies, although using a different selection method (radio observations). The discovery of non-nuclear BHs and the discussion of BH seed formation are related to the main paper's themes. The mention of dwarf galaxy stellar masses being less than 3e9 Msun is also relevant."
+        },
+        "8": {
+            "score": 2,
+            "explanation": "This result is relevant because it confirms the presence of actively accreting black holes in dwarf galaxies using X-ray and UV observations. It builds upon the optical selection of Reines et al. (2013) and provides further evidence for the AGN nature of these sources. The mention of BH masses and Eddington fractions aligns with the main paper's interests."
+        },
+        "9": {
+            "score": 3,
+            "explanation": "This result is highly relevant as it proposes an improved method to find AGN in dwarf galaxies with low metallicity. The use of RESOLVE and ECO surveys and the discussion of emission line diagnostics are highly relevant and the paper directly addresses the limitations of standard techniques in identifying dwarf AGN."
+        },
+        "10": {
+            "score": 1,
+            "explanation": "This result is somewhat relevant as it focuses on a high redshift object. Although this paper describes the discovery of an accreting supermassive black hole, it is found at a much higher redshift (z = 8.679) than the dwarf galaxies studied in the main paper (z < 0.055) and, while it touches on similar topics, does not have a specific focus on dwarf galaxies or black hole mass estimates in local galaxies."
+        }
+    },
+    "overall_analysis": {
+        "strengths": [
+            "The results collectively provide strong support for the existence and prevalence of AGN in dwarf galaxies.",
+            "Several results build directly upon the methodologies and findings of the main paper and related works.",
+            "The results explore different observational wavelengths (optical, radio, X-ray, UV) to confirm the presence of accreting black holes.",
+            "The results address the challenges in identifying AGN in low-metallicity and star-forming dwarf galaxies."
+        ],
+        "weaknesses": [
+            "Some results are more tangential, focusing on higher-redshift objects or exploring scaling relations without a specific focus on dwarf galaxies.",
+            "There is some redundancy in the results, with multiple papers building upon the same initial samples (e.g., Reines et al. 2013)."
+        ],
+        "suggestions": [
+            "Future searches could focus on combining different selection methods (optical, radio, X-ray) to create a more complete sample of AGN in dwarf galaxies.",
+            "More detailed studies of the host galaxy properties (metallicity, star formation history, morphology) are needed to understand the co-evolution of black holes and their hosts.",
+            "Theoretical modeling of black hole accretion and feedback in low-mass galaxies is needed to interpret the observational results."
+        ]
+    }
+}
+```

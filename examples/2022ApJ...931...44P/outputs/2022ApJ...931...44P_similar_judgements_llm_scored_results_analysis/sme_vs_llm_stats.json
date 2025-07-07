@@ -1,0 +1,156 @@
+{
+  "correlations": {
+    "claude": 1.0,
+    "gemini": NaN,
+    "deepseek": NaN,
+    "consensus": 0.5091750772173155
+  },
+  "claude": {
+    "mae": 0.0,
+    "rmse": 0.0,
+    "t_stat": NaN,
+    "t_p": NaN,
+    "wilcoxon_stat": 0.0,
+    "wilcoxon_p": 1.0,
+    "kappa": 1.0,
+    "bland_altman_mean_diff": 0.0,
+    "bland_altman_std_diff": 0.0,
+    "confusion_matrix": [
+      [
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        1,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        9
+      ]
+    ]
+  },
+  "gemini": {
+    "mae": 0.2,
+    "rmse": 0.6324555320336759,
+    "t_stat": -1.0,
+    "t_p": 0.34343639613791355,
+    "wilcoxon_stat": 0.0,
+    "wilcoxon_p": 1.0,
+    "kappa": 0.0,
+    "bland_altman_mean_diff": 0.2,
+    "bland_altman_std_diff": 0.6000000000000001,
+    "confusion_matrix": [
+      [
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        9
+      ]
+    ]
+  },
+  "deepseek": {
+    "mae": 0.2,
+    "rmse": 0.6324555320336759,
+    "t_stat": -1.0,
+    "t_p": 0.34343639613791355,
+    "wilcoxon_stat": 0.0,
+    "wilcoxon_p": 1.0,
+    "kappa": 0.0,
+    "bland_altman_mean_diff": 0.2,
+    "bland_altman_std_diff": 0.6000000000000001,
+    "confusion_matrix": [
+      [
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        9
+      ]
+    ]
+  },
+  "consensus": {
+    "mae": 0.3,
+    "rmse": 0.5477225575051661,
+    "t_stat": 0.5570860145311556,
+    "t_p": 0.5910512317836047,
+    "wilcoxon_stat": 2.0,
+    "wilcoxon_p": 1.0,
+    "kappa": 0.48275862068965514,
+    "bland_altman_mean_diff": -0.1,
+    "bland_altman_std_diff": 0.5385164807134504,
+    "confusion_matrix": [
+      [
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        1,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        2,
+        7
+      ]
+    ]
+  }
+}

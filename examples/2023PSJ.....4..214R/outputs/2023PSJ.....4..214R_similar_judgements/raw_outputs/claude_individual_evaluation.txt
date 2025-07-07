@@ -1,0 +1,41 @@
+{
+    "individual_scores": {
+        "1": {"score": 3, "explanation": "This result is highly relevant as it discusses JWST observations of a supernova, including near-infrared and mid-infrared spectra, which aligns with the methodology of the main paper using JWST to observe the Didymos asteroid system in those wavelength ranges."},
+        "2": {"score": 3, "explanation": "This result is highly relevant as it directly discusses JWST observations of the Didymos asteroid system and the DART impact, which is the focus of the main paper."},
+        "3": {"score": 3, "explanation": "This result is highly relevant as it discusses JWST observations of an exoplanet atmosphere, including near-infrared transmission spectroscopy, which is relevant to the methodology of the main paper using JWST spectroscopy."},
+        "4": {"score": 3, "explanation": "This result is highly relevant as it discusses JWST mid-infrared observations of a supernova, which aligns with the methodology of the main paper using JWST mid-infrared spectroscopy of the Didymos asteroid system."},
+        "5": {"score": 2, "explanation": "This result is relevant as it discusses observations of the Didymos asteroid system, including its brightness phase curve, but it does not directly involve JWST observations, which are the focus of the main paper's methodology."},
+        "6": {"score": 3, "explanation": "This result is highly relevant as it discusses the DART impact into the Dimorphos asteroid and the role of JWST observations in studying the event, which is the focus of the main paper."},
+        "7": {"score": 2, "explanation": "This result is somewhat relevant as it discusses mid-infrared spectroscopy of asteroids, but it focuses on data from the Spitzer Space Telescope rather than JWST, which is the focus of the main paper's methodology."},
+        "8": {"score": 2, "explanation": "This result is somewhat relevant as it discusses JWST mid-infrared observations of an exoplanet atmosphere, which is related to the methodology of the main paper, but it does not directly involve observations of the Didymos asteroid system."},
+        "9": {"score": 1, "explanation": "This result is only tangentially relevant as it discusses theoretical models of brown dwarfs, which is not directly related to the topic of the Didymos asteroid system or the methodology of using JWST observations."},
+        "10": {"score": 2, "explanation": "This result is somewhat relevant as it discusses JWST mid-infrared spectroscopy of a protoplanetary disk, which is related to the methodology of the main paper, but it does not directly involve observations of the Didymos asteroid system."},
+        "11": {"score": 2, "explanation": "This result is somewhat relevant as it discusses planned JWST observations of Jupiter Trojan asteroids, which are related to the Didymos asteroid system, but it does not present actual observations or results."},
+        "12": {"score": 2, "explanation": "This result is somewhat relevant as it discusses JWST mid-infrared spectroscopy of protoplanetary disks, which is related to the methodology of the main paper, but it does not directly involve observations of the Didymos asteroid system."},
+        "13": {"score": 3, "explanation": "This result is highly relevant as it discusses near-infrared spectroscopy of the Didymos asteroid system before and after the DART impact, which is directly related to the topic and methodology of the main paper."},
+        "14": {"score": 2, "explanation": "This result is somewhat relevant as it discusses JWST mid-infrared spectroscopy of a protoplanetary disk, which is related to the methodology of the main paper, but it does not directly involve observations of the Didymos asteroid system."},
+        "15": {"score": 3, "explanation": "This result is highly relevant as it discusses pre-impact observations and modeling of the Didymos asteroid system, which is directly related to the topic and methodology of the main paper."},
+        "16": {"score": 2, "explanation": "This result is somewhat relevant as it discusses mid-infrared spectroscopy of asteroids using Spitzer data, which is related to the methodology of the main paper, but it does not directly involve observations of the Didymos asteroid system or JWST data."},
+        "17": {"score": 3, "explanation": "This result is highly relevant as it discusses observations of boulder fractures on the Dimorphos asteroid, which is directly related to the topic and methodology of the main paper studying the Didymos system after the DART impact."},
+        "18": {"score": 2, "explanation": "This result is somewhat relevant as it discusses JWST near-infrared spectroscopy of a dwarf planet, which is related to the methodology of the main paper, but it does not directly involve observations of the Didymos asteroid system."},
+        "19": {"score": 2, "explanation": "This result is somewhat relevant as it discusses JWST near-infrared and mid-infrared spectroscopy of a brown dwarf, which is related to the methodology of the main paper, but it does not directly involve observations of the Didymos asteroid system."},
+        "20": {"score": 3, "explanation": "This result is highly relevant as it provides a summary and analysis of the DART mission's achievement of its planetary defense requirements, which is directly related to the topic and methodology of the main paper studying the Didymos asteroid system and the DART impact."}
+    },
+    "overall_analysis": {
+        "strengths": [
+            "Several results are highly relevant and closely aligned with the main paper's topic and methodology, providing valuable context and related research.",
+            "A good number of results discuss JWST observations, particularly in the near-infrared and mid-infrared ranges, which is directly relevant to the main paper's methodology.",
+            "Some results provide specific details and analysis of the Didymos asteroid system and the DART impact, which is the central focus of the main paper."
+        ],
+        "weaknesses": [
+            "A few results are only tangentially related to the main paper's topic or methodology, discussing unrelated objects or theoretical models.",
+            "Some results discuss observations from other telescopes or missions, such as Spitzer, rather than JWST, which is the main focus of the main paper's methodology.",
+            "There are limited results discussing the specific spectroscopic analysis techniques or methodologies used in the main paper."
+        ],
+        "suggestions": [
+            "Include more results that directly discuss the spectroscopic analysis techniques and methodologies used in the main paper, such as the specific data processing and modeling approaches.",
+            "Provide additional results that focus on JWST observations of other asteroids or small bodies, as this could provide valuable context and comparison points for the Didymos observations.",
+            "Consider including results that discuss the broader implications or applications of the Didymos observations and the DART impact for planetary defense or asteroid science."
+        ]
+    }
+}

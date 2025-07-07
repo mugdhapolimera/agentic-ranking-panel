@@ -1,0 +1,9 @@
+{
+  "correlations": {
+    "claude": 0.6614378277661475,
+    "gemini": NaN,
+    "deepseek": 0.24999999999999994,
+    "consensus": 0.31622776601683783
+  },
+  "output_file": "examples/2019AcAau.155..131J/outputs/2019AcAau.155..131J_similar_judgements_llm_scored_results.json"
+}

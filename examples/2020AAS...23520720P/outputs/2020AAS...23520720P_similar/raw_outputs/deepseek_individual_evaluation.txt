@@ -1,0 +1,64 @@
+
+
+```json
+{
+    "individual_scores": {
+        "1": {
+            "score": 3,
+            "explanation": "This paper is the same as the main paper, sharing identical methodology (multi-diagnostic classification, SF-AGN concept), datasets (RESOLVE/ECO), and conclusions. Directly aligned in topic and approach."
+        },
+        "2": {
+            "score": 3,
+            "explanation": "A follow-up study by the same team using RESOLVE/ECO data and the same multi-diagnostic approach. Focuses on multiwavelength AGN census and SF-AGN, closely mirroring the main paper's goals."
+        },
+        "3": {
+            "score": 2,
+            "explanation": "Relevant (AGN in dwarfs with SF-AGN-like classifications) but uses MaNGA spatially resolved spectroscopy, differing in survey and methodology. Less focused on low-metallicity AGN."
+        },
+        "4": {
+            "score": 2,
+            "explanation": "X-ray AGN census in dwarfs; complementary to the main paper's external X-ray validation but uses a different primary method. Indirect relevance to AGN identification in dwarfs."
+        },
+        "5": {
+            "score": 3,
+            "explanation": "Appears to be an extended analysis of the same RESOLVE/ECO datasets with identical SF-AGN methodology and conclusions. Directly aligned with the main paper's topic and approach."
+        },
+        "6": {
+            "score": 2,
+            "explanation": "Focuses on weak-line galaxies and alternative diagnostics, overlapping with the main paper’s use of multi-diagnostic diagrams. Relevant but not specific to dwarfs/low-metallicity AGN."
+        },
+        "7": {
+            "score": 2,
+            "explanation": "Identifies dwarf AGN via BPT and broad Hα in DESI data. Shares the goal of increasing AGN counts in dwarfs but lacks the main paper’s multi-diagnostic focus on low-metallicity systems."
+        },
+        "8": {
+            "score": 1,
+            "explanation": "Proposes new diagnostics (DEW diagram) but focuses on general AGN/SF separation, not low-metallicity dwarfs. Some relevance to emission-line methods but tangential to the main paper."
+        },
+        "9": {
+            "score": 3,
+            "explanation": "Directly addresses low-metallicity AGN diagnostics using SDSS data and photoionization models. Aligns closely with the main paper’s metallicity sensitivity analysis and methodology."
+        },
+        "10": {
+            "score": 2,
+            "explanation": "Examines AGN/ULX separation in metal-poor dwarfs with photoionization models. Relevant to low-metallicity AGN but focuses on IMBH/ULX confusion, differing in emphasis."
+        }
+    },
+    "overall_analysis": {
+        "strengths": [
+            "Multiple results (1, 2, 5, 9) directly align with the main paper’s methodology (multi-diagnostic SF-AGN classification) and focus on RESOLVE/ECO datasets.",
+            "Results 3, 4, and 10 provide complementary perspectives on AGN identification in dwarfs, though with different approaches.",
+            "Results 6 and 9 address emission-line diagnostic improvements relevant to the main paper’s goals."
+        ],
+        "weaknesses": [
+            "Results 8 and 10 are less directly tied to the main paper’s focus on low-metallicity dwarf AGN and RESOLVE-specific analysis.",
+            "Some results (e.g., 4, 7) rely on non-optical methods (X-ray, DESI BPT) that are secondary to the main paper’s emphasis."
+        ],
+        "suggestions": [
+            "Prioritize studies using the same RESOLVE/ECO datasets or similar multi-diagnostic approaches for low-metallicity AGN.",
+            "Include more works exploring metallicity effects on optical diagnostics, as in Result 9.",
+            "Exclude papers focused on non-optical AGN identification (e.g., X-ray) unless they explicitly validate optical methods."
+        ]
+    }
+}
+```

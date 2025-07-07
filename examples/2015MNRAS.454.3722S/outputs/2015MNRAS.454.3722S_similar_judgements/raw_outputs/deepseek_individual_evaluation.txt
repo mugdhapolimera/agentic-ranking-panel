@@ -1,0 +1,64 @@
+
+
+```json
+{
+    "individual_scores": {
+        "1": {
+            "score": 3,
+            "explanation": "Directly relevant to the main paper's focus on AGN in low-mass galaxies. Uses SDSS data and BPT diagnostics to identify AGN candidates in dwarf galaxies, with BH mass estimates aligned with the low-mass regime. Discusses AGN fraction implications, closely matching the main paper's goals."
+        },
+        "2": {
+            "score": 3,
+            "explanation": "Highly aligned with the main paper's use of He II diagnostics to uncover AGN in star-forming galaxies. Demonstrates a 22% increase in AGN detection compared to BPT alone, directly addressing the main paper's goal of improving AGN identification in low-mass galaxies. Validates AGN with Chandra data, similar to the main paper's methodology."
+        },
+        "3": {
+            "score": 2,
+            "explanation": "Relevant to AGN in low-mass galaxies but uses optical variability instead of BPT/He II/mid-IR diagnostics. Focuses on ZTF light curves and broad-line confirmation, which diverges methodologically from the main paper. However, overlaps in studying low-mass AGN demographics."
+        },
+        "4": {
+            "score": 2,
+            "explanation": "Addresses BH-galaxy scaling relations in low-mass AGN hosts, a topic related to the main paper. However, focuses on BH mass vs. stellar mass correlations rather than AGN detection methods. Useful for contextualizing BH demographics but less aligned with the main paper's diagnostic focus."
+        },
+        "5": {
+            "score": 3,
+            "explanation": "Directly relevant to the main paper's challenges in AGN identification. Models He II and [O I] diagnostics to distinguish AGN from ULXs in low-metallicity dwarfs, addressing key systematic biases. Redefines demarcations for AGN selection, aligning with the main paper's goal of improving diagnostics."
+        },
+        "6": {
+            "score": 3,
+            "explanation": "Closely related to the main paper's use of mid-IR (WISE) and X-ray data. Evaluates reliability of mid-IR color cuts for AGN in low-mass galaxies, finding limitations similar to the main paper. Multiwavelength validation (Chandra/HST) mirrors the main paper's methodology."
+        },
+        "7": {
+            "score": 2,
+            "explanation": "Explores AGN-star formation connections, relevant to the main paper's AGN fraction analysis. However, focuses on general AGN activity in star-forming galaxies (not specifically low-mass) and uses X-ray/optical ratios rather than BPT/He II/mid-IR. Provides context but lacks direct methodological overlap."
+        },
+        "8": {
+            "score": 3,
+            "explanation": "Highly relevant: identifies low-mass AGN using multi-diagnostic approaches (BPT, coronal lines) in GAMA data. Extends to lower masses and higher redshifts than SDSS studies, aligning with the main paper's focus on improving AGN detection in dwarfs. Broad-line and narrow-line classifications match the main paper's scope."
+        },
+        "9": {
+            "score": 2,
+            "explanation": "Relevant to AGN selection but focuses on X-ray-selected AGN in a general sample (not low-mass specific). Discusses 'elusive' AGN missed by optical/IR methods, which partially aligns with the main paper's goals. However, lacks emphasis on dwarf galaxies or He II diagnostics."
+        },
+        "10": {
+            "score": 3,
+            "explanation": "Directly aligned with the main paper's use of He II diagnostics. Demonstrates hidden AGN in SF galaxies via spatially resolved MaNGA data, addressing incompleteness in BPT-based AGN surveys. Confirms AGN in massive SF galaxies, reinforcing the main paper's findings on AGN demographics in star-forming hosts."
+        }
+    },
+    "overall_analysis": {
+        "strengths": [
+            "Multiple results (1, 2, 5, 6, 8, 10) directly address AGN detection in low-mass galaxies using BPT, He II, and mid-IR diagnostics, mirroring the main paper's methodology.",
+            "Results 2 and 10 validate the utility of He II for uncovering AGN in star-forming hosts, supporting the main paper's approach.",
+            "Results 5 and 6 critically assess limitations of mid-IR/optical diagnostics, enhancing the main paper's discussion of selection biases."
+        ],
+        "weaknesses": [
+            "Some results (3, 4, 7, 9) focus on broader AGN demographics or alternative methods (variability/X-rays) less central to the main paper's diagnostic framework.",
+            "Few studies (e.g., Result 3) use variability, which the main paper does not explore, reducing their relevance."
+        ],
+        "suggestions": [
+            "Incorporate X-ray/radio validation (as in Results 2, 6) more systematically to confirm AGN candidates in low-mass galaxies.",
+            "Explore synergies between He II diagnostics (Results 2, 10) and mid-IR color cuts to refine AGN selection completeness.",
+            "Address ULX contamination (Result 5) in future low-mass AGN surveys to improve diagnostic reliability."
+        ]
+    }
+}
+```

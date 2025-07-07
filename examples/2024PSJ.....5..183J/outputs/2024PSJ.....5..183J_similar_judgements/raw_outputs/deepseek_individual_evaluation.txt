@@ -1,0 +1,103 @@
+
+
+{
+    "individual_scores": {
+        "1": {
+            "score": 3,
+            "explanation": "Nearly identical abstract to the main paper, focusing on JWST data analysis of Psyche's hydration features (3μm OH/H2O detection) with identical methodology and conclusions."
+        },
+        "2": {
+            "score": 3,
+            "explanation": "Duplicate content to Result 1, presenting identical JWST data analysis of Psyche's hydration with matching hydrogen abundance estimates and implications for origin."
+        },
+        "3": {
+            "score": 2,
+            "explanation": "Relevant broader context on M-class asteroid hydration (including Psyche) but uses pre-JWST ground-based spectroscopy rather than JWST methodology."
+        },
+        "4": {
+            "score": 2,
+            "explanation": "Directly addresses Psyche's hydration with proposed JWST methodology, but describes planned observations rather than results. Provides context for the main study."
+        },
+        "5": {
+            "score": 1,
+            "explanation": "JWST study of spinel-rich asteroids with 2.85μm features, tangentially related to hydration analysis but focuses on different mineralogy and targets."
+        },
+        "6": {
+            "score": 1,
+            "explanation": "Broad review of hydrated asteroids mentioning M-class, relevant to context but lacks focus on Psyche or JWST methodology."
+        },
+        "7": {
+            "score": 1,
+            "explanation": "Proposes JWST hydration analysis for inner solar system asteroids but does not specifically address Psyche or M-class targets."
+        },
+        "8": {
+            "score": 1,
+            "explanation": "Classifies outer belt asteroids' 3μm groups; relevant to hydration science but no direct connection to Psyche or JWST data."
+        },
+        "9": {
+            "score": 0,
+            "explanation": "Focuses on C-complex asteroids using AKARI data; unrelated to M-class Psyche or JWST methodology."
+        },
+        "10": {
+            "score": 3,
+            "explanation": "Third duplicate of main paper content, detailing identical JWST observations and analysis of Psyche's hydration features."
+        },
+        "11": {
+            "score": 0,
+            "explanation": "JWST study of Phaethon's dehydration; unrelated to Psyche's hydration or M-class composition."
+        },
+        "12": {
+            "score": 0,
+            "explanation": "Visible spectroscopic survey of small asteroids; no relevance to Psyche, hydration, or JWST methods."
+        },
+        "13": {
+            "score": 1,
+            "explanation": "Discusses aqueous alteration in chondrites; provides background but no direct link to Psyche or JWST observations."
+        },
+        "14": {
+            "score": 0,
+            "explanation": "Visible spectroscopy of C-type asteroids; unrelated to Psyche's M-class composition or JWST data."
+        },
+        "15": {
+            "score": 1,
+            "explanation": "JWST study of Ceres/Pallas/Hygiea; similar methodology but different targets and no Psyche relevance."
+        },
+        "16": {
+            "score": 0,
+            "explanation": "Isotopic study of core formation; unrelated to surface hydration or JWST spectroscopy."
+        },
+        "17": {
+            "score": 0,
+            "explanation": "Protoplanetary disk spectroscopy; irrelevant to asteroid hydration studies."
+        },
+        "18": {
+            "score": 0,
+            "explanation": "Exoplanet atmosphere study; no connection to Psyche or asteroid composition."
+        },
+        "19": {
+            "score": 0,
+            "explanation": "JWST study of Didymos post-impact; different target and focus on physical properties rather than hydration."
+        },
+        "20": {
+            "score": 1,
+            "explanation": "3μm analysis of C-class asteroids; relevant to hydration science but not Psyche or JWST methods."
+        }
+    },
+    "overall_analysis": {
+        "strengths": [
+            "Multiple highly relevant results (1,2,4,10) directly addressing Psyche's hydration with JWST data",
+            "Good contextual papers (3,6,8) providing background on M-class hydration",
+            "Broad coverage of hydration detection methodologies across the asteroid belt"
+        ],
+        "weaknesses": [
+            "Significant redundancy in top results (1,2,10 appear to be duplicates)",
+            "Many results (5,7,9,11-20) focus on unrelated targets/methods",
+            "Limited diversity in novel approaches beyond JWST 3μm analysis"
+        ],
+        "suggestions": [
+            "Prioritize unique studies with complementary methodologies (e.g., laboratory comparisons)",
+            "Include more recent work on exogenous vs endogenous hydration mechanisms",
+            "Expand search to include dynamical modeling of Psyche's potential migration"
+        ]
+    }
+}

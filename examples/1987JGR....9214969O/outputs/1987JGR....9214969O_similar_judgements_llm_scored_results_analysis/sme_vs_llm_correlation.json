@@ -1,0 +1,9 @@
+{
+  "correlations": {
+    "claude": 0.36363636363636365,
+    "gemini": 0.7763976173962319,
+    "deepseek": 0.7184212081070998,
+    "consensus": -0.4358974358974358
+  },
+  "output_file": "examples/1987JGR....9214969O/outputs/1987JGR....9214969O_similar_judgements_llm_scored_results.json"
+}

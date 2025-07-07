@@ -1,0 +1,105 @@
+
+
+```json
+{
+    "individual_scores": {
+        "1": {
+            "score": 3,
+            "explanation": "Directly addresses Uranian rings using adaptive optics and Voyager data, focusing on photometric properties, dust distribution, and phase functions. Closely aligned with the main paper's topic and methodology."
+        },
+        "2": {
+            "score": 1,
+            "explanation": "Focuses on Saturn's A ring photometry. While methodology (phase functions, albedo) is similar, the subject is tangential to the main paper's Uranian focus."
+        },
+        "3": {
+            "score": 0,
+            "explanation": "Examines Saturn's B ring spokes using HST data. No relevance to Uranian rings or Voyager 2 observations."
+        },
+        "4": {
+            "score": 3,
+            "explanation": "Directly relevant as it summarizes Voyager 2 imaging results of Uranian rings, including albedo, new rings, and particle properties. Aligns closely with the main paper."
+        },
+        "5": {
+            "score": 1,
+            "explanation": "Studies Saturn's C ring and Keeler Gap. Methodology overlaps (radiative transfer, phase functions), but the planetary system is unrelated."
+        },
+        "6": {
+            "score": 3,
+            "explanation": "Focuses on Uranian ring azimuthal brightness variations and albedo using Voyager data. Directly relevant to the main paper's photometric analysis."
+        },
+        "7": {
+            "score": 2,
+            "explanation": "Examines Uranian rings and satellites using HST data. Relevant to Uranian ring properties but uses different instrumentation and focuses on color, not Voyager-derived phase functions."
+        },
+        "8": {
+            "score": 2,
+            "explanation": "Critiques the Hapke photometric model, which is methodologically relevant to the main paper's analysis. However, it does not address Uranian rings specifically."
+        },
+        "9": {
+            "score": 0,
+            "explanation": "Focuses on Titan's photometry. No connection to Uranian rings or Voyager data."
+        },
+        "10": {
+            "score": 1,
+            "explanation": "Models phase functions for terrestrial aerosols. Some methodological relevance but applied to a completely different context (tropospheric dust)."
+        },
+        "11": {
+            "score": 1,
+            "explanation": "Simulates Saturn's rings. Light-scattering methodology is similar, but the planetary system and ring dynamics differ."
+        },
+        "12": {
+            "score": 0,
+            "explanation": "Analyzes Saturnian satellites. Not related to Uranian rings or photometric modeling."
+        },
+        "13": {
+            "score": 0,
+            "explanation": "Studies Saturn's F ring. No relevance to the main paper's Uranian focus."
+        },
+        "14": {
+            "score": 3,
+            "explanation": "Examines Uranus' ζ ring using Voyager 2 data, addressing structure and dust evolution. Directly relevant to the main paper's goals."
+        },
+        "15": {
+            "score": 0,
+            "explanation": "Focuses on lunar photometry. No connection to Uranian rings or Voyager observations."
+        },
+        "16": {
+            "score": 0,
+            "explanation": "Analyzes Jupiter's main ring. Different planetary system and unrelated to the main paper."
+        },
+        "17": {
+            "score": 1,
+            "explanation": "Studies Uranian satellites, not rings. Some overlap in system but diverges in focus."
+        },
+        "18": {
+            "score": 0,
+            "explanation": "Examines asteroid Gaspra. Unrelated to Uranian rings or photometry."
+        },
+        "19": {
+            "score": 0,
+            "explanation": "Lunar terrain photometry. No relevance to the main paper."
+        },
+        "20": {
+            "score": 0,
+            "explanation": "Focuses on Saturn's B ring. Different planetary system and unrelated to Uranian studies."
+        }
+    },
+    "overall_analysis": {
+        "strengths": [
+            "Multiple results (1, 4, 6, 14) directly address Uranian rings using Voyager 2 data, aligning with the main paper's focus.",
+            "Methodological overlap in photometric modeling (e.g., Results 8, 10) provides contextual relevance.",
+            "Several papers (7, 14) discuss dust properties and phase functions, key aspects of the main paper."
+        ],
+        "weaknesses": [
+            "Many results (2, 3, 5, 9–13, 15–20) focus on other planetary systems (Saturn, Moon, Jupiter) or unrelated topics.",
+            "Some relevant papers (7, 17) focus on satellites rather than rings, reducing direct alignment.",
+            "Limited coverage of the Hansen-Hovenier/power-law models central to the main paper."
+        ],
+        "suggestions": [
+            "Prioritize studies specifically analyzing Uranian rings with Voyager data.",
+            "Include more papers on phase function modeling in low-albedo, backscattering regimes.",
+            "Expand search terms to emphasize particle size distributions and Bond albedo in ice-rich ring systems."
+        ]
+    }
+}
+```

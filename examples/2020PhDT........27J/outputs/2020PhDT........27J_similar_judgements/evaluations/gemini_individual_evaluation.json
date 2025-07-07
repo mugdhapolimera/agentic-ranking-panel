@@ -1,0 +1,100 @@
+{
+  "individual_scores": {
+    "1": {
+      "score": 1,
+      "explanation": "This result discusses the adhesive response of regolith to low-energy disturbances in microgravity, which is related to the main paper's focus on granular dynamics and mass transfer in microgravity. However, it does not explicitly mention numerical simulations or the specific experimental setup described in the main paper. Therefore, it is somewhat relevant but tangential."
+    },
+    "2": {
+      "score": 2,
+      "explanation": "This result focuses on experimental and numerical studies of planetesimal formation via collisional accretion, which aligns with the main paper's interest in granular dynamics and planet formation. The mention of numerical simulations and low-energy collisions in a microgravity environment increases its relevance. It is relevant and focused on the main paper's topic."
+    },
+    "3": {
+      "score": 2,
+      "explanation": "This result discusses mass transfer via low-velocity rebound in a microgravity environment, directly addressing the mass transfer events studied in the main paper. The focus on low-velocity collisions and microgravity conditions increases its relevance. However, the lack of explicit mention of numerical simulations reduces its score. It is relevant and focused on the main paper's topic."
+    },
+    "4": {
+      "score": 3,
+      "explanation": "This result is highly relevant because it describes the Q-PACE CubeSat mission, which is designed to study low-velocity collisions between particles in microgravity, as mentioned in the main paper. The abstract also mentions using the DEM granular mechanics software LIGGGHTS for simulations, aligning with the numerical aspect of the main paper. This result is closely aligned with the main paper's topic and methodology."
+    },
+    "5": {
+      "score": 1,
+      "explanation": "This result describes low-velocity impacts into cryogenic icy regolith, which is related to the main paper's focus on granular dynamics in planet formation. However, the focus on cryogenic conditions and the lack of explicit mention of numerical simulations make it somewhat tangential. It is somewhat relevant but tangential to the main paper."
+    },
+    "6": {
+      "score": 1,
+      "explanation": "This result discusses the growth of planetesimals after the streaming instability, focusing on accretion mechanisms. While related to planet formation, it does not explicitly mention microgravity experiments or numerical simulations of granular dynamics, making it somewhat tangential. It is somewhat relevant but tangential to the main paper."
+    },
+    "7": {
+      "score": 1,
+      "explanation": "This result provides an overview of planet formation mechanisms. While it touches on topics relevant to the main paper, such as the growth of solid bodies, it does not focus on microgravity experiments, numerical simulations, or granular dynamics. Therefore, it is somewhat relevant but tangential."
+    },
+    "8": {
+      "score": 1,
+      "explanation": "This result reviews dust evolution in protoplanetary disks. While it discusses grain growth and collisions, it does not explicitly mention microgravity experiments or numerical simulations of granular dynamics, making it somewhat tangential. It is somewhat relevant but tangential to the main paper."
+    },
+    "9": {
+      "score": 1,
+      "explanation": "This result focuses on collisions between gravity-dominated bodies and derives scaling laws for collision outcomes. While collisions are relevant to the main paper, the focus on gravity-dominated bodies and the lack of explicit connection to microgravity experiments or numerical simulations of granular dynamics make it somewhat tangential. It is somewhat relevant but tangential to the main paper."
+    },
+    "10": {
+      "score": 1,
+      "explanation": "This result discusses giant planet formation with pebble accretion. While it touches on accretion mechanisms, it does not explicitly mention microgravity experiments or numerical simulations of granular dynamics. Therefore, it is somewhat relevant but tangential."
+    },
+    "11": {
+      "score": 2,
+      "explanation": "This result describes ejecta production from impacts in low gravity, which is relevant to the main paper's focus on granular dynamics and low-energy impacts. The mention of microgravity experiments increases its relevance. However, the lack of explicit mention of numerical simulations reduces its score. It is relevant and focused on the main paper's topic."
+    },
+    "12": {
+      "score": 2,
+      "explanation": "This result focuses on mass transfer via low-velocity impacts into regolith, a key aspect of the main paper. The abstract mentions both microgravity experiments and ground-based experiments, increasing its relevance. However, the lack of mention of numerical simulations reduces its score. It is relevant and focused on the main paper's topic."
+    },
+    "13": {
+      "score": 2,
+      "explanation": "This result discusses regolith behavior under asteroid-level gravity conditions, focusing on low-velocity impact experiments in microgravity. This aligns with the main paper's focus on granular dynamics and low-energy impacts. However, the absence of numerical simulations reduces its score. It is relevant and focused on the main paper's topic."
+    },
+    "14": {
+      "score": 1,
+      "explanation": "This result discusses decimetre dust aggregates in protoplanetary discs. The focus on dust agglomerates and collisions is somewhat relevant, but the lack of explicit mention of microgravity or numerical simulations makes it tangential. It is somewhat relevant but tangential to the main paper."
+    },
+    "15": {
+      "score": 1,
+      "explanation": "This result describes an impact erosion limit to planetesimal growth. While related to planet formation and collisions, the lack of explicit mention of numerical simulations and the specific microgravity experimental setup makes it somewhat tangential. It is somewhat relevant but tangential to the main paper."
+    },
+    "16": {
+      "score": 0,
+      "explanation": "This result focuses on the properties of pebbles during planetesimal formation based on meteor observations. It does not mention microgravity experiments, numerical simulations, or granular dynamics, making it not relevant to the main paper."
+    },
+    "17": {
+      "score": 1,
+      "explanation": "This result discusses the growth from streaming instability to pebble accretion. It is related to planet formation, but does not explicitly mention the microgravity experiments or the numerical simulations. It is somewhat relevant but tangential to the main paper."
+    },
+    "18": {
+      "score": 1,
+      "explanation": "This result describes dust growth and pebble formation in protoplanetary disks. Although dust growth is important to planet formation, this abstract does not focus on microgravity experimentation or specifically discuss numerical simulations of granular dynamics. It is somewhat relevant but tangential to the main paper."
+    },
+    "19": {
+      "score": 1,
+      "explanation": "This result focuses on planetesimal and planet formation in dust traps. While related to planet formation, it lacks explicit mention of microgravity experiments or numerical simulations of granular dynamics. It is somewhat relevant but tangential to the main paper."
+    },
+    "20": {
+      "score": 1,
+      "explanation": "This result focuses on erosion and the limits to planetesimal growth. It describes erosion as a limiting growth factor, however, it does not explicitly mention any numerical simulations or experiments relating to the main paper's focus. It is somewhat relevant but tangential to the main paper."
+    }
+  },
+  "overall_analysis": {
+    "strengths": [
+      "Several results focus on low-velocity collisions and mass transfer in microgravity environments.",
+      "Some results explicitly mention numerical simulations, aligning with the main paper's methodology.",
+      "Several results address topics related to planet formation and granular dynamics."
+    ],
+    "weaknesses": [
+      "Many results are somewhat tangential, lacking a direct connection to both the microgravity experiments and numerical simulations described in the main paper.",
+      "Some results focus on broader aspects of planet formation without addressing the specific experimental and numerical methods used in the main paper."
+    ],
+    "suggestions": [
+      "Search for results that explicitly mention both microgravity experiments and numerical simulations of granular materials.",
+      "Filter results to focus on papers that investigate mass transfer events and collisional outcomes relevant to planet formation.",
+      "Prioritize results that discuss specific software or techniques used in the numerical simulations."
+    ]
+  }
+}

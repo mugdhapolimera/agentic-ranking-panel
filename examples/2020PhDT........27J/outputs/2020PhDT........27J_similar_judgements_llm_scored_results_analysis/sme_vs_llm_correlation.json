@@ -1,0 +1,9 @@
+{
+  "correlations": {
+    "claude": 1.0,
+    "gemini": 0.49999999999999994,
+    "deepseek": 0.5773502691896256,
+    "consensus": -0.408248290463863
+  },
+  "output_file": "examples/2020PhDT........27J/outputs/2020PhDT........27J_similar_judgements_llm_scored_results.json"
+}

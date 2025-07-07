@@ -1,0 +1,9 @@
+{
+  "correlations": {
+    "claude": 0.6551724137931034,
+    "gemini": 0.7293968086257971,
+    "deepseek": 0.4988891723439262,
+    "consensus": 0.5306686305052326
+  },
+  "output_file": "examples/2020AcAau.170....6J/outputs/2020AcAau.170....6J_similar_judgements_llm_scored_results.json"
+}

@@ -1,0 +1,77 @@
+
+
+```json
+{
+    "individual_scores": {
+        "1": {
+            "score": 3,
+            "explanation": "Directly relevant. Uses spatially resolved emission-line diagnostics (including [S II]- and [O I]-BPT diagrams) to identify AGNs in dwarf galaxies, finding a high AGN fraction (~20%) and SF-AGN analogs. Aligns with the main paper's methodology and goals."
+        },
+        "2": {
+            "score": 2,
+            "explanation": "Relevant but partially misaligned. Uses BPT diagrams (critiqued in the main paper) but finds a higher AGN fraction in dwarfs (≈2.1%) due to improved fiber size. Focuses on BH mass scaling, not metallicity or optimized diagnostics."
+        },
+        "3": {
+            "score": 2,
+            "explanation": "Relevant but tangential. Investigates X-ray AGNs in the BPT star-forming region, supporting the main paper’s SF-AGN concept. However, focuses on X-ray confirmation rather than metallicity-sensitive diagnostics."
+        },
+        "4": {
+            "score": 3,
+            "explanation": "Highly relevant. Targets AGNs in low-mass galaxies using BPT, He II, and mid-IR, discussing metallicity biases and selection limitations. Directly addresses the main paper’s focus on low-metallicity AGN detection."
+        },
+        "5": {
+            "score": 2,
+            "explanation": "Relevant but narrower in scope. Studies AGN-like line ratios in quiescent dwarfs, confirming AGN activity in low-mass hosts. Overlaps in methodology but focuses on quiescent galaxies, not star-forming SF-AGNs."
+        },
+        "6": {
+            "score": 2,
+            "explanation": "Partially relevant. Identifies dwarf AGNs via BPT and broad Hα but relies on traditional diagnostics. Aligns with the main paper’s goal of expanding AGN samples but does not address metallicity optimization."
+        },
+        "7": {
+            "score": 1,
+            "explanation": "Somewhat relevant. Focuses on low-mass BHs and Eddington ratios but does not discuss metallicity or alternative emission-line diagnostics. Limited methodological overlap."
+        },
+        "8": {
+            "score": 3,
+            "explanation": "Highly relevant. Explores emission-line diagnostics for low-metallicity AGNs, including [N II]/Hα as a metallicity indicator. Directly supports the main paper’s focus on metallicity-insensitive diagrams."
+        },
+        "9": {
+            "score": 1,
+            "explanation": "Tangential. Develops emission-line grids for star-forming galaxies but focuses on stellar populations, not AGN diagnostics. Minimal overlap with the main paper’s goals."
+        },
+        "10": {
+            "score": 2,
+            "explanation": "Relevant but complementary. Confirms AGNs in dwarfs via X-ray/UV data but does not address emission-line diagnostics. Supports AGN presence but not methodology."
+        },
+        "11": {
+            "score": 1,
+            "explanation": "Marginally relevant. Focuses on separating emission sources in a single galaxy (NGC 1068) using 3D diagnostics. Not applicable to dwarf AGNs or metallicity."
+        },
+        "12": {
+            "score": 2,
+            "explanation": "Partially relevant. Studies NLR properties in low-mass AGNs, including metallicity trends, but does not use the main paper’s optimized diagnostics. Overlaps in AGN host analysis."
+        },
+        "13": {
+            "score": 0,
+            "explanation": "Not relevant. Theoretical study of MBHs in dwarfs via simulations, focusing on gravitational waves. No connection to emission-line diagnostics or observational AGN identification."
+        }
+    },
+    "overall_analysis": {
+        "strengths": [
+            "Multiple studies confirm higher AGN fractions in dwarfs using improved methods (e.g., spatially resolved or multi-wavelength diagnostics).",
+            "Several papers directly address low-metallicity AGN identification, aligning with the main paper’s focus.",
+            "Results 1, 4, and 8 provide methodological support for optimizing emission-line diagnostics."
+        ],
+        "weaknesses": [
+            "Some studies (e.g., Results 2, 6) rely on BPT diagrams, which the main paper critiques as metallicity-biased.",
+            "Theoretical and X-ray-focused works (Results 13, 10) lack direct relevance to optical diagnostics.",
+            "Limited discussion of SF-AGN classification outside Result 1."
+        ],
+        "suggestions": [
+            "Incorporate spatially resolved diagnostics (as in Result 1) to mitigate aperture effects in single-fiber surveys.",
+            "Combine metallicity-insensitive line ratios (e.g., [O I]/Hα) with multi-wavelength data to validate SF-AGN candidates.",
+            "Expand samples to include low-metallicity dwarfs in diverse environments to test diagnostic robustness."
+        ]
+    }
+}
+```

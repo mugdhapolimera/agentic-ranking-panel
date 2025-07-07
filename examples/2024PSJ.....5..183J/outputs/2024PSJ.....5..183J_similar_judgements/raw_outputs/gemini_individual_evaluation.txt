@@ -1,0 +1,105 @@
+```json
+{
+    "individual_scores": {
+        "1": {
+            "score": 3,
+            "explanation": "Very high relevance. This result is likely from the same research group and expands on the work presented in the main paper, focusing on hydration abundance and variability on asteroid (16) Psyche using JWST data."
+        },
+        "2": {
+            "score": 3,
+            "explanation": "Very high relevance. This result is also likely from the same research group and expands on the work presented in the main paper, focusing on quantifying hydration abundance and distribution on asteroid (16) Psyche using JWST data."
+        },
+        "3": {
+            "score": 2,
+            "explanation": "Relevant. This paper discusses the nature of M-class asteroids and the presence of hydrated minerals, which is directly related to the main paper's topic of water and hydroxyl abundance on Psyche. However, it uses older data and doesn't utilize JWST data, making it less directly aligned with the methodology."
+        },
+        "4": {
+            "score": 3,
+            "explanation": "Very high relevance. This paper directly proposes to observe Psyche with JWST to quantify hydration, which is exactly what the main paper does. It serves as a proposal for the observations that the main paper presents results from."
+        },
+        "5": {
+            "score": 1,
+            "explanation": "Somewhat relevant. While it discusses JWST observations and hydrated minerals, it focuses on spinel-rich asteroids, a different class of objects than the M-class asteroid Psyche. The general theme of hydration in asteroids is relevant, but not the specific focus."
+        },
+        "6": {
+            "score": 2,
+            "explanation": "Relevant. This paper provides a general overview of hydrated minerals on asteroids and their significance, which provides context for the main paper's investigation of Psyche. It does not use JWST data or focus specifically on M-class asteroids."
+        },
+        "7": {
+            "score": 2,
+            "explanation": "Relevant. This paper proposes to use JWST to observe nominally anhydrous asteroids for evidence of hydration, which is related to the main paper's focus on water abundance. While not directly about Psyche, it uses the same instrument and investigates hydration in asteroids, making it methodologically and thematically relevant."
+        },
+        "8": {
+            "score": 1,
+            "explanation": "Somewhat relevant. This paper discusses the distribution of hydrated minerals in the outer main belt, but it does not specifically focus on M-class asteroids or use JWST data. The general topic of hydrated minerals in asteroids is relevant, but the specific focus is not."
+        },
+        "9": {
+            "score": 1,
+            "explanation": "Somewhat relevant. This paper discusses water abundance in C-complex asteroids using AKARI data, which is related to the main paper's topic of water abundance on Psyche. However, it focuses on a different class of asteroids and uses different data, making it less directly aligned."
+        },
+        "10": {
+            "score": 3,
+            "explanation": "Very high relevance. This paper directly discusses the interpretation of potential hydration features on Psyche's surface from JWST observations, aligning very closely with the main paper's topic and methodology."
+        },
+        "11": {
+            "score": 1,
+            "explanation": "Somewhat relevant. This paper presents JWST observations of (3200) Phaethon and finds a dehydrated surface, which is related to the main paper's topic of water abundance. However, it focuses on a different asteroid and finds a negative result, making it less directly aligned."
+        },
+        "12": {
+            "score": 0,
+            "explanation": "Not relevant. This paper presents results from a CCD spectroscopic survey of small main-belt asteroids, but it does not discuss water or hydroxyl abundance, or JWST data. It is therefore not relevant to the main paper."
+        },
+        "13": {
+            "score": 0,
+            "explanation": "Not relevant. This paper discusses the sources of water and aqueous activity on chondrite parent asteroids, which is only tangentially related to the main paper. It does not discuss M-class asteroids or JWST data."
+        },
+        "14": {
+            "score": 0,
+            "explanation": "Not relevant. This paper focuses on aqueous alteration on main belt primitive asteroids using visible spectroscopy, but does not mention M-class asteroids, JWST, or direct measurement of water/hydroxyl abundance."
+        },
+        "15": {
+            "score": 1,
+            "explanation": "Somewhat relevant. It presents JWST/NIRSpec measurements of Ceres, Pallas, and Hygiea, focusing on Mg-OH in minerals. While it uses JWST, it's not directly about Psyche or M-class asteroids."
+        },
+        "16": {
+            "score": 0,
+            "explanation": "Not relevant. This paper discusses early core formation in asteroids using isotopic systematics, which is unrelated to the main paper's topic of water and hydroxyl abundance."
+        },
+        "17": {
+            "score": 0,
+            "explanation": "Not relevant. This paper is about JWST observations of planet-forming disks and their chemical composition, unrelated to asteroids or water abundance on Psyche."
+        },
+        "18": {
+            "score": 0,
+            "explanation": "Not relevant. This paper presents JWST transmission spectroscopy of an exoplanet, HD 209458b, and is unrelated to asteroids or water abundance on Psyche."
+        },
+        "19": {
+            "score": 1,
+            "explanation": "Somewhat relevant. This paper discusses JWST observations of Didymos, an S-class asteroid, and determines its composition. While it uses JWST, it is not about M-class asteroids or water abundance, making it less relevant. The mention of a lack of OH/H2O absorptions is a minor connection."
+        },
+        "20": {
+            "score": 0,
+            "explanation": "Not relevant. This paper discusses the nature of C-class asteroids using spectrophotometry, but it does not focus on M-class asteroids or use JWST data."
+        }
+    },
+    "overall_analysis": {
+        "strengths": [
+            "Several results directly address the topic of water and hydroxyl abundance on asteroid (16) Psyche.",
+            "A few results utilize JWST data, aligning with the methodology of the main paper.",
+            "Some results provide broader context on the study of hydrated minerals on asteroids."
+        ],
+        "weaknesses": [
+            "Many results focus on different types of asteroids or use different datasets, making them less directly relevant.",
+            "Some results only tangentially relate to the main paper's topic.",
+            "Several results are outdated or use older methods.",
+            "Some results are completely unrelated to the main paper's focus."
+        ],
+        "suggestions": [
+            "Focus on results that specifically mention asteroid (16) Psyche or M-class asteroids.",
+            "Prioritize results that utilize JWST data or similar observational techniques.",
+            "Filter results to include only papers published within the last 5-10 years to ensure relevance to current research.",
+            "Expand the search terms to include specific hydrated minerals or related spectral features."
+        ]
+    }
+}
+```

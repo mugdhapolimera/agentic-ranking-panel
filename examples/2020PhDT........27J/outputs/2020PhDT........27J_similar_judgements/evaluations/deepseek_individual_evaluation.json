@@ -1,0 +1,100 @@
+{
+  "individual_scores": {
+    "1": {
+      "score": 3,
+      "explanation": "Directly addresses microgravity experiments on low-velocity regolith collisions and mass transfer, with identical experimental setups (COLLIDE/PRIME) and parameters as the main paper."
+    },
+    "2": {
+      "score": 3,
+      "explanation": "Focuses on planetesimal formation via collisional accretion using microgravity experiments (COLLIDE/PRIME) and numerical modeling (LIGGGHTS), closely aligning with the main paper's methodology and objectives."
+    },
+    "3": {
+      "score": 3,
+      "explanation": "Investigates mass transfer in microgravity via rebound experiments, using the same COLLIDE/PRIME frameworks and addressing identical velocity regimes and granular dynamics as the main paper."
+    },
+    "4": {
+      "score": 3,
+      "explanation": "Describes the Q-PACE CubeSat mission, which directly complements the main paper's CubeSat contributions and focuses on low-velocity collisions in microgravity for planetesimal formation."
+    },
+    "5": {
+      "score": 2,
+      "explanation": "Relevant to low-velocity impacts and ejecta production but focuses on cryogenic conditions and ice mixtures, diverging from the main paper's emphasis on dry regolith and mass transfer."
+    },
+    "6": {
+      "score": 2,
+      "explanation": "Discusses pebble accretion and planetesimal growth in a theoretical context, with indirect relevance to the main paper's experimental focus on collisional mass transfer."
+    },
+    "7": {
+      "score": 1,
+      "explanation": "Broad review of planet formation mechanisms (core accretion vs. disk instability) with minimal overlap with the main paper's experimental granular dynamics focus."
+    },
+    "8": {
+      "score": 1,
+      "explanation": "Theoretical review of dust evolution in disks; relevant to planetesimal formation context but lacks alignment with experimental or numerical methods in the main paper."
+    },
+    "9": {
+      "score": 2,
+      "explanation": "Numerical study of collision outcomes and scaling laws, relevant to collisional processes but not directly tied to microgravity experiments or mass transfer mechanics."
+    },
+    "10": {
+      "score": 1,
+      "explanation": "Theoretical modeling of oligarchic growth and pebble accretion; tangential to the main paper's experimental and numerical investigation of granular collisions."
+    },
+    "11": {
+      "score": 3,
+      "explanation": "Directly addresses low-velocity impacts in microgravity, ejecta production, and velocity thresholds, closely matching the main paper's experimental scope."
+    },
+    "12": {
+      "score": 2,
+      "explanation": "Ground-based experiments on mass transfer with spring-assisted impacts; relevant but limited by 1-g conditions, unlike the main paper's microgravity focus."
+    },
+    "13": {
+      "score": 3,
+      "explanation": "Detailed analysis of regolith behavior in microgravity using COLLIDE/PRIME experiments, directly aligned with the main paper's methodology and objectives."
+    },
+    "14": {
+      "score": 2,
+      "explanation": "Lab experiments on decimetre aggregates and filling factors; relevant to dust growth but lacks microgravity or mass transfer analysis."
+    },
+    "15": {
+      "score": 3,
+      "explanation": "Microgravity experiments on impact erosion and pebble growth thresholds, directly addressing collision dynamics in planetesimal formation contexts."
+    },
+    "16": {
+      "score": 1,
+      "explanation": "Meteor observations linked to protoplanetary disk conditions; indirect connection to the main paper's experimental focus."
+    },
+    "17": {
+      "score": 2,
+      "explanation": "Semi-analytic models of planetesimal rings and pebble accretion; relevant to growth processes but lacks experimental alignment."
+    },
+    "18": {
+      "score": 1,
+      "explanation": "Numerical study of dust growth in early disks; contextually related but diverges from microgravity experiments and granular dynamics."
+    },
+    "19": {
+      "score": 1,
+      "explanation": "Theoretical study of planetesimal formation in transient dust traps; minimal overlap with the main paper's experimental scope."
+    },
+    "20": {
+      "score": 1,
+      "explanation": "Theoretical limits to growth via erosive collisions; tangential to the main paper's focus on mass transfer in microgravity."
+    }
+  },
+  "overall_analysis": {
+    "strengths": [
+      "Multiple results (1, 2, 3, 4, 11, 13, 15) directly address microgravity experiments on low-velocity collisions and mass transfer, closely mirroring the main paper's methodology.",
+      "Strong alignment with COLLIDE/PRIME experimental frameworks and numerical tools (e.g., LIGGGHTS).",
+      "CubeSat mission studies (Result 4) complement the main paper's contributions to observational collisional experiments."
+    ],
+    "weaknesses": [
+      "Several studies (5, 6, 7, 8, 10, 16\u201320) focus on theoretical or contextual aspects, lacking direct experimental/numerical alignment.",
+      "Some results (12, 14) use non-microgravity setups or tangential methodologies (e.g., cryogenic impacts)."
+    ],
+    "suggestions": [
+      "Prioritize studies with explicit microgravity experimental data or numerical granular dynamics models.",
+      "Exclude purely theoretical reviews of planet formation unless they contextualize experimental results.",
+      "Include more CubeSat or parabolic-flight-based studies to strengthen methodological alignment."
+    ]
+  }
+}

@@ -1,0 +1,65 @@
+```json
+{
+    "individual_scores": {
+        "1": {
+            "score": 3,
+            "explanation": "This paper directly addresses the search for AGN in dwarf galaxies, aligning perfectly with the main paper's focus on low-mass galaxies. It uses optical spectroscopic signatures, a method also employed in the main paper, to identify AGN. The stellar mass range is also very close to the main paper's definition of low-mass. The paper mentions black hole feedback in low-mass galaxies, which is a relevant aspect of the main paper's broader interest."
+        },
+        "2": {
+            "score": 3,
+            "explanation": "This paper is highly relevant because it specifically investigates the use of He II emission line diagnostics to identify AGN, a method directly mentioned and utilized in the main paper. It focuses on a similar sample of galaxies from the SDSS and explores the properties of AGN selected using the He II diagnostic, which is a key aspect of the main paper's methodology. It also discusses galaxy/black hole coevolution which is also relevant to the main paper."
+        },
+        "3": {
+            "score": 2,
+            "explanation": "This paper is relevant as it discusses the search for AGN in low stellar mass galaxies, a key focus of the main paper. It uses optical variability to identify AGN candidates, a different method than the emission-line diagnostics emphasized in the main paper, but still contributes to the overall goal of identifying AGN in low-mass galaxies. The use of SDSS spectra for verification is also a point of connection. The black hole mass estimates are also relevant to the main paper's theme."
+        },
+        "4": {
+            "score": 2,
+            "explanation": "This paper is relevant because it explores the relationship between black hole mass and total stellar mass in galaxies, including low-mass galaxies. While it doesn't focus exclusively on dwarf galaxies or the specific emission-line diagnostics used in the main paper, it addresses a fundamental question related to black hole and galaxy evolution, which is a broader context of the main paper. The use of SDSS spectroscopy and virial techniques for BH mass estimation are also methodologies aligned with the main paper."
+        },
+        "5": {
+            "score": 2,
+            "explanation": "This paper is relevant because it specifically discusses emission line diagnostics for IMBHs in dwarf galaxies, a core topic of the main paper. It addresses the challenges of distinguishing AGN signatures from other sources of ionization, like ULXs, and discusses the limitations of relying solely on strong line ratios. The discussion of He II and [O I] as potentially useful diagnostics, and the mention of JWST capabilities, are also pertinent."
+        },
+        "6": {
+            "score": 2,
+            "explanation": "This paper is relevant as it focuses on identifying AGN in dwarf galaxies using mid-infrared (WISE) color-color selection, a method mentioned in the main paper, and compares it with optical diagnostics. It investigates the reliability of mid-IR selection in optically star-forming dwarf galaxies, which is directly related to the main paper's exploration of different AGN selection criteria and potential biases. The use of Chandra X-ray observations provides independent confirmation of AGN nature, further enhancing its relevance."
+        },
+        "7": {
+            "score": 1,
+            "explanation": "This paper is somewhat relevant as it studies AGN activity and its correlation with host galaxy properties, including star formation rate and stellar mass. However, it does not specifically focus on low-mass galaxies or the specific emission-line diagnostics (He II) used in the main paper. The broader context of AGN-galaxy coevolution and the use of X-ray data provide some connection, but the lack of focus on dwarf galaxies makes it less directly relevant."
+        },
+        "8": {
+            "score": 3,
+            "explanation": "This paper is highly relevant as it presents a new sample of low-mass galaxies with spectroscopic signatures of AGN, including galaxies in the dwarf regime. It employs multiple emission-line diagnostics, which aligns with the main paper's approach of exploring different AGN selection criteria. The discussion of BH masses and the broader implications for BH seeding and AGN feedback are also directly relevant to the main paper's research questions."
+        },
+        "9": {
+            "score": 1,
+            "explanation": "This paper is somewhat relevant as it presents a large spectroscopic survey of X-ray-selected AGN. However, it does not specifically focus on low-mass galaxies, and the emphasis is on X-ray selection rather than the optical and mid-IR methods discussed in the main paper. While the comparison of different AGN selection methods is relevant, the lack of focus on the low-mass regime makes it less directly applicable."
+        },
+        "10": {
+            "score": 3,
+            "explanation": "This paper is highly relevant because it directly investigates the use of the He II diagnostic to identify hidden AGN in star-forming galaxies, using spatially resolved data from MaNGA. This directly aligns with the main paper's focus on He II selection and its potential to reveal AGN that are missed by standard BPT classifications. The discussion of AGN fractions and the implications for coeval star formation and black hole accretion are also highly relevant."
+        }
+    },
+    "overall_analysis": {
+        "strengths": [
+            "Several results directly address the search for AGN in low-mass/dwarf galaxies.",
+            "Multiple results explore the use of optical emission-line diagnostics, including He II, for AGN identification.",
+            "Some results incorporate multiwavelength data (X-ray, mid-IR) to confirm AGN nature and investigate selection biases.",
+            "A few results discuss the broader implications for BH seeding, AGN feedback, and galaxy evolution."
+        ],
+        "weaknesses": [
+            "Some results focus on AGN in general without specifically addressing the challenges or characteristics of AGN in low-mass galaxies.",
+            "A few results use different AGN selection methods (e.g., X-ray selection, optical variability) that are not directly related to the main paper's focus on emission-line diagnostics.",
+            "There's variability in the level of detail regarding the specific emission-line diagnostics and the stellar mass ranges considered."
+        ],
+        "suggestions": [
+            "Focus future searches on results that specifically investigate AGN in low-mass or dwarf galaxies.",
+            "Prioritize results that utilize optical emission-line diagnostics, particularly those involving He II or other less metallicity-sensitive lines.",
+            "Consider the potential biases associated with different AGN selection methods and how they might affect the interpretation of results.",
+            "Pay attention to the stellar mass ranges and redshift ranges considered in each result to ensure they are relevant to the main paper's research questions."
+        ]
+    }
+}
+```

@@ -1,0 +1,65 @@
+{
+  "individual_scores": {
+    "1": {
+      "score": 3,
+      "explanation": "This result is highly relevant. It directly addresses the main paper's topic of finding low-metallicity dwarf AGN candidates using the RESOLVE survey. It uses a modified emission line classification scheme, including the [SII]/H\u03b1 and [OI]/H\u03b1 diagnostics, and identifies a new category of SF-AGN, aligning perfectly with the main paper's methodology and goals."
+    },
+    "2": {
+      "score": 3,
+      "explanation": "This result is highly relevant. It directly compares different methods for finding z~0 dwarf AGN in the RESOLVE and ECO surveys, including the comprehensive emission-line classification using [O III]/Hb vs. [N II]/Ha, [S II]/Ha, and [O I]/Ha diagnostic plots, which is central to the main paper. It also quantifies the impact of the new classification scheme on the AGN percentage, making it directly comparable to the main paper's findings."
+    },
+    "3": {
+      "score": 3,
+      "explanation": "This result is highly relevant. It presents a multiwavelength census of dwarf AGN in the RESOLVE and ECO surveys, highlighting the importance of SF-AGN identified through multi-diagnostic approaches using [OI]/H\u03b1 or [SII]/H\u03b1. The result emphasizes the statistically complete nature of the surveys and the resulting full-population AGN statistics, directly aligning with the main paper's goals and findings."
+    },
+    "4": {
+      "score": 3,
+      "explanation": "This result is highly relevant. It investigates AGN in dwarf and giant galaxies, specifically focusing on the challenges of identifying AGN in low-metallicity and highly star-forming dwarf galaxies. It uses a multi-diagnostic classification system to uncover SF-AGN in the RESOLVE and ECO surveys, mirroring the main paper's approach and findings regarding the higher percentage of AGN when considering SF-AGN."
+    },
+    "5": {
+      "score": 2,
+      "explanation": "This result is relevant. It uses a Bayesian classification scheme to predict the percentage of AGN vs. Star Formation emission in galaxies from the RESOLVE and ECO surveys. While it doesn't directly focus on low-metallicity AGN or the specific [SII]/H\u03b1 and [OI]/H\u03b1 diagnostics, it addresses the broader issue of accurately classifying AGN and star formation mixing, which is relevant to the main paper's goal of improving AGN identification in dwarfs."
+    },
+    "6": {
+      "score": 2,
+      "explanation": "This result is relevant. It focuses on the detection of low-metallicity AGN in the RESOLVE survey. While it uses emission-line profile fitting instead of the specific emission-line ratios emphasized in the main paper, it shares the goal of identifying previously undetected AGN in dwarf galaxies, making it relevant, though not as directly aligned methodologically."
+    },
+    "7": {
+      "score": 1,
+      "explanation": "This result is somewhat relevant. It discusses emission-line diagnostics of low-metallicity AGN, but it primarily focuses on AGN in general and analyzes SDSS data. While it touches on the topic of low-metallicity AGN, it doesn't specifically use the RESOLVE or ECO surveys or the optimized emission-line diagnostics presented in the main paper. Therefore, it is tangential to the main paper's specific focus."
+    },
+    "8": {
+      "score": 1,
+      "explanation": "This result is somewhat relevant. It presents a new method for identifying AGN based on emission-line excess and compares it with the BPT diagram. While it addresses the broader topic of AGN identification, it doesn't focus on low-metallicity dwarfs or use the specific [SII]/H\u03b1 and [OI]/H\u03b1 diagnostics central to the main paper. Therefore, it's tangential."
+    },
+    "9": {
+      "score": 1,
+      "explanation": "This result is somewhat relevant. It explores the environments of dwarf galaxies with optical AGN characteristics using the NASA-Sloan Atlas. While it focuses on dwarf galaxies and AGN, it doesn't specifically address the challenges of identifying low-metallicity AGN or use the optimized emission-line diagnostics from the main paper. Its focus on environmental factors is a different angle on AGN in dwarfs, making it tangential."
+    },
+    "10": {
+      "score": 2,
+      "explanation": "This result is relevant. It reports the discovery of low-metallicity dwarf galaxies with broad line emission, indicating the presence of AGN. While it doesn't directly use the RESOLVE or ECO surveys or the specific emission-line ratios emphasized in the main paper, it provides observational evidence for the existence of low-metallicity AGN in dwarf galaxies, supporting the main paper's motivation for improved detection methods. The focus on broad lines as indicators is a different approach, but the overall goal is aligned."
+    }
+  },
+  "overall_analysis": {
+    "strengths": [
+      "Several results directly address the main paper's topic of finding low-metallicity dwarf AGN using the RESOLVE and ECO surveys.",
+      "Multiple results validate the use of [SII]/H\u03b1 and [OI]/H\u03b1 diagnostics for identifying SF-AGN.",
+      "Several results quantify the impact of the new classification scheme on the AGN percentage in dwarf galaxies.",
+      "Some results provide multiwavelength context and compare different AGN identification methods.",
+      "The results collectively support the idea that AGN in dwarf galaxies may be more widespread than previously realized."
+    ],
+    "weaknesses": [
+      "Some results are only tangentially related, focusing on AGN in general or using different methodologies.",
+      "There is limited overlap between the AGN candidates identified by different methods, suggesting potential incompleteness or different populations being detected.",
+      "Some results rely on SDSS data rather than the RESOLVE/ECO surveys, making them less directly comparable."
+    ],
+    "suggestions": [
+      "Future work could focus on cross-validation of AGN candidates identified by different methods (optical, mid-IR, X-ray, radio).",
+      "More detailed comparisons of the properties and environments of SF-AGN identified by the new classification scheme would be valuable.",
+      "Investigating the mixing fractions of AGN and star formation emission in SF-AGN could provide further insights into their nature.",
+      "Spatially resolved spectroscopy of SF-AGN candidates could help confirm the presence of AGN signatures in the center of the galaxy.",
+      "Further investigation into the biases of different AGN selection methods in low-mass galaxies is needed."
+    ]
+  }
+}

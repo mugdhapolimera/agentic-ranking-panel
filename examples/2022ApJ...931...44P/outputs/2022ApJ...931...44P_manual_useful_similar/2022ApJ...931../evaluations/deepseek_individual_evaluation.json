@@ -1,0 +1,60 @@
+{
+  "individual_scores": {
+    "1": {
+      "score": 1,
+      "explanation": "The paper focuses on stellar population synthesis and spectral evolution modeling, which is tangential to the main paper's focus on AGN identification via emission-line diagnostics. While both use SDSS data, the methodologies and objectives (stellar populations vs. AGN classification) are distinct."
+    },
+    "2": {
+      "score": 3,
+      "explanation": "Directly relevant as it discusses emission-line diagnostics for classifying excitation mechanisms (e.g., AGN vs. star-forming), aligning with the main paper's methodology. The focus on line ratios ([O III]/H\u03b2, [S II]/H\u03b1, etc.) matches the main paper's optimization of diagnostic diagrams."
+    },
+    "3": {
+      "score": 2,
+      "explanation": "Relevant to AGN host galaxy properties and [O III] luminosity, but focuses on massive galaxies rather than low-metallicity dwarfs. While it addresses AGN classification, it does not address the metallicity-dependent diagnostic challenges central to the main paper."
+    },
+    "4": {
+      "score": 2,
+      "explanation": "Examines the mass-metallicity relation, a key factor in the main paper's context, but focuses on star-forming galaxies rather than AGN. The connection to metallicity is relevant, but the lack of AGN-specific analysis limits direct alignment."
+    },
+    "5": {
+      "score": 1,
+      "explanation": "Discusses massive dark objects (black holes) in galaxy centers, which is tangentially related to AGN, but uses dynamical modeling rather than emission-line diagnostics. The focus on massive galaxies contrasts with the main paper's dwarf galaxy emphasis."
+    },
+    "6": {
+      "score": 3,
+      "explanation": "Highly relevant as it models photoionization and optical diagnostic diagrams for starburst/AGN classification, directly aligning with the main paper's methodology. The discussion of [O III]/H\u03b2 vs. [S II]/H\u03b1 and metallicity effects strengthens the connection."
+    },
+    "7": {
+      "score": 3,
+      "explanation": "Presents a new empirical AGN classification scheme using emission-line ratios, closely mirroring the main paper's goals. The analysis of [O III] luminosity and host galaxy properties (e.g., metallicity, mass) further aligns with the main paper's focus."
+    },
+    "8": {
+      "score": 2,
+      "explanation": "Relevant to AGN in low-mass galaxies and intermediate-mass black holes (IMBHs), which may reside in dwarfs. However, the focus on dynamical searches rather than emission-line diagnostics limits methodological alignment."
+    },
+    "9": {
+      "score": 1,
+      "explanation": "Describes updates to the Cloudy photoionization code, which underpins many AGN diagnostic models. While indirectly related, the main paper does not explicitly use Cloudy, making this tangential to its specific methodology."
+    },
+    "10": {
+      "score": 3,
+      "explanation": "Directly relevant as it proposes revised emission-line classification methods for AGN and H II regions, emphasizing line ratios and minimizing metallicity/reddening biases. This aligns closely with the main paper's goal of optimizing diagnostics for low-metallicity dwarfs."
+    }
+  },
+  "overall_analysis": {
+    "strengths": [
+      "Multiple results (2, 6, 7, 10) directly address emission-line diagnostics and AGN classification, reinforcing the main paper's methodology.",
+      "Results 3 and 8 provide context on AGN demographics and host galaxies, supporting broader implications.",
+      "Result 4 offers insights into metallicity trends, a key variable in the main paper."
+    ],
+    "weaknesses": [
+      "Some results (1, 5, 9) are tangential, focusing on stellar populations, dynamical modeling, or code infrastructure rather than AGN diagnostics.",
+      "Limited focus on low-metallicity dwarfs in most results, which are central to the main paper."
+    ],
+    "suggestions": [
+      "Prioritize results that explicitly address low-metallicity environments and dwarf galaxies.",
+      "Incorporate more studies on the [S II]/H\u03b1 and [O I]/H\u03b1 diagnostics to strengthen the optimization argument.",
+      "Explore additional papers linking IMBHs to emission-line signatures in dwarfs for a more cohesive narrative."
+    ]
+  }
+}

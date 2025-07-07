@@ -1,0 +1,68 @@
+```json
+{
+    "individual_scores": {
+        "1": {
+            "score": 3,
+            "explanation": "This result is highly relevant. It directly addresses the search for active black holes in low-mass galaxies, focusing on a similar stellar mass range (10^8.5 to 10^9.5 M⊙) as the main paper (M* ≤ 10^9.5 M⊙). It also uses optical spectroscopic signatures, including emission-line diagnostics, to identify AGN, aligning with the main paper's methodology."
+        },
+        "2": {
+            "score": 3,
+            "explanation": "This result is highly relevant. It specifically investigates the use of the He II λ4685 emission line diagnostic, which is mentioned in the main paper as an alternative method for identifying AGN, especially in star-forming galaxies. The increase in AGN identification using this method and the analysis of host galaxy properties directly relate to the main paper's investigation of AGN activity in low-mass galaxies."
+        },
+        "3": {
+            "score": 2,
+            "explanation": "This result is relevant. It focuses on identifying AGN in low stellar mass galaxies, which aligns with the main paper's topic. It uses optical variability to select AGN candidates and verifies their nature using SDSS spectra, which is a related but different approach than the main paper's emission-line diagnostics. The verification with X-ray data adds another relevant multiwavelength aspect."
+        },
+        "4": {
+            "score": 1,
+            "explanation": "This result is somewhat relevant. While it deals with the relationship between black hole mass and host galaxy stellar mass, the stellar mass range considered is much broader (10^8 to 10^12 M⊙) than the main paper's focus on low-mass galaxies (M* ≤ 10^9.5 M⊙). The use of broad-line AGN and virial techniques is related, but less directly aligned with the specific aims of the main paper."
+        },
+        "5": {
+            "score": 2,
+            "explanation": "This result is relevant. It discusses emission line diagnostics for IMBHs in dwarf galaxies, which is directly relevant to the main paper's investigation of AGN in low-mass galaxies. The consideration of ULX contamination and the emphasis on He II and [O I] lines, as well as the mention of mid-IR lines, connects to the methods and challenges discussed in the main paper."
+        },
+        "6": {
+            "score": 2,
+            "explanation": "This result is relevant. It focuses on using WISE mid-infrared colors to select AGN candidates in dwarf galaxies, which is one of the methods used in the main paper. The Chandra X-ray observations provide a valuable multiwavelength confirmation. The conclusion about the limitations of WISE selection for star-forming dwarf galaxies is directly relevant to the main paper's discussion of selection biases."
+        },
+        "7": {
+            "score": 1,
+            "explanation": "This result is somewhat relevant. It studies the connection between star formation and supermassive black hole activity, which is broadly related to the main paper's topic. However, the redshift range (z < 0.33) and the focus on X-ray selected AGN make it less directly relevant to the specific investigation of low-mass galaxies and the use of optical and mid-IR diagnostics in the main paper."
+        },
+        "8": {
+            "score": 3,
+            "explanation": "This result is highly relevant. It presents a new sample of low-mass galaxies (M* ≤ 10^10 M⊙) with spectroscopic signatures of massive black holes, which aligns well with the main paper's focus. The inclusion of dwarf galaxies (10^8 ≲ M*/M⊙ ≲ 10^9.5) and the use of optical spectra and emission-line ratios connect strongly to the main paper's methodology. The higher redshift range compared to previous samples is also notable."
+        },
+        "9": {
+            "score": 1,
+            "explanation": "This result is somewhat relevant. It presents a survey of X-ray-selected AGNs, which is a related topic. However, the lack of focus on low mass galaxies, the use of X-ray selection as the primary method, and the broad redshift and luminosity ranges make it less directly relevant to the main paper's specific investigation."
+        },
+        "10": {
+            "score": 3,
+            "explanation": "This result is highly relevant. It uses He II λ4686 line emission to identify hidden AGN in star-forming galaxies, which is directly related to the main paper's emphasis on He II as a diagnostic. The use of spatially resolved data from MaNGA and the quantitative assessment of AGN fraction increases are highly valuable in the context of the main paper's research question."
+        }
+    },
+    "overall_analysis": {
+        "strengths": [
+            "Several results directly address the topic of AGN activity in low-mass galaxies.",
+            "Multiple results utilize optical emission-line diagnostics, including He II, which is a key aspect of the main paper.",
+            "Some results incorporate multiwavelength data (X-ray, mid-IR) for a more comprehensive analysis.",
+            "Several papers constrain the BH masses and/or Stellar masses of the galaxies being studied.",
+            "Some results explore the challenges and selection biases associated with different AGN identification methods."
+        ],
+        "weaknesses": [
+            "Some results have a broader scope, considering a wider range of galaxy masses or redshift ranges, which reduces their direct relevance.",
+            "A few results rely primarily on X-ray or variability selection, which are different approaches than the main paper's focus on optical and mid-IR data.",
+            "The study of the stellar population properties of the dwarf galaxies is understudied.",
+            "The physical mechanisms for fueling the black holes is not explicitly addressed."
+        ],
+        "suggestions": [
+            "Focus future searches on results that specifically target low-mass galaxies and use optical/mid-IR emission-line diagnostics.",
+            "Pay close attention to results that discuss the He II diagnostic and its effectiveness in identifying AGN in star-forming galaxies.",
+            "Consider the limitations and biases of different AGN selection methods when interpreting the results.",
+            "Examine the stellar population properties of the host galaxies to understand the connection between star formation and AGN activity.",
+            "Investigate the physical mechanisms for fueling the black holes."
+        ]
+    }
+}
+```

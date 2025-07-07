@@ -1,0 +1,99 @@
+{
+  "individual_scores": {
+    "1": {
+      "score": 0,
+      "explanation": "Focuses on a Type Ia supernova observed by JWST, unrelated to asteroid studies or DART impact. Methodology involves supernova spectroscopy, not relevant to the main paper."
+    },
+    "2": {
+      "score": 3,
+      "explanation": "Directly discusses JWST observations of the DART impact on Didymos, using the same instruments (NIRCam, NIRSpec, MIRI). Aligns closely with the main paper's focus on post-impact characterization."
+    },
+    "3": {
+      "score": 0,
+      "explanation": "Examines an exoplanet atmosphere with JWST's NIRISS. Topic and methodology (transit spectroscopy) are unrelated to asteroid studies."
+    },
+    "4": {
+      "score": 0,
+      "explanation": "Analyzes a supernova's interaction with circumstellar material. JWST is used, but the subject is unrelated to asteroids or DART."
+    },
+    "5": {
+      "score": 2,
+      "explanation": "Discusses Didymos's brightness phase curve and surface properties, relevant to the main paper's focus on composition. Uses ground-based and other observations, complementing JWST data."
+    },
+    "6": {
+      "score": 1,
+      "explanation": "Summarizes DART mission success but lacks focus on JWST spectroscopy. Relevant to the broader context but tangential to the main paper's specific analysis."
+    },
+    "7": {
+      "score": 1,
+      "explanation": "Compares mid-IR spectra of dark asteroids (C-complex/Jupiter Trojans). Methodology overlaps, but topic diverges (Didymos is S-type). Limited relevance."
+    },
+    "8": {
+      "score": 0,
+      "explanation": "Studies an exoplanet's atmosphere with JWST MIRI. Subject and methodology unrelated to asteroid studies."
+    },
+    "9": {
+      "score": 0,
+      "explanation": "Theoretical spectra of cool brown dwarfs. No connection to asteroids or DART."
+    },
+    "10": {
+      "score": 0,
+      "explanation": "Focuses on protoplanetary disk dust processing. Topic and methodology unrelated to asteroid studies."
+    },
+    "11": {
+      "score": 1,
+      "explanation": "JWST observations of Lucy mission targets (Trojans). Similar methodology but different asteroids. Indirect relevance."
+    },
+    "12": {
+      "score": 0,
+      "explanation": "Examines protoplanetary disk chemistry with JWST. Unrelated to asteroid studies."
+    },
+    "13": {
+      "score": 2,
+      "explanation": "Analyzes near-IR spectra of Didymos pre/post DART, discussing spectral homogeneity. Complements the main paper's mid-IR focus. Relevant."
+    },
+    "14": {
+      "score": 0,
+      "explanation": "Studies a protoplanetary disk's inner region. Topic unrelated to asteroids."
+    },
+    "15": {
+      "score": 2,
+      "explanation": "Pre-impact thermophysical properties of Didymos. Directly relevant to understanding the asteroid's properties pre-DART, supporting the main paper's analysis."
+    },
+    "16": {
+      "score": 1,
+      "explanation": "Investigates C-complex asteroids with Spitzer. Methodology overlap but different asteroid type and instrument. Limited relevance."
+    },
+    "17": {
+      "score": 3,
+      "explanation": "Examines fractures on Dimorphos from thermal fatigue post-DART. Directly relevant to surface processes and physical properties discussed in the main paper."
+    },
+    "18": {
+      "score": 0,
+      "explanation": "JWST spectrum of Sedna (TNO). Different object and dynamical class. No relevance."
+    },
+    "19": {
+      "score": 0,
+      "explanation": "Focuses on a brown dwarf's SED. Unrelated to asteroids or DART."
+    },
+    "20": {
+      "score": 1,
+      "explanation": "Summarizes DART mission achievements. Contextually relevant but lacks focus on JWST data analysis."
+    }
+  },
+  "overall_analysis": {
+    "strengths": [
+      "Several results (2, 5, 13, 15, 17) directly address the Didymos-Dimorphos system or DART impact, aligning with the main paper's focus.",
+      "Methodological consistency in using JWST instruments (NIRSpec, MIRI) in Results 2 and 17 enhances relevance."
+    ],
+    "weaknesses": [
+      "Many results (1, 3, 4, 8-10, 12, 14, 18-19) focus on unrelated topics (exoplanets, supernovae, brown dwarfs).",
+      "Some marginally relevant studies (6, 7, 11, 16, 20) lack direct connection to JWST-based asteroid characterization."
+    ],
+    "suggestions": [
+      "Prioritize studies using JWST for asteroid or planetary defense-related spectroscopy.",
+      "Include more comparative analyses of Didymos with other S-type asteroids to contextualize findings.",
+      "Expand on thermal modeling and ejecta dynamics in post-impact scenarios."
+    ]
+  }
+}

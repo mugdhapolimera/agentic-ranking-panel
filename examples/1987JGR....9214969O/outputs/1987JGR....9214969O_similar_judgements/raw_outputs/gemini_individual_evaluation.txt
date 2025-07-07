@@ -1,0 +1,103 @@
+```json
+{
+    "individual_scores": {
+        "1": {
+            "score": 2,
+            "explanation": "This paper discusses the discovery of a ring interior to Uranus' known rings and derives a typical anisotropy factor for the scattering behavior of the particles. This relates to the main paper's discussion of the photometric properties and scattering behavior of Uranian rings, though it does not focus specifically on Voyager 2 data."
+        },
+        "2": {
+            "score": 0,
+            "explanation": "This paper is about Saturn's A ring. It has no relevance to the main paper, which is about Uranian rings."
+        },
+        "3": {
+            "score": 0,
+            "explanation": "This paper is about spokes in Saturn's B ring. It has no relevance to the main paper, which is about Uranian rings."
+        },
+        "4": {
+            "score": 2,
+            "explanation": "This paper is a general overview of the Voyager 2 imaging science results in the Uranian system, including confirming the low albedo of the ring particles. It's relevant because it discusses Voyager 2 observations of the Uranian rings, as does the main paper."
+        },
+        "5": {
+            "score": 0,
+            "explanation": "This paper is about Saturn's rings. It has no relevance to the main paper, which is about Uranian rings."
+        },
+        "6": {
+            "score": 3,
+            "explanation": "This paper directly relates to the main paper. It presents measurements of the brightness variation of several Uranian rings using Voyager data, and determines the single scattering albedo of the ring particles. This aligns perfectly with the main paper's focus on Uranian ring photometry using Voyager 2 data."
+        },
+        "7": {
+            "score": 2,
+            "explanation": "This paper presents photometric properties of Uranian satellites and rings based on Hubble Space Telescope images. It's relevant because it discusses the photometry of Uranian rings, though it uses HST data rather than Voyager 2 data. It also mentions albedo measurements, which are part of the main paper."
+        },
+        "8": {
+            "score": 0,
+            "explanation": "This paper is a critical assessment of the Hapke photometric model in general. It has no specific relation to Uranian rings or Voyager data."
+        },
+        "9": {
+            "score": 0,
+            "explanation": "This paper is about photometry and polarimetry of Titan. It has no relevance to the main paper, which is about Uranian rings."
+        },
+        "10": {
+            "score": 0,
+            "explanation": "This paper is about modeling phase functions for dustlike tropospheric aerosols. It has no relevance to the main paper, which is about Uranian rings."
+        },
+        "11": {
+            "score": 0,
+            "explanation": "This paper discusses simulations of the dynamical and light-scattering behavior of Saturn's rings. It has no relevance to the main paper, which is about Uranian rings."
+        },
+        "12": {
+            "score": 0,
+            "explanation": "This paper discusses Voyager disk resolved photometry of the Saturnian satellites. It has no relevance to the main paper, which is about Uranian rings."
+        },
+        "13": {
+            "score": 0,
+            "explanation": "This paper is about photometric studies of Saturn's F Ring. It has no relevance to the main paper, which is about Uranian rings."
+        },
+        "14": {
+            "score": 2,
+            "explanation": "This paper examines Uranus' ζ ring in Voyager 2 wide-angle camera observations, quantifying the ring's structure in 1986 and its modifications prior to 2007. It's relevant because it deals with Voyager 2 observations and photometry of a Uranian ring, although it focuses on the ζ ring rather than the main rings."
+        },
+        "15": {
+            "score": 0,
+            "explanation": "This paper is about photometry of the Moon. It has no relevance to the main paper, which is about Uranian rings."
+        },
+        "16": {
+            "score": 0,
+            "explanation": "This paper is about the size distribution of Jupiter's main ring. It has no relevance to the main paper, which is about Uranian rings."
+        },
+        "17": {
+            "score": 0,
+            "explanation": "This paper is about the surface properties and photometry of the Uranian satellites. It is only tangentially related as it does not focus on the rings."
+        },
+        "18": {
+            "score": 0,
+            "explanation": "This paper is about Galileo Photometry of Asteroid 951 Gaspra. It has no relevance to the main paper, which is about Uranian rings."
+        },
+        "19": {
+            "score": 0,
+            "explanation": "This paper is about photometric properties of lunar terrains. It has no relevance to the main paper, which is about Uranian rings."
+        },
+        "20": {
+            "score": 0,
+            "explanation": "This paper is about radiative transfer modeling of Saturn's Outer B ring. It has no relevance to the main paper, which is about Uranian rings."
+        }
+    },
+    "overall_analysis": {
+        "strengths": [
+            "Several results focus on the Uranian ring system.",
+            "Some results utilize Voyager data, similar to the main paper.",
+            "A few results discuss photometric properties and scattering behavior, which are key aspects of the main paper."
+        ],
+        "weaknesses": [
+            "Many results are irrelevant, focusing on rings or satellites of other planets (Saturn, Jupiter) or other celestial bodies (Moon, asteroids).",
+            "Some results use different data sources (e.g., HST) than the main paper (Voyager 2).",
+            "Several results focus on topics only tangentially related to ring photometry (e.g., atmospheric aerosols, general photometric models)."
+        ],
+        "suggestions": [
+            "Refine the search query to specifically target 'Uranian rings' and 'Voyager 2'.",
+            "Include keywords related to 'photometry', 'scattering', 'albedo', and 'phase function' to narrow the focus.",
+            "Exclude terms related to other planets or celestial bodies (e.g., Saturn, Jupiter, Moon, asteroids)."
+        ]
+    }
+}
+```

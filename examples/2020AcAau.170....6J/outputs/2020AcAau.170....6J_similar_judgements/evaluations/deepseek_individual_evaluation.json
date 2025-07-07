@@ -1,0 +1,101 @@
+{
+  "individual_scores": {
+    "1": {
+      "score": 3,
+      "explanation": "The title and abstract are nearly identical to the main paper, indicating it is the same study. Directly aligned with the main paper's goals, methodology, and mission concept."
+    },
+    "2": {
+      "score": 3,
+      "explanation": "OCEANUS is another New Frontiers-class Uranus orbiter concept with similar objectives (interior structure, magnetosphere) and emphasis on low-cost instrumentation. Closely aligned with the main paper's focus."
+    },
+    "3": {
+      "score": 0,
+      "explanation": "A software tool for visualizing magnetospheres. Not a mission concept and unrelated to the technical or scientific goals of the main paper."
+    },
+    "4": {
+      "score": 1,
+      "explanation": "Focuses on optimizing a Flagship mission tour design. While related to Uranus exploration, it addresses a different mission class (Flagship vs. New Frontiers) and lacks direct alignment with QUEST's methodology."
+    },
+    "5": {
+      "score": 2,
+      "explanation": "Broad study of ice giant mission priorities, including Decadal Survey context. Supports the need for Uranus exploration but lacks focus on New Frontiers-class feasibility."
+    },
+    "6": {
+      "score": 1,
+      "explanation": "Focuses on atmospheric probes, not orbiters. Tangentially related to ice giant science but diverges from the main paper's orbiter-centric methodology."
+    },
+    "7": {
+      "score": 3,
+      "explanation": "Another New Frontiers Uranus orbiter concept with nearly identical science goals (magnetosphere, interior, satellites) and design considerations. Highly relevant and methodologically aligned."
+    },
+    "8": {
+      "score": 1,
+      "explanation": "Proposes a Flagship-class multi-planet mission (Saturn + Uranus). Different scope, cost, and objectives compared to the focused New Frontiers approach of the main paper."
+    },
+    "9": {
+      "score": 2,
+      "explanation": "Theoretical study of ice giant magnetospheres. Relevant to the science goals of QUEST but does not address mission design or feasibility."
+    },
+    "10": {
+      "score": 1,
+      "explanation": "Advocates for a Flagship mission, which differs from the New Frontiers focus of the main paper. Supports Uranus exploration broadly but diverges in mission class."
+    },
+    "11": {
+      "score": 3,
+      "explanation": "Directly parallels the main paper's case for a New Frontiers Uranus orbiter, emphasizing cross-disciplinary science and mission feasibility. Closely aligned in goals and methodology."
+    },
+    "12": {
+      "score": 2,
+      "explanation": "Argues for an orbiter + probe mission. Shares science goals with QUEST but introduces a probe component absent in the main paper, reducing methodological alignment."
+    },
+    "13": {
+      "score": 2,
+      "explanation": "ESA-focused study advocating ice giant exploration. Relevant to broader objectives but lacks specificity on New Frontiers-class missions or QUEST's design."
+    },
+    "14": {
+      "score": 1,
+      "explanation": "Heliophysics-focused mission with different primary objectives (magnetospheric physics vs. system science). Limited overlap with QUEST's interdisciplinary goals."
+    },
+    "15": {
+      "score": 2,
+      "explanation": "ESA M-class mission concept. Shares science themes but differs in mission class and international partnership scope compared to the NASA-centric New Frontiers approach."
+    },
+    "16": {
+      "score": 1,
+      "explanation": "Observational study of aurorae using existing data. Relevant to Uranus science but unrelated to mission design or New Frontiers feasibility."
+    },
+    "17": {
+      "score": 0,
+      "explanation": "JWST-based remote sensing of Uranus' magnetosphere. Different methodology (remote vs. in situ) and unrelated to orbiter mission concepts."
+    },
+    "18": {
+      "score": 1,
+      "explanation": "Focuses on atmospheric probes, not orbiters. Overlaps with ice giant science but diverges from the main paper's orbiter focus."
+    },
+    "19": {
+      "score": 1,
+      "explanation": "Flagship-class orbiter + probe concept. Different mission class and scope compared to the New Frontiers approach of QUEST."
+    },
+    "20": {
+      "score": 0,
+      "explanation": "Describes the Juno mission to Jupiter. Unrelated to Uranus or ice giant exploration."
+    }
+  },
+  "overall_analysis": {
+    "strengths": [
+      "Multiple results (1, 2, 7, 11) directly address New Frontiers-class Uranus orbiter concepts, aligning closely with the main paper's objectives.",
+      "Several studies (5, 9, 12, 13) provide broader context for ice giant exploration, reinforcing the scientific importance of Uranus missions.",
+      "Results 7 and 11 offer detailed technical and scientific parallels to QUEST, validating the feasibility of the mission concept."
+    ],
+    "weaknesses": [
+      "Some results (3, 8, 17, 20) are unrelated to Uranus orbiter missions or focus on different targets/methodologies.",
+      "Flagship-class mission proposals (4, 8, 10, 19) dilute relevance to the New Frontiers focus.",
+      "Atmospheric probe studies (6, 18) diverge from the main paper's orbiter-centric approach."
+    ],
+    "suggestions": [
+      "Filter results by mission class (New Frontiers) to exclude Flagship proposals.",
+      "Prioritize studies with explicit technical design analysis for Uranus orbiters.",
+      "Exclude purely observational/theoretical studies unrelated to mission feasibility."
+    ]
+  }
+}

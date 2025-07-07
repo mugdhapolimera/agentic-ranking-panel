@@ -1,0 +1,61 @@
+```json
+{
+    "individual_scores": {
+        "1": {
+            "score": 1,
+            "explanation": "This paper focuses on stellar population synthesis models and their application to galaxy spectra. While it mentions the Sloan Digital Sky Survey (SDSS), it doesn't directly address the main paper's focus on AGN identification in dwarf galaxies using emission-line diagnostics. Therefore, it's only tangentially relevant."
+        "2": {
+            "score": 2,
+            "explanation": "This paper discusses the use of emission-line intensity ratios for classifying extragalactic objects, which is directly relevant to the main paper's topic of AGN classification. However, it doesn't specifically focus on dwarf galaxies or the optimized diagnostic schemes used in the main paper, making it less closely aligned."
+        },
+        "3": {
+            "score": 3,
+            "explanation": "This paper directly addresses the properties of AGN host galaxies using SDSS data, which overlaps with the main paper's data source and general topic. It also examines the relationship between AGN luminosity and host galaxy properties, making it highly relevant to understanding the context of AGN in galaxies."
+        },
+        "4": {
+            "score": 1,
+            "explanation": "This paper investigates the mass-metallicity relation in star-forming galaxies using SDSS data. While it touches on metallicity, a factor relevant to the main paper, it does not focus on AGN or the specific diagnostic techniques for identifying them, making it only somewhat relevant."
+        },
+        "5": {
+            "score": 0,
+            "explanation": "This paper focuses on the demography of massive dark objects in galaxy centers using dynamical models. It does not relate to the main paper's topic of AGN identification using emission-line diagnostics, making it not relevant."
+        },
+        "6": {
+            "score": 1,
+            "explanation": "This paper models starburst galaxies and their spectral energy distributions, using the optical diagnostic diagrams as indicators. While it discusses starbursts and diagnostic diagrams, it does not focus on AGN in dwarf galaxies, making it tangentially related."
+        },
+        "7": {
+            "score": 3,
+            "explanation": "This paper presents an analysis of host properties of emission-line galaxies selected from SDSS and derives a new classification scheme for Seyferts and LINERs, which is directly relevant to the main paper's focus on AGN classification using emission line diagnostics.  It also considers the influence of host galaxy properties which aligns with the main paper's goals."
+        },
+        "8": {
+            "score": 1,
+            "explanation": "This paper reviews searches for intermediate-mass black holes. While relevant to the broader study of black holes, it doesn't directly address the specific methods and focus on dwarf galaxies detailed in the main paper, making it somewhat tangential."
+        },
+        "9": {
+            "score": 0,
+            "explanation": "This paper describes the spectral synthesis code Cloudy. While Cloudy might be used in photoionization modeling related to AGN studies, the paper itself doesn't discuss AGN, dwarf galaxies, or emission-line diagnostics, making it not relevant to the main paper's focus."
+        },
+        "10": {
+            "score": 2,
+            "explanation": "This paper proposes a revised method for spectral classification of emission-line galaxies, which directly aligns with the main paper's goal of improving AGN classification. However, the abstract does not explicitly mention a focus on dwarf galaxies, thus making it relevant but not as highly aligned as other results."
+        }
+    },
+    "overall_analysis": {
+        "strengths": [
+            "Several results (3, 7) directly address the properties of AGN and their host galaxies using SDSS data, which is highly relevant to the main paper.",
+            "Some results (2, 10) discuss emission-line classification schemes, which are central to the main paper's methodology.",
+            "Result 7 specifically addresses host galaxy properties of different classes of objects and identifies the distinction between LINERs and Seyferts."
+        ],
+        "weaknesses": [
+            "Many results (1, 4, 5, 6, 8, 9) are only tangentially related or not relevant, focusing on broader topics like stellar populations, starbursts, or black hole demographics without a specific connection to AGN identification in dwarf galaxies.",
+            "Few results specifically mention the challenges of AGN identification in low-metallicity dwarf galaxies, which is a key focus of the main paper."
+        ],
+        "suggestions": [
+            "Future searches could be refined to include keywords like 'dwarf galaxies', 'low metallicity', 'emission-line diagnostics', and 'AGN classification' to improve the relevance of the results.",
+            "Exploring papers that specifically compare different emission-line diagnostic diagrams in the context of dwarf galaxies could yield more directly relevant results.",
+            "Searching for studies that use photoionization models to interpret emission lines in dwarf galaxies could also be beneficial."
+        ]
+    }
+}
+```

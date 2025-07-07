@@ -1,0 +1,101 @@
+{
+  "individual_scores": {
+    "1": {
+      "score": 1,
+      "explanation": "Uses same COLLIDE/PRIME experiments and methodology as main paper. Part of same research campaign focusing on mass transfer in microgravity collisions."
+    },
+    "2": {
+      "score": 1,
+      "explanation": "Directly references COLLIDE/PRIME experiments and drop tower replication methods from the main study. Focuses on identical mass transfer phenomena."
+    },
+    "3": {
+      "score": 1,
+      "explanation": "Describes COLLIDE/PRIME experiments and uses identical drop tower methodology to study rebound-phase mass transfer, aligning closely with main paper's goals."
+    },
+    "4": {
+      "score": 1,
+      "explanation": "Analyzes data from PRIME/COLLIDE campaigns and compares microgravity vs reduced-gravity outcomes, directly supporting the main paper's conclusions."
+    },
+    "5": {
+      "score": 1,
+      "explanation": "Extends COLLIDE/PRIME findings with ground-based spring experiments, addressing the same mass transfer thresholds in microgravity."
+    },
+    "6": {
+      "score": 2,
+      "explanation": "Studies dust aggregate collisions but focuses on high-velocity fragmentation/accretion in protoplanetary disks. Relevant to granular mechanics but diverges in context/materials."
+    },
+    "7": {
+      "score": 1,
+      "explanation": "Examines high-velocity collisions (25 m/s) beyond the main paper's low-energy focus. Tangential to adhesive mass transfer mechanics."
+    },
+    "8": {
+      "score": 1,
+      "explanation": "PRIME-3 campaign data directly contributes to the main paper's investigation of ejecta and rebound dynamics in microgravity."
+    },
+    "9": {
+      "score": 2,
+      "explanation": "Investigates mass transfer in drop towers but focuses on planetesimal formation rather than regolith adhesion. Methodological overlap but different context."
+    },
+    "10": {
+      "score": 2,
+      "explanation": "Studies ejecta in low-gravity impacts, related but not identical to the main paper's focus on projectile mass transfer. Partial methodological alignment."
+    },
+    "11": {
+      "score": 2,
+      "explanation": "Examines low-velocity collisions and accretion efficiency but uses different experimental setups (Bremen drop tower) and materials."
+    },
+    "12": {
+      "score": 1,
+      "explanation": "COLLIDE-2 flight data directly supports the main paper's analysis of coefficients of restitution and microgravity effects."
+    },
+    "13": {
+      "score": 1,
+      "explanation": "Simulation-focused study tangential to experimental work in the main paper. Some relevance to granular dynamics but diverges in approach."
+    },
+    "14": {
+      "score": 1,
+      "explanation": "Microgravity experiments on decimeter dust, but focuses on fragmentation/coefficients of restitution rather than adhesive mass transfer."
+    },
+    "15": {
+      "score": 1,
+      "explanation": "Studies cm-dm collisions in protoplanetary contexts. Relevant to collision mechanics but diverges in experimental focus and materials."
+    },
+    "16": {
+      "score": 1,
+      "explanation": "Focuses on momentum transfer for asteroid deflection rather than adhesive mass transfer. Indirect relevance to regolith behavior."
+    },
+    "17": {
+      "score": 1,
+      "explanation": "COLLIDE flight data directly informs the main paper's conclusions about inelastic collisions and microgravity ejecta production."
+    },
+    "18": {
+      "score": 2,
+      "explanation": "Analyzes penetration depth/coefficients of restitution in microgravity, methodologically related but not focused on mass transfer adhesion."
+    },
+    "19": {
+      "score": 1,
+      "explanation": "Examines aggregate sticking in microgravity but uses different materials (SiO2) and focuses on fragmentation rather than regolith adhesion."
+    },
+    "20": {
+      "score": 2,
+      "explanation": "Studies ejecta in lunar simulants with partial overlap in microgravity methods, but less direct focus on projectile mass transfer."
+    }
+  },
+  "overall_analysis": {
+    "strengths": [
+      "Multiple results directly extend or validate the main paper's COLLIDE/PRIME experiments",
+      "Strong consistency in studying low-velocity microgravity impacts across several results",
+      "Broad coverage of regolith behavior and granular mechanics in space environments"
+    ],
+    "weaknesses": [
+      "Overlap with same experimental campaigns reduces novelty in some results",
+      "Several studies focus on tangential aspects (e.g., ejecta, fragmentation) rather than adhesive mass transfer",
+      "Limited exploration of non-COLLIDE/PRIME methodologies that could provide comparative insights"
+    ],
+    "suggestions": [
+      "Include more studies using alternative microgravity platforms or novel regolith simulants",
+      "Expand comparison with high-fidelity numerical models of adhesion mechanics",
+      "Incorporate results analyzing long-term regolith evolution from repeated low-energy disturbances"
+    ]
+  }
+}

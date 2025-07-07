@@ -1,0 +1,26 @@
+```json
+{
+    "set_analyses": {
+        "1": {
+            "strengths": [
+                "Strong relevance to the main paper's topic of dwarf AGN identification using emission-line diagnostics.",
+                "Includes a paper (Result 1) that directly references the RESOLVE and ECO surveys, which are central to the main paper.",
+                "Addresses the 'star-forming AGN' (SF-AGN) category, a key finding of the main paper.",
+                "Covers alternative diagnostic diagrams beyond the traditional BPT diagram, which is a focus of the main paper (Results 1, 4).",
+                "Explores the metallicity dependence of emission-line diagnostics, a critical aspect discussed in the main paper (Results 1, 2, 5)."
+            ],
+            "weaknesses": [
+                "Some results (e.g., Results 2, 3, 6, 8, 9) focus on higher redshift galaxies or more general emission-line studies, which are less directly relevant to the main paper's focus on local dwarf AGN.",
+                "The connection between gas dynamics (Result 5) and the specific AGN classification scheme in the main paper could be stronger."
+            ],
+            "summary": "Set 1 is highly relevant, with several results directly addressing the main paper's topic of dwarf AGN identification in the local universe using emission-line diagnostics and alternative classification schemes. While some results are broader, the core findings align well with the main paper's focus."
+        }
+    },
+    "comparison": {
+        "best_set": 1,
+        "justification": "Set 1 stands out due to its direct relevance to the main paper's core themes. Result 1, titled \"Surprisingly Abundant Dwarf AGN in the RESOLVE and ECO z 0 AGN Census,\" explicitly mentions the same surveys (RESOLVE and ECO) used in the main paper and discusses the 'star-forming AGN' (SF-AGN) category, which is a novel finding of the main paper. This result also highlights the use of alternative diagnostic plots ([OI]/Hα or [SII]/Hα), a key methodological aspect of the main paper that aims to overcome the limitations of the BPT diagram in low-metallicity environments. Result 4, \"Alternative diagnostic diagrams and the `forgotten' population of weak line galaxies in the SDSS,\" further reinforces the focus on alternative diagnostic diagrams and their application to emission-line galaxies. While other results in Set 1 are somewhat less directly relevant, the presence of these highly pertinent papers makes it the strongest set overall.",
+        "key_differences": [],
+        "improvement_suggestions": []
+    }
+}
+```

@@ -1,0 +1,58 @@
+{
+  "individual_scores": {
+    "1": {
+      "score": 0,
+      "explanation": "The paper focuses on stellar population synthesis models and spectral evolution of galaxies, which is unrelated to AGN classification or emission-line diagnostics in low-metallicity dwarfs. It does not address the main paper's methodology or objectives."
+    },
+    "2": {
+      "score": 2,
+      "explanation": "This paper discusses emission-line ratios for classifying excitation mechanisms (e.g., AGN vs. star-forming), aligning with the main paper's focus on emission-line diagnostics. However, it does not specifically address low-metallicity dwarfs or the novel SF-AGN category."
+    },
+    "3": {
+      "score": 2,
+      "explanation": "The study examines AGN host galaxy properties using SDSS data and [OIII] luminosity, which relates to the main paper's AGN identification goals. However, it focuses on general host galaxy stellar populations rather than low-metallicity dwarfs or optimized diagnostics."
+    },
+    "4": {
+      "score": 1,
+      "explanation": "While the mass-metallicity relation is tangentially related to the main paper's focus on low-metallicity dwarfs, this work does not address AGN classification or emission-line diagnostics, making it only weakly relevant."
+    },
+    "5": {
+      "score": 1,
+      "explanation": "This paper investigates massive dark objects (likely SMBHs) in galaxy centers, which is indirectly related to AGN in dwarfs. However, it uses dynamical modeling rather than emission-line diagnostics, limiting its relevance."
+    },
+    "6": {
+      "score": 1,
+      "explanation": "The paper models starburst galaxies and discusses optical diagnostic diagrams, but its focus on comparing stellar synthesis codes and shock heating is tangential to the main paper's AGN classification in dwarfs."
+    },
+    "7": {
+      "score": 2,
+      "explanation": "This work refines AGN classification using SDSS data and optical diagnostics, closely aligning with the main paper's methodology. However, it does not specifically address low-metallicity dwarfs or the SF-AGN category."
+    },
+    "8": {
+      "score": 1,
+      "explanation": "The review of intermediate-mass black holes (IMBHs) is indirectly relevant to AGN in dwarfs, but it focuses on dynamical searches rather than emission-line diagnostics, limiting its methodological alignment."
+    },
+    "9": {
+      "score": 1,
+      "explanation": "The Cloudy code is widely used in photoionization modeling, which underpins the main paper's grids. However, the abstract does not explicitly connect to AGN or low-metallicity diagnostics, making this only peripherally relevant."
+    },
+    "10": {
+      "score": 2,
+      "explanation": "This paper proposes revised emission-line classification methods, directly aligning with the main paper's focus. However, it does not address low-metallicity dwarfs or the SF-AGN category, reducing its specificity."
+    }
+  },
+  "overall_analysis": {
+    "strengths": [
+      "Several results (2, 3, 7, 10) focus on emission-line diagnostics and AGN classification, aligning with the main paper's methodology.",
+      "The use of SDSS data in multiple papers matches the main paper's data sources, providing contextual relevance."
+    ],
+    "weaknesses": [
+      "Many results (1, 4, 5, 6, 8, 9) are tangential to the main paper's focus on low-metallicity dwarfs and optimized AGN diagnostics.",
+      "Limited emphasis on the unique SF-AGN category or metallicity-dependent line-ratio challenges highlighted in the main paper."
+    ],
+    "suggestions": [
+      "Include papers specifically addressing emission-line diagnostics in low-metallicity environments.",
+      "Prioritize studies that explore AGN in dwarf galaxies or alternative classification schemes beyond the standard BPT diagram."
+    ]
+  }
+}

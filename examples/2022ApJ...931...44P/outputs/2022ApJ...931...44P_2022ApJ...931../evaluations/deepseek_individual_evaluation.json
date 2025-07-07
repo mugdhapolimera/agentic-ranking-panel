@@ -1,0 +1,60 @@
+{
+  "individual_scores": {
+    "1": {
+      "score": 0,
+      "explanation": "The paper focuses on stellar population synthesis and spectral evolution modeling, which is unrelated to AGN classification or emission-line diagnostics. It does not address low-metallicity galaxies, AGN, or emission-line ratio methods."
+    },
+    "2": {
+      "score": 3,
+      "explanation": "Directly relevant as it discusses emission-line diagnostics for classifying excitation mechanisms (e.g., AGN vs. star-forming), aligning with the main paper's focus on optimizing such diagnostics for low-metallicity dwarfs. The methodology of using line ratios matches the main paper's approach."
+    },
+    "3": {
+      "score": 2,
+      "explanation": "Relevant to AGN host galaxy properties (e.g., metallicity, stellar populations) but does not address emission-line diagnostics or low-metallicity dwarfs specifically. Focuses on AGN demographics rather than classification methods."
+    },
+    "4": {
+      "score": 2,
+      "explanation": "Addresses the mass-metallicity relation, a key factor in the main paper's argument, but focuses on star-forming galaxies rather than AGN classification. Indirectly supports metallicity's role in AGN detection but lacks direct methodological alignment."
+    },
+    "5": {
+      "score": 1,
+      "explanation": "Discusses massive dark objects (e.g., black holes) in galaxy centers but focuses on high-mass galaxies and dynamical modeling, not emission-line diagnostics or low-metallicity dwarfs. Tangential to the main paper's methodology."
+    },
+    "6": {
+      "score": 3,
+      "explanation": "Highly relevant as it develops photoionization models and optical diagnostic diagrams for AGN/starburst classification, directly aligning with the main paper's methodology. Discusses theoretical classification schemes, which parallel the main paper's goals."
+    },
+    "7": {
+      "score": 2,
+      "explanation": "Relevant for its empirical AGN classification and host galaxy analysis, but focuses on broader AGN populations (Seyferts/LINERs) rather than low-metallicity dwarfs. Methodology overlaps but lacks specific emphasis on metallicity-driven diagnostics."
+    },
+    "8": {
+      "score": 2,
+      "explanation": "Relevant to AGN in low-mass galaxies and intermediate-mass black holes (potential AGN sources in dwarfs), but focuses on dynamical searches rather than emission-line diagnostics. Connects to the main paper's context but not its methodology."
+    },
+    "9": {
+      "score": 1,
+      "explanation": "Describes the Cloudy code, a tool for photoionization modeling, which could underpin the main paper's grids. However, the paper does not address AGN classification or low-metallicity galaxies, making it indirectly relevant at best."
+    },
+    "10": {
+      "score": 3,
+      "explanation": "Directly relevant as it proposes revised emission-line classification methods for AGN and H II regions, emphasizing line ratios and photoionization models. Aligns closely with the main paper's goal of optimizing diagnostics for metallicity-sensitive AGN detection."
+    }
+  },
+  "overall_analysis": {
+    "strengths": [
+      "Results 2, 6, and 10 are highly relevant, providing foundational work on emission-line diagnostics and photoionization models.",
+      "Results 3, 4, and 7 offer complementary insights into AGN host properties and metallicity effects.",
+      "Result 8 connects to the context of low-mass AGN hosts, though methodologically distinct."
+    ],
+    "weaknesses": [
+      "Results 1, 5, and 9 are tangential, focusing on unrelated tools (stellar synthesis, MDOs) or indirect methodologies.",
+      "Limited focus on low-metallicity dwarfs in most results, with only the main paper addressing this niche explicitly."
+    ],
+    "suggestions": [
+      "Include more studies on AGN in low-metallicity environments or dwarf-specific emission-line diagnostics.",
+      "Prioritize papers that combine metallicity effects with AGN classification schemes.",
+      "Explore observational studies validating the [S II]/H\u03b1 and [O I]/H\u03b1 diagnostics in dwarf galaxies."
+    ]
+  }
+}

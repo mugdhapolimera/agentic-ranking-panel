@@ -1,0 +1,9 @@
+{
+  "correlations": {
+    "claude": 1.0,
+    "gemini": 1.0,
+    "deepseek": 0.4444444444444445,
+    "consensus": NaN
+  },
+  "output_file": "examples/2022ApJ...931...44P/outputs/2022ApJ...931...44P_similar_llm_scored_results.json"
+}

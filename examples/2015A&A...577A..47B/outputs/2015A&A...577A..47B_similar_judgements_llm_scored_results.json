@@ -1,0 +1,349 @@
+{
+  "bibcode": "2015A&A...577A..47B",
+  "title": [
+    "Testing the chemical tagging technique with open clusters"
+  ],
+  "abstract": "Context. Stars are born together from giant molecular clouds and, if we assume that the priors were chemically homogeneous and well-mixed, we expect them to share the same chemical composition. Most of the stellar aggregates are disrupted while orbiting the Galaxy and most of the dynamic information is lost, thus the only possibility of reconstructing the stellar formation history is to analyze the chemical abundances that we observe today. <BR /> Aims: The chemical tagging technique aims to recover disrupted stellar clusters based merely on their chemical composition. We evaluate the viability of this technique to recover co-natal stars that are no longer gravitationally bound. <BR /> Methods: Open clusters are co-natal aggregates that have managed to survive together. We compiled stellar spectra from 31 old and intermediate-age open clusters, homogeneously derived atmospheric parameters, and 17 abundance species, and applied machine learning algorithms to group the stars based on their chemical composition. This approach allows us to evaluate the viability and efficiency of the chemical tagging technique. <BR /> Results: We found that stars at different evolutionary stages have distinct chemical patterns that may be due to NLTE effects, atomic diffusion, mixing, and biases. When separating stars into dwarfs and giants, we observed that a few open clusters show distinct chemical signatures while the majority show a high degree of overlap. This limits the recovery of co-natal aggregates by applying the chemical tagging technique. Nevertheless, there is room for improvement if more elements are included and models are improved. <P />Based on observations obtained at the Telescope Bernard Lyot (USR5026) operated by the Observatoire Midi-Pyr\u00e9n\u00e9es, Universit\u00e9 de Toulouse (Paul Sabatier), Centre National de la Recherche Scientifique of France, and on public data obtained from the ESO Science Archive Facility under requests number 81252 and 81618.",
+  "search_results": [
+    {
+      "bibcode": "2015A&A...575A..34M",
+      "abstract": "Context. The evolution of massive stars is still partly unconstrained. Mass, metallicity, mass loss, and rotation are the main drivers of stellar evolution. Binarity and the magnetic field may also significantly affect the fate of massive stars. <BR /> Aims: Our goal is to investigate the evolution of single O stars in the Galaxy. <BR /> Methods: For that, we used a sample of 74 objects comprising all luminosity classes and spectral types from O4 to O9.7. We relied on optical spectroscopy obtained in the context of the MiMeS survey of massive stars. We performed spectral modelling with the code CMFGEN. We determined the surface properties of the sample stars, with special emphasis on abundances of carbon, nitrogen, and oxygen. <BR /> Results: Most of our sample stars have initial masses in the range of 20 to 50 M<SUB>\u2299</SUB>. We show that nitrogen is more enriched and carbon and oxygen are more depleted in supergiants than in dwarfs, with giants showing intermediate degrees of mixing. CNO abundances are observed in the range of values predicted by nucleosynthesis through the CNO cycle. More massive stars, within a given luminosity class, appear to be more chemically enriched than lower mass stars. We compare our results with predictions of three types of evolutionary models and show that for two sets of models, 80% of our sample can be explained by stellar evolution including rotation. The effect of magnetism on surface abundances is unconstrained. <BR /> Conclusions: Our study indicates that in the 20-50 M<SUB>\u2299</SUB> mass range, the surface chemical abundances of most single O stars in the Galaxy are fairly well accounted for by stellar evolution of rotating stars. <P />Based on observations obtained at 1) the Telescope Bernard Lyot (USR5026) operated by the Observatoire Midi-Pyr\u00e9n\u00e9es, Universit\u00e9 de Toulouse (Paul Sabatier), Centre National de la Recherche Scientifique of France; 2) at the Canada-France-Hawaii Telescope (CFHT) which is operated by the National Research Council (NRC) of Canada, the Institut National des Science de l'Univers of the Centre National de la Recherche Scientifique (CNRS) of France, and the University of Hawaii; 3) at the ESO/La Silla Observatory under program ID 187.D-0917.",
+      "title": [
+        "The MiMeS survey of magnetism in massive stars: CNO surface abundances of Galactic O stars"
+      ],
+      "sme_judgements": 1,
+      "notes": "CNO abundances, but no chemical tagging",
+      "claude_score": 2,
+      "claude_explanation": "The paper discusses the CNO abundances in O stars, which is related to the main paper's topic of chemical abundances and stellar evolution. However, it does not specifically focus on open clusters or the chemical tagging technique.",
+      "gemini_score": 1,
+      "gemini_explanation": "While it uses spectra of stars, this paper focuses on the evolution of O stars and their CNO abundances. The main paper deals with chemical tagging of open clusters. There is a slight overlap in techniques (spectroscopy), but little overlap in the topic.",
+      "deepseek_score": 1,
+      "deepseek_explanation": "Focuses on CNO abundances in massive O stars and stellar evolution, which involves chemical abundances but is unrelated to open clusters or chemical tagging methodology. Only tangentially relevant.",
+      "consensus_score": 1,
+      "consensus_explanation": "Provides some background information on spectroscopic analysis techniques, but does not directly address chemical abundances or homogeneity in open clusters."
+    },
+    {
+      "bibcode": "2018A&A...616A...7S",
+      "abstract": "<BR /> Aims: The Radial Velocity Spectrometer (RVS) on board the ESA satellite mission Gaia has no calibration device. Therefore, the radial velocity zero point needs to be calibrated with stars that are proved to be stable at a level of 300 m s<SUP>-1</SUP> during the Gaia observations. <BR /> Methods: We compiled a dataset of ~71 000 radial velocity measurements from five high-resolution spectrographs. A catalogue of 4813 stars was built by combining these individual measurements. The zero point was established using asteroids. <BR /> Results: The resulting catalogue has seven observations per star on average on a typical time baseline of 6 yr, with a median standard deviation of 15 m s<SUP>-1</SUP>. A subset of the most stable stars fulfilling the RVS requirements was used to establish the radial velocity zero point provided in Gaia Data Release 2. The stars that were not used for calibration are used to validate the RVS data. <P />Based on observations made at Observatoire de Haute Provence (CNRS), France, at the Telescope Bernard Lyot (USR5026) operated by the Observatoire Midi-Pyr\u00e9n\u00e9es, Universit\u00e9 de Toulouse (Paul Sabatier) and CNRS, France, at the Euler telescope operated by Observatoire de Gen\u00e8ve at La Silla, Chile, and on public data obtained from the ESO Science Archive Facility. <P />Tables of individual measurements and mean velocities are only available at the CDS via anonymous ftp to <A href=\"http://cdsarc.u-strasbg.fr\">http://cdsarc.u-strasbg.fr</A> (<A href=\"http://cdsarc.u-strasbg.fr\">http://130.79.128.5</A>) or via <A href=\"http://cdsarc.u-strasbg.fr/viz-bin/qcat?J/A+A/616/A7\">http://cdsarc.u-strasbg.fr/viz-bin/qcat?J/A+A/616/A7</A>",
+      "title": [
+        "Gaia Data Release 2. The catalogue of radial velocity standard stars"
+      ],
+      "sme_judgements": 0,
+      "notes": "Gaia Radial Velocities, unrelated",
+      "claude_score": 2,
+      "claude_explanation": "This paper is about establishing a catalog of radial velocity standard stars, which is relevant to the main paper's topic of using spectroscopic observations to study stellar properties. However, it does not directly address chemical tagging or open clusters.",
+      "gemini_score": 0,
+      "gemini_explanation": "This paper is about calibrating radial velocities using stable stars. It is not related to the main paper's topic of chemical tagging of open clusters based on chemical composition. Although it uses data from the same telescope, the scientific goals are completely different.",
+      "deepseek_score": 0,
+      "deepseek_explanation": "Deals with Gaia radial velocity calibration standards. No connection to chemical tagging, open clusters, or abundance analysis in the main paper.",
+      "consensus_score": 1,
+      "consensus_explanation": "Discusses stellar activity and magnetic fields, which are not directly relevant to the main paper's topic of chemical abundances and homogeneity in open clusters."
+    },
+    {
+      "bibcode": "2016A&A...587A..42P",
+      "abstract": "Context. Weak G-band (wGb) stars are a very peculiar class of red giants; they are almost devoided of carbon and often present mild lithium enrichment. Despite their very puzzling abundance patterns, very few detailed spectroscopic studies existed up to a few years ago, which prevented any clear understanding of the wGb phenomenon. We recently proposed the first consistent analysis of published data for a sample of 28 wGb stars and were able to identify them as descendants of early A-type to late B-type stars, although we were not able to conclude on their evolutionary status or the origin of their peculiar abundance pattern. <BR /> Aims: Using new high-resolution spectra, we present the study of a new sample of wGb stars with the aim of homogeneously deriving their fundamental parameters and surface abundances for a selected set of chemical species that we use to improve our insight on this peculiar class of objects. <BR /> Methods: We obtained high-resolution and high signal-to-noise spectra for 19 wGb stars in the southern and northern hemisphere that we used to perform consistent spectral synthesis to derive their fundamental parameters and metallicities, as well as the spectroscopic abundances for Li, C, <SUP>12</SUP>C/<SUP>13</SUP>C, N, O, Na, Sr, and Ba. We also computed dedicated stellar evolution models that we used to determine the masses and to investigate the evolutionary status and chemical history of the stars in our sample. <BR /> Results: We confirm that the wGb stars are stars with initial masses in the range 3.2 to 4.2 M<SUB>\u2299</SUB>. We suggest that a large fraction could be mildly evolved stars on the subgiant branch currently undergoing the first dredge-up, while a smaller number of stars are more probably in the core He burning phase at the clump. After analysing their abundance pattern, we confirm their strong nitrogen enrichment anti-correlated with large carbon depletion, characteristic of material fully processed through the CNO cycle to an extent not known in evolved intermediate-mass stars in the field and in open clusters. However, we demonstrate here that such a pattern is very unlikely owing to self-enrichment. <BR /> Conclusions: In the light of the current observational constraints, no solid self-consistent pollution scenario can be presented either, leaving the wGb puzzle largely unsolved. <P />Based on data collected at La Silla Observatory (ESO, Chile), program identifier ID 089.D-0189(A), and at the Telescope Bernard Lyot (USR5026) operated by the Observatoire Midi-Pyr\u00e9n\u00e9es, Universit\u00e9 de Toulouse (Paul Sabatier), Centre National de la Recherche Scientifique of France.",
+      "title": [
+        "New determination of abundances and stellar parameters for a set of weak G-band stars"
+      ],
+      "sme_judgements": 1,
+      "notes": "Abundances and stellar parameters determination",
+      "claude_score": 2,
+      "claude_explanation": "The paper investigates the chemical abundances of weak G-band stars, which is related to the main paper's topic of chemical abundances and stellar evolution. However, it does not specifically focus on open clusters or the chemical tagging technique.",
+      "gemini_score": 1,
+      "gemini_explanation": "This paper investigates weak G-band stars and their peculiar abundances. While it analyzes chemical abundances, it is not related to chemical tagging of open clusters. It is relevant because of the shared technique of deriving chemical abundances from stellar spectra, but the focus is very different.",
+      "deepseek_score": 1,
+      "deepseek_explanation": "Studies peculiar weak G-band stars with unique abundance patterns. While chemical abundances are analyzed, the context (peculiar stars vs. open clusters) is unrelated to the main paper.",
+      "consensus_score": 1,
+      "consensus_explanation": "Focuses on stellar activity and magnetic fields, which are not directly relevant to the main paper's topic."
+    },
+    {
+      "bibcode": "2015A&A...575A..66N",
+      "abstract": "Context. Some colliding-wind massive binaries, called particle-accelerating colliding-wind binaries (PACWB), exhibit synchrotron radio emission, which is assumed to be generated by a stellar magnetic field. However, no measurement of magnetic fields in these stars has ever been performed. <BR /> Aims: We aim at quantifying the possible stellar magnetic fields present in PACWB to provide constraints for models. <BR /> Methods: We gathered 21 high-resolution spectropolarimetric observations of 9 PACWB available in the ESPaDOnS, Narval and HarpsPol archives. We analysed these observations with the least squares deconvolution method. We separated the binary spectral components when possible. <BR /> Results: No magnetic signature is detected in any of the 9 PACWB stars and all longitudinal field measurements are compatible with 0 G. We derived the upper field strength of a possible field that could have remained hidden in the noise of the data. While the data are not very constraining for some stars, for several stars we could derive an upper limit of the polar field strength of the order of 200 G. <BR /> Conclusions: We can therefore exclude the presence of strong or moderate stellar magnetic fields in PACWB, typical of the ones present in magnetic massive stars. Weak magnetic fields could however be present in these objects. These observational results provide the first quantitative constraints for future models of PACWB. <P />Based on archival observations obtained at the T\u00e9lescope Bernard Lyot (USR5026) operated by the Observatoire Midi-Pyr\u00e9n\u00e9es, Universit\u00e9 de Toulouse (Paul Sabatier), Centre National de la Recherche Scientifique (CNRS) of France, at the Canada-France-Hawaii Telescope (CFHT) operated by the National Research Council of Canada, the Institut National des Sciences de l'Univers of the CNRS of France, and the University of Hawaii, and at the European Southern Observatory (ESO), Chile.",
+      "title": [
+        "Search for magnetic fields in particle-accelerating colliding-wind binaries"
+      ],
+      "sme_judgements": 0,
+      "notes": "Magnetic fields",
+      "claude_score": 1,
+      "claude_explanation": "The paper searches for magnetic fields in colliding-wind binaries, which is not directly related to the main paper's topic of chemical tagging in open clusters.",
+      "gemini_score": 0,
+      "gemini_explanation": "This paper searches for magnetic fields in colliding-wind binaries. It has no relevance to the main paper's topic of chemical tagging of open clusters based on chemical composition. The techniques are very different.",
+      "deepseek_score": 0,
+      "deepseek_explanation": "Searches for magnetic fields in colliding-wind binaries. No overlap with the main paper's focus on chemical tagging or open clusters.",
+      "consensus_score": 0,
+      "consensus_explanation": "Investigates magnetic fields in sun-like stars, which is not directly relevant to the main paper's topic."
+    },
+    {
+      "bibcode": "2014A&A...565A..83K",
+      "abstract": "Context. The late-B, magnetic, chemically peculiar star CU Vir is one of the fastest rotators among the intermediate-mass stars with strong fossil magnetic fields. It shows a prominent rotational modulation of the spectral energy distribution and absorption line profiles due to chemical spots and exhibits a unique, strongly beamed variable radio emission. <BR /> Aims: Little is known about the magnetic field topology of CU Vir. In this study, we aim to derive detailed maps of the magnetic field distribution over the surface of this star for the first time. <BR /> Methods: We use high-resolution spectropolarimetric observations covering the entire rotational period. These data are interpreted using a multi-line technique of least-squares deconvolution (LSD) and a new Zeeman Doppler imaging code, which is based on detailed polarised radiative transfer modelling of the Stokes I and V LSD profiles. This new magnetic inversion approach relies on the spectrum synthesis calculations over the full wavelength range that is covered by observations and does not assume that the LSD profiles behave as a single spectral line with mean parameters. <BR /> Results: We present magnetic and chemical abundance maps derived from the Si and Fe lines. Mean polarisation profiles of both elements reveal a significant departure of CU Vir's magnetic field topology from the commonly assumed axisymmetric dipolar configuration. The field of CU Vir is dipolar-like but clearly non-axisymmetric, showing a large difference in the field strength between the regions of opposite polarity. The main relative abundance depletion features in both Si and Fe maps coincide with the weak-field region in the magnetic map. <BR /> Conclusions: The detailed information on the distorted dipolar magnetic field topology of CU Vir provided by our study is essential for understanding chemical spot formation, radio emission, and rotational period variation of this star. <P />Based on observations obtained at the Bernard Lyot Telescope (USR5026) operated by the Observatoire Midi-Pyr\u00e9n\u00e9es, Universit\u00e9 de Toulouse (Paul Sabatier), Centre National de la Recherche Scientifique of France.",
+      "title": [
+        "Magnetic field topology of the unique chemically peculiar star CU Virginis"
+      ],
+      "sme_judgements": 0,
+      "notes": "Magnetic fields",
+      "claude_score": 2,
+      "claude_explanation": "The paper studies the magnetic field topology of a chemically peculiar star, which is somewhat related to the main paper's topic of using spectroscopic observations to study stellar properties. However, it does not directly address chemical tagging or open clusters.",
+      "gemini_score": 0,
+      "gemini_explanation": "This paper studies the magnetic field topology of a chemically peculiar star. It is not related to the main paper's topic of chemical tagging of open clusters based on chemical composition. The techniques are very different.",
+      "deepseek_score": 0,
+      "deepseek_explanation": "Analyzes magnetic fields in CU Virginis. Irrelevant to chemical homogeneity or open clusters.",
+      "consensus_score": 0,
+      "consensus_explanation": "Examines magnetic fields in solar-type stars, which is not directly relevant to the main paper's topic."
+    },
+    {
+      "bibcode": "2020A&A...633A..48F",
+      "abstract": "Context. 55 Cancri hosts five known exoplanets, most notably the hot super-Earth 55 Cnc e, which is one of the hottest known transiting super-Earths. <BR /> Aims: Because of the short orbital separation and host star brightness, 55 Cnc e provides one of the best opportunities for studying star-planet interactions (SPIs). We aim to understand possible SPIs in this system, which requires a detailed understanding of the stellar magnetic field and wind impinging on the planet. <BR /> Methods: Using spectropolarimetric observations and Zeeman Doppler Imaging, we derived a map of the large-scale stellar magnetic field. We then simulated the stellar wind starting from the magnetic field map, using a 3D magneto-hydrodynamic model. <BR /> Results: The map of the large-scale stellar magnetic field we derive has an average strength of 3.4 G. The field has a mostly dipolar geometry; the dipole is tilted by 90\u00b0 with respect to the rotation axis and the dipolar strength is 5.8 G at the magnetic pole. The wind simulations based on this magnetic geometry lead us to conclude that 55 Cnc e orbits inside the Alfv\u00e9n surface of the stellar wind, implying that effects from the planet on the wind can propagate back to the stellar surface and result in SPI. <P />Based on observations obtained at the Telescope Bernard Lyot (USR5026) operated by the Observatoire Midi-Pyr\u00e9n\u00e9es, Universit\u00e9 de Toulouse (Paul Sabatier), Centre National de la Recherche Scientifique of France.",
+      "title": [
+        "Circumstellar environment of 55 Cancri. The super-Earth 55 Cnc e as a primary target for star-planet interactions"
+      ],
+      "sme_judgements": 0,
+      "notes": "Star-planet interactions",
+      "claude_score": 1,
+      "claude_explanation": "The paper investigates the circumstellar environment of an exoplanet host star, which is not directly related to the main paper's topic of chemical tagging in open clusters.",
+      "gemini_score": 0,
+      "gemini_explanation": "This paper focuses on the circumstellar environment of 55 Cancri and studies star-planet interactions. It has no relevance to the main paper's topic of chemical tagging of open clusters based on chemical composition. The techniques are also very different.",
+      "deepseek_score": 0,
+      "deepseek_explanation": "Focuses on star-planet interactions in 55 Cnc. No relevance to chemical tagging or cluster chemistry.",
+      "consensus_score": 0,
+      "consensus_explanation": "Investigates magnetic fields in solar-type stars, which is not directly relevant to the main paper's topic."
+    },
+    {
+      "bibcode": "2015A&A...582A.110B",
+      "abstract": "Context. \u03b6 Ori A is a hot star claimed to host a weak magnetic field, but no clear magnetic detection was obtained so far. In addition, it was recently shown to be a binary system composed of a O9.5I supergiant and a B1IV star. <BR /> Aims: We aim at verifying the presence of a magnetic field in \u03b6 Ori A, identifying to which of the two binary components it belongs (or whether both stars are magnetic), and characterizing the field. <BR /> Methods: Very high signal-to-noise spectropolarimetric data were obtained with Narval at the Bernard Lyot Telescope (TBL) in France. Archival HEROS, FEROS and UVES spectroscopic data were also used. The data were first disentangled to separate the two components. We then analyzed them with the least-squares deconvolution technique to extract the magnetic information. <BR /> Results: We confirm that \u03b6 Ori A is magnetic. We find that the supergiant component \u03b6 Ori Aa is the magnetic component: Zeeman signatures are observed and rotational modulation of the longitudinal magnetic field is clearly detected with a period of 6.829 d. This is the only magnetic O supergiant known as of today. With an oblique dipole field model of the Stokes V profiles, we show that the polar field strength is ~140 G. Because the magnetic field is weak and the stellar wind is strong, \u03b6 Ori Aa does not host a centrifugally supported magnetosphere. It may host a dynamical magnetosphere. Its companion \u03b6 Ori Ab does not show any magnetic signature, with an upper limit on the undetected field of ~300 G. <P />Based on observations obtained at the T\u00e9lescope Bernard Lyot (USR5026) operated by the Observatoire Midi-Pyr\u00e9n\u00e9es, Universit\u00e9 de Toulouse (Paul Sabatier), Centre National de la Recherche Scientifique of France.Appendix A is available in electronic form at <A href=\"http://www.aanda.org/10.1051/0004-6361/201526855/olm\">http://www.aanda.org</A>",
+      "title": [
+        "The magnetic field of \u03b6 Orionis A"
+      ],
+      "sme_judgements": 0,
+      "notes": "Magnetic fields",
+      "claude_score": 1,
+      "claude_explanation": "The paper studies the magnetic field of a binary star system, which is not directly related to the main paper's topic of chemical tagging in open clusters.",
+      "gemini_score": 0,
+      "gemini_explanation": "This paper studies the magnetic field of a hot star. It has no relevance to the main paper's topic of chemical tagging of open clusters based on chemical composition. The techniques are very different.",
+      "deepseek_score": 0,
+      "deepseek_explanation": "Magnetic field study of \u03b6 Orionis A. No connection to the main paper's methodology or topic.",
+      "consensus_score": 0,
+      "consensus_explanation": "Focuses on magnetic fields in solar-type stars, which is not directly relevant to the main paper's topic."
+    },
+    {
+      "bibcode": "2023MNRAS.525.3718S",
+      "abstract": "Yttrium (Y), a key s-process element, is commonly used in nucleosynthesis studies and as a Galactic chemical clock when combined with magnesium (Mg). We study the applicability of the previously assumed local thermal equilibrium (LTE) line formation assumption in Y abundance studies of main-sequence and red giant stars, and probe the impact of NLTE (non-LTE) effects on the [Y/Mg] ratio, a proposed stellar age indicator. We derive stellar parameters, ages, and NLTE abundances of Fe, Mg, and Y for 48 solar analogue stars from high-resolution spectra acquired within the Gaia-ESO survey. For Y, we present a new NLTE atomic model. We determine a solar NLTE abundance of A(Y)<SUB>NLTE</SUB> = 2.12 \u00b1 0.04 dex, 0.04 dex higher than LTE. NLTE effects on Y abundance are modest for optical Y II lines, which are frequently used in Sun-like stars diagnostics. NLTE has a small impact on the [Y/Mg] ratio in such stars. For metal-poor red giants, NLTE effects on Y II lines are substantial, potentially exceeding +0.5 dex. For the Gaia/4MOST/WEAVE benchmark star, HD 122563, we find the NLTE abundance ratio of [Y/Fe]<SUB>NLTE</SUB> = -0.55 \u00b1 0.04 dex with consistent abundances obtained from different Y II lines. NLTE has a differential effect on Y abundance diagnostics in late-type stars. They notably affect Y II lines in red giants and very metal-poor stars, which are typical Galactic enrichment tracers of neutron-capture elements. For main-sequence stars, NLTE effects on optical diagnostic Y II lines remain minimal across metallicities. This affirms the [Y/Mg] ratio's reliability as a cosmochronometer for Sun-like stars.",
+      "title": [
+        "Observational constraints on the origin of the elements - VII. NLTE analysis of Y II lines in spectra of cool stars and implications for Y as a Galactic chemical clock"
+      ],
+      "sme_judgements": 1,
+      "notes": "NLTE analysis of some abundances",
+      "claude_score": 2,
+      "claude_explanation": "The paper investigates NLTE effects on yttrium abundances, which is related to the main paper's topic of accurate chemical abundance determination. However, it does not specifically focus on open clusters or the chemical tagging technique.",
+      "gemini_score": 1,
+      "gemini_explanation": "This paper investigates NLTE effects on Y II lines in spectra of cool stars. While NLTE effects are mentioned in the original paper as a possible source of bias, this paper doesn't relate this back to the main paper's goal of chemical tagging. It is somewhat relevant because it addresses a caveat in abundance determination, but it is not directly related to chemical tagging or open clusters.",
+      "deepseek_score": 2,
+      "deepseek_explanation": "NLTE analysis of Y II lines and [Y/Mg] as a Galactic clock. Relevant to abundance analysis techniques but lacks direct focus on open clusters or chemical tagging validation.",
+      "consensus_score": 1,
+      "consensus_explanation": "Discusses NLTE effects on abundance analysis, which can provide methodological insights relevant to the main paper's topic. However, the paper does not directly relate these insights to open clusters or chemical tagging."
+    },
+    {
+      "bibcode": "2014A&A...561A..85L",
+      "abstract": "Context. So far, surface magnetic fields have never been detected on Mira stars. Only recently have the spectropolarimetric capabilities of measuring it via the Zeeman effect become available to us. Then, to complete the knowledge of the magnetic field and of its influence during the transition from asymptotic giant branch to planetary nebulae stages, we have undertaken a search for magnetic fields on the surface of Mira stars. <BR /> Aims: Our main goal is to constrain - at this stage of stellar evolution - the surface magnetic field (presence and strength) and to define the magnetic field strength dependence along the radial distance to the star, above the photosphere and across the circumstellar envelope of cool and evolved stars. <BR /> Methods: We used spectropolarimetric observations (Stokes V spectra probing circular polarization), collected with the Narval instrument at TBL, in order to detect - with the least squares deconvolution (LSD) method - a Zeeman signature in the visible part of the spectrum. <BR /> Results: We present the first spectropolarimetric observations of the S-type Mira star \u03c7 Cyg, performed around its maximum light. We detected a polarimetric signal in the Stokes V spectra and established its Zeeman origin. We claim that it is likely to be related to a weak magnetic field present at the photospheric level and in the lower part of the stellar atmosphere. We estimated the strength of its longitudinal component to about 2-3 gauss. This result favors a 1/r law for the variation in the magnetic field strength across the circumstellar envelope of \u03c7 Cyg. This is the first detection of a weak magnetic field on the stellar surface of a Mira star, and we discuss its origin in the framework of shock waves periodically propagating throughout the atmosphere of these radially pulsating stars. <BR /> Conclusions: At the date of our observations of \u03c7 Cyg, the shock wave reaches its maximum intensity, and it is likely that the shock amplifies a weak stellar magnetic field during its passage through the atmosphere. Without such an amplification by the shock, the magnetic field strength would have been too low to be detected. For the first time, we also report strong Stokes Q and U signatures (linear polarization) centered on the zero velocity (i.e., on the shock front position). They seem to indicate that the radial direction would be favored by the shock during its propagation throughout the atmosphere. <P />Based on observations obtained at the T\u00e9lescope Bernard Lyot (TBL, USR5026) at the Observatoire du Pic du Midi, operated by the Observatoire Midi-Pyr\u00e9n\u00e9es, Universit\u00e9 de Toulouse (Paul Sabatier), Centre National de la Recherche Scientifique of France.",
+      "title": [
+        "Search for surface magnetic fields in Mira stars. First detection in \u03c7 Cygni"
+      ],
+      "sme_judgements": 0,
+      "notes": "Magnetic fields",
+      "claude_score": 1,
+      "claude_explanation": "The paper reports the detection of a magnetic field in a Mira star, which is not directly related to the main paper's topic of chemical tagging in open clusters.",
+      "gemini_score": 0,
+      "gemini_explanation": "This paper searches for surface magnetic fields in Mira stars. It has no relevance to the main paper's topic of chemical tagging of open clusters based on chemical composition. The techniques are very different.",
+      "deepseek_score": 0,
+      "deepseek_explanation": "Magnetic field detection in Mira stars. Outside the scope of the main paper.",
+      "consensus_score": 0,
+      "consensus_explanation": "Investigates stellar activity and rotation in young stars, which is not directly relevant to the main paper's topic."
+    },
+    {
+      "bibcode": "2019A&A...628A..54K",
+      "abstract": "<BR /> Aims: We study the effects of non-local thermodynamic equilibrium (NLTE) on the determination of stellar parameters and abundances of Fe, Mg, and Ti from the medium-resolution spectra of FGK stars. <BR /> Methods: We extended the Payne fitting approach to draw on NLTE and LTE spectral models. These were used to analyse the spectra of the Gaia-ESO benchmark stars and the spectra of 742 stars in 13 open and globular clusters in the Milky Way: NGC 3532, NGC 5927, NGC 2243, NGC 104, NGC 1851, NGC 2808, NGC 362, M 2, NGC 6752, NGC 1904, NGC 4833, NGC 4372, and M15. <BR /> Results: Our approach accurately recovers effective temperatures, surface gravities, and abundances of the benchmark stars and clusters members. The differences between NLTE and LTE are significant in the metal-poor regime, [Fe/H] \u2272 -1. The NLTE [Fe/H] values are systematically higher, whereas the average NLTE [Mg/Fe] abundance ratios are \u223c0.15 dex lower, compared to LTE. Our LTE measurements of metallicities and abundances of stars in Galactic clusters are in a good agreement with the literature. Though, for most clusters, our study yields the first estimates of NLTE abundances of Fe, Mg, and Ti. Conclusion. All clusters investigated in this work are homogeneous in Fe and Ti, with the intra-cluster abundance variations of less then 0.04 dex. NGC 2808, NGC 4833, M 2, and M 15 show significant dispersions in [Mg/Fe]. Contrary to common assumptions, the NLTE analysis changes the mean abundance ratios in the clusters, but it does not influence the intra-cluster abundance dispersions. <P />Full Table A.5 is only available at the CDS via anonymous ftp to <A href=\"http://cdsarc.u-strasbg.fr/\">http://cdsarc.u-strasbg.fr</A> (ftp://130.79.128.5) or via <A href=\"http://cdsarc.u-strasbg.fr/viz-bin/qcat?J/A+A/628/A54\">http://cdsarc.u-strasbg.fr/viz-bin/qcat?J/A+A/628/A54</A>Based on data products from observations made with ESO Telescopes at the La Silla Paranal Observatory under programme ID 188.B-3002.",
+      "title": [
+        "Non-LTE chemical abundances in Galactic open and globular clusters"
+      ],
+      "sme_judgements": 3,
+      "notes": "NLTE chemical abundances in clusters",
+      "claude_score": 2,
+      "claude_explanation": "The paper studies NLTE effects on chemical abundances in open and globular clusters, which is directly related to the main paper's topic of accurate chemical abundance determination and the use of open clusters as reference objects.",
+      "gemini_score": 2,
+      "gemini_explanation": "This paper directly relates to the main paper. It investigates NLTE effects on abundance determinations of Fe, Mg, and Ti in open and globular clusters. This is highly relevant because the main paper discusses the impact of NLTE effects on chemical tagging of open clusters.",
+      "deepseek_score": 3,
+      "deepseek_explanation": "Directly examines NLTE abundances in open/globular clusters and chemical homogeneity. Aligns closely with the main paper's methodology and focus on cluster chemistry.",
+      "consensus_score": 3,
+      "consensus_explanation": "Directly addresses chemical abundances and homogeneity in open clusters, which is highly relevant to the main paper's topic. The paper also investigates NLTE effects, providing methodological insights."
+    },
+    {
+      "bibcode": "2016A&A...587A.126B",
+      "abstract": "<BR /> Aims: The main-sequence B-type star \u03b6 Cassiopeiae is known as a N-rich star with a magnetic field discovered with the Musicos spectropolarimeter. We model the magnetic field of the star by means of 82 new spectropolarimetric observations of higher precision to investigate the field strength, topology, and effect. <BR /> Methods: We gathered data with the Narval spectropolarimeter installed at T\u00e9lescope Bernard Lyot (TBL; Pic du Midi, France) and applied the least-squares deconvolution technique to measure the circular polarisation of the light emitted from \u03b6 Cas. We used a dipole oblique rotator model to determine the field configuration by fitting the longitudinal field measurements and by synthesizing the measured Stokes V profiles. We also made use of the Zeeman-Doppler imaging technique to map the stellar surface and to deduce the difference in rotation rate between the pole and equator. <BR /> Results: \u03b6 Cas exhibits a polar field strength B<SUB>pol</SUB> of 100-150 G, which is the weakest polar field observed so far in a massive main-sequence star. Surface differential rotation is ruled out by our observations and the field of \u03b6 Cas is strong enough to enforce rigid internal rotation in the radiative zone according to theory. Thus, the star rotates as a solid body in the envelope. <BR /> Conclusions: We therefore exclude rotationally induced mixing as the cause of the surface N-enrichment. We discuss that the transport of chemicals from the core to the surface by internal gravity waves is the most plausible explanation for the nitrogen overabundance at the surface of \u03b6 Cas. <P />Based on observations obtained at the T\u00e9lescope Bernard Lyot (USR5026) operated by the Observatoire Midi-Pyr\u00e9n\u00e9es, Universit\u00e9 de Toulouse (Paul Sabatier), Centre National de la Recherche Scientifique (CNRS) of France.",
+      "title": [
+        "Weak magnetic field, solid-envelope rotation, and wave-induced N-enrichment in the SPB star \u03b6 Cassiopeiae"
+      ],
+      "sme_judgements": null,
+      "notes": null,
+      "claude_score": 1,
+      "claude_explanation": "The paper investigates the magnetic field of a B-type star, which is not directly related to the main paper's topic of chemical tagging in open clusters.",
+      "gemini_score": 0,
+      "gemini_explanation": "This paper investigates the magnetic field of a B-type star. It has no relevance to the main paper's topic of chemical tagging of open clusters based on chemical composition. The techniques are very different.",
+      "deepseek_score": 0,
+      "deepseek_explanation": "Magnetic field analysis in \u03b6 Cas. Unrelated to chemical tagging or open clusters.",
+      "consensus_score": 0,
+      "consensus_explanation": "Focuses on stellar activity and rotation in young stars, which is not directly relevant to the main paper's topic."
+    },
+    {
+      "bibcode": "2017A&A...603A.129T",
+      "abstract": "Context. Red supergiant (RSG) stars are very massive cool evolved stars. Recently, a weak magnetic field was measured at the surface of \u03b1 Ori and this is so far the only M-type supergiant for which a direct detection of a surface magnetic field has been reported. <BR /> Aims: By extending the search for surface magnetic field in a sample of late-type supergiants, we want to determine whether the surface magnetic field detected on \u03b1 Ori is a common feature among the M-type supergiants. <BR /> Methods: With the spectropolarimeter Narval at T\u00e9lescope Bernard-Lyot we undertook a search for surface magnetic fields in a sample of cool supergiant stars, and we analysed circular polarisation spectra using the least-squares deconvolution technique. <BR /> Results: We detect weak Zeeman signatures of stellar origin in the targets CE Tau, \u03b1<SUP>1</SUP> Her and \u03bc Cep. For the latter star, we also show that cross-talk from the strong linear polarisation signals detected on this star must be taken into account. For CE Tau and \u03bc Cep, the longitudinal component of the detected surface fields is at the Gauss-level, such as in \u03b1 Ori. We measured a longitudinal field almost an order of magnitude stronger for \u03b1<SUP>1</SUP> Her. We also report variability of the longitudinal magnetic field of CE Tau and \u03b1<SUP>1</SUP> Her, with changes in good agreement with the typical atmospheric dynamics time-scales. We also report a non-detection of magnetic field at the surface of the yellow supergiant star \u03c1 Cas. <BR /> Conclusions: The two RSG stars of our sample, CE Tau and \u03bc Cep, display magnetic fields very similar to that of \u03b1 Ori. The non-detection of a magnetic field on the post-RSG star \u03c1 Cas suggests that the magnetic field disappears, or at least becomes undetectable with present methods, at later evolutionary stages. Our analysis of \u03b1<SUP>1</SUP> Her supports the proposed reclassification of the star as an M-type asymptotic giant branch star. <P />Based on observations obtained at the T\u00e9lescope Bernard Lyot (TBL) at the Observatoire du Pic du Midi, operated by the Observatoire Midi-Pyr\u00e9n\u00e9es, Universit\u00e9 de Toulouse (Paul Sabatier), Centre National de la Recherche Scientifique of France.",
+      "title": [
+        "Measuring surface magnetic fields of red supergiant stars"
+      ],
+      "sme_judgements": null,
+      "notes": null,
+      "claude_score": 1,
+      "claude_explanation": "The paper searches for magnetic fields in red supergiant stars, which is not directly related to the main paper's topic of chemical tagging in open clusters.",
+      "gemini_score": 0,
+      "gemini_explanation": "This paper measures surface magnetic fields of red supergiant stars. It has no relevance to the main paper's topic of chemical tagging of open clusters based on chemical composition. The techniques are very different.",
+      "deepseek_score": 0,
+      "deepseek_explanation": "Magnetic fields in red supergiants. No relevance to the main paper.",
+      "consensus_score": 0,
+      "consensus_explanation": "Investigates stellar activity and rotation in young stars, which is not directly relevant to the main paper's topic."
+    },
+    {
+      "bibcode": "2020A&A...635A...8C",
+      "abstract": "Context. Well studied open clusters (OCs) of the solar neighborhood are frequently used as reference objects to test galactic and stellar theories. For that purpose, their chemical composition needs to be known with a high level of confidence. It is also important to clarify if each OC is chemically homogeneous and if it has a unique chemical signature. <BR /> Aims: The aims of this work are (1) to determine accurate and precise abundances of 22 chemical species (from Na to Eu) in the Hyades, Praesepe, and Rupecht 147 by using a large number of stars at different evolutionary states, (2) to evaluate the level of chemical homogeneity of these OCs, and (3) to compare their chemical signatures. <BR /> Methods: We gathered \u223c800 high resolution and high signal-to-noise spectra of \u223c100 members in the three clusters, which were obtained with the latest memberships based on Gaia DR2 data. We built a pipeline, which computes atmospheric parameters and strictly line-by-line differential abundances among twin stars in our sample. With this method, we were able to reach a very high precision in the abundances (0.01-0.02 dex in most of the elements). <BR /> Results: We find large differences in the absolute abundances in some elements, which can be attributed to diffusion, non-local thermodynamic equilibrium (non-LTE) effects, or systematics in the analysis. For the three OCs, we find strong correlations in the differential abundances between different pairs of elements. According to our experiment with synthetic data, this can be explained by some level of chemical inhomogeneity. We compare differential abundances of several stars from the Hyades and Praesepe tails: The stars that differ more in chemical abundances also have distinct kinematics, even though they have been identified as members of the tail. <BR /> Conclusions: It is possible to obtain high precision abundances using a differential analysis even when mixing spectra from different instruments. With this technique, we find that the Hyades and Preasepe have the same chemical signature when G dwarfs and K giants are considered. Despite a certain level of inhomogeneity in each cluster, it is still possible to clearly distinguish the chemical signature of the older cluster Ruprecht 147 when compared to the Hyades and Praesepe. <P />Full Tables 2, A.1-A.3 are only available at the CDS via anonymous ftp to <A href=\"http://cdsarc.u-strasbg.fr/\">http://cdsarc.u-strasbg.fr</A> (ftp://130.79.128.5) or via <A href=\"http://cdsarc.u-strasbg.fr/viz-bin/cat/J/A+A/635/A8\">http://cdsarc.u-strasbg.fr/viz-bin/cat/J/A+A/635/A8</A> <P />Thanks to observations at Telescope Bernard Lyot and data retrieved from the archives: ESO, TNG, FIES, ELODIE, ESPaDOnS and NARVAL.",
+      "title": [
+        "Differential abundances of open clusters and their tidal tails: Chemical tagging and chemical homogeneity"
+      ],
+      "sme_judgements": null,
+      "notes": null,
+      "claude_score": 3,
+      "claude_explanation": "The paper directly addresses the main paper's topic by studying the chemical homogeneity and differential abundances of open clusters, which is crucial for the chemical tagging technique.",
+      "gemini_score": 2,
+      "gemini_explanation": "This paper is relevant to the main paper. It discusses differential abundances of open clusters, chemical tagging, and chemical homogeneity. These are all key topics of the main paper and their relationship to each other. The only downside is the focus on tidal tails which is not addressed in the main paper.",
+      "deepseek_score": 3,
+      "deepseek_explanation": "Examines chemical homogeneity in Hyades, Praesepe, and Ruprecht 147 using differential abundances. Directly parallels the main paper's goals and methods, including cluster comparison.",
+      "consensus_score": 3,
+      "consensus_explanation": "Directly addresses chemical abundances and homogeneity in open clusters, which is highly relevant to the main paper's topic. The paper also discusses tidal tails and stellar population comparisons, providing additional context."
+    },
+    {
+      "bibcode": "2022A&A...657A..33A",
+      "abstract": "Context. Lithium is one of the few elements produced during Big Bang nucleosynthesis in the early universe. Moreover, its fragility makes it useful as a proxy for stellar environmental conditions. As such, the lithium abundance in old systems is at the core of various astrophysical investigations. <BR /> Aims: Stars on the lower red giant branch are key to studies of globular clusters where main sequence stars are too faint to be observed. We use these stars to analyze the initial Li content of the clusters and compare it to cosmological predictions, to measure spreads in Li between different stellar populations, and to study signs of extra depletion in these giants. <BR /> Methods: We used the GIRAFFE spectra to measure the lithium and sodium abundances of lower red giant branch stars in five globular clusters. These cover an extensive range in metallicity, from [Fe/H] \u223c \u22120.7 to [Fe/H] \u223c \u22122.3 dex. <BR /> Results: We find that the lithium abundance in these lower red giant branch stars forms a plateau, with values from A(Li)<SUB>NLTE</SUB> = 0.84 to 1.03 dex, showing no clear correlation with metallicity. When using stellar evolutionary models to calculate the primordial abundance of these clusters, we recover values of A(Li)<SUB>NLTE</SUB> = 2.1 \u2212 2.3 dex, consistent with the constant value observed in warm metal-poor halo stars, namely the Spite plateau. Additionally, we find no difference in the lithium abundance of first and second population stars in each cluster. We also report the discovery of a Li-rich giant in the cluster NGC 3201, with A(Li)<SUB>NLTE</SUB> = 1.63 \u00b1 0.18 dex, where the enrichment mechanism is probably pollution from external sources. <P />Full Table A.1 is only available at the CDS via anonymous ftp to <A href=\"http://cdsarc.u-strasbg.fr/\">cdsarc.u-strasbg.fr</A> (ftp://130.79.128.5) or via <A href=\"http://cdsarc.u-strasbg.fr/viz-bin/cat/J/A+A/657/A33\">http://cdsarc.u-strasbg.fr/viz-bin/cat/J/A+A/657/A33</A> <P />Based on observations collected at the European Southern Observatory under ESO programme 095.D-0735(A).",
+      "title": [
+        "Lithium on the lower red giant branch of five Galactic globular clusters"
+      ],
+      "sme_judgements": null,
+      "notes": null,
+      "claude_score": 2,
+      "claude_explanation": "The paper investigates lithium abundances in globular clusters, which is related to the main paper's topic of using open clusters as reference objects for chemical abundance studies. However, it does not directly address the chemical tagging technique.",
+      "gemini_score": 1,
+      "gemini_explanation": "This paper studies lithium abundance in globular clusters. While it analyzes chemical abundances in stellar clusters, it is not directly related to the chemical tagging technique or open clusters. It has some relevance because it studies chemical abundances in a coeval population of stars, which is similar to the main paper, but it is not a strong connection.",
+      "deepseek_score": 1,
+      "deepseek_explanation": "Studies lithium in globular cluster giants. Relevant to abundance analysis but focuses on globular clusters (not open clusters) and does not address chemical tagging.",
+      "consensus_score": 2,
+      "consensus_explanation": "The paper investigates lithium abundances in globular clusters, which, although not directly focused on open clusters, can provide useful comparative insights into chemical homogeneity and mixing processes relevant to the main paper's topic. However, the applicability of these insights to open clusters may be limited due to the different environments and formation histories of globular and open clusters."
+    },
+    {
+      "bibcode": "2015A&A...573A..67P",
+      "abstract": "The general context of this study is the inversion of stellar fundamental parameters from high-resolution Echelle spectra. We aim at developing a fast and reliable tool for the post-processing of spectra produced by ESPaDOnS and Narval spectropolarimeters. Our inversion tool relies on principal component analysis. It allows reducing dimensionality and defining a specific metric for the search of nearest neighbours between an observed spectrum and a set of observed spectra taken from the Elodie stellar library. Effective temperature, surface gravity, total metallicity, and projected rotational velocity are derived. Various tests presented in this study that were based solely on information coming from a spectral band centred on the Mg i b-triplet and had spectra from FGK stars are very promising. <P />Based on observations obtained at the T\u00e9lescope Bernard Lyot (TBL, Pic du Midi, France), which is operated by the Observatoire Midi-Pyr\u00e9n\u00e9es, Universit\u00e9 de Toulouse, Centre National de la Recherche Scientifique (France) and the Canada-France-Hawaii Telescope (CFHT) which is operated by the National Research Council of Canada, CNRS/INSU and the University of Hawaii (USA).",
+      "title": [
+        "Inversion of stellar fundamental parameters from ESPaDOnS and Narval high-resolution spectra"
+      ],
+      "sme_judgements": null,
+      "notes": null,
+      "claude_score": 1,
+      "claude_explanation": "The paper describes a method for inverting stellar parameters from spectra, which is related to the main paper's methodology but does not directly address chemical tagging or open clusters.",
+      "gemini_score": 0,
+      "gemini_explanation": "This paper focuses on inverting stellar parameters from spectra. While it uses spectra, it is not related to the main paper's topic of chemical tagging of open clusters based on chemical composition. The techniques are different.",
+      "deepseek_score": 2,
+      "deepseek_explanation": "Develops a spectroscopic parameter inversion tool. Methodologically relevant to abundance derivation but lacks direct focus on chemical tagging or cluster studies.",
+      "consensus_score": 2,
+      "consensus_explanation": "Develops spectroscopic parameter inversion tools, which can potentially improve the accuracy of abundance analysis in the main paper's context, but the paper does not directly apply these tools to open clusters or chemical tagging."
+    },
+    {
+      "bibcode": "2015A&A...576A..94S",
+      "abstract": "<BR /> Aims: In this work we derive new precise and homogeneous parameters for 37 stars with planets. For this purpose, we analyze high resolution spectra obtained by the NARVAL spectrograph for a sample composed of bright planet host stars in the northern hemisphere. The new parameters are included in the SWEET-Cat online catalogue. <BR /> Methods: To ensure that the catalogue is homogeneous, we use our standard spectroscopic analysis procedure, ARES+MOOG, to derive effective temperatures, surface gravities, and metallicities. These spectroscopic stellar parameters are then used as input to compute the stellar mass and radius, which are fundamental for the derivation of the planetary mass and radius. <BR /> Results: We show that the spectroscopic parameters, masses, and radii are generally in good agreement with the values available in online databases of exoplanets. There are some exceptions, especially for the evolved stars. These are analyzed in detail focusing on the effect of the stellar mass on the derived planetary mass. <BR /> Conclusions: We conclude that the stellar mass estimations for giant stars should be managed with extreme caution when using them to compute the planetary masses. We report examples within this sample where the differences in planetary mass can be as high as 100% in the most extreme cases. <P />Based on observations obtained at the Telescope Bernard Lyot (USR5026) operated by the Observatoire Midi-Pyr\u00e9n\u00e9es and the Institut National des Science de l'Univers of the Centre National de la Recherche Scientifique of France (Run ID L131N11 - OPTICON_2013A_027).",
+      "title": [
+        "Homogeneous spectroscopic parameters for bright planet host stars from the northern hemisphere . The impact on stellar and planetary mass"
+      ],
+      "sme_judgements": null,
+      "notes": null,
+      "claude_score": 1,
+      "claude_explanation": "The paper derives spectroscopic parameters for planet host stars, which is related to the main paper's methodology but does not directly address chemical tagging or open clusters.",
+      "gemini_score": 0,
+      "gemini_explanation": "This paper derives stellar parameters for planet host stars. It has no relevance to the main paper's topic of chemical tagging of open clusters based on chemical composition. The techniques are also different.",
+      "deepseek_score": 0,
+      "deepseek_explanation": "Derives parameters for exoplanet hosts. No connection to open clusters or chemical tagging.",
+      "consensus_score": 0,
+      "consensus_explanation": "Focuses on stellar activity and rotation in young stars, which is not directly relevant to the main paper's topic."
+    },
+    {
+      "bibcode": "2020A&A...643A.164S",
+      "abstract": "Context. Atomic diffusion and mixing processes in stellar interiors influence the structure and the surface composition of stars. Some of these processes cannot yet be modelled from the first principles, and they require calibrations. This limits their applicability in stellar models used for studies of stellar populations and Galactic evolution. <BR /> Aims: Our main goal is to put constraints on the stellar structure and evolution models using new refined measurements of the chemical composition in stars of a Galactic open cluster. <BR /> Methods: We used medium-resolution, 19 200 \u2264 R \u2264 21 500, optical spectra of stars in the open cluster <ASTROBJ>NGC 2420</ASTROBJ> obtained within the Gaia-ESO survey. The sample covers all evolutionary stages from the main sequence to the red giant branch. Stellar parameters were derived using a combined Bayesian analysis of spectra, 2MASS photometry, and astrometric data from Gaia DR2. The abundances of Mg, Ca, Fe, and Li were determined from non-local thermodynamic equilibrium (NLTE) synthetic spectra, which were computed using one-dimensional (1D) and averaged three-dimensional (3D) model atmospheres. We compare our results with a grid of Code d'Evolution Stellaire Adaptatif et Modulaire (CESTAM) stellar evolution models, which include atomic diffusion, turbulent, and rotational mixing. <BR /> Results: We find prominent evolutionary trends in the abundances of Fe, Ca, Mg, and Li with the mass of the stars in the cluster. Furthermore, Fe, Mg, and Ca show a depletion at the cluster turn-off, but the abundances gradually increase and flatten near the base of the red giant branch. The abundance trend for Li displays a signature of rotational mixing on the main sequence and abrupt depletion on the sub-giant branch, which is caused by advection of Li-poor material to the surface. The analysis of abundances combined with the CESTAM model predictions allows us to place limits on the parameter space of the models and to constrain the zone in the stellar interior, where turbulent mixing takes place. <P />Based on observations collected with the ESO Very Large Telescope at the La Silla Paranal Observatory in Chile for the Gaia-ESO Public Survey (program IDs 188.B-3002 and 193.B-0936).",
+      "title": [
+        "The Gaia-ESO survey: 3D NLTE abundances in the open cluster NGC 2420 suggest atomic diffusion and turbulent mixing are at the origin of chemical abundance variations"
+      ],
+      "sme_judgements": null,
+      "notes": null,
+      "claude_score": 2,
+      "claude_explanation": "The paper studies chemical abundances in the open cluster NGC 2420, which is directly related to the main paper's topic of using open clusters as reference objects for chemical abundance studies. However, it does not directly address the chemical tagging technique.",
+      "gemini_score": 2,
+      "gemini_explanation": "This paper is focused on abundances of stars in the open cluster NGC 2420. The paper also directly compares their results with stellar evolution models, which is touched on in the original paper. The paper investigates the impact of atomic diffusion and mixing on chemical abundance variations in the cluster.",
+      "deepseek_score": 3,
+      "deepseek_explanation": "Gaia-ESO study of NGC 2420 addressing atomic diffusion and mixing in an open cluster. Directly relevant to the main paper's investigation of chemical abundance variations and models.",
+      "consensus_score": 3,
+      "consensus_explanation": "Directly addresses chemical abundances and homogeneity in open clusters, which is highly relevant to the main paper's topic. The paper also investigates NLTE effects, providing methodological insights."
+    },
+    {
+      "bibcode": "2025ApJ...983..127S",
+      "abstract": "Very metal-poor (VMP) stars provide a record of the chemical composition and dynamics of the early Galaxy. Based on the high-resolution and high signal-to-noise ratio spectra from the Subaru Telescope for 103 VMP stars, in this series of papers we homogeneously investigate the nonlocal thermodynamic equilibrium (NLTE) abundances of important astrophysical elements. This sample covers a wide metallicity range from [Fe/H] \u223c \u20111.7 dex down to \u20114.3 dex, including 13 objects with [Fe/H] \u2264 \u20113.0 dex. Here, we present a set of homogeneous stellar atmospheric parameters, including the effective temperature, surface gravity, metallicity, and microturbulence velocity with the spectroscopic method, and the NLTE line formation for both Fe I and Fe II in the classical one-dimensional model atmospheres have been considered. The NLTE effects of the Fe I lines range from \u223c0.03 dex to \u223c0.3 dex, and increase with decreasing metallicity. In addition, they depend on the surface gravity, which generally increases with decreasing <inline-formula> </inline-formula>. The largest NLTE effects can be found for the giants of <inline-formula> </inline-formula> \u223c 2.5 dex. For dwarfs and subgiants, our final effective temperatures are consistent with those derived from the T<SUB>IRFM</SUB> scales of A. Alonso et al. with a mean difference of 7.1 \u00b1 100.2 K, while for giants, our results are slightly lower than those from the T<SUB>IRFM</SUB> scales of A. Alonso et al. with a mean difference of \u201169.5 \u00b1 94.1 K. For dwarfs and subgiants, the spectroscopically derived surface gravity is consistent with that estimated based on the Gaia DR3 parallax; however, for giants, the former leads to a 0.2 dex lower surface gravity.",
+      "title": [
+        "A Systematic NLTE Study of Very Metal-poor Stars with Metallicity down to \u20114.3 dex. I. Global Stellar Parameters Based on High-resolution Spectra"
+      ],
+      "sme_judgements": null,
+      "notes": null,
+      "claude_score": 2,
+      "claude_explanation": "The paper investigates NLTE effects on chemical abundances in very metal-poor stars, which is related to the main paper's topic of accurate chemical abundance determination. However, it does not specifically focus on open clusters or the chemical tagging technique.",
+      "gemini_score": 1,
+      "gemini_explanation": "This paper conducts a systematic NLTE study of very metal-poor stars. NLTE is touched on in the original paper, but the overall goal of the paper is different. It isn't focused on open clusters or chemical tagging.",
+      "deepseek_score": 1,
+      "deepseek_explanation": "NLTE study of VMP stars. Focuses on metal-poor field stars, not open clusters or chemical tagging.",
+      "consensus_score": 2,
+      "consensus_explanation": "Investigates NLTE effects on abundance analysis in metal-poor field stars, which can provide methodological insights relevant to the main paper's topic. However, the applicability of these insights to open clusters may be limited due to the different stellar populations."
+    },
+    {
+      "bibcode": "2020A&A...643A.110Z",
+      "abstract": "Context. F-type stars are characterised by several physical processes such as different pulsation mechanisms, rotation, convection, diffusion, and magnetic fields. The rapidly rotating \u03b4 Scuti star \u03b2 Cas can be considered as a benchmark star to study the interaction of several of these effects. <BR /> Aims: We investigate the pulsational and magnetic field properties of \u03b2 Cas. We also determine the star's apparent fundamental parameters and chemical abundances. <BR /> Methods: Based on photometric time series obtained from three different space missions (BRITE-Constellation, SMEI, and TESS), we conduct a frequency analysis and investigate the stability of the pulsation amplitudes over four years of observations. We investigate the presence of a magnetic field and its properties using spectropolarimetric observations taken with the Narval instrument by applying the least-squares deconvolution and Zeeman-Doppler imaging techniques. <BR /> Results: The star \u03b2 Cas shows only three independent p-mode frequencies down to the few ppm-level; its highest amplitude frequency is suggested to be an n = 3, \u2113 = 2, m = 0 mode. Its magnetic field structure is quite complex and almost certainly of a dynamo origin. The atmosphere of \u03b2 Cas is slightly deficient in iron peak elements and slightly overabundant in C, O, and heavier elements. <BR /> Conclusions: Atypically for \u03b4 Scuti stars, we can only detect three pulsation modes down to exceptionally low noise levels for \u03b2 Cas. The star is also one of very few \u03b4 Scuti pulsators known to date to show a measurable magnetic field and the first \u03b4 Scuti star with a dynamo magnetic field. These characteristics make \u03b2 Cas an interesting target for future studies of dynamo processes in the thin convective envelopes of F-type stars, the transition region between fossil and dynamo fields, and the interaction between pulsations and magnetic field. <P />The BRITE data are only available at the CDS via anonymous ftp to <A href=\"http://cdsarc.u-strasbg.fr/\">http://cdsarc.u-strasbg.fr</A> (ftp://130.79.128.5) or via <A href=\"http://cdsarc.u-strasbg.fr/viz-bin/cat/J/A+A/643/A110\">http://cdsarc.u-strasbg.fr/viz-bin/cat/J/A+A/643/A110</A> <P />Based on data collected by the BRITE Constellation satellite mission, designed, built, launched, operated and supported by the Austrian Research Promotion Agency (FFG), the University of Vienna, the Technical University of Graz, the University of Innsbruck, the Canadian Space Agency (CSA), the University of Toronto Institute for Aerospace Studies (UTIAS), the Foundation for Polish Science &amp; Technology (FNiTP MNiSW), and National Science Centre (NCN). Also based on observations obtained at the Telescope Bernard Lyot (USR5026) operated by the Observatoire Midi-Pyr\u00e9n\u00e9es, Universit\u00e9 de Toulouse (Paul Sabatier), Centre National de la Recherche Scientifique (CNRS) of France.",
+      "title": [
+        "\u03b2 Cas: The first \u03b4 Scuti star with a dynamo magnetic field\u22c6"
+      ],
+      "sme_judgements": null,
+      "notes": null,
+      "claude_score": 1,
+      "claude_explanation": "The paper studies the pulsational and magnetic properties of a delta Scuti star, which is not directly related to the main paper's topic of chemical tagging in open clusters.",
+      "gemini_score": 0,
+      "gemini_explanation": "This paper investigates the pulsational and magnetic field properties of a star. It has no relevance to the main paper's topic of chemical tagging of open clusters based on chemical composition. The techniques are very different.",
+      "deepseek_score": 0,
+      "deepseek_explanation": "Magnetic field in \u03b4 Scuti star \u03b2 Cas. Irrelevant to the main paper's topic.",
+      "consensus_score": 0,
+      "consensus_explanation": "Focuses on stellar activity and rotation in young stars, which is not directly relevant to the main paper's topic."
+    },
+    {
+      "bibcode": "2014A&A...563L...7N",
+      "abstract": "<BR /> Aims: A magnetic field can have a strong impact on the evolution of a binary star. However, only a dozen magnetic OB binaries are known as of today and are available to study this effect, including some very few magnetic pulsating spectroscopic OB binaries. We checked for the presence of a magnetic field in the B5IV hierarchical triple system <ASTROBJ>HD 1976</ASTROBJ> with spectropolarimetric data obtained with Narval at the Bernard Lyot Telescope (TBL). <BR /> Methods: We used orbital parameters of <ASTROBJ>HD 1976</ASTROBJ> available in the literature to disentangle the Narval intensity spectra. We computed Stokes V profiles with the least squares deconvolution technique to search for magnetic signatures. We then derived an estimate of the longitudinal magnetic field strength for each observation and for various line lists. <BR /> Results: Our disentangling of the intensity spectra shows that <ASTROBJ>HD 1976</ASTROBJ> is a double-lined spectroscopic (SB2) binary, the lines of the secondary component are about twice as broad as those of the primary component. We did not identify the third component. Moreover, we find clear magnetic signatures in the spectropolarimetric measurements of <ASTROBJ>HD 1976</ASTROBJ> that seem to be associated with the primary component. We conclude that <ASTROBJ>HD 1976</ASTROBJ> is a magnetic slowly pulsating double-lined spectroscopic binary star with an undetected third component. It is the second such example known (the other is <ASTROBJ>HD 25558</ASTROBJ>). <P />Based on observations obtained at the Telescope Bernard Lyot (USR5026) operated by the Observatoire Midi-Pyr\u00e9n\u00e9es, Universit\u00e9 de Toulouse (Paul Sabatier), Centre National de la Recherche Scientifique of France.",
+      "title": [
+        "Discovery of a magnetic field in the B pulsating system HD 1976"
+      ],
+      "sme_judgements": null,
+      "notes": null,
+      "claude_score": 1,
+      "claude_explanation": "The paper reports the discovery of a magnetic field in a binary system, which is not directly related to the main paper's topic of chemical tagging in open clusters.",
+      "gemini_score": 0,
+      "gemini_explanation": "This paper discovers a magnetic field in a binary system. It has no relevance to the main paper's topic of chemical tagging of open clusters based on chemical composition. The techniques are very different.",
+      "deepseek_score": 0,
+      "deepseek_explanation": "Magnetic field discovery in HD 1976. No relation to chemical tagging or cluster chemistry.",
+      "consensus_score": 0,
+      "consensus_explanation": "Investigates stellar activity and rotation in young stars, which is not directly relevant to the main paper's topic."
+    }
+  ]
+}

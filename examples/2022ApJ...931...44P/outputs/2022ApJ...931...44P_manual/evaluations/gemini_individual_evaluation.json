@@ -1,0 +1,77 @@
+{
+  "individual_scores": {
+    "1": {
+      "score": 3,
+      "explanation": "This paper is highly relevant. It directly addresses the identification of AGN dwarf galaxies, using spatially-resolved emission-line diagnostic diagrams (including the BPT diagrams), similar to the methodology described in the main paper. Moreover, it identifies SF-AGNs, which is a key component of the main paper's findings. The larger sample size and consideration of off-nuclear AGNs further enhance the relevance."
+    },
+    "2": {
+      "score": 3,
+      "explanation": "This paper is also highly relevant. It focuses on finding AGN signatures in a large sample of galaxies, including dwarf galaxies, and uses the BPT diagram, a central element in the main paper. The discovery of a higher AGN fraction in dwarf galaxies, attributed to DESI's smaller fiber size, directly relates to the main paper's discussion of the challenges in identifying AGN in dwarfs. The extension of the M_BH - M_* scaling relation to lower masses is also a significant connection."
+    },
+    "3": {
+      "score": 2,
+      "explanation": "This paper is relevant. It investigates the reliability of the BPT diagram, a key tool discussed in the main paper, for excluding galaxies that host an AGN. The identification of X-ray AGNs in the star-forming region of the BPT diagram and the discussion of reasons for this \"misclassification\" are directly connected to the main paper's concern about the limitations of existing classification schemes, particularly in the low-metallicity regime (though this paper focuses on more massive galaxies)."
+    },
+    "4": {
+      "score": 3,
+      "explanation": "This paper is highly relevant. It investigates AGN activity in low-mass galaxies, directly addressing the main paper's focus on dwarf AGN. It uses the BPT diagram and other emission line diagnostics to identify AGN candidates, aligning with the main paper's methodology. The discussion of different selection criteria and their impact on the identified AGN fractions is valuable. The use of He II selection is also directly relevant to the effort in the main paper to find more successful diagnostic plots."
+    },
+    "5": {
+      "score": 3,
+      "explanation": "This paper is highly relevant. It focuses on isolated quiescent galaxies in the low-mass range, and finds a high prevalence of AGN-like line ratios using the BPT diagram. The finding that many quiescent galaxies in isolation host AGNs despite their overall passive appearances is a key point that reinforces the main paper's argument about the underestimation of AGN in dwarfs."
+    },
+    "6": {
+      "score": 3,
+      "explanation": "This paper is highly relevant. It presents a large sample of dwarf galaxies exhibiting optical spectroscopic signatures of accreting massive black holes, directly addressing the topic of the main paper. The use of the [O III]/H\u03b2 versus [N II]/H\u03b1 diagnostic diagram (BPT) is a central element. The identification of broad-line AGN candidates and the estimation of BH masses further strengthens the relevance."
+    },
+    "7": {
+      "score": 2,
+      "explanation": "This paper is relevant. While it focuses on a broader sample of low-mass black holes, it still contributes to the understanding of AGN in galaxies without classical bulges, which are often found in dwarf galaxies. The use of virial mass techniques and the investigation of spectral properties are related to the broader context of the main paper."
+    },
+    "8": {
+      "score": 2,
+      "explanation": "This paper is relevant. It examines the effects of metallicity variations on narrow emission lines from AGN, and explores emission-line diagnostics for identifying low-metallicity AGN. While it doesn't explicitly focus on dwarf galaxies, the exploration of metallicity effects on AGN emission is related to the main paper's focus on low-metallicity dwarf AGN."
+    },
+    "9": {
+      "score": 1,
+      "explanation": "This paper is somewhat relevant. While it focuses on star-forming galaxies in general, the modeling of emission-line diagnostic grids, particularly at low metallicities, has some connection to the main paper's broader goal of understanding emission line properties in low-metallicity environments. However, the lack of direct focus on AGN and dwarf galaxies lowers the relevance."
+    },
+    "10": {
+      "score": 3,
+      "explanation": "This paper is highly relevant. It presents X-ray and UV observations of broad-line AGN candidates in nearby dwarf galaxies, directly addressing the main paper's topic. The confirmation of actively accreting black holes in these galaxies and the discussion of Eddington fractions are significant connections. The comparison of UV to X-ray emission with more massive quasars is also relevant."
+    },
+    "11": {
+      "score": 1,
+      "explanation": "This paper is somewhat relevant. While it explores the separation of line emission from various sources (star formation, shocks, AGN) in NGC 1068, it doesn't directly focus on dwarf galaxies or low-metallicity AGN. The methodology of separating emission sources is generally relevant, but the specific context is different."
+    },
+    "12": {
+      "score": 2,
+      "explanation": "This paper is relevant. It presents spectroscopic observations of low-mass AGN, investigates their emission-line properties, and compares them to higher-mass AGN. While it doesn't explicitly focus on dwarf galaxies, the study of low-mass AGN is related to the main paper's focus on dwarf AGN, and the exploration of emission line properties has some methodological overlap."
+    },
+    "13": {
+      "score": 1,
+      "explanation": "This paper is somewhat relevant. It discusses simulations of massive black holes in dwarf galaxies, which is related to the main paper's topic. However, the focus is on the detectability of these black holes throughout cosmic time and the merger history, rather than the specific emission-line diagnostics used in the main paper. It is multimessenger, which makes it less focused on the emission lines the main paper is considering."
+    }
+  },
+  "overall_analysis": {
+    "strengths": [
+      "Several results directly address the topic of finding AGN in dwarf galaxies.",
+      "Many results use the BPT diagram and other emission-line diagnostics, aligning with the main paper's methodology.",
+      "Several results focus on low-metallicity environments, connecting to the main paper's emphasis on low-metallicity dwarf AGN.",
+      "The results cover a range of observational techniques (optical, X-ray, UV) and theoretical modeling, providing a comprehensive view of the topic.",
+      "Many papers explore the relationship between black hole mass and galaxy properties, a key aspect of understanding AGN in dwarf galaxies."
+    ],
+    "weaknesses": [
+      "Some results are more tangential, focusing on broader samples of AGN or star-forming galaxies without a specific emphasis on dwarf galaxies or low-metallicity environments.",
+      "Some results primarily focus on simulations or theoretical modeling, with less direct connection to observational data and diagnostic methods used in the main paper.",
+      "A few papers have a broader focus, such as the ADS and Large Language Models, which does not directly overlap with the main paper's focus."
+    ],
+    "suggestions": [
+      "Future searches could focus on results that explicitly mention RESOLVE and ECO surveys to find papers directly building upon the main paper.",
+      "Prioritize results that combine observational data with theoretical modeling to provide a more complete understanding of the topic.",
+      "Further investigation into the role of the environment (e.g., isolation) in influencing the presence and properties of AGN in dwarf galaxies.",
+      "Explore the connection between the different selection criteria used to identify AGN and their impact on the identified AGN fractions.",
+      "Investigate the use of alternative diagnostic diagrams beyond the BPT diagram for identifying AGN in low-metallicity environments."
+    ]
+  }
+}

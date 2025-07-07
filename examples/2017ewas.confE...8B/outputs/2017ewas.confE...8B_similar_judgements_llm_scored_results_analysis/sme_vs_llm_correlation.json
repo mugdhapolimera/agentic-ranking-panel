@@ -1,0 +1,8 @@
+{
+  "correlations": {
+    "claude": 0.16997780990102196,
+    "deepseek": 0.6842256893799666,
+    "consensus": 0.48038446141526137
+  },
+  "output_file": "examples/2017ewas.confE...8B/outputs/2017ewas.confE...8B_similar_judgements_llm_scored_results.json"
+}

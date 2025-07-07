@@ -1,0 +1,118 @@
+{
+  "correlations": {
+    "claude": 0.8989696318872458,
+    "deepseek": 1.0,
+    "consensus": 0.6238176023535313
+  },
+  "claude": {
+    "mae": 0.3,
+    "rmse": 0.5477225575051661,
+    "t_stat": -0.5570860145311556,
+    "t_p": 0.5910512317836047,
+    "wilcoxon_stat": 2.0,
+    "wilcoxon_p": 1.0,
+    "kappa": 0.8314606741573034,
+    "bland_altman_mean_diff": 0.1,
+    "bland_altman_std_diff": 0.5385164807134505,
+    "confusion_matrix": [
+      [
+        0,
+        2,
+        0,
+        0
+      ],
+      [
+        0,
+        2,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        3,
+        0
+      ],
+      [
+        0,
+        0,
+        1,
+        2
+      ]
+    ]
+  },
+  "deepseek": {
+    "mae": 0.0,
+    "rmse": 0.0,
+    "t_stat": NaN,
+    "t_p": NaN,
+    "wilcoxon_stat": 0.0,
+    "wilcoxon_p": 1.0,
+    "kappa": 1.0,
+    "bland_altman_mean_diff": 0.0,
+    "bland_altman_std_diff": 0.0,
+    "confusion_matrix": [
+      [
+        2,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        2,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        3,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        3
+      ]
+    ]
+  },
+  "consensus": {
+    "mae": 0.6,
+    "rmse": 0.8944271909999159,
+    "t_stat": -0.6882472016116853,
+    "t_p": 0.5086464915963445,
+    "wilcoxon_stat": 5.0,
+    "wilcoxon_p": 0.75,
+    "kappa": 0.5876288659793814,
+    "bland_altman_mean_diff": 0.2,
+    "bland_altman_std_diff": 0.8717797887081348,
+    "confusion_matrix": [
+      [
+        0,
+        1,
+        1,
+        0
+      ],
+      [
+        0,
+        2,
+        0,
+        0
+      ],
+      [
+        0,
+        1,
+        1,
+        1
+      ],
+      [
+        0,
+        0,
+        1,
+        2
+      ]
+    ]
+  }
+}

@@ -1,0 +1,29 @@
+{
+    "individual_scores": {
+        "1": {"score": 3, "explanation": "This paper discusses the evolution of optical emission line ratios across cosmic time, which is highly relevant to the main paper's topic of using emission line diagnostics to identify AGN in low-metallicity dwarf galaxies."},
+        "2": {"score": 3, "explanation": "This paper is directly related to the main paper, as it presents a census of dwarf AGN in the RESOLVE and ECO surveys using the same emission line diagnostic techniques described in the main paper."},
+        "3": {"score": 3, "explanation": "This paper investigates emission line ratios at high redshift, including the [O III]/Hβ vs [S II]/Hα and [O III]/Hβ vs [Ne III]/[O II] diagrams, which are relevant to the main paper's methodology of using alternative diagnostics to identify AGN in low-metallicity galaxies."},
+        "4": {"score": 3, "explanation": "This paper uses spatially resolved spectroscopy to refine strong line diagnostic classifications, which is highly relevant to the main paper's goal of optimizing emission line diagnostics for identifying AGN in dwarf galaxies."},
+        "5": {"score": 3, "explanation": "This paper presents emission line diagnostics for high-redshift star-forming galaxies observed with JWST/NIRSpec, including traditional BPT diagrams and new near-IR diagnostics, which is closely aligned with the main paper's topic and methodology."},
+        "6": {"score": 3, "explanation": "This paper proposes alternative diagnostic diagrams to classify weak emission line galaxies, which is highly relevant to the main paper's goal of optimizing emission line diagnostics for identifying AGN in low-metallicity dwarfs."},
+        "7": {"score": 3, "explanation": "This paper investigates the optical narrow line ratios of type 1 AGN, including their positions on the BPT diagram, which is directly relevant to the main paper's topic and methodology."},
+        "8": {"score": 1, "explanation": "While this paper discusses emission line diagnostics for high-redshift star-forming galaxies, it does not focus on the specific challenges of identifying AGN in low-metallicity dwarfs, which is the main topic of the paper."},
+        "9": {"score": 3, "explanation": "This paper explores the influence of shocks and AGN on the emission line ratios of high-redshift galaxies, including their positions on the BPT diagram, which is highly relevant to the main paper's topic and methodology."},
+        "10": {"score": 3, "explanation": "This paper investigates the excitation state and chemical enrichment of high-redshift star-forming galaxies using emission line diagnostics, including the BPT diagram, which is closely aligned with the main paper's topic and methodology."}
+    },
+    "overall_analysis": {
+        "strengths": [
+            "Many of the results are highly relevant and closely aligned with the main paper's topic and methodology, focusing on emission line diagnostics for identifying AGN in low-metallicity or high-redshift galaxies.",
+            "Several papers directly discuss the RESOLVE and ECO surveys or the specific emission line diagnostic techniques described in the main paper.",
+            "The results cover a range of redshifts and galaxy types, providing a comprehensive view of the challenges and solutions in using emission line diagnostics for AGN identification."
+        ],
+        "weaknesses": [
+            "One result (Result 8) is only tangentially related to the main paper's topic, as it does not specifically address the challenges of identifying AGN in low-metallicity dwarfs.",
+            "Some of the results focus more on the physical properties of high-redshift galaxies rather than the specific emission line diagnostic techniques used to identify AGN."
+        ],
+        "suggestions": [
+            "Future searches could focus more specifically on papers that discuss emission line diagnostic techniques for identifying AGN in low-metallicity or dwarf galaxies, as this is the main focus of the paper.",
+            "Additional searches could be conducted to find papers that compare the effectiveness of different emission line diagnostic techniques for AGN identification, as the main paper proposes optimized diagnostics for this purpose."
+        ]
+    }
+}

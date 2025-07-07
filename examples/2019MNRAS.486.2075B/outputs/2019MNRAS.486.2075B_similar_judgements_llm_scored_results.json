@@ -1,0 +1,349 @@
+{
+  "bibcode": "2019MNRAS.486.2075B",
+  "title": [
+    "Modern stellar spectroscopy caveats"
+  ],
+  "abstract": "Multiple codes are available to derive atmospheric parameters and individual chemical abundances from high-resolution spectra of AFGKM stars. Almost all spectroscopists have their own preferences regarding which code and method to use. But the intrinsic differences between codes and methods lead to complex systematics that depend on multiple variables such as the selected spectral regions and the radiative transfer code used. I expand ISPEC, a popular open-source spectroscopic tool, to support the most well-known radiative transfer codes and assess their similarities and biases when using multiple set-ups based on the equivalent-width method and the synthetic spectral-fitting technique (interpolating from a pre-computed grid of spectra or synthesizing with interpolated model atmospheres). This work shows that systematic differences on atmospheric parameters and abundances between most of the codes can be reduced when using the same method and executing a careful spectral feature selection. However, it may not be possible to ignore the remaining differences, depending on the particular case and the required precision. Regarding methods, equivalent-width-based and spectrum-fitting analyses exhibit large differences that are caused by their intrinsic differences, which is significant given the popularity of these two methods. The results help to identify the key caveats of modern spectroscopy that all scientists should be aware of before trusting their own results or being tempted to combine atmospheric parameters and abundances from the literature.",
+  "search_results": [
+    {
+      "bibcode": "2023ApJS..266...18Z",
+      "abstract": "Double-line spectroscopic binaries (SB2s) are a vital class of spectroscopic binaries for studying star formation and evolution. Searching for SB2s has been a hot topic in astronomy. Although considerable efforts have been made with fruitful outcomes, limitations in automation and accuracy still persist. In this study, we developed a convolutional neural network model to search for SB2 candidates in LAMOST medium-resolution survey (MRS) data release (DR) 9 v1.0 by detecting double peaks in the cross-correlation function (CCF). We first generated a large number of spectra of single stars and binaries using the iSpec spectral synthesis software. The CCFs of these synthesized spectra were then calculated to form our training set. To efficiently detect the peaks of the CCFs, we applied a Softmax function-based noise reduction method. After testing and validation, the model achieved an accuracy of 97.76% in the testing set and was validated for more than 90% of the sample in several published SB2 catalogs. Finally, by applying the model to examine approximately 1.59 million LAMOST-MRS DR9 spectra, we identified 728 candidate SB2s, including 281 newly discovered ones.",
+      "title": [
+        "Searching for Double-line Spectroscopic Binaries in the LAMOST Medium-resolution Spectroscopic Survey with Deep Learning"
+      ],
+      "sme_judgements": 1,
+      "notes": "It uses iSpec but it is not about systematics and issues in stellar spectroscopy",
+      "claude_score": 1,
+      "claude_explanation": "The result is somewhat relevant as it uses the iSpec software mentioned in the main paper, but it is focused on detecting double-line spectroscopic binaries rather than the caveats and systematics of stellar spectroscopy codes and methods.",
+      "gemini_score": 1,
+      "gemini_explanation": "It uses iSpec but it is not about systematics and issues in stellar spectroscopy. It uses it to generate spectra for training a neural network.",
+      "deepseek_score": 1,
+      "deepseek_explanation": "Uses iSpec (mentioned in the main paper) but focuses on binary detection rather than systematic method comparisons. Tangential relevance through shared tools.",
+      "consensus_score": null,
+      "consensus_explanation": null
+    },
+    {
+      "bibcode": "2025ApJS..276...11L",
+      "abstract": "We utilize a hybrid approach that integrates the traditional cross-correlation function (CCF) and machine learning to detect spectroscopic multiple star systems, specifically focusing on double-line spectroscopic binaries (SB2s). Based on the ninth data release (DR9) of the Large Sky Area Multi-Object Fiber Spectroscopic Telescope (LAMOST), which includes a medium-resolution survey (MRS) containing 29,920,588 spectra, we identify 27,164 double-line and 3124 triple-line spectra, corresponding to 7096 SB2 candidates and 1903 triple-line spectroscopic binary (SB3) candidates, respectively, representing about 1% of the selected data set from LAMOST-MRS DR9. Notably, 70.1% of the SB2 candidates and 89.6% of the SB3 candidates are newly identified. Compared to using only the traditional CCF technique, our method significantly improves the efficiency of detecting SB2s, saving time on visual inspections by a factor of 4.",
+      "title": [
+        "Mining Double-line Spectroscopic Candidates in the LAMOST Medium-resolution Spectroscopic Survey Using a Human\u2013AI Hybrid Method"
+      ],
+      "sme_judgements": 0,
+      "notes": "Not about systematics and issues in stellar spectroscopy",
+      "claude_score": 1,
+      "claude_explanation": "The result is somewhat relevant as it discusses detecting double-line spectroscopic binaries using LAMOST data, but it does not directly address the main paper's topic of caveats and systematics in stellar spectroscopy codes and methods.",
+      "gemini_score": 0,
+      "gemini_explanation": "The paper is about detecting spectroscopic binaries. There is no mention of stellar spectroscopy caveats, systematic differences between codes, or model atmospheres.",
+      "deepseek_score": 1,
+      "deepseek_explanation": "Focuses on spectroscopic binary detection using ML, unrelated to systematic parameter derivation method comparisons. Limited relevance.",
+      "consensus_score": null,
+      "consensus_explanation": null
+    },
+    {
+      "bibcode": "2022ApJS..258...26Z",
+      "abstract": "We developed a convolutional neural network model to distinguish the double-lined spectroscopic binaries (SB2s) from others based on single-exposure medium-resolution spectra (R ~ 7500). The training set consists of a large set of mock spectra of single stars and binaries synthesized based on the MIST stellar evolutionary model and ATLAS9 atmospheric model. Our model reaches a novel theoretic false-positive rate by adding a proper penalty on the negative sample (e.g., 0.12% and 0.16% for the blue/red arm when the penalty parameter \u039b = 16). Tests show that the performance is as expected and favors FGK-type main-sequence (MS) binaries with high mass ratio (q \u2265 0.7) and large radial velocity separation (\u0394v \u2265 50 km s<SUP>-1</SUP>). Although the real false-positive rate cannot be estimated reliably, validating on eclipsing binaries identified from Kepler light curves indicates that our model predicts low binary probabilities at eclipsing phases (0, 0.5, and 1.0) as expected. The color-magnitude diagram also helps illustrate its feasibility and capability of identifying FGK MS binaries from spectra. We conclude that this model is reasonably reliable and can provide an automatic approach to identify SB2s with period \u227210 days. This work yields a catalog of binary probabilities for over 5 million spectra of 1 million sources from the LAMOST medium-resolution survey (MRS) and a catalog of 2198 SB2 candidates whose physical properties will be analyzed in a follow-up paper. Data products are made publicly available online, as well as our Github website.",
+      "title": [
+        "The Spectroscopic Binaries from the LAMOST Medium-resolution Survey. I. Searching for Double-lined Spectroscopic Binaries with a Convolutional Neural Network"
+      ],
+      "sme_judgements": 2,
+      "notes": "Evaluates CNN approach",
+      "claude_score": 2,
+      "claude_explanation": "The result is relevant as it discusses using deep learning to identify double-line spectroscopic binaries from LAMOST spectra, which is related to the main paper's focus on stellar spectroscopy methods and potential systematics.",
+      "gemini_score": 0,
+      "gemini_explanation": "The paper is about detecting spectroscopic binaries. There is no mention of stellar spectroscopy caveats, systematic differences between codes, or model atmospheres.",
+      "deepseek_score": 1,
+      "deepseek_explanation": "CNN-based SB2 identification using synthetic spectra for training, but does not address spectroscopic code/method systematics.",
+      "consensus_score": null,
+      "consensus_explanation": null
+    },
+    {
+      "bibcode": "2024RNAAS...8..175K",
+      "abstract": "We present a study of double-lined spectroscopic binary (SB2) J115307.93+353528.2 based on data from the Large Sky Area Multi-Object fiber Spectroscopic Telescope (LAMOST) medium resolution survey (MRS). We use full-spectrum fitting to derive radial velocities and spectral parameters, which suggest that this is a \"twin\" system of two nearly identical stars, which are similar to the Sun. The orbital solution tells us that it is relatively wide pair of stars on slightly eccentric orbit with period P \u2243 206 days. This result shows that LAMOST-MRS data can be used to detect such twin binaries even when double-line structure is poorly resolved in the spectra. Changes of values from single star model analysis allows us to reliably select such SB2 candidate and to make first estimate of the orbital period.",
+      "title": [
+        "J115307.93+353528.2\u2014Spectroscopic Twin Binary, Composed of Solar Like Stars. Orbital Solution from Poorly Resolved Double-line Structure"
+      ],
+      "sme_judgements": 0,
+      "notes": "",
+      "claude_score": 1,
+      "claude_explanation": "The result is somewhat relevant as it analyzes a double-line spectroscopic binary using LAMOST data, but it does not directly address the main paper's topic of caveats and systematics in stellar spectroscopy codes and methods.",
+      "gemini_score": 0,
+      "gemini_explanation": "The paper is about detecting spectroscopic binaries. There is no mention of stellar spectroscopy caveats, systematic differences between codes, or model atmospheres.",
+      "deepseek_score": 1,
+      "deepseek_explanation": "Derives parameters via full-spectrum fitting for a binary system but does not compare methods/codes. Indirect relevance to parameter determination.",
+      "consensus_score": null,
+      "consensus_explanation": null
+    },
+    {
+      "bibcode": "2020ApJ...891...23W",
+      "abstract": "The fundamental stellar atmospheric parameters (T<SUB>eff</SUB> and log g) and 13 chemical abundances are derived for medium-resolution spectroscopy from Large Sky Area Multi-Object Fiber Spectroscopic Telescope (LAMOST) Medium Resolution Survey (MRS) data sets with a deep-learning method. The neural networks we designed, named SPCANet, precisely map LAMOST MRS spectra to stellar parameters and chemical abundances. The stellar labels derived by SPCANet have precisions of 119 K for T<SUB>eff</SUB> and 0.17 dex for log g. The abundance precision of 11 elements including [C/H], [N/H], [O/H], [Mg/H], [Al/H], [Si/H], [S/H], [Ca/H], [Ti/H], [Cr/H], [Fe/H], and [Ni/H] are 0.06 \u223c 0.12 dex, while that of [Cu/H] is 0.19 dex. These precisions can be reached even for spectra with signal-to-noise ratios as low as 10. The results of SPCANet are consistent with those from other surveys such as APOGEE, GALAH, and RAVE, and are also validated with the previous literature values including clusters and field stars. The catalog of the estimated parameters is available at doi:10.12149/101012.",
+      "title": [
+        "SPCANet: Stellar Parameters and Chemical Abundances Network for LAMOST-II Medium Resolution Survey"
+      ],
+      "sme_judgements": 3,
+      "notes": "Technique to derive abundances",
+      "claude_score": 2,
+      "claude_explanation": "The result is relevant as it discusses deriving stellar parameters and chemical abundances from LAMOST spectra using deep learning, which is related to the main paper's focus on stellar spectroscopy methods and potential systematics.",
+      "gemini_score": 0,
+      "gemini_explanation": "The paper is about determining stellar parameters and chemical abundances using machine learning. There is no mention of stellar spectroscopy caveats, systematic differences between codes, or model atmospheres.",
+      "deepseek_score": 2,
+      "deepseek_explanation": "Relevant to parameter derivation (T_eff, log g, abundances) using deep learning, but does not address systematic differences between codes/methods.",
+      "consensus_score": 1,
+      "consensus_explanation": "While this result utilizes deep learning for parameter derivation from spectroscopic data, it does not directly address systematic errors, code comparisons, or methodological biases in stellar spectroscopy, which is the main focus of the paper."
+    },
+    {
+      "bibcode": "2023MNRAS.518..513L",
+      "abstract": "The accurate estimation of photometric redshifts plays a crucial role in accomplishing science objectives of the large survey projects. Template-fitting and machine learning are the two main types of methods applied currently. Based on the training set obtained by cross-correlating the DESI Legacy Imaging Surveys DR9 galaxy catalogue and the SDSS DR16 galaxy catalogue, the two kinds of methods are used and optimized, such as EAZY for template-fitting approach and CATBOOST for machine learning. Then, the created models are tested by the cross-matched samples of the DESI Legacy Imaging Surveys DR9 galaxy catalogue with LAMOST DR7, GAMA DR3, and WiggleZ galaxy catalogues. Moreover, three machine learning methods (CATBOOST, Multi-Layer Perceptron, and Random Forest) are compared; CATBOOST shows its superiority for our case. By feature selection and optimization of model parameters, CATBOOST can obtain higher accuracy with optical and infrared photometric information, the best performance ($\\rm MSE=0.0032$, \u03c3<SUB>NMAD</SUB> = 0.0156, and $O=0.88{{\\ \\rm per\\ cent}}$) with g \u2264 24.0, r \u2264 23.4, and z \u2264 22.5 is achieved. But EAZY can provide more accurate photometric redshift estimation for high redshift galaxies, especially beyond the redshift range of training sample. Finally, we finish the redshift estimation of all DESI Legacy Imaging Surveys DR9 galaxies with CATBOOST and EAZY, which will contribute to the further study of galaxies and their properties.",
+      "title": [
+        "Photometric redshift estimation of galaxies in the DESI Legacy Imaging Surveys"
+      ],
+      "sme_judgements": 0,
+      "notes": "Photometry, galaxies, not related",
+      "claude_score": 1,
+      "claude_explanation": "The result is somewhat relevant as it discusses estimating photometric redshifts for galaxies using machine learning, but it does not directly address the main paper's topic of caveats and systematics in stellar spectroscopy codes and methods.",
+      "gemini_score": 0,
+      "gemini_explanation": "The paper is about photometric redshift estimation of galaxies. There is no mention of stellar spectroscopy caveats, systematic differences between codes, or model atmospheres.",
+      "deepseek_score": 0,
+      "deepseek_explanation": "Focuses on photometric redshifts, unrelated to stellar spectroscopy caveats or parameter derivation methods.",
+      "consensus_score": null,
+      "consensus_explanation": null
+    },
+    {
+      "bibcode": "2024ApJS..274....6H",
+      "abstract": "Carbon stars play a crucial role in astronomical research and are significant for understanding stellar evolution, measuring cosmic distances, and studying galaxy kinematics. In recent years, identifying carbon stars using machine learning methods and traditional line-index methods has become a research hotspot, but there are still limitations regarding accuracy and automation. In this study, we propose to build a five-class model to identify carbon stars using spectral data from LAMOST DR9. The model achieved 99.45% precision and 91.21% recall on the carbon star testing set. We conducted independent tests using a sample of 1333 known carbon stars that were not used in the training and testing phases, and our model ultimately identified 1199 carbon stars. On this basis, we used this model to screen 11,226,252 spectra of LAMOST DR9 and identified 4383 carbon stars, including 1197 newly discovered carbon stars. To gain a more comprehensive understanding of the characteristics of the 4383 carbon stars obtained, further visual inspection of these spectra was performed to provide more detailed carbon star subtypes.",
+      "title": [
+        "Identification of Carbon Stars in LAMOST DR9 Based on Deep Learning"
+      ],
+      "sme_judgements": 2,
+      "notes": "Evaluates deep learning",
+      "claude_score": 1,
+      "claude_explanation": "The result is somewhat relevant as it discusses identifying carbon stars from LAMOST spectra using deep learning, but it does not directly address the main paper's topic of caveats and systematics in stellar spectroscopy codes and methods.",
+      "gemini_score": 0,
+      "gemini_explanation": "The paper is about identifying carbon stars using deep learning. There is no mention of stellar spectroscopy caveats, systematic differences between codes, or model atmospheres.",
+      "deepseek_score": 0,
+      "deepseek_explanation": "Carbon star classification via ML; unrelated to spectroscopic parameter systematics.",
+      "consensus_score": null,
+      "consensus_explanation": null
+    },
+    {
+      "bibcode": "2023A&A...671A..61N",
+      "abstract": "Context. With its origin coming from several sources (Big Bang, stars, cosmic rays) and given its strong depletion during its stellar lifetime, the lithium element is of great interest as its chemical evolution in the Milky Way is not well understood at present. To help constrain stellar and galactic chemical evolution models, numerous and precise lithium abundances are necessary for a large range of evolutionary stages, metallicities, and Galactic volume. <BR /> Aims: In the age of stellar parametrization on industrial scales, spectroscopic surveys such as APOGEE, GALAH, RAVE, and LAMOST have used data-driven methods to rapidly and precisely infer stellar labels (atmospheric parameters and abundances). To prepare the ground for future spectroscopic surveys such as 4MOST and WEAVE, we aim to apply machine learning techniques to lithium measurements and analyses. <BR /> Methods: We trained a convolution neural network (CNN), coupling Gaia-ESO Survey iDR6 stellar labels (T<SUB>eff</SUB>, log(g), [Fe/H], and A(Li)) and GIRAFFE HR15N spectra, to infer the atmospheric parameters and lithium abundances for \u223c40 000 stars. The CNN architecture and accompanying notebooks are available online via GitHub. <BR /> Results: We show that the CNN properly learns the physics of the stellar labels, from relevant spectral features through a broad range of evolutionary stages and stellar parameters. The lithium feature at 6707.8 \u00c5 is successfully singled out by our CNN, among the thousands of lines in the GIRAFFE HR15N setup. Rare objects such as lithium-rich giants are found in our sample. This level of performance is achieved thanks to a meticulously built, high-quality, and homogeneous training sample. <BR /> Conclusions: The CNN approach is very well adapted for the next generations of spectroscopic surveys aimed at studying (among other elements) lithium, such as the 4MIDABLE-LR/HR (4MOST Milky Way disk and bulge low- and high-resolution) surveys. In this context, the caveats of machine-learning applications should be appropriately investigated, along with the realistic label uncertainties and upper limits for abundances. <P />Full Table 1 is only available at the CDS via anonymous ftp to <A href=\"http://cdsarc.cds.unistra.fr\">cdsarc.cds.unistra.fr</A> (ftp://130.79.128.5) or via <A href=\"https://cdsarc.cds.unistra.fr/viz-bin/cat/J/A+A/671/A61\">https://cdsarc.cds.unistra.fr/viz-bin/cat/J/A+A/671/A61</A> <P />https://github.com/SamirNepal/LiCNN2022. <P />Based on observations collected with ESO telescopes at the La Silla Paranal Observatory in Chile, for the Gaia-ESO Large Public Spectroscopic Survey (188.B-3002, 193.B-0936, 197.B-1074).",
+      "title": [
+        "The Gaia-ESO Survey: Preparing the ground for 4MOST and WEAVE galactic surveys. Chemical evolution of lithium with machine learning"
+      ],
+      "sme_judgements": 2,
+      "notes": "Lithium and machine learning",
+      "claude_score": 1,
+      "claude_explanation": "The result is somewhat relevant as it discusses using machine learning to measure lithium abundances from Gaia-ESO Survey spectra, but it does not directly address the main paper's topic of caveats and systematics in stellar spectroscopy codes and methods.",
+      "gemini_score": 0,
+      "gemini_explanation": "The paper is about using machine learning to estimate lithium abundance. There is no mention of stellar spectroscopy caveats, systematic differences between codes, or model atmospheres.",
+      "deepseek_score": 1,
+      "deepseek_explanation": "Uses CNN for lithium abundances but focuses on ML applications, not code/method comparisons. Tangential relevance.",
+      "consensus_score": null,
+      "consensus_explanation": null
+    },
+    {
+      "bibcode": "2024ApJS..272....1Q",
+      "abstract": "Identifying and classifying variable stars is essential to time-domain astronomy. The Large Area Multi-Object Fiber Optic Spectroscopic Telescope (LAMOST) acquired a large amount of spectral data. However, there is no corresponding variable source-related information in the data, constraining LAMOST data utilization for scientific research. In this study, we systematically investigated variable source classification methods for LAMOST data. We constructed a 10-class classification model using three mainstream machine-learning methods. Through performance comparison, we chose the LightGBM and XGBoost models. We further identified variable source candidates in the r band in LAMOST DR9 and obtained 281,514 variable source candidates with probabilities greater than 95%. Subsequently, we filtered out the sources of periodic variable sources using the generalized Lomb\u2013Scargle periodogram and classified these periodic variable sources using the classification model. Finally, we propose a reliable periodic variable star catalog containing 176,337 stars with specific types.",
+      "title": [
+        "A Classification Catalog of Periodic Variable Stars for LAMOST DR9 Based on Machine Learning"
+      ],
+      "sme_judgements": 2,
+      "notes": "Machine learning for variable stars",
+      "claude_score": 1,
+      "claude_explanation": "The result is somewhat relevant as it discusses classifying periodic variable stars from LAMOST data using machine learning, but it does not directly address the main paper's topic of caveats and systematics in stellar spectroscopy codes and methods.",
+      "gemini_score": 0,
+      "gemini_explanation": "The paper is about classifying periodic variable stars using machine learning. There is no mention of stellar spectroscopy caveats, systematic differences between codes, or model atmospheres.",
+      "deepseek_score": 0,
+      "deepseek_explanation": "Periodic variable classification unrelated to spectroscopic parameter derivation or systematic errors.",
+      "consensus_score": null,
+      "consensus_explanation": null
+    },
+    {
+      "bibcode": "2023ApJS..267...39W",
+      "abstract": "A H II region is a kind of emission nebula, and more definite samples of H II regions can help study the formation and evolution of galaxies. Hence, a systematic search for H II regions is necessary. The Large Sky Area Multi-Object Fiber Spectroscopic Telescope (LAMOST) conducts medium-resolution spectroscopic surveys and provides abundant valuable spectra for unique and rare celestial body research. Therefore, the medium-resolution spectra of LAMOST are an ideal data source for searching for Galactic H II regions. This study uses the LAMOST spectra to expand the current spectral sample of Galactic H II regions through machine learning. Inspired by deep convolutional neural networks with wide first-layer kernels (WDCNN), a new spectral-screening method, multihead WDCNN, is proposed and implemented. Infrared criteria are further used for the identification of Galactic H II region candidates. Experimental results show that the multihead WDCNN model is superior to other machine-learning methods and it can effectively extract spectral features and identify H II regions from the massive spectral database. In the end, among all candidates, 57 H II regions are identified and known in SIMBAD, and four objects are identified as \"to be confirmed\" Galactic H II region candidates. The known H II regions and H II region candidates can be retrieved from the LAMOST website.",
+      "title": [
+        "Searching for Galactic H II Regions from the LAMOST Database Based on the Multihead WDCNN Model"
+      ],
+      "sme_judgements": 1,
+      "notes": "Molecular clouds and machine learning",
+      "claude_score": 1,
+      "claude_explanation": "The result is somewhat relevant as it discusses identifying H II regions from LAMOST spectra using machine learning, but it does not directly address the main paper's topic of caveats and systematics in stellar spectroscopy codes and methods.",
+      "gemini_score": 0,
+      "gemini_explanation": "The paper is about searching for H II regions using machine learning. There is no mention of stellar spectroscopy caveats, systematic differences between codes, or model atmospheres.",
+      "deepseek_score": 0,
+      "deepseek_explanation": "H II region identification via ML; irrelevant to the main paper's focus.",
+      "consensus_score": null,
+      "consensus_explanation": null
+    },
+    {
+      "bibcode": "2021ApJS..257...54G",
+      "abstract": "Massive stars play key roles in many astrophysical processes. Deriving the atmospheric parameters of massive stars is important to understanding their physical properties, and thus the atmospheric parameters are key inputs to trace the evolution of massive stars. Here we report our work on adopting the data-driven technique called stellar label machine (SLAM) with the nonlocal thermal equilibrium TLUSTY synthetic spectra as the training data set to estimate the stellar parameters of Large Sky Area Multi-Object Fiber Spectroscopic Telescope (LAMOST) optical spectra for early-type stars. We apply two consistency tests to verify this machine-learning method and compare stellar labels given by SLAM with the labels in the literature for several objects having high-resolution spectra. We provide the stellar labels of effective temperature (T <SUB>eff</SUB>), surface gravity ( $\\mathrm{log}g$ ), metallicity ([M/H]), and projected rotational velocity ( $v\\sin i$ ) for 3931 and 578 early-type stars from the LAMOST low-resolution survey (LRS) and medium-resolution survey (MRS), respectively. To estimate the average statistical uncertainties of our results, we calculated the standard deviation between the predicted stellar label and the prelabeled published values from the high-resolution spectra. The uncertainties of the four parameters are \u03c3(T <SUB>eff</SUB>) = 2185 K, $\\sigma (\\mathrm{log}g)=0.29$ dex, and $\\sigma (v\\sin i)=11\\,\\mathrm{km}\\,{{\\rm{s}}}^{-1}$ for MRS, and \u03c3(T <SUB>eff</SUB>) = 1642 K, $\\sigma (\\mathrm{log}g)=0.25$ dex, and $\\sigma (v\\sin i)=42\\,\\mathrm{km}\\,{{\\rm{s}}}^{-1}$ for LRS spectra, respectively. We note that the parameters of T <SUB>eff</SUB>, $\\mathrm{log}g$ , and [M/H] can be better constrained using LRS spectra than using MRS spectra, most likely due to their broad wavelength coverage, while $v\\sin i$ is constrained better by MRS spectra than by LRS spectra, probably due to the relatively accurate line profiles of MRS spectra.",
+      "title": [
+        "The Early-type Stars from the LAMOST Survey: Atmospheric Parameters"
+      ],
+      "sme_judgements": null,
+      "notes": null,
+      "claude_score": 2,
+      "claude_explanation": "The result is relevant as it discusses deriving atmospheric parameters for early-type stars from LAMOST spectra using machine learning, which is related to the main paper's focus on stellar spectroscopy methods and potential systematics.",
+      "gemini_score": 0,
+      "gemini_explanation": "The paper is about estimating the stellar parameters of early-type stars using machine learning. There is no mention of stellar spectroscopy caveats, systematic differences between codes, or model atmospheres.",
+      "deepseek_score": 2,
+      "deepseek_explanation": "Derives atmospheric parameters for early-type stars using data-driven methods, relevant to parameter determination but not method comparisons.",
+      "consensus_score": 1,
+      "consensus_explanation": "This result applies data-driven methods to derive stellar parameters from LAMOST data, but does not engage with the specific challenges of systematic errors or comparisons between different spectroscopic codes and techniques."
+    },
+    {
+      "bibcode": "2020A&A...643A.122S",
+      "abstract": "Context. Current archives of the LAMOST telescope contain millions of pipeline-processed spectra that have probably never been seen by human eyes. Most of the rare objects with interesting physical properties, however, can only be identified by visual analysis of their characteristic spectral features. A proper combination of interactive visualisation with modern machine learning techniques opens new ways to discover such objects. <BR /> Aims: We apply active learning classification methods supported by deep convolutional neural networks to automatically identify complex emission-line shapes in multi-million spectra archives. <BR /> Methods: We used the pool-based uncertainty sampling active learning method driven by a custom-designed deep convolutional neural network with 12 layers. The architecture of the network was inspired by VGGNet, AlexNet, and ZFNet, but it was adapted for operating on one-dimensional feature vectors. The unlabelled pool set is represented by 4.1 million spectra from the LAMOST data release 2 survey. The initial training of the network was performed on a labelled set of about 13 000 spectra obtained in the 400 \u00c5 wide region around H\u03b1 by the 2 m Perek telescope of the Ond\u0159ejov observatory, which mostly contains spectra of Be and related early-type stars. The differences between the Ond\u0159ejov intermediate-resolution and the LAMOST low-resolution spectrographs were compensated for by Gaussian blurring and wavelength conversion. <BR /> Results: After several iterations, the network was able to successfully identify emission-line stars with an error smaller than 6.5%. Using the technology of the Virtual Observatory to visualise the results, we discovered 1013 spectra of 948 new candidates of emission-line objects in addition to 664 spectra of 549 objects that are listed in SIMBAD and 2644 spectra of 2291 objects identified in an earlier paper of a Chinese group led by Wen Hou. The most interesting objects with unusual spectral properties are discussed in detail. <P />Catalogues of our emission-line candidates are are only available at the CDS via anonymous ftp to <A href=\"http://cdsarc.u-strasbg.fr/\">http://cdsarc.u-strasbg.fr</A> (ftp://130.79.128.5) or via <A href=\"http://cdsarc.u-strasbg.fr/viz-bin/cat/J/A+A/643/A122\">http://cdsarc.u-strasbg.fr/viz-bin/cat/J/A+A/643/A122</A> <P />Based on spectra obtained with 2 m Perek Telescope of Ond\u0159ejov observatory, Czech Republic and archival LAMOST DR2 spectra.",
+      "title": [
+        "Active deep learning method for the discovery of objects of interest in large spectroscopic surveys\u22c6"
+      ],
+      "sme_judgements": null,
+      "notes": null,
+      "claude_score": 1,
+      "claude_explanation": "The result is somewhat relevant as it discusses using active learning to identify emission-line objects from LAMOST spectra, but it does not directly address the main paper's topic of caveats and systematics in stellar spectroscopy codes and methods.",
+      "gemini_score": 0,
+      "gemini_explanation": "The paper is about using active deep learning to discover emission-line objects. There is no mention of stellar spectroscopy caveats, systematic differences between codes, or model atmospheres.",
+      "deepseek_score": 0,
+      "deepseek_explanation": "Focuses on emission-line object discovery, not parameter derivation or systematic errors.",
+      "consensus_score": null,
+      "consensus_explanation": null
+    },
+    {
+      "bibcode": "2024ApJS..273...34T",
+      "abstract": "Young stellar objects (YSOs) represent the earliest stage in the process of star formation, offering insights that contribute to the development of models elucidating star formation and evolution. Recent advancements in deep-learning techniques have enabled significant strides in identifying special objects within vast data sets. In this paper, we present a YSO identification method based on deep-learning principles and spectra from the LAMOST. We designed a structure based on a long short-term memory network and a convolutional neural network and trained different models in two steps to identify YSO candidates. Initially, we trained a model to detect stellar spectra featuring the H\u03b1 emission line, achieving an accuracy of 98.67%. Leveraging this model, we classified 10,495,781 stellar spectra from LAMOST, yielding 76,867 candidates displaying a H\u03b1 emission line. Subsequently, we developed a YSO identification model, which achieved a recall rate of 95.81% for YSOs. Utilizing this model, we further identified 35,021 YSO candidates from the H\u03b1 emission-line candidates. Following cross validation, 3204 samples were identified as previously reported YSO candidates. We eliminated samples with low signal-to-noise ratios and M dwarfs by using the equivalent widths of the N II and He I emission lines and visual inspection, resulting in a catalog of 20,530 YSO candidates. To facilitate future research endeavors, we provide the obtained catalogs of H\u03b1 emission-line star candidates and YSO candidates along with the code used for training the model.",
+      "title": [
+        "A Robust Young Stellar Object Identification Method Based on Deep Learning"
+      ],
+      "sme_judgements": null,
+      "notes": null,
+      "claude_score": 1,
+      "claude_explanation": "The result is somewhat relevant as it discusses identifying young stellar objects from LAMOST spectra using deep learning, but it does not directly address the main paper's topic of caveats and systematics in stellar spectroscopy codes and methods.",
+      "gemini_score": 0,
+      "gemini_explanation": "The paper is about identifying young stellar objects using deep learning. There is no mention of stellar spectroscopy caveats, systematic differences between codes, or model atmospheres.",
+      "deepseek_score": 0,
+      "deepseek_explanation": "YSO identification via ML; unrelated to stellar spectroscopy caveats.",
+      "consensus_score": null,
+      "consensus_explanation": null
+    },
+    {
+      "bibcode": "2022MNRAS.509.2674G",
+      "abstract": "In this paper, we report white dwarfs (WD) identified in the 5<SUP>th</SUP> Data Release of the Large Area Multi-Object fibre Spectroscopic Telescope (LAMOST), including spectral types of DA, DB, DC, DZ, and so on. There are 2625 DA spectra of 2281 DA stars, 182 DB spectra of 166 DB stars, 62 DC spectra of 58 DC stars, 36 DZ spectra of 33 DZ stars, and many other types identified, in addition to our previous paper (Data Release 2). Amongst those sources, 393 DA stars and 46 DB stars are new identifications after cross-matching with the literature. In order to select DA candidates, we use the classification result from the LAMOST pipeline, colour-colour cut method and a random forest (RF) machine learning method. For DBs, since there is no template for DB in the pipeline model, a RF machine learning method is chosen to select candidates. All the WD candidates have been visually checked individually. The parameters of effective temperature, surface gravity, mass, and cooling age have been estimated for relatively high signal-to-noise ratio DAs and DBs. The peaks of the DA and DB mass distributions are found to be around 0.62 and 0.65 M<SUB>\u2299</SUB>, respectively. Finally, the data and method we used to select WD candidates for the second phase of LAMOST survey are also addressed in this paper.",
+      "title": [
+        "White dwarfs identified in LAMOST Data Release 5"
+      ],
+      "sme_judgements": null,
+      "notes": null,
+      "claude_score": 1,
+      "claude_explanation": "The result is somewhat relevant as it discusses identifying white dwarfs from LAMOST spectra, but it does not directly address the main paper's topic of caveats and systematics in stellar spectroscopy codes and methods.",
+      "gemini_score": 0,
+      "gemini_explanation": "The paper is about identifying white dwarfs in LAMOST data. There is no mention of stellar spectroscopy caveats, systematic differences between codes, or model atmospheres.",
+      "deepseek_score": 0,
+      "deepseek_explanation": "White dwarf identification; different object class and unrelated to methodological comparisons.",
+      "consensus_score": null,
+      "consensus_explanation": null
+    },
+    {
+      "bibcode": "2019MmSAI..90..327T",
+      "abstract": "We briefly review the various machine learning methods and discuss how they can be used in efficient identification and analysis of spectroscopic binary stars. They can be treated as complementary to conventional methods, and we argue that some amount of human oversight is always needed and in fact highly beneficial when employing machine learning. We propose that a general dimensionality reduction technique can serve to diagnose and classify a given data set, and in case of GALAH spectra, our method quite effectively reveals a population of SB2 and SB3 systems. Once identified, the binary spectra can be analysed with the help of generative models, which can be constructed using machine learning techniques such as The Cannon and The Payne. Furthermore, in the case of spectroscopically unresolved multiple stars, we can recover the multiple contributions to an observed spectrum by reversing the process and proceeding from analysis to identification.",
+      "title": [
+        "Machine learning techniques meet binaries"
+      ],
+      "sme_judgements": null,
+      "notes": null,
+      "claude_score": 1,
+      "claude_explanation": "The result is somewhat relevant as it discusses using machine learning to analyze spectroscopic binaries, but it does not directly address the main paper's topic of caveats and systematics in stellar spectroscopy codes and methods.",
+      "gemini_score": 0,
+      "gemini_explanation": "The paper is about machine learning techniques for binary stars. There is no mention of stellar spectroscopy caveats, systematic differences between codes, or model atmospheres.",
+      "deepseek_score": 1,
+      "deepseek_explanation": "Discusses ML for binary analysis and generative models but does not address systematic errors in spectroscopic methods.",
+      "consensus_score": null,
+      "consensus_explanation": null
+    },
+    {
+      "bibcode": "2023ApJS..268...28T",
+      "abstract": "White dwarfs represent the ultimate stage of evolution for over 97% of stars and play a crucial role in studies of the Milky Way's structure and evolution. Recent years have witnessed significant progress in using deep-learning methods for identifying unique objects in large-scale data. In this paper, we present a model based on transfer learning for identifying white dwarfs. We constructed a data set using the spectra released by LAMOST DR9 and trained a convolutional neural network model. The model was then further trained using a transfer-learning approach for a binary classification model. Our final model is comprised of a seven-class classification model and a binary classification model. The testing set yielded an accuracy rate of 96.08%. Our proposed model successfully identifies 4314 of the 4479 white dwarfs published in previous papers. We applied this model to filter the 1,121,128 spectral data from the LAMOST DR9 V1 catalog. Subsequently, we obtained 6317 white dwarf candidates, of which 5014 were cross-validated and found to be known white dwarfs. We finally identified 489 new white dwarfs out of the remaining 1303 candidates, containing 377 DAs, 1 DB, 4 DZs, 1 magnetic WD, 101 DA+M binaries, and 1 DB+M binary. Our study also compared transfer-learning methods with non-transfer-learning methods, and the results show that transfer learning provides faster training speed and a higher accuracy rate. We provide the trained model and a corresponding usage program for subsequent studies.",
+      "title": [
+        "A White Dwarf Search Model Based on a Deep Transfer-learning Method"
+      ],
+      "sme_judgements": null,
+      "notes": null,
+      "claude_score": 1,
+      "claude_explanation": "The result is somewhat relevant as it discusses using transfer learning to identify white dwarfs from LAMOST spectra, but it does not directly address the main paper's topic of caveats and systematics in stellar spectroscopy codes and methods.",
+      "gemini_score": 0,
+      "gemini_explanation": "The paper is about identifying white dwarfs using transfer learning. There is no mention of stellar spectroscopy caveats, systematic differences between codes, or model atmospheres.",
+      "deepseek_score": 0,
+      "deepseek_explanation": "White dwarf search using transfer learning; irrelevant to the main paper's topic.",
+      "consensus_score": null,
+      "consensus_explanation": null
+    },
+    {
+      "bibcode": "2021ApJS..257...65S",
+      "abstract": "In this work, we present a catalog of cataclysmic variables (CVs) identified from the sixth data release (DR6) of the Large Sky Area Multi-Object Fiber Spectroscopic Telescope (LAMOST). To single out the CV spectra, we introduce a novel machine-learning algorithm called UMAP to screen out a total of 169,509 H\u03b1 emission spectra, and obtain a classification accuracy of the algorithm of over 99.6% from the cross-validation set. We then apply the template-matching program PyHammer v2.0 to the LAMOST spectra to obtain the optimal spectral type with metallicity, which help us identify the chromospherically active stars and potential binary stars from the 169,509 spectra. After visually inspecting all of the spectra, we identify 323 CV candidates from the LAMOST database, among them 52 objects are new. We further classify the new CV candidates in subtypes based on their spectral features, including five DN subtypes during outbursts, five NL subtypes, and four magnetic CVs (three AM Her type and one IP type). We also find two CVs that have been previously identified by photometry and confirm their previous classification with the LAMOST spectra.",
+      "title": [
+        "A Catalog of 323 Cataclysmic Variables from LAMOST DR6"
+      ],
+      "sme_judgements": null,
+      "notes": null,
+      "claude_score": 1,
+      "claude_explanation": "The result is somewhat relevant as it discusses identifying cataclysmic variables from LAMOST spectra using machine learning, but it does not directly address the main paper's topic of caveats and systematics in stellar spectroscopy codes and methods.",
+      "gemini_score": 0,
+      "gemini_explanation": "The paper is about identifying cataclysmic variables using machine learning. There is no mention of stellar spectroscopy caveats, systematic differences between codes, or model atmospheres.",
+      "deepseek_score": 0,
+      "deepseek_explanation": "CV cataloging; unrelated to spectroscopic parameter systematics.",
+      "consensus_score": null,
+      "consensus_explanation": null
+    },
+    {
+      "bibcode": "2023yCat..22670005C",
+      "abstract": "Since 2018 October, LAMOST started the phase II survey, which contains both low- (R~1800) and medium- (R~7500) resolution spectroscopic surveys. From 2021 October to 2022 June, LAMOST DR10 collected 8,099,218 single-exposure spectra and 2,205,500 coadded spectra. <P />In our previous paper (Paper I; Chen+ 2022, J/ApJ/931/133), 606 S-type stars were found from LAMOST MRS DR9. In this work, only the machine-learning methods were used to find S-type stars from MRS of LAMOST DR10, and the 606 S-type stars from Paper I were treated as positive samples to search for more complete S-type samples. <P />(1 data file).",
+      "title": [
+        "VizieR Online Data Catalog: S-type stars from LAMOST MRS DR10 spectra (Chen+, 2023)"
+      ],
+      "sme_judgements": null,
+      "notes": null,
+      "claude_score": 1,
+      "claude_explanation": "The result is somewhat relevant as it mentions identifying S-type stars from LAMOST spectra using machine learning, but it does not directly address the main paper's topic of caveats and systematics in stellar spectroscopy codes and methods.",
+      "gemini_score": 0,
+      "gemini_explanation": "The paper is about finding S-type stars using machine learning. There is no mention of stellar spectroscopy caveats, systematic differences between codes, or model atmospheres.",
+      "deepseek_score": 0,
+      "deepseek_explanation": "S-type star classification; no connection to parameter derivation methods.",
+      "consensus_score": null,
+      "consensus_explanation": null
+    },
+    {
+      "bibcode": "2021ApJS..256...31L",
+      "abstract": "The LAMOST Medium-Resolution Spectroscopic Survey (LAMOST-MRS) provides an unprecedented opportunity for detecting multiline spectroscopic systems. Based on the cross correlation function and successive derivatives, we search for spectroscopic binaries and triples and derive their radial velocities (RVs) from the LAMOST-MRS spectra. A Monte Carlo simulation is adopted to estimate the RV uncertainties. After examining over 1.3 million LAMOST DR7 MRS blue-arm spectra, we obtain 3133 spectroscopic binary (SB) and 132 spectroscopic triple (ST) candidates, which account for 1.2% of the LAMOST-MRS stars. Over 95% of the candidates are newly discovered. It is found that all of the ST candidates are on the main sequence, while around 10% of the SB candidates may have one or two components on the red giant branch.",
+      "title": [
+        "Double- and Triple-line Spectroscopic Candidates in the LAMOST Medium-Resolution Spectroscopic Survey"
+      ],
+      "sme_judgements": null,
+      "notes": null,
+      "claude_score": 1,
+      "claude_explanation": "The result is somewhat relevant as it discusses identifying double-line and triple-line spectroscopic binaries from LAMOST spectra, but it does not directly address the main paper's topic of caveats and systematics in stellar spectroscopy codes and methods.",
+      "gemini_score": 0,
+      "gemini_explanation": "The paper is about detecting double- and triple-line spectroscopic systems. There is no mention of stellar spectroscopy caveats, systematic differences between codes, or model atmospheres.",
+      "deepseek_score": 0,
+      "deepseek_explanation": "Focuses on multiline systems and RVs, not parameter derivation or method comparisons.",
+      "consensus_score": null,
+      "consensus_explanation": null
+    },
+    {
+      "bibcode": "2022MNRAS.517.4875L",
+      "abstract": "As a typical data-driven method, deep learning becomes a natural choice for analysing astronomical data. In this study, we built a deep convolutional neural network (NN) to estimate basic stellar parameters $T\\rm {_{eff}}$, log g, metallicity ([M/H] and [Fe/H]) and [\u03b1/M] along with nine individual elemental abundances ([C/Fe], [N/Fe], [O/Fe], [Mg/Fe], [Al/Fe], [Si/Fe], [Ca/Fe], [Mn/Fe], and [Ni/Fe]). The NN is trained using common stars between the APOGEE survey and the LAMOST survey. We used low-resolution spectra from LAMOST survey as input, and measurements from APOGEE as labels. For stellar spectra with the signal-to-noise ratio in g band larger than 10 in the test set, the mean absolute error (MAE) is 29 K for $T\\rm {_{eff}}$, 0.07 dex for log g, 0.03 dex for both [Fe/H] and [M/H], and 0.02 dex for [\u03b1/M]. The MAE of most elements is between 0.02 and 0.04 dex. The trained NN was applied to 1210 145 giants, including sub-giants, from LAMOST DR8 within the range of stellar parameters 3500 K &lt; $T\\rm {_{eff}}$ &lt; 5500 K, 0.0 dex &lt; log g &lt; 4.0 dex, -2.5 dex &lt; [Fe/H] &lt; 0.5 dex. The distribution of our results in the chemical spaces is highly consistent with APOGEE labels and stellar parameters show consistency with external high-resolution measurements from GALAH. The results in this study allow us to further studies based on LAMOST data and deepen our understanding of the accretion and evolution history of the Milky Way. The electronic version of the value added catalog is available at http://www.lamost.org/dr8/v1.1/doc/vac.",
+      "title": [
+        "The stellar parameters and elemental abundances from low-resolution spectra - I. 1.2 million giants from LAMOST DR8"
+      ],
+      "sme_judgements": null,
+      "notes": null,
+      "claude_score": 2,
+      "claude_explanation": "The result is relevant as it discusses deriving stellar parameters and chemical abundances from low-resolution LAMOST spectra using deep learning, which is related to the main paper's focus on stellar spectroscopy methods and potential systematics.",
+      "gemini_score": 0,
+      "gemini_explanation": "The paper is about estimating stellar parameters and elemental abundances using deep learning. There is no mention of stellar spectroscopy caveats, systematic differences between codes, or model atmospheres.",
+      "deepseek_score": 2,
+      "deepseek_explanation": "Derives stellar parameters/abundances using deep learning and cross-validates with surveys, relevant to parameter determination but not code/method systematics.",
+      "consensus_score": 2,
+      "consensus_explanation": "This result discusses potential systematic effects in low-resolution spectroscopic data, which is relevant to the main paper's focus on methodological caveats and uncertainties in stellar spectroscopy."
+    }
+  ]
+}

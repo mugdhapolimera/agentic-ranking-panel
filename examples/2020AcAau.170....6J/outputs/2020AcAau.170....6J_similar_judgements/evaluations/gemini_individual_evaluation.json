@@ -1,0 +1,102 @@
+{
+  "individual_scores": {
+    "1": {
+      "score": 3,
+      "explanation": "This result is highly relevant as it is essentially the same paper as the main paper, just perhaps an earlier version or a different publication venue for the same study. The title and abstract are almost identical."
+    },
+    "2": {
+      "score": 2,
+      "explanation": "This result is relevant. It proposes a similar mission concept (Uranus orbiter) but focuses on a different set of instruments and scientific objectives. While it doesn't directly use the same methodology as the main paper (which describes a specific mission concept), it addresses the same high-level goal of exploring Uranus with a New Frontiers-class mission and mentions the Decadal Survey's prioritization of such a mission."
+    },
+    "3": {
+      "score": 0,
+      "explanation": "This result is not relevant. It describes a software application for visualizing magnetospheres but doesn't relate to the mission concept study or the specific scientific goals outlined in the main paper. It's tangentially related to Uranus' magnetosphere, but not directly relevant to the mission design or scientific questions."
+    },
+    "4": {
+      "score": 1,
+      "explanation": "This result is somewhat relevant. It discusses the design of a Uranus Flagship mission tour and solicits community input, touching on aspects of mission design. However, it doesn't focus on a New Frontiers-class mission or the specific science goals outlined in the main paper. It's more broadly about Uranus mission planning."
+    },
+    "5": {
+      "score": 2,
+      "explanation": "This result is relevant. It summarizes a NASA/ESA study of ice giant missions, including a discussion of science objectives, payload, and the importance of an atmospheric probe. It aligns with the overall theme of Uranus exploration and touches on mission design considerations, although it's not specifically about a New Frontiers-class mission."
+    },
+    "6": {
+      "score": 2,
+      "explanation": "This result is relevant. It focuses on the scientific rationale for in situ exploration of Uranus and Neptune, discussing the importance of an atmospheric entry probe and the scientific goals that could be addressed. It aligns with the broader topic of Uranus exploration and provides context for the scientific objectives of such a mission, even though it is not a New Frontiers mission."
+    },
+    "7": {
+      "score": 3,
+      "explanation": "This result is highly relevant. It explicitly discusses a New Frontiers-class Uranus orbiter mission and addresses the feasibility of achieving multidisciplinary science with a mid-scale mission. It directly relates to the mission class and the challenge of balancing science objectives, cost, and technical feasibility, aligning closely with the main paper's focus."
+    },
+    "8": {
+      "score": 1,
+      "explanation": "This result is somewhat relevant. It describes a multi-spacecraft flagship mission concept to Saturn and Uranus, which is tangentially related to the main paper's focus on a Uranus orbiter mission. However, it doesn't specifically address a New Frontiers-class mission or the same scientific goals."
+    },
+    "9": {
+      "score": 1,
+      "explanation": "This result is somewhat relevant. It provides scientific background on ice giant magnetospheres, which is one of the science goals mentioned in the main paper. However, it doesn't address the mission concept study or the New Frontiers aspect, making it only tangentially relevant."
+    },
+    "10": {
+      "score": 1,
+      "explanation": "This result is somewhat relevant. It mentions the prioritization of a Uranus Orbiter and Probe mission and the general scientific goals. However, it lacks the specific focus on New Frontiers-class missions and doesn't delve into mission design considerations."
+    },
+    "11": {
+      "score": 3,
+      "explanation": "This result is highly relevant. It discusses the scientific case for a New Frontiers-Class Uranus orbiter and design considerations. This aligns extremely well with the main paper's focus on a New Frontiers mission to Uranus and the importance of balancing science with cost and technical feasibility."
+    },
+    "12": {
+      "score": 2,
+      "explanation": "This result is relevant. It makes a strong case for an orbital mission to Uranus, including an atmospheric probe, and discusses the scientific objectives and technical challenges. While it doesn't explicitly focus on a New Frontiers-class mission, it provides a strong rationale for Uranus exploration that supports the main paper's goals."
+    },
+    "13": {
+      "score": 2,
+      "explanation": "This result is relevant. It argues for the scientific potential of orbital missions to Uranus and Neptune and provides a revised set of scientific questions and motivations for their exploration. It supports the overall goal of Uranus exploration, even though it doesn't focus on a specific mission class or design."
+    },
+    "14": {
+      "score": 1,
+      "explanation": "This result is somewhat relevant. It focuses on the space physics science objectives at Uranus and presents a mission concept (PERSEUS). While it deals with science at Uranus, it's a Heliophysics mission concept, rather than a Planetary Science mission, and there is no mention of New Frontiers."
+    },
+    "15": {
+      "score": 1,
+      "explanation": "This result is somewhat relevant. It describes a Uranus Pathfinder mission concept, which was proposed as a medium-class mission to ESA. However, it is not related to the New Frontiers program and is not directly related to the main paper's focus. It is a past concept. "
+    },
+    "16": {
+      "score": 0,
+      "explanation": "This result is not relevant. It discusses auroral emissions from Uranus and Neptune but does not relate to mission concepts or the specific scientific goals of the main paper. While it's related to Uranus science, it's too far removed from the mission context."
+    },
+    "17": {
+      "score": 0,
+      "explanation": "This result is not relevant. It proposes using JWST to study the magnetic environments of Uranus and Neptune. While this is relevant to Uranus science, it is purely remote sensing with an existing telescope and has nothing to do with the design of a Uranus orbiter mission, as described in the main paper."
+    },
+    "18": {
+      "score": 2,
+      "explanation": "This result is relevant. It focuses on in situ exploration of the atmospheres of the Ice Giants and makes a strong case for the atmospheric probe. It discusses the scientific goals and potential mission architecture. This result is relevant to the mission's scientific justification."
+    },
+    "19": {
+      "score": 1,
+      "explanation": "This result is somewhat relevant. It describes a mission concept for exploring the Uranian system, but it is a flagship-class mission and is not directly related to the New Frontiers mission in the main paper. "
+    },
+    "20": {
+      "score": 0,
+      "explanation": "This result is not relevant. It describes the Juno mission to Jupiter. While it mentions New Frontiers, it is about Jupiter, not Uranus. "
+    }
+  },
+  "overall_analysis": {
+    "strengths": [
+      "Several results directly address the possibility of a New Frontiers-class mission to Uranus.",
+      "Many results provide strong scientific justification for exploring Uranus, highlighting its unique characteristics and unanswered questions.",
+      "Some results discuss different mission architectures and instrument payloads for Uranus exploration.",
+      "Many results highlight the importance of Uranus exploration in the context of exoplanet research."
+    ],
+    "weaknesses": [
+      "Some results are only tangentially related, focusing on specific aspects of Uranus science without addressing the mission concept study.",
+      "A few results describe flagship-class missions, which are outside the scope of the main paper's focus on New Frontiers.",
+      "There's a lack of detail in some abstracts regarding specific mission design considerations and trade-offs."
+    ],
+    "suggestions": [
+      "Focus future searches on keywords that explicitly include \"New Frontiers\", \"Uranus orbiter\", and \"mission concept study\".",
+      "Prioritize results that discuss specific mission design trade-offs, instrument selection rationales, and cost constraints.",
+      "Consider searching for white papers or conference presentations that may provide more detailed information than journal abstracts."
+    ]
+  }
+}

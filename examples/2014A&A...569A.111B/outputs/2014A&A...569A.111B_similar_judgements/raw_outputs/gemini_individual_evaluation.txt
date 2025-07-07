@@ -1,0 +1,101 @@
+```json
+{
+    "individual_scores": {
+        "1": {
+            "score": 1,
+            "explanation": "This paper uses iSpec to generate synthetic spectra for training a deep learning model to identify double-line spectroscopic binaries. While it uses iSpec, it does not focus on the capabilities or validation of iSpec itself, but rather on the application of a deep learning model, so it is somewhat relevant."
+        },
+        "2": {
+            "score": 1,
+            "explanation": "This paper uses a hybrid approach to detect double-line spectroscopic binaries.  While it is in the same area of research, it does not mention iSpec or the methods from the main paper, and is thus only somewhat relevant."
+        },
+        "3": {
+            "score": 1,
+            "explanation": "This paper utilizes a convolutional neural network model to identify double-lined spectroscopic binaries from single-exposure medium-resolution spectra. It uses a training set of mock spectra synthesized using the MIST stellar evolutionary model and ATLAS9 atmospheric model and does not use or mention iSpec, so it is somewhat relevant but tangential to the main paper."
+        },
+        "4": {
+            "score": 0,
+            "explanation": "This paper focuses on the study of a specific double-lined spectroscopic binary system. It does not mention iSpec or the methods from the main paper, making it not relevant."
+        },
+        "5": {
+            "score": 0,
+            "explanation": "This paper reports on a data-driven spectral model for identifying double-lined spectroscopic binary stars. It does not mention iSpec or the methods from the main paper, making it not relevant."
+        },
+        "6": {
+            "score": 0,
+            "explanation": "This paper estimates barium abundances from LAMOST MRS spectra using a template-matching method.  It does not mention iSpec or the methods from the main paper, making it not relevant."
+        },
+        "7": {
+            "score": 0,
+            "explanation": "This paper searches for spectroscopic binaries and triples in LAMOST-MRS spectra using the cross-correlation function. It does not mention iSpec or the methods from the main paper, making it not relevant."
+        },
+        "8": {
+            "score": 0,
+            "explanation": "This paper discusses the detection of spectroscopic binaries in the Gaia-ESO survey using cross-correlation functions. It does not mention iSpec or the methods from the main paper, making it not relevant."
+        },
+        "9": {
+            "score": 0,
+            "explanation": "This paper presents an analysis of LAMOST spectra of late-type candidate members of the Pleiades. It does not mention iSpec or the methods from the main paper, making it not relevant."
+        },
+        "10": {
+            "score": 0,
+            "explanation": "This paper searches for compact object candidates in single-lined spectroscopic binaries from LAMOST MRS. It does not mention iSpec or the methods from the main paper, making it not relevant."
+        },
+        "11": {
+            "score": 0,
+            "explanation": "This paper identifies double-lined spectroscopic binaries in APOGEE spectra. It does not mention iSpec or the methods from the main paper, making it not relevant."
+        },
+        "12": {
+            "score": 0,
+            "explanation": "This paper estimates stellar parameters and chemical abundances from LAMOST-II DR8 MRS using Cycle-StarNet. It does not mention iSpec or the methods from the main paper, making it not relevant."
+        },
+        "13": {
+            "score": 0,
+            "explanation": "This paper discusses the detection of double-, triple-, and quadruple-line spectroscopic binary candidates in the Gaia-ESO Survey. It does not mention iSpec or the methods from the main paper, making it not relevant."
+        },
+        "14": {
+            "score": 3,
+            "explanation": "This paper utilizes the public code iSpec to perform a spectroscopic analysis to derive chemical abundances of 13 chemical species for the third version of the Gaia FGK Benchmark Stars. It is highly relevant and closely aligned with the main paper's topic and methodology."
+        },
+        "15": {
+            "score": 0,
+            "explanation": "This paper reports on the elemental abundances of very metal-poor stars using high-resolution spectra from the Subaru Telescope. It does not mention iSpec or the methods from the main paper, making it not relevant."
+        },
+        "16": {
+            "score": 0,
+            "explanation": "This paper establishes a reference sample with high-resolution spectra from the Gaia-ESO Survey to explore NLTE effects on barium abundances. It does not mention iSpec or the methods from the main paper, making it not relevant."
+        },
+        "17": {
+            "score": 0,
+            "explanation": "This paper describes the data release from the LAMOST low-resolution and medium-resolution spectroscopic surveys. It does not mention iSpec or the methods from the main paper, making it not relevant."
+        },
+        "18": {
+            "score": 0,
+            "explanation": "This paper derives lithium abundance from LAMOST MRS Data Release 9 using a template-matching method.  It does not mention iSpec or the methods from the main paper, making it not relevant."
+        },
+        "19": {
+            "score": 0,
+            "explanation": "This paper introduces LAMA, a LAMOST Medium-Resolution Spectral Analysis Pipeline, which estimates stellar parameters using the template-matching method. It does not mention iSpec or the methods from the main paper, making it not relevant."
+        },
+        "20": {
+            "score": 0,
+            "explanation": "This paper derives stellar parameters and chemical abundances for LAMOST MRS data sets with a deep-learning method. It does not mention iSpec or the methods from the main paper, making it not relevant."
+        }
+    },
+    "overall_analysis": {
+        "strengths": [
+            "Result 14 directly uses iSpec, demonstrating its application in a specific study.",
+            "Results 1, 2, 3, and 14 focus on the analysis of spectroscopic data, particularly from LAMOST, which is a common source of data in the literature."
+        ],
+        "weaknesses": [
+            "Most of the results are not directly relevant to the main paper, as they do not use iSpec or focus on its capabilities and validation.",
+            "Many results focus on identifying spectroscopic binaries, which is a different application than the main paper's focus on determining stellar atmospheric parameters and chemical abundances."
+        ],
+        "suggestions": [
+            "Focus the search on papers that explicitly mention using iSpec for determining stellar parameters and chemical abundances.",
+            "Refine the search query to include keywords related to the validation and performance of iSpec.",
+            "Consider searching for papers that compare iSpec to other similar tools or methods."
+        ]
+    }
+}
+```

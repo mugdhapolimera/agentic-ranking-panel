@@ -1,0 +1,9 @@
+{
+  "correlations": {
+    "claude": 0.68088290664919,
+    "gemini": 0.6666666666666666,
+    "deepseek": 0.5548264797092158,
+    "consensus": 0.40824829046386296
+  },
+  "output_file": "examples/2022Icar..38815237J/outputs/2022Icar..38815237J_similar_judgements_llm_scored_results.json"
+}

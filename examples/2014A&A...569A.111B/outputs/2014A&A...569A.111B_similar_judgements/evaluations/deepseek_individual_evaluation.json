@@ -1,0 +1,98 @@
+{
+  "individual_scores": {
+    "1": {
+      "score": 2,
+      "explanation": "This result uses iSpec for spectral synthesis to generate training data for detecting SB2s. While it employs iSpec, the focus is on binary detection rather than deriving atmospheric parameters/abundances for FGK stars. Partial methodological alignment but tangential to the main paper's core topic."
+    },
+    "2": {
+      "score": 1,
+      "explanation": "Focuses on detecting SB2s using cross-correlation and machine learning. No mention of iSpec or spectral parameter determination. Tangentially related to spectroscopy but lacks direct relevance to the main paper's methodology."
+    },
+    "3": {
+      "score": 1,
+      "explanation": "Uses synthetic spectra (MIST/ATLAS9 models) for SB2 detection with CNNs. No connection to iSpec or its parameter derivation methods. Relevant to spectroscopy but methodologically distinct."
+    },
+    "4": {
+      "score": 1,
+      "explanation": "Analyzes SB2s using full-spectrum fitting but does not use iSpec. Focuses on orbital solutions rather than atmospheric parameters. Indirect relevance to spectroscopic analysis."
+    },
+    "5": {
+      "score": 1,
+      "explanation": "Detects SB2s via data-driven spectral modeling. No overlap with iSpec or FGK parameter derivation. Only tangential connection to spectroscopy."
+    },
+    "6": {
+      "score": 1,
+      "explanation": "Determines barium abundances using template-matching, unrelated to iSpec. Focuses on chemical abundances but uses different methodology (LAMOST pipelines)."
+    },
+    "7": {
+      "score": 1,
+      "explanation": "Detects SB2s using cross-correlation. No mention of iSpec or parameter determination. Minimal alignment with the main paper's goals."
+    },
+    "8": {
+      "score": 1,
+      "explanation": "Gaia-ESO survey SB detection using CCFs. No methodological overlap with iSpec. Focuses on binaries, not atmospheric parameters."
+    },
+    "9": {
+      "score": 1,
+      "explanation": "Uses ROTFIT code for Pleiades stellar parameters. Similar goals (spectral analysis) but different tools. No connection to iSpec."
+    },
+    "10": {
+      "score": 0,
+      "explanation": "Focuses on compact object candidates via radial velocity variations. No relevance to iSpec or FGK parameter determination."
+    },
+    "11": {
+      "score": 1,
+      "explanation": "APOGEE SB2 analysis with machine learning. No overlap with iSpec or its spectral fitting techniques."
+    },
+    "12": {
+      "score": 1,
+      "explanation": "Uses Cycle-StarNet for parameters, a deep learning approach. Methodologically distinct from iSpec's synthetic spectral fitting."
+    },
+    "13": {
+      "score": 1,
+      "explanation": "Gaia-ESO SB detection with DOE code. Focuses on binaries, not atmospheric parameters or iSpec."
+    },
+    "14": {
+      "score": 3,
+      "explanation": "Directly uses iSpec to derive chemical abundances for Gaia FGK Benchmark Stars. Closely aligns with the main paper's methodology and focus on FGK stellar parameters/abundances."
+    },
+    "15": {
+      "score": 0,
+      "explanation": "Focuses on metal-poor stars and binary frequency. No connection to iSpec or parameter derivation methods."
+    },
+    "16": {
+      "score": 1,
+      "explanation": "Compares NLTE effects on Ba abundances using Gaia-ESO/LAMOST. Relevant to abundance analysis but no use of iSpec."
+    },
+    "17": {
+      "score": 0,
+      "explanation": "Data catalog for LAMOST DR7. No analysis or relevance to iSpec/FGK parameter determination."
+    },
+    "18": {
+      "score": 1,
+      "explanation": "Derives lithium abundances via template-matching. Focuses on a specific element and uses LAMOST pipelines, not iSpec."
+    },
+    "19": {
+      "score": 1,
+      "explanation": "LAMA pipeline for stellar parameters using template-matching. Similar goals but different methodology from iSpec."
+    },
+    "20": {
+      "score": 1,
+      "explanation": "SPCANet uses deep learning for parameters. No alignment with iSpec's spectral fitting approach."
+    }
+  },
+  "overall_analysis": {
+    "strengths": [
+      "Result 14 provides a direct methodological link to the main paper by using iSpec for abundance analysis.",
+      "Several results (e.g., 1, 6, 14) highlight the broader context of spectroscopic parameter determination in astronomy."
+    ],
+    "weaknesses": [
+      "Most results focus on binary detection or alternate methodologies (e.g., machine learning) rather than iSpec's synthetic spectral fitting.",
+      "Limited overlap with the main paper's core focus on FGK star atmospheric parameters and chemical abundances."
+    ],
+    "suggestions": [
+      "Include more studies that explicitly use iSpec for atmospheric parameter determination.",
+      "Prioritize papers discussing synthetic spectral fitting or equivalent-width methods for FGK stars."
+    ]
+  }
+}

@@ -1,0 +1,349 @@
+{
+  "bibcode": "2023arXiv231214211B",
+  "title": [
+    "Experimenting with Large Language Models and vector embeddings in NASA SciX"
+  ],
+  "abstract": "Open-source Large Language Models enable projects such as NASA SciX (i.e., NASA ADS) to think out of the box and try alternative approaches for information retrieval and data augmentation, while respecting data copyright and users' privacy. However, when large language models are directly prompted with questions without any context, they are prone to hallucination. At NASA SciX we have developed an experiment where we created semantic vectors for our large collection of abstracts and full-text content, and we designed a prompt system to ask questions using contextual chunks from our system. Based on a non-systematic human evaluation, the experiment shows a lower degree of hallucination and better responses when using Retrieval Augmented Generation. Further exploration is required to design new features and data augmentation processes at NASA SciX that leverages this technology while respecting the high level of trust and quality that the project holds.",
+  "search_results": [
+    {
+      "bibcode": "2023AGUFMIN04...01B",
+      "abstract": "NASA SciX is a digital library and search engine that provides access to a vast collection of scientific literature covering fields such as Earth Science, Planetary Science, Heliophysics and Astrophysics. Within this project, Open Source Large Language Models offer the opportunity to think creatively and explore alternative methods for information retrieval and data augmentation while ensuring the protection of data copyright and users' privacy. However, when these models are directly presented with questions lacking context, they become susceptible to generating inaccurate or fictional responses (hallucinations). To address this issue, we have conducted an experiment at NASA SciX: we generated semantic vectors for our extensive collection of abstracts and full-text content, and we devised a prompt system that relies on contextual chunks of text from our corpus to answer questions. Based on manual human evaluation, the results of the experiment seem to show a reduction in hallucination and improved responses when employing a self-reflective approach. NASA SciX will continue to explore the limits of this technology to fully capitalize it while upholding the project's esteemed level of trust and quality.",
+      "title": [
+        "Exploring the limits of Large Language Models with the NASA SciX corpus"
+      ],
+      "sme_judgements": 3,
+      "notes": "",
+      "claude_score": 3,
+      "claude_explanation": "This result is highly relevant as it discusses the same experiment conducted at NASA SciX using large language models and vector embeddings to reduce hallucination and improve information retrieval.",
+      "gemini_score": null,
+      "gemini_explanation": null,
+      "deepseek_score": 3,
+      "deepseek_explanation": "Directly addresses LLM experiments with NASA SciX corpus, semantic vectors, and hallucination reduction through contextual prompts. Closely matches main paper's methodology and goals.",
+      "consensus_score": 3,
+      "consensus_explanation": "Directly addresses the NASA SciX experiment using large language models, vector embeddings, and contextual prompting for information retrieval and hallucination reduction."
+    },
+    {
+      "bibcode": "2024AAS...24311107L",
+      "abstract": "The NASA Astrophysics Data System is a digital repository and search platform offering access to a comprehensive range of scientific papers in astrophysics and related fields. The ever-increasing volume of scientific literature ingested in the system has made finding relevant sources more difficult, and thus new techniques are needed to improve discovery. ADS has been exploring new methods, aided by artificial intelligence, to assist with information retrieval and data enrichment. One information retrieval experiment we've undertaken has involved open source Large Language Models (LLMs). We calculated semantic vectors for our vast array of abstracts and full-text documents, pairing this database with a LLM-powered chatbot to create a query mechanism that utilizes contextual text snippets from our database for answering inquiries more factually than an LLM alone can. We've also partnered with external collaborators working on LLMs, providing curated datasets of open-access sources to assist with training AI models; we will discuss one such dataset, the Open Corpus, in more detail. Finally, we've undertaken an array of AI-informed data enrichment tasks for individual papers. These include automated classification of papers into broad categories, such as astronomy or planetary science, as well as assignment of keywords from curated taxonomies such as the Unified Astronomy Thesaurus and the Gazetteer of Planetary Nomenclature.",
+      "title": [
+        "Utilizing Artificial Intelligence Techniques for Information Retrieval and Data Enrichment in NASA ADS"
+      ],
+      "sme_judgements": 3,
+      "notes": "",
+      "claude_score": 2,
+      "claude_explanation": "This result is relevant as it discusses the use of AI techniques, including large language models, for information retrieval and data enrichment in the NASA ADS. However, it does not specifically mention the experiment with vector embeddings and contextual prompting.",
+      "gemini_score": null,
+      "gemini_explanation": null,
+      "deepseek_score": 3,
+      "deepseek_explanation": "Focuses on AI/LLM applications for information retrieval and data enrichment in ADS, including semantic vectors and contextual query mechanisms. Strong alignment with main paper's theme.",
+      "consensus_score": 2,
+      "consensus_explanation": "Discusses the use of machine learning and natural language processing techniques in the NASA ADS infrastructure, but does not directly focus on retrieval-augmented generation (RAG) systems."
+    },
+    {
+      "bibcode": "2000A&AS..143...41K",
+      "abstract": "The NASA Astrophysics Data System Abstract Service has become a key component of astronomical research. It provides bibliographic information daily, or near daily, to a majority of astronomical researchers worldwide. We describe the history of the development of the system and its current status. Urania (Boyce 1996), and the ADS role in the emerging electronic astronomical data environment are discussed. Astronomy is unique in that it already has a fully functional data resource, where several of the most important data sources exist on-line and inter-operate nearly seamlessly. The ADS and the Strasbourg Data Center (CDS; Genova et~al. 2000) form the core of this resource. We show several examples of how to use the ADS, and we show how ADS use has increased as a function of time. Currently it is still increasing exponentially, with a doubling time for number of queries of 17 months. Using the ADS logs we make the first detailed model of how scientific journals are read as a function of time since publication. We find four distinct components. We directly compare the readership rate with the citation rate for scientific articles as a function of age. Citations generally follow reads, but there are some differences. The main journals of astronomy have differences in the ways they are read and cited. We discuss these from a number of different aspects. The impact of the ADS on astronomy can be calculated after making some simple assumptions. We find that the ADS increases the efficiency of astronomical research by 333 Full Time Equivalent (2000 hour) research years per year, and that the value of the early development of the ADS for astronomy, compared with waiting for mature technologies to be adopted, is 2332 FTE research years. A full technical description of the ADS is in three companion articles: \\cite{gei}, \\cite{aa}, and \\cite{csg}. The ADS is available at http://adsabs.harvard.edu/.",
+      "title": [
+        "The NASA Astrophysics Data System: Overview"
+      ],
+      "sme_judgements": 1,
+      "notes": "It describes ADS but does not talk about LLM/AI",
+      "claude_score": 1,
+      "claude_explanation": "This result provides an overview of the NASA ADS but does not discuss the experiment with large language models and vector embeddings.",
+      "gemini_score": null,
+      "gemini_explanation": null,
+      "deepseek_score": 1,
+      "deepseek_explanation": "General ADS overview without LLM/RAG content. Provides background but doesn't address the core technical focus.",
+      "consensus_score": 1,
+      "consensus_explanation": "Only tangentially relevant as it discusses general language model capabilities, but does not specifically address the technical aspects of the NASA SciX experiment."
+    },
+    {
+      "bibcode": "2024ASPC..535..119G",
+      "abstract": "The existing search tools for exploring the NASA Astrophysics Data System (ADS) can be quite rich and empowering (e.g., similar and trending operators), but researchers are not yet allowed to fully leverage semantic search. For example, a query for \"results from the Planck mission\" should be able to distinguish between all the various meanings of Planck (person, mission, constant, institutions and more) without further clarification from the user. At ADS, we are applying modern machine learning and natural language processing techniques to our dataset of recent astronomy publications to train astroBERT, a deeply contextual language model based on research at Google. Using astroBERT, we aim to enrich the ADS dataset and improve its discoverability, and in particular we are developing our own named entity recognition tool. We present here our preliminary results and lessons learned.",
+      "title": [
+        "Building astroBERT, a Language Model for Astronomy &amp; Astrophysics"
+      ],
+      "sme_judgements": 2,
+      "notes": "astroBERT",
+      "claude_score": 2,
+      "claude_explanation": "This result discusses the development of astroBERT, a language model for astronomy and astrophysics, which is relevant to the main paper's topic of using large language models for information retrieval in NASA SciX.",
+      "gemini_score": null,
+      "gemini_explanation": null,
+      "deepseek_score": 2,
+      "deepseek_explanation": "Relevant through astroBERT development and semantic search improvements, but focuses on entity recognition rather than RAG/hallucination mitigation.",
+      "consensus_score": 3,
+      "consensus_explanation": "Highly relevant as it discusses the development of astroBERT, a specialized language model for the astronomy domain, which is directly applicable to the retrieval and semantic understanding components of RAG systems."
+    },
+    {
+      "bibcode": "2024arXiv240109685A",
+      "abstract": "The NASA Astrophysics Data System (ADS) is the primary Digital Library portal for researchers in astronomy and astrophysics. Over the past 30 years, the ADS has gone from being an astronomy-focused bibliographic database to an open digital library system supporting research in space and (soon) earth sciences. This paper describes the evolution of the ADS system, its capabilities, and the technological infrastructure underpinning it. We give an overview of the ADS's original architecture, constructed primarily around simple database models. This bespoke system allowed for the efficient indexing of metadata and citations, the digitization and archival of full-text articles, and the rapid development of discipline-specific capabilities running on commodity hardware. The move towards a cloud-based microservices architecture and an open-source search engine in the late 2010s marked a significant shift, bringing full-text search capabilities, a modern API, higher uptime, more reliable data retrieval, and integration of advanced visualizations and analytics. Another crucial evolution came with the gradual and ongoing incorporation of Machine Learning and Natural Language Processing algorithms in our data pipelines. Originally used for information extraction and classification tasks, NLP and ML techniques are now being developed to improve metadata enrichment, search, notifications, and recommendations. we describe how these computational techniques are being embedded into our software infrastructure, the challenges faced, and the benefits reaped. Finally, we conclude by describing the future prospects of ADS and its ongoing expansion, discussing the challenges of managing an interdisciplinary information system in the era of AI and Open Science, where information is abundant, technology is transformative, but their trustworthiness can be elusive.",
+      "title": [
+        "Decades of Transformation: Evolution of the NASA Astrophysics Data System's Infrastructure"
+      ],
+      "sme_judgements": 2,
+      "notes": "It describes ADS from a more up-to-date angle including NLP, etc",
+      "claude_score": 2,
+      "claude_explanation": "This result discusses the evolution of the NASA ADS infrastructure, including the incorporation of machine learning and natural language processing techniques, which is relevant to the main paper's topic.",
+      "gemini_score": null,
+      "gemini_explanation": null,
+      "deepseek_score": 2,
+      "deepseek_explanation": "Discusses ML/NLP integration in ADS infrastructure evolution, relevant contextually but not specific to LLM/RAG experiments.",
+      "consensus_score": 2,
+      "consensus_explanation": "Relevant for demonstrating the evolution of AI/ML infrastructure in the NASA ADS system, but does not directly address RAG implementations."
+    },
+    {
+      "bibcode": "2002APS..APRI11007E",
+      "abstract": "The NASA-ADS Abstract Service provides a search system for the Physics/Geophysics (1.1 million records), Astronomy/Planetary Sciences (730,000 records), and Instrumentation (615,000 records) literature. The ADS is a NASA funded project and is available free to anybody world-wide. A very important part of the ADS is the extensive system of links to other related on-line resources. There are 6.1 million links in the ADS, 2.8 million of these to external resources. In addition to the abstract search system we have scanned most of the astronomical literature back to volume 1 and provide access to the full journal articles through the ADS. In a collaboration with the APS the ADS has included all abstracts from the PhysRev series, as well as the reference lists of all these articles. Any record from these series that is returned by the ADS points to the on-line article on the APS PROLA website. The APS will in turn link to ADS abstracts from the reference lists of Physical Review articles. The ADS can be accessed at http://ads.harvard.edu",
+      "title": [
+        "The ADS Abstract Service: A Free NASA Service"
+      ],
+      "sme_judgements": 1,
+      "notes": "It describes ADS but does not talk about LLM/AI",
+      "claude_score": 1,
+      "claude_explanation": "This result provides a general overview of the NASA ADS abstract service but does not discuss the experiment with large language models and vector embeddings.",
+      "gemini_score": null,
+      "gemini_explanation": null,
+      "deepseek_score": 1,
+      "deepseek_explanation": "Describes basic ADS services without any AI/LLM components. Only tangential relevance through platform context.",
+      "consensus_score": 1,
+      "consensus_explanation": "Only tangentially relevant as it discusses general natural language processing techniques, but not specifically in the context of retrieval-augmented generation or the NASA SciX experiment."
+    },
+    {
+      "bibcode": "2024eas..conf.2017K",
+      "abstract": "The rapid evolution of natural language processing, particularly with the advent of large language models (LLMs), has led to ground-breaking capabilities such as automated text generation and sophisticated literature search capabilities. These advancements are set to have significant, long-lasting implications for scientific research, particularly for a data-intensive field such as astronomy, which benefits from open data access from astronomy archives and a wealth of literature available via e.g. the NASA Astrophysics Data System (ADS). <P />In this presentation we will explore the transformative impact of LLMs in astrophysics. Through collaborative efforts at ESA and in the Universe TBD consortium, we strive to make science research more accessible. A key objective has been tailoring foundation models for specialised fields, to overcome the limitation of general-purpose foundation models such as generative pre-trained transformer (GPT) models. To this end, we developed specialised LLMs for astronomy, AstroLLaMa-1 (Nguyen et al. 2023) and AstroLLaMA-Chat (Perkowski, Pan et al. 2024). These models, enriched by domain-specific data from the NASA ADS and ArXiv, demonstrate improved text completion and embedding capabilities over existing generative pre-trained transformer models. We will discuss the potential of large language models in generating hypothesis and extracting meaningful insights from astronomy literature. Our findings demonstrate the capability of LLMs in contributing to informed critique (Ciuca et al. 2023) and in revealing intriguing patterns in the embedding space, highlighting the potential of LLMs to augment scientific inquiry. Through this work, we aim to explore how artificial intelligence can assist human intelligence in astronomy.",
+      "title": [
+        "Transforming astronomical research through Large Language Models"
+      ],
+      "sme_judgements": 3,
+      "notes": "",
+      "claude_score": 3,
+      "claude_explanation": "This result is highly relevant as it discusses the transformative impact of large language models in astrophysics, including the development of specialized LLMs for astronomy and their potential for augmenting scientific inquiry.",
+      "gemini_score": null,
+      "gemini_explanation": null,
+      "deepseek_score": 3,
+      "deepseek_explanation": "Highly relevant discussion of domain-specific LLMs (AstroLLaMA) using ADS data, embedding analysis, and AI-augmented discovery.",
+      "consensus_score": 3,
+      "consensus_explanation": "Highly relevant as it discusses the impact of large language models in astrophysics and the development of specialized LLMs like AstroLLaMA, which is directly related to the NASA SciX experiment."
+    },
+    {
+      "bibcode": "2025AAS...24544204B",
+      "abstract": "For decades, the Astrophysics Data System (ADS) has been a critical tool for astrophysics research, enabling scientists to discover and access vast bodies of literature and data. Now, with the launch of the Science Explorer (SciX), the platform is evolving to meet the interdisciplinary demands of NASA's Science Mission Directorate. SciX, built on ADS's robust foundation, has rapidly expanded its scope to integrate resources from Astrophysics, Heliophysics, Planetary Science, Earth Science, and Biological &amp; Physical Sciences, creating a unified hub for literature, data, and software discovery. <P />This presentation will highlight the remarkable growth of SciX since its \u03b2 launch at AGU 2023. Leveraging cutting-edge technologies such as AI, machine learning, and large language models, SciX is enhancing the platform's ability to support the diverse needs of researchers across multiple scientific disciplines. Attendees will learn how the platform's advanced bibliometric visualizations, semantic search capabilities, and personalized discovery tools are transforming the way scientists interact with data and research outputs. <P />In addition, we will share insights from the ADS/SciX team's engagement with the astrophysics community and how this feedback has guided ongoing platform enhancements. These efforts ensure that ADS remains a cutting-edge resource for future generations of researchers while adapting to the changing landscape of interdisciplinary research. <P />SciX is fully aligned with the principles of FAIR (Findable, Accessible, Interoperable, Reusable) and Open Science, empowering researchers to manage and share their publications, data, and software within an open, user-centric platform. The session will also spotlight the SciX Ambassador Program, which is fostering a global network of advocates committed to promoting open science and cross-disciplinary collaboration. Together, ADS and SciX are not only expanding the boundaries of research discovery but also driving NASA's mission to enhance our understanding of the universe and our planet.",
+      "title": [
+        "ADS and SciX: Pioneering the Next Generation of Interdisciplinary Research Discovery"
+      ],
+      "sme_judgements": 2,
+      "notes": "It describes ADS from a more up-to-date angle including NLP, etc",
+      "claude_score": 2,
+      "claude_explanation": "This result discusses the expansion of the NASA ADS into the Science Explorer (SciX) platform and its use of cutting-edge technologies such as AI, machine learning, and large language models, which is relevant to the main paper's topic.",
+      "gemini_score": null,
+      "gemini_explanation": null,
+      "deepseek_score": 2,
+      "deepseek_explanation": "Mentions SciX's use of semantic search/LLMs but focuses on platform expansion rather than technical implementation details.",
+      "consensus_score": 1,
+      "consensus_explanation": "Tangentially relevant as it discusses general language model capabilities, but does not specifically address the technical aspects of the NASA SciX experiment."
+    },
+    {
+      "bibcode": "2024AAS...24410702B",
+      "abstract": "Through the mid-20th century, numerous observatories had their own outlets for disseminating their research and administrative information. Publications of the Yerkes Observatory, of the Washburn Observatory, of the Lick Observatory, of the Michigan Observatory along with the Lowell Observatory Bulletin are examples available through NASA ADS. Astronomers reported their work in observatory periodicals and reviewed journals. These historic records contain foundational work that remains relevant today, observational data of unrepeatable sky views, and evidence of the evolving culture of astronomy. As the digital astronomy library, ADS indexes, links to, and, when allowed, hosts scanned versions of historic observatory publications so that the whole community may find and access their contents. Originally, we prioritized scanning observatory publications with complete runs available. While ADS estimates our historic astronomy collection is over 80% complete, you may have something we are missing. If so, please help us ensure the whole literature of astronomy is freely accessible to everyone. <P />For ADS to accept historic material for scanning, it must be relevant to our mission and currently unavailable online. We also need copyright permission to provide the full-text of scanned documents. <P />Because ADS scanning is usually destructive, your institution may prefer to scan materials in-house and submit the files for inclusion. If so, the proposed material must meet our relevancy and technical standards. <P />Although digitizing historic documents makes their contents more findable and accessible, it does not eliminate the need to retain physical reference copies. In some situations, a researcher may need to review the original. Also, improvements in scanning technology may warrant re-scanning some items. <P />ADS is expanding to serve planetary science, heliophysics, and earth science under the broader name, NASA Science Explorer (SciX). However, NASA SciX retains its commitment to serving its core astronomy and astrophysics communities, including access to this historic literature. Including more scientific disciplines in this key resource will enable greater multidisciplinary discovery and investigations.",
+      "title": [
+        "Historic Observatory Publications in the NASA Astrophysics Data System"
+      ],
+      "sme_judgements": 0,
+      "notes": "",
+      "claude_score": 1,
+      "claude_explanation": "This result discusses the inclusion of historic observatory publications in the NASA ADS but does not mention the experiment with large language models and vector embeddings.",
+      "gemini_score": null,
+      "gemini_explanation": null,
+      "deepseek_score": 0,
+      "deepseek_explanation": "Focuses on historic document preservation without any relevance to LLMs or retrieval augmentation.",
+      "consensus_score": 2,
+      "consensus_explanation": "Relevant for discussing the use of language models in scientific literature search and information retrieval, but does not directly focus on RAG systems or the NASA SciX experiment."
+    },
+    {
+      "bibcode": "2024zndo..10738296V",
+      "abstract": "This repository contains a compilation of Python-based notebooks that will allow the user to search the NASA ADS archive for individuals publications in order to enable the identification of researcher expertises. The search tool is customizable, enabling single name searches as well as single institutions. A GUI for easy access is also available as well as a Large Language Model option for an advance text analysis (both features are still in development).",
+      "title": [
+        "Reviewer Extractor"
+      ],
+      "sme_judgements": 0,
+      "notes": "",
+      "claude_score": 1,
+      "claude_explanation": "This result is tangentially relevant as it mentions a tool for searching the NASA ADS archive for researcher expertise, but it does not discuss the experiment with large language models and vector embeddings.",
+      "gemini_score": null,
+      "gemini_explanation": null,
+      "deepseek_score": 0,
+      "deepseek_explanation": "Tool for reviewer identification unrelated to SciX's RAG experiments or LLM-based information retrieval.",
+      "consensus_score": 1,
+      "consensus_explanation": "Only tangentially relevant as it discusses general natural language processing techniques, but not specifically in the context of retrieval-augmented generation or the NASA SciX experiment."
+    },
+    {
+      "bibcode": "2015ASPC..492..189A",
+      "abstract": "Four years after the last LISA meeting, the NASA Astrophysics Data System (ADS) finds itself in the middle of major changes to the infrastructure and contents of its database. In this paper we highlight a number of features of great importance to librarians and discuss the additional functionality that we are currently developing. Our citation coverage has doubled since 2010 and now consists of over 70 million citations. We are normalizing the affiliation information in our records and we have started collecting and linking funding sources with papers in our system. At the same time, we are undergoing major technology changes in the ADS platform. We have rolled out and are now enhancing a new high-performance search engine capable of performing full-text as well as metadata searches using an intuitive query language. We are currently able to index acknowledgments, affiliations, citations, and funding sources. While this effort is still ongoing, some of its benefits are already available through the ADS Labs user interface and API at http://adslabs.org/adsabs/.",
+      "title": [
+        "ADS: The Next Generation Search Platform"
+      ],
+      "sme_judgements": null,
+      "notes": null,
+      "claude_score": 1,
+      "claude_explanation": "This result discusses the next generation search platform for the NASA ADS but does not mention the experiment with large language models and vector embeddings.",
+      "gemini_score": null,
+      "gemini_explanation": null,
+      "deepseek_score": 1,
+      "deepseek_explanation": "Discusses search engine improvements but lacks LLM/RAG components. Only tangential through ADS context.",
+      "consensus_score": null,
+      "consensus_explanation": null
+    },
+    {
+      "bibcode": "1997AGAb...13..149E",
+      "abstract": "The NASA Astrophysics Data System provides access to about 1 million abstracts and 50,000 journal articles. This service is funded by NASA and is accessible world-wide through the World Wide Web free without restrictions at: http://adswww.harvard.edu The ADS abstract service allows the searching of a database of abstracts. The abstracts can be searched through a sophisticated search engine by author, astronomical object, title, and text. Various logical combinations of the search terms can be selected. Search results can be filtered by journal, publication date, and other criteria. The search returns a list of references with titles, author lists, and scores that indicate how closely the reference matches the query. The returned references also include hyperlinks to other information where available (e.g. abstracts, full journal articles, data tables, electronic on-line publications, references, citations, lists of astronomical objects, etc.) The ADS article service provides access to full journal articles for all major and many smaller journals. We scan the journals that give us permission at a resolution of 600 dpi. The scans can then be retrieved either for viewing on-screen in gif format, or for printing in Postscript or PCL format. We currently have articles back to 1975 on-line. We plan to eventually scan most of the historical astronomical literature as well. We have recently included the preprints from the Los Alamos preprint server. they are available in a separate database through the same search engine as the other abstracts. Preprints are kept on-line for 6 months. The American Astronomical Society has purchased citation information for 100,000 articles from the Institute for Scientific Information (ISI). This allows us to include links to lists of references and citations in our results page for articles in this set. In order to improve access times for non-US users, we are mirroring the abstract service. We currently have mirrors at the CDS in Strasbourg, France, and at NAO in Tokyo, Japan. Both mirrors can be found from our main page. The mirror site in Japan also mirrors the article service. We are looking for other mirror sites, in particular a site in Germany. Another new feature is the Table of Contents query page. It allows our users to retrieve either the latest volume they they have not read or the latest published volume for a number of journals, depending on the user preference settings. The preferences are maintained on a per-user basis through the use of WWW cookies. These preferences can be used to customize the ADS and its features.",
+      "title": [
+        "NASA's Astrophysics Data System: new abstract service and article service features."
+      ],
+      "sme_judgements": null,
+      "notes": null,
+      "claude_score": 1,
+      "claude_explanation": "This result discusses new features of the NASA ADS abstract and article services but does not mention the experiment with large language models and vector embeddings.",
+      "gemini_score": null,
+      "gemini_explanation": null,
+      "deepseek_score": 1,
+      "deepseek_explanation": "Describes legacy search features without AI/LLM elements. Historical context only.",
+      "consensus_score": null,
+      "consensus_explanation": null
+    },
+    {
+      "bibcode": "2022arXiv221200744G",
+      "abstract": "The NASA Astrophysics Data System (ADS) is an essential tool for researchers that allows them to explore the astronomy and astrophysics scientific literature, but it has yet to exploit recent advances in natural language processing. At ADASS 2021, we introduced astroBERT, a machine learning language model tailored to the text used in astronomy papers in ADS. In this work we: - announce the first public release of the astroBERT language model; - show how astroBERT improves over existing public language models on astrophysics specific tasks; - and detail how ADS plans to harness the unique structure of scientific papers, the citation graph and citation context, to further improve astroBERT.",
+      "title": [
+        "Improving astroBERT using Semantic Textual Similarity"
+      ],
+      "sme_judgements": null,
+      "notes": null,
+      "claude_score": 2,
+      "claude_explanation": "This result is relevant as it discusses the improvement of astroBERT, a language model for astronomy and astrophysics, using semantic textual similarity techniques, which is related to the main paper's topic of using large language models and vector embeddings for information retrieval.",
+      "gemini_score": null,
+      "gemini_explanation": null,
+      "deepseek_score": 2,
+      "deepseek_explanation": "Relevant through astroBERT improvements and semantic similarity, but focuses on model optimization rather than RAG systems.",
+      "consensus_score": null,
+      "consensus_explanation": null
+    },
+    {
+      "bibcode": "2009astro2010P..28K",
+      "abstract": "Eight years after the ADS first appeared the last decadal survey wrote: \"NASA's initiative for the Astrophysics Data System has vastly increased the accessibility of the scientific literature for astronomers. NASA deserves credit for this valuable initiative and is urged to continue it.\" Here we summarize some of the changes concerning the ADS which have occurred in the past ten years, and we describe the current status of the ADS. We then point out two areas where the ADS is building an improved capability which could benefit from a policy statement of support in the ASTRO2010 report. These are: The Semantic Interlinking of Astronomy Observations and Datasets and The Indexing of the Full Text of Astronomy Research Publications.",
+      "title": [
+        "The Smithsonian/NASA Astrophysics Data System (ADS) Decennial Report"
+      ],
+      "sme_judgements": null,
+      "notes": null,
+      "claude_score": 1,
+      "claude_explanation": "This result provides a decennial report on the NASA ADS but does not discuss the experiment with large language models and vector embeddings.",
+      "gemini_score": null,
+      "gemini_explanation": null,
+      "deepseek_score": 1,
+      "deepseek_explanation": "Policy-focused report without technical details on LLMs or retrieval augmentation methods.",
+      "consensus_score": null,
+      "consensus_explanation": null
+    },
+    {
+      "bibcode": "1993ASPC...52..132K",
+      "abstract": "In collaboration with the NASA Scientific and Technical Information System, the NASA Astrophysics Data System (ADS) is establishing a service to provide access to the literature abstracts relevant to astronomy in the NASA Scientific and Technical Aerospace Reports and the International Aerospace Abstracts (together also known as NASA RECON). The service will include several sophisticated retrieval methods, which may be combined. Included will be methods to perform relevancy ranking from natural language queries, synonym and misspelling recognition, author name translation (e.g., for multiple transliteration possibilities) and other features. The capabilities of the current release are shown, and the plans for the near future are discussed.",
+      "title": [
+        "Intelligent Text Retrieval in the NASA Astrophysics Data System"
+      ],
+      "sme_judgements": null,
+      "notes": null,
+      "claude_score": 1,
+      "claude_explanation": "This result discusses intelligent text retrieval in the NASA ADS but does not mention the experiment with large language models and vector embeddings.",
+      "gemini_score": null,
+      "gemini_explanation": null,
+      "deepseek_score": 1,
+      "deepseek_explanation": "Discusses pre-LLM retrieval techniques (1990s methods), not relevant to modern RAG approaches.",
+      "consensus_score": null,
+      "consensus_explanation": null
+    },
+    {
+      "bibcode": "2025arXiv250409207I",
+      "abstract": "Finding relevant tables among databases, lakes, and repositories is the first step in extracting value from data. Such a task remains difficult because assessing whether a table is relevant to a problem does not always depend only on its content but also on the context, which is usually tribal knowledge known to the individual or team. While tools like data catalogs and academic data discovery systems target this problem, they rely on keyword search or more complex interfaces, limiting non-technical users' ability to find relevant data. The advent of large language models (LLMs) offers a unique opportunity for users to ask questions directly in natural language, making dataset discovery more intuitive, accessible, and efficient. In this paper, we introduce Pneuma, a retrieval-augmented generation (RAG) system designed to efficiently and effectively discover tabular data. Pneuma leverages large language models (LLMs) for both table representation and table retrieval. For table representation, Pneuma preserves schema and row-level information to ensure comprehensive data understanding. For table retrieval, Pneuma augments LLMs with traditional information retrieval techniques, such as full-text and vector search, harnessing the strengths of both to improve retrieval performance. To evaluate Pneuma, we generate comprehensive benchmarks that simulate table discovery workload on six real-world datasets including enterprise data, scientific databases, warehousing data, and open data. Our results demonstrate that Pneuma outperforms widely used table search systems (such as full-text search and state-of-the-art RAG systems) in accuracy and resource efficiency.",
+      "title": [
+        "Pneuma: Leveraging LLMs for Tabular Data Representation and Retrieval in an End-to-End System"
+      ],
+      "sme_judgements": null,
+      "notes": null,
+      "claude_score": 1,
+      "claude_explanation": "This result discusses a system called Pneuma for tabular data representation and retrieval using large language models, which is tangentially relevant to the main paper's topic but does not specifically discuss the experiment conducted at NASA SciX.",
+      "gemini_score": null,
+      "gemini_explanation": null,
+      "deepseek_score": 2,
+      "deepseek_explanation": "Methodologically similar RAG system for tabular data, but application domain differs from SciX's literature focus.",
+      "consensus_score": null,
+      "consensus_explanation": null
+    },
+    {
+      "bibcode": "2022AAS...24024002B",
+      "abstract": "What publications mention a given observatory? How many refer to a concrete telescope or instrument? Quickly answering these questions can boost the efficiency of astronomers, librarians, and administrative personnel when writing reports, applying for new funds, or collecting institutional statistics. The NASA Astrophysics Data System (ADS) has more than 16 million bibliographic records for which it has indexed the full-text content of more than 6 million scientific articles (more than 1.3 million of which correspond to astronomical publications). In this ocean of data, the NASA ADS allows users to quickly string match words and sentences against the indexed full-text content but this does not solve the word sense disambiguation problem (e.g., \"Planck\" can refer to the person, the mission, the constant or several institutions). The NASA ADS is preparing a dataset of manually tagged entities which is being used to train Deep Learning models to automatically recognize and disambiguate facilities. This poster details our efforts and lessons learned in our adventure to improve the NASA ADS search capabilities using Deep Learning techniques.",
+      "title": [
+        "Automatically detecting facilities in the scientific literature using Deep Learning techniques"
+      ],
+      "sme_judgements": null,
+      "notes": null,
+      "claude_score": 2,
+      "claude_explanation": "This result is relevant as it discusses the use of deep learning techniques for automatically detecting facilities in the scientific literature indexed by the NASA ADS, which is related to the main paper's topic of using large language models and vector embeddings for information retrieval.",
+      "gemini_score": null,
+      "gemini_explanation": null,
+      "deepseek_score": 2,
+      "deepseek_explanation": "Relevant through deep learning for entity disambiguation but narrower scope than main paper's retrieval augmentation.",
+      "consensus_score": null,
+      "consensus_explanation": null
+    },
+    {
+      "bibcode": "2024arXiv241003342V",
+      "abstract": "We calculate the 2024 impact factors for the 38 most widely used journals in Astrophysics, using the citations collated by NASA/ADS (Astrophysics Data System) and compare them to the official impact factors. This includes journals which publish papers outside of astrophysics such as PRD, EPJC, Nature, etc. We also propose a new metric to gauge the impact factor based on the median number of citations in a journal and calculate the same for all the journals. We find that the ADS-based impact factors are mostly in agreement, albeit higher than the official impact factors for most journals. The journals with the maximum fractional difference in median-based and old impact factors are JHEAP and PTEP. We find the maximum difference between the ADS and official impact factor for Nature.",
+      "title": [
+        "A meta-analysis of impact factors of astrophysics journals"
+      ],
+      "sme_judgements": null,
+      "notes": null,
+      "claude_score": 1,
+      "claude_explanation": "This result discusses a meta-analysis of impact factors of astrophysics journals using data from the NASA ADS, which is tangentially relevant but does not discuss the experiment with large language models and vector embeddings.",
+      "gemini_score": null,
+      "gemini_explanation": null,
+      "deepseek_score": 0,
+      "deepseek_explanation": "Unrelated bibliometric analysis without technical relevance to LLMs or information retrieval.",
+      "consensus_score": null,
+      "consensus_explanation": null
+    },
+    {
+      "bibcode": "2023AGUFMSH33C3072G",
+      "abstract": "The new NASA Science Explorer (SciX) is a literature-based, open digital information system covering and unifying the fields of Astrophysics, Planetary Science, Heliophysics, and Earth Science. Built on the success of the NASA Astrophysics Data System (ADS), SciX provides significant expansion of content into earth sciences while leveraging the infrastructure of ADS which enables cross-linking between the published literature and preprints, data products, and software packages. We have so far indexed NASA's PubSpace, hundreds of Earth Science journals, preprints, meeting abstracts, theses and other gray literature and are continually expanding our coverage of citations and full text to improve search and discoverability. SciX is freely available and actively seeking collaborations within the earth and space science community.",
+      "title": [
+        "The NASA Science Explorer (SciX) as a Platform for Open Science"
+      ],
+      "sme_judgements": null,
+      "notes": null,
+      "claude_score": 2,
+      "claude_explanation": "This result is relevant as it discusses the NASA Science Explorer (SciX) as a platform for open science, which is the project mentioned in the main paper where the experiment with large language models and vector embeddings was conducted.",
+      "gemini_score": null,
+      "gemini_explanation": null,
+      "deepseek_score": 1,
+      "deepseek_explanation": "Mentions SciX platform expansion but lacks details on LLM experiments or technical implementation.",
+      "consensus_score": null,
+      "consensus_explanation": null
+    },
+    {
+      "bibcode": "2023AAS...24117737A",
+      "abstract": "The NASA Astrophysics Data System (ADS) has been developing Natural Language Processing tools and datasets to further enhance its data holdings and services. To support broad community participation in these efforts, we have recently released the astroBERT astronomy specific language model, and the first version of the Detecting Entities in the Astrophysics Literature dataset. Other ongoing machine learning efforts at ADS that build upon these tools include leveraging well defined taxonomies, such as the Unified Astrophysical Thesaurus and the USGS/IAU Gazetteer of Planetary Nomenclature, to enhance the search and discovery of astrophysical concepts and planetary features. These new tools, and more that will build upon them, will both provide a richer user experience and allow internal processes to be scaled-up. One mode of disseminating these tools to the public was through the first Workshop on Information Extraction from Scientific Publications, held in November 2022. Along with submitted papers and talks, several teams competed to build their own Named Entity Recognition systems to compare against astroBERT. With our experience in conducting challenges such as these, we foresee using further challenges to grow awareness of our efforts and to gain valuable feedback from the larger astronomy and machine learning communities.",
+      "title": [
+        "ADS Machine Learning and Deep Learning Efforts"
+      ],
+      "sme_judgements": null,
+      "notes": null,
+      "claude_score": 2,
+      "claude_explanation": "This result discusses the machine learning and deep learning efforts at the NASA ADS, including the development of astroBERT and other tools, which is relevant to the main paper's topic of using large language models and vector embeddings for information retrieval.",
+      "gemini_score": null,
+      "gemini_explanation": null,
+      "deepseek_score": 2,
+      "deepseek_explanation": "Relevant through NLP/ML efforts and astroBERT, but focuses on entity recognition rather than RAG systems.",
+      "consensus_score": null,
+      "consensus_explanation": null
+    }
+  ]
+}

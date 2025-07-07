@@ -1,0 +1,63 @@
+
+
+```json
+{
+    "individual_scores": {
+        "1": {
+            "score": 3,
+            "explanation": "Directly addresses distinguishing IMBHs from ULXs in dwarf galaxies using photoionization models, metallicity effects, and emission line diagnostics (He II, [O I])—closely aligned with the main paper's focus on ULX contamination and optical/mid-IR diagnostics."
+        },
+        "2": {
+            "score": 2,
+            "explanation": "Focuses on high-z AGN with JWST and BH mass relations but does not address ULX contamination or metallicity-dependent diagnostics. Relevant to IMBH demographics but tangential to the main paper's focus on distinguishing ULXs."
+        },
+        "3": {
+            "score": 3,
+            "explanation": "Presents photoionization simulations for IMBHs in dwarfs, emphasizing optical and mid-IR diagnostics ([O III]/Hβ, [O IV]). Methodology and goals (diagnostic diagrams) mirror the main paper's approach."
+        },
+        "4": {
+            "score": 2,
+            "explanation": "Identifies IMBHs in galaxy nuclei but does not address ULX contamination or photoionization models. Focuses on sample validation rather than diagnostic challenges."
+        },
+        "5": {
+            "score": 1,
+            "explanation": "Discusses IMBH signatures in AGN discs (X-ray, LINER-like lines) but lacks focus on dwarf galaxies, ULX contamination, or emission line diagnostics. Methodologically divergent."
+        },
+        "6": {
+            "score": 2,
+            "explanation": "Searches for IMBHs in Green pea galaxies using broad Hα and BPT diagrams but lacks detailed analysis of ULX contamination or photoionization models. Relevant but not methodologically aligned."
+        },
+        "7": {
+            "score": 1,
+            "explanation": "Examines BH scaling relations in ω Centauri but focuses on BH-host galaxy mass correlations, not emission line diagnostics or ULX interference. Tangential to the main paper."
+        },
+        "8": {
+            "score": 3,
+            "explanation": "Tests IMBH selection diagnostics using photoionization models with XRB contamination, JWST applications, and Chandra data. Directly parallels the main paper's methodology and goals."
+        },
+        "9": {
+            "score": 3,
+            "explanation": "Analyzes high-ionization lines in a dwarf galaxy with JWST, comparing IMBH and stellar models. Closely aligns with the main paper's focus on distinguishing ionization sources in low-metallicity environments."
+        },
+        "10": {
+            "score": 1,
+            "explanation": "Census of ULXs in local galaxies but does not address IMBH diagnostics or photoionization models. Provides ULX context but no methodological overlap."
+        }
+    },
+    "overall_analysis": {
+        "strengths": [
+            "Results 1, 3, 8, and 9 directly address the main paper's core focus on emission line diagnostics, ULX contamination, and photoionization models.",
+            "Strong alignment with studies using JWST and Chandra data to validate diagnostics."
+        ],
+        "weaknesses": [
+            "Several results (5, 7, 10) focus on tangential topics (dynamical signatures, ULX demographics) without linking to diagnostic challenges.",
+            "Limited discussion of mid-IR diagnostics in some relevant papers (e.g., Result 6)."
+        ],
+        "suggestions": [
+            "Prioritize studies that explicitly model emission line diagnostics in metal-poor environments and compare IMBH vs. ULX contributions.",
+            "Include more work on mid-IR diagnostics (e.g., [O IV], [Ar II]) for JWST applications.",
+            "Explore papers discussing systematic biases in combining multi-wavelength data (X-ray, optical, IR) for IMBH identification."
+        ]
+    }
+}
+```

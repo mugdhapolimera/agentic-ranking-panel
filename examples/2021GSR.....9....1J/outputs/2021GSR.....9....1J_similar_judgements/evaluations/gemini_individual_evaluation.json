@@ -1,0 +1,102 @@
+{
+  "individual_scores": {
+    "1": {
+      "score": 1,
+      "explanation": "This result is somewhat relevant as it discusses granular dynamics and low-energy impacts in microgravity, which are related to the main paper's focus on regolith behavior. However, it doesn't specifically address the adhesive properties or mass transfer events in the same way, making it tangential."
+    },
+    "2": {
+      "score": 1,
+      "explanation": "This result touches upon similar themes of low-energy collisions, regolith, and microgravity environments, connecting it to the main paper. The experiments involving COLLIDE and PRIME are relevant. However, the main focus seems to be on planetesimal formation, making it less directly relevant to the adhesive response of regolith."
+    },
+    "3": {
+      "score": 1,
+      "explanation": "This result is relevant because it deals with low-velocity collisions, microgravity environments, and mass transfer, which are all key aspects of the main paper. The mention of COLLIDE and PRIME experiments further strengthens the connection. However, it focuses on mass transfer via rebound, making it a slightly different aspect of the overall regolith adhesion topic."
+    },
+    "4": {
+      "score": 1,
+      "explanation": "This result is relevant as it directly discusses regolith behavior and low-velocity impact experiments, including the PRIME and COLLIDE experiments mentioned in the main paper. The focus on asteroid-level gravity conditions is also pertinent. However, it doesn't explicitly address the adhesive response or mass transfer, making it less directly aligned."
+    },
+    "5": {
+      "score": 1,
+      "explanation": "This result is relevant due to its discussion of low-velocity impacts, regolith, and mass transfer, aligning with the main paper's core themes. The mention of COLLIDE and PRIME experiments is a strong indicator. The inclusion of ground-based experiments also connects to the main paper's exploration of drop tower experiments. However, the emphasis on planet formation makes it slightly less focused on the adhesive response."
+    },
+    "6": {
+      "score": 1,
+      "explanation": "This result relates to the main paper through its exploration of dust aggregate impacts, mass transfer, and microgravity experiments. The drop tower setting is also relevant. However, the focus is on multiple impacts and the fragmentation threshold, which are different aspects of the broader topic, making it somewhat tangential."
+    },
+    "7": {
+      "score": 0,
+      "explanation": "This result focuses on collisions at significantly higher velocities (\u223c25 m/s) than the low-energy disturbances considered in the main paper. While it involves dust particles and impact experiments, the velocity range makes it less relevant to the adhesive response in low-energy collisions."
+    },
+    "8": {
+      "score": 1,
+      "explanation": "This result is relevant as it describes the PRIME experiment, which studies low-velocity impacts into regolith in microgravity, aligning with the main paper's experimental setup. The mention of ejecta production and coefficient of restitution is also related. However, it doesn't specifically address the adhesive response or mass transfer events, making it somewhat tangential."
+    },
+    "9": {
+      "score": 1,
+      "explanation": "This result describes impact experiments in a drop tower, which is relevant to the main paper's goal of replicating microgravity conditions. The focus on weak dust targets and planetesimal formation also connects to the broader context. However, the emphasis on mass loss and ejecta velocities makes it less directly related to the adhesive response."
+    },
+    "10": {
+      "score": 1,
+      "explanation": "This result is relevant due to its focus on low-velocity impacts in low gravity and the use of regolith simulants as targets. The discussion of ejecta production and velocities is also pertinent. However, the absence of any mention of mass transfer or adhesion makes it less directly connected to the main paper's core focus."
+    },
+    "11": {
+      "score": 0,
+      "explanation": "This result focuses on collisions between dust aggregates, not impacts of projectiles into regolith. The velocity range is also mostly below that of the main paper. While relevant to planetesimal formation in general, it lacks direct connection to the adhesive response of regolith to disturbances."
+    },
+    "12": {
+      "score": 1,
+      "explanation": "This result is relevant as it describes the COLLIDE experiment, which involves impacts into simulated regolith at low velocities in microgravity. The discussion of coefficients of restitution and ejecta is also related. However, it doesn't explicitly address the adhesive response or mass transfer, making it somewhat tangential."
+    },
+    "13": {
+      "score": 0,
+      "explanation": "This result focuses on comparing different simulation codes for low-velocity impacts into granular material. While the topic of low-velocity impacts is generally relevant, the emphasis on simulation methodology and code comparison makes it less directly related to the main paper's experimental focus on regolith adhesion."
+    },
+    "14": {
+      "score": 0,
+      "explanation": "This result focuses on collisions between decimeter-sized dust bodies. It's microgravity, but not quite what the main paper is investigating."
+    },
+    "15": {
+      "score": 0,
+      "explanation": "This result discusses the physics of collisions but it is not directly investigating the adhesive properties of regolith."
+    },
+    "16": {
+      "score": 0,
+      "explanation": "This result discusses the momentum transfer in regolith, not the adhesive properties."
+    },
+    "17": {
+      "score": 1,
+      "explanation": "This result is relevant as it describes the Collisions Into Dust Experiment (COLLIDE), a microgravity experiment to study the outcome of very low velocity collisions into a simulated regolith. However, it doesn't explicitly address the adhesive response or mass transfer, making it somewhat tangential."
+    },
+    "18": {
+      "score": 1,
+      "explanation": "This result is relevant as it discusses low velocity impacts on the regolith. However, it doesn't explicitly address the adhesive response or mass transfer, making it somewhat tangential."
+    },
+    "19": {
+      "score": 0,
+      "explanation": "This result discusses the impact of small fractal aggregates consisting of micrometer-sized dust particles onto solid targets. It isn't relevant to the adhesive properties of regolith."
+    },
+    "20": {
+      "score": 0,
+      "explanation": "This result describes low-energy impacts onto lunar regolith simulant, but does not address the adhesive properties of the regolith."
+    }
+  },
+  "overall_analysis": {
+    "strengths": [
+      "Many results address low-velocity impacts, a key aspect of the main paper.",
+      "Several results mention microgravity experiments, aligning with the main paper's experimental conditions.",
+      "Some results discuss regolith simulants, connecting to the main paper's target material.",
+      "Several results mention the COLLIDE and PRIME experiments, indicating a shared research context."
+    ],
+    "weaknesses": [
+      "Few results directly address the adhesive response or mass transfer events, the primary focus of the main paper.",
+      "Some results focus on planetesimal formation or ejecta production, which are related but not central to the main paper's topic.",
+      "Several results involve velocities outside of the range used in the main paper."
+    ],
+    "suggestions": [
+      "Refine search queries to include terms like 'adhesion', 'mass transfer', and 'rebound acceleration' to better target relevant results.",
+      "Filter results based on velocity ranges to ensure they align with the main paper's experimental conditions.",
+      "Prioritize results that explicitly investigate the factors influencing mass transfer events in low-energy collisions with regolith."
+    ]
+  }
+}

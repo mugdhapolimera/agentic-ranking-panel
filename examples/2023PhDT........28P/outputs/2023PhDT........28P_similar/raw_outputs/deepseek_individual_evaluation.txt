@@ -1,0 +1,64 @@
+
+
+```json
+{
+    "individual_scores": {
+        "1": {
+            "score": 3,
+            "explanation": "This paper directly aligns with the main paper's methodology, using the same RESOLVE/ECO surveys and a multi-diagnostic approach ([O III]/Hβ vs. [S II]/Hα and [O I]/Hα) to identify SF-AGN in low-metallicity dwarfs. It explicitly addresses the same challenge of missed AGN in traditional BPT diagnostics and reports similar AGN percentages (~3–16%)."
+        },
+        "2": {
+            "score": 3,
+            "explanation": "This is a companion paper to Result 1, expanding the multi-diagnostic AGN census in RESOLVE/ECO to include mid-IR data. It reinforces the main paper's findings on SF-AGN prevalence in dwarfs and provides complementary statistics (~5–8% combined AGN frequency). The focus on metallicity and SF-AGN properties matches the main paper’s themes."
+        },
+        "3": {
+            "score": 1,
+            "explanation": "While this paper identifies obscured AGN, it focuses on high-redshift galaxies (z ∼ 3–5) using JWST/MIRI data, differing from the main paper's z ∼ 0 dwarf galaxy focus and optical diagnostics. The methodology (mid-IR SEDs) and redshift regime make it tangential."
+        },
+        "4": {
+            "score": 2,
+            "explanation": "Relevant to AGN identification in dwarfs but focuses on WISE mid-IR color selection, which the main paper also critiques. The conclusion that WISE colors alone are unreliable for dwarfs supports the main paper’s argument for multi-diagnostic optical methods. However, it does not address SF-AGN or RESOLVE/ECO."
+        },
+        "5": {
+            "score": 3,
+            "explanation": "Directly extends the main paper’s work by applying the same multi-diagnostic scheme to RESOLVE. It identifies SF-AGN and reports similar AGN percentages (~5.2% in dwarfs), validating the methodology. The discussion of gas-rich dwarfs and follow-up confirmation aligns with the main paper’s goals."
+        },
+        "6": {
+            "score": 2,
+            "explanation": "Addresses AGN identification challenges in dwarfs but focuses on mid-IR color contamination by starbursts. While relevant to the main paper’s theme, it critiques WISE-based methods rather than supporting the optical multi-diagnostic approach. Highlights pitfalls the main paper’s method avoids."
+        },
+        "7": {
+            "score": 1,
+            "explanation": "Focuses on SED fitting with WISE data and AGN misclassification in star-forming galaxies. While related to AGN identification, it does not address dwarf galaxies, RESOLVE/ECO, or the multi-diagnostic approach. Limited relevance beyond general AGN classification."
+        },
+        "8": {
+            "score": 2,
+            "explanation": "Presents a unified AGN classification tool using WISE and SDSS colors. Though methodologically distinct from the main paper’s emission-line diagnostics, it shares the goal of improving AGN identification in diverse galaxies. The inclusion of passive galaxies makes it broader in scope."
+        },
+        "9": {
+            "score": 2,
+            "explanation": "Uses mid-IR variability to confirm AGN in dwarfs, a different methodology than the main paper’s optical diagnostics. However, it addresses the same population (low-mass, low-metallicity dwarfs) and validates AGN activity, offering complementary insights."
+        },
+        "10": {
+            "score": 2,
+            "explanation": "Identifies AGN via optical/mid-IR variability in dwarfs, a method orthogonal to the main paper’s approach. While relevant to AGN demographics in dwarfs, the focus on variability rather than emission-line diagnostics limits direct alignment. Highlights alternative techniques for AGN discovery."
+        }
+    },
+    "overall_analysis": {
+        "strengths": [
+            "Multiple papers (1, 2, 5) directly extend or validate the main paper’s methodology using RESOLVE/ECO data and multi-diagnostic approaches.",
+            "Results 4 and 6 provide critical context for the limitations of mid-IR methods, reinforcing the need for the main paper’s optical optimizations.",
+            "Results 9 and 10 highlight complementary AGN detection methods, broadening the perspective on dwarf AGN identification."
+        ],
+        "weaknesses": [
+            "Some results (3, 7) focus on high-redshift galaxies or general AGN classification, reducing relevance to the main paper’s z ∼ 0 dwarf focus.",
+            "Variability-based studies (9, 10) diverge methodologically from the main paper’s emission-line diagnostics."
+        ],
+        "suggestions": [
+            "Integrate multiwavelength data (e.g., WISE, X-ray) to cross-validate SF-AGN candidates from optical diagnostics.",
+            "Explore how compactness (mentioned in the main paper) correlates with AGN activity in SF-AGN using resolved spectroscopy.",
+            "Address the overlap/mismatch between optical SF-AGN and mid-IR AGN candidates in future work."
+        ]
+    }
+}
+```

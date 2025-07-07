@@ -1,0 +1,8 @@
+{
+  "correlations": {
+    "claude": 0.8989696318872458,
+    "deepseek": 1.0,
+    "consensus": 0.6238176023535313
+  },
+  "output_file": "examples/2023arXiv231214211B/outputs/2023arXiv231214211B_similar_judgements_llm_scored_results.json"
+}

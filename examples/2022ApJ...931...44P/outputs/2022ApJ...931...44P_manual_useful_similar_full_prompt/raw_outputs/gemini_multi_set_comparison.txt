@@ -1,0 +1,68 @@
+```json
+{
+    "set_analyses": {
+        "1": {
+            "strengths": [
+                "Includes papers on emission-line classification schemes relevant to AGN identification.",
+                "Contains papers discussing the properties of AGN host galaxies.",
+                "Presents research on the mass-metallicity relation in star-forming galaxies, which is related to the metallicity considerations in the main paper.",
+                "Includes papers on stellar population synthesis, useful for understanding galaxy properties and emission line origins.",
+                "Includes papers discussing the host galaxies and classification of active galactic nuclei"
+            ],
+            "weaknesses": [
+                "Some results are only tangentially related (e.g., stellar population synthesis at a specific resolution).",
+                "The result on massive dark objects is less directly relevant to the specific emission-line diagnostics used in the main paper.",
+                "No results directly mention the RESOLVE or ECO surveys.",
+                "Lacks a specific focus on dwarf AGN and low-metallicity environments."
+            ],
+            "summary": "Set 1 contains some relevant papers on AGN classification and host galaxy properties, but lacks focus on dwarf galaxies, low metallicity, and the specific surveys (RESOLVE/ECO) mentioned in the main paper. It includes some results that are only indirectly relevant."
+        },
+        "2": {
+            "strengths": [
+                "Directly addresses dwarf AGN and mentions the RESOLVE and ECO surveys.",
+                "Discusses alternative diagnostic diagrams, which is a key aspect of the main paper.",
+                "Includes a paper specifically on 'star-forming AGN' (SF-AGN), a key category identified in the main paper.",
+                "Covers emission-line ratios at high redshift, providing context for the evolution of AGN properties.",
+                "Includes a paper that focuses on alternative diagnostic diagrams and the 'forgotten' population of weak line galaxies in SDSS, relevant for completeness and identifying biases in AGN selection.",
+                "Includes paper discussing the excitation properties of z ~ 2.3 Star-forming Galaxies"
+            ],
+            "weaknesses": [
+                "Some results focus on high-redshift galaxies, which is less directly relevant to the z ~ 0 focus of the main paper.",
+                "Not all results explicitly focus on low-metallicity environments, although the connection is often implied."
+            ],
+            "summary": "Set 2 is highly relevant, directly addressing dwarf AGN in the RESOLVE/ECO surveys and discussing alternative diagnostic diagrams. It also includes results on SF-AGN, a key finding of the main paper. Some results are less directly relevant due to their focus on high-redshift galaxies, but overall, this set is strong."
+        },
+        "3": {
+            "strengths": [
+                "Strongest set, as it directly addresses the main paper's focus on low-metallicity dwarf AGN in the RESOLVE and ECO surveys.",
+                "Includes papers on modified emission-line classification schemes, comparing methods of finding dwarf AGN, and the abundance of dwarf AGN.",
+                "Features multiple papers directly related to the RESOLVE survey and the identification of SF-AGN.",
+                "Addresses AGN/star formation mixing fractions and efforts to detect low-metallicity AGN.",
+                "Discusses the environments of dwarf galaxies with optical AGN characteristics.",
+                "Includes paper reporting the first detection of low-metallicity AGN"
+            ],
+            "weaknesses": [
+                "Some results are preliminary or focus on methodological development rather than definitive findings.",
+                "There may be some overlap in content between different results (e.g., multiple papers discussing SF-AGN in RESOLVE/ECO)."
+            ],
+            "summary": "Set 3 is the most relevant and comprehensive, with multiple papers directly addressing the research question of the main paper. It focuses on low-metallicity dwarf AGN in the RESOLVE/ECO surveys, discusses modified classification schemes, and explores the properties and environments of these AGN. This set provides the most direct support and context for understanding the main paper."
+        }
+    },
+    "comparison": {
+        "best_set": 3,
+        "justification": "Set 3 is the best because it contains the highest concentration of papers directly relevant to the main paper's research question. For example, 'Finding Low-Metallicity Dwarf AGN Candidates at z 0 using the RESOLVE Survey' directly reflects the main paper's title and objective. Furthermore, 'Comparing Methods of Finding z 0 Dwarf AGN using the RESOLVE and ECO Surveys' and 'Surprisingly Abundant Dwarf AGN in the RESOLVE and ECO z 0 AGN Census' directly utilize the same surveys and address similar methodologies (emission-line diagnostics, alternative BPT plots, mid-IR colors). Set 3 also includes results on AGN/star formation mixing fractions and efforts to detect low-metallicity AGN using emission-line profiles which are all highly relevant. In contrast, Set 1 contains broader papers, and Set 2 contains a mix of relevant and less-relevant high redshift papers. Set 3 consistently focuses on the key aspects of the main paper: low-metallicity, dwarf AGN, emission-line diagnostics, and the RESOLVE/ECO surveys.",
+        "key_differences": [
+            "Set 3 has the most direct relevance to the main paper's specific research question.",
+            "Sets 1 and 2 include some results that are only tangentially related, while Set 3 is consistently focused.",
+            "Set 3 has the strongest coverage of the RESOLVE and ECO surveys.",
+            "Set 3 directly addresses the issue of SF-AGN, a key category in the main paper.",
+            "Set 1 lacks a specific focus on dwarf AGN and low-metallicity environments."
+        ],
+        "improvement_suggestions": [
+            "For Set 1, including more papers specifically focused on dwarf galaxies and low-metallicity environments would improve its relevance. Adding papers that mention the RESOLVE or ECO surveys would also be beneficial.",
+            "For Set 2, prioritizing results that are directly focused on z ~ 0 galaxies, rather than high-redshift galaxies, would increase its relevance to the main paper. More papers specifically addressing low-metallicity environments would also be beneficial.",
+            "For Set 3, while it is already the best set, ensuring that future searches minimize overlap between different results would be helpful."
+        ]
+    }
+}
+```

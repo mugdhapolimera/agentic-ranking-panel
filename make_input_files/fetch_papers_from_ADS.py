@@ -193,4 +193,17 @@ if __name__ == "__main__":
     print("\n=== Starting Papers File Creation ===")
     # Test fetching useful papers
     test_bibcode = "2022ApJ...931...44P"
-    create_papers_file(test_bibcode, operator="similar") 
+
+    bibcodes = [
+        "2022ApJ...931...44P",
+        "2015MNRAS.454.3722S",
+        "2025arXiv250507749R",
+        "2023PhDT........28P",
+        "2022ApJ...927..165R",
+        "2020AAS...23520720P",
+        "2013ApJ...775..116R",
+        "2013ApJ...774..100K",
+
+    ]
+    for bibcode in bibcodes:
+        create_papers_file(bibcode, operator="similar") 

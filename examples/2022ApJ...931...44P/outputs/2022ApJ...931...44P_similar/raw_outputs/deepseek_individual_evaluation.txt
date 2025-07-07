@@ -1,0 +1,65 @@
+
+
+```json
+{
+    "individual_scores": {
+        "1": {
+            "score": 2,
+            "explanation": "This paper focuses on theoretical models of emission-line evolution across cosmic time, including BPT diagrams. While relevant to emission-line diagnostics, it does not specifically address low-metallicity dwarf AGN or the SF-AGN category introduced in the main paper. The high-redshift focus and broad scope reduce direct alignment."
+        },
+        "2": {
+            "score": 3,
+            "explanation": "Directly references RESOLVE and ECO surveys, SF-AGN classification, and multi-diagnostic methods. Aligns closely with the main paper's goals, methodology, and datasets. This appears to be a related or follow-up study."
+        },
+        "3": {
+            "score": 2,
+            "explanation": "Examines emission-line diagrams at high redshift with JWST, including [O III]/Hβ vs. [S II]/Hα. While methodologically relevant, the focus on z > 1 galaxies and lack of low-z dwarf AGN discussion limits direct alignment."
+        },
+        "4": {
+            "score": 2,
+            "explanation": "Refines diagnostic classifications using spatially resolved data, relevant to improving AGN identification. However, the focus on general galaxy populations (not dwarfs) and lack of low-metallicity/SF-AGN context reduces specificity."
+        },
+        "5": {
+            "score": 2,
+            "explanation": "Uses JWST to study emission-line diagrams at high-z, including novel near-IR diagnostics. While methodologically related to line ratio analysis, the high-redshift focus and absence of dwarf AGN discussion weaken alignment."
+        },
+        "6": {
+            "score": 2,
+            "explanation": "Proposes alternative diagrams to classify weak-line galaxies, methodologically similar to the main paper's optimization approach. However, the focus on SDSS weak-line galaxies (not dwarfs) and lack of SF-AGN context limit direct relevance."
+        },
+        "7": {
+            "score": 1,
+            "explanation": "Studies narrow-line ratios in type 1 AGN using BPT diagrams but does not address dwarf galaxies, low-metallicity systems, or SF-AGN. Focuses on AGN-host relationships rather than classification improvements."
+        },
+        "8": {
+            "score": 1,
+            "explanation": "Discusses BPT diagram offsets in high-z galaxies but focuses on mass-dependent N/O ratios rather than AGN identification in dwarfs. Limited overlap with the main paper's low-z SF-AGN focus."
+        },
+        "9": {
+            "score": 1,
+            "explanation": "Examines AGN/shock influences in high-z galaxies using BPT diagrams. While addressing composite classifications, the high-redshift context and lack of low-metallicity/dwarf AGN focus reduce relevance."
+        },
+        "10": {
+            "score": 2,
+            "explanation": "Investigates BPT diagram offsets and metallicity effects in high-z galaxies, with methodological parallels. However, the focus on z ≈ 1.6 galaxies and absence of dwarf AGN/SF-AGN discussion limit alignment."
+        }
+    },
+    "overall_analysis": {
+        "strengths": [
+            "Multiple papers (e.g., Result 2) directly align with the main paper's use of RESOLVE/ECO surveys and SF-AGN classification.",
+            "Several results address emission-line diagnostic optimization, a core methodology of the main paper.",
+            "Broad coverage of AGN classification challenges and diagram evolution across redshifts."
+        ],
+        "weaknesses": [
+            "Many results focus on high-redshift galaxies rather than local dwarfs.",
+            "Limited discussion of low-metallicity systems or the SF-AGN category outside Result 2.",
+            "Some papers (e.g., Results 7, 9) prioritize AGN-host relationships over classification improvements."
+        ],
+        "suggestions": [
+            "Prioritize studies specifically analyzing low-metallicity dwarf galaxies or SF-AGN.",
+            "Include more papers using RESOLVE/ECO datasets or similar volume-limited surveys.",
+            "Focus on works addressing metallicity biases in AGN diagnostics for star-forming galaxies."
+        ]
+    }
+}
+```

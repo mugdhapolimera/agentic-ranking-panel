@@ -1,0 +1,64 @@
+
+
+```json
+{
+    "individual_scores": {
+        "1": {
+            "score": 3,
+            "explanation": "This result is highly relevant as it focuses on identifying AGN in low-mass galaxies using the BPT diagram and broad-line diagnostics, directly aligning with the main paper's methodology and objectives. The study also addresses BH masses in low-mass hosts, a key aspect of the main paper's investigation."
+        },
+        "2": {
+            "score": 3,
+            "explanation": "This study directly complements the main paper by using the He II λ4686 diagnostic to identify AGN in star-forming galaxies, which the main paper highlights as a method to overcome BPT limitations. The increase in AGN fraction and focus on low-mass hosts align closely with the main paper's goals."
+        },
+        "3": {
+            "score": 2,
+            "explanation": "While focused on AGN in low-mass galaxies, this study uses optical variability (ZTF) rather than the main paper’s optical/mid-IR diagnostics. The shared target population and AGN confirmation via spectra make it relevant, but methodological differences reduce alignment."
+        },
+        "4": {
+            "score": 2,
+            "explanation": "This result investigates BH-galaxy scaling relations in low-mass AGN hosts, which relates to the main paper’s broader context. However, it does not address AGN identification methods (BPT/He II/mid-IR), making it somewhat tangential to the main paper’s core methodology."
+        },
+        "5": {
+            "score": 3,
+            "explanation": "Highly relevant as it addresses challenges in distinguishing AGN from ULXs using emission-line diagnostics (including He II and [O I]), directly aligning with the main paper’s focus on improving AGN selection in low-mass, star-forming galaxies."
+        },
+        "6": {
+            "score": 2,
+            "explanation": "Relevant due to its focus on AGN in dwarfs using WISE mid-IR and X-ray validation, but it critiques mid-IR diagnostics' reliability in star-forming dwarfs. This aligns with the main paper’s discussion of selection biases but diverges methodologically by emphasizing X-ray follow-up."
+        },
+        "7": {
+            "score": 1,
+            "explanation": "Focuses on AGN-star formation correlations in local galaxies but does not specifically target low-mass systems or use the main paper’s diagnostics (BPT/He II/mid-IR). The tangential connection to AGN activity in star-forming hosts keeps it marginally relevant."
+        },
+        "8": {
+            "score": 3,
+            "explanation": "Highly relevant as it employs multi-diagnostic methods (BPT, coronal lines) to identify AGN in low-mass galaxies, aligning with the main paper’s approach. The extension to higher redshifts and deeper spectroscopy also parallels the main paper’s emphasis on completeness."
+        },
+        "9": {
+            "score": 1,
+            "explanation": "Primarily focuses on X-ray-selected AGN in a large survey, diverging from the main paper’s optical/mid-IR methods. While AGN selection is a shared theme, the lack of emphasis on low-mass galaxies and different diagnostics reduce relevance."
+        },
+        "10": {
+            "score": 3,
+            "explanation": "Directly aligns with the main paper by using He II diagnostics in MaNGA data to uncover AGN in star-forming galaxies, addressing BPT limitations. The focus on spatially resolved AGN in low-mass hosts and incompleteness corrections strengthens methodological alignment."
+        }
+    },
+    "overall_analysis": {
+        "strengths": [
+            "Multiple results (1, 2, 5, 8, 10) closely align with the main paper’s focus on AGN identification in low-mass galaxies using BPT, He II, and multi-diagnostic approaches.",
+            "Results 2 and 10 explicitly validate the utility of He II diagnostics in star-forming environments, reinforcing the main paper’s methodology.",
+            "Several studies (5, 6, 8) address selection biases and challenges in AGN identification, complementing the main paper’s discussion."
+        ],
+        "weaknesses": [
+            "Some results (3, 9) use divergent methodologies (variability, X-ray selection) that do not directly address the main paper’s optical/mid-IR focus.",
+            "A few studies (4, 7) focus on tangential aspects (scaling relations, AGN-star formation links) rather than AGN detection methods."
+        ],
+        "suggestions": [
+            "Include X-ray or radio follow-up data to validate AGN candidates identified via optical/mid-IR methods, as suggested by Results 6 and 9.",
+            "Explore variability-based AGN selection (as in Result 3) to complement traditional diagnostics and improve completeness.",
+            "Expand the discussion of BH-galaxy scaling relations (Result 4) to contextualize AGN demographics in low-mass hosts."
+        ]
+    }
+}
+```

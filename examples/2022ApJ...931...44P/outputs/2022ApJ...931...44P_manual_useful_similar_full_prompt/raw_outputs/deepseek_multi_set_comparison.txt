@@ -1,0 +1,59 @@
+
+
+```json
+{
+    "set_analyses": {
+        "1": {
+            "strengths": [
+                "Includes foundational papers on emission-line diagnostics (e.g., Results 2, 7, 10) and photoionization modeling (Result 6).",
+                "Discusses host galaxy properties (Result 3) and metallicity trends (Result 4), relevant to AGN environments.",
+                "Covers AGN classification schemes (Results 2, 7) and theoretical modeling of starbursts (Result 6)."
+            ],
+            "weaknesses": [
+                "Limited focus on low-metallicity dwarf AGN; most results target massive galaxies or general AGN populations.",
+                "Few papers address the main paper’s optimized [S II]/Hα and [O I]/Hα diagnostics; emphasis remains on BPT.",
+                "Tangential topics (e.g., stellar population synthesis in Result 1, Cloudy code updates in Result 9) reduce relevance."
+            ],
+            "summary": "Set 1 provides general context on AGN diagnostics and host properties but lacks specificity to low-metallicity dwarfs and the main paper’s multi-diagnostic methodology."
+        },
+        "2": {
+            "strengths": [
+                "Directly addresses multi-diagnostic AGN identification (Result 1, 4) and dwarf AGN (Result 10).",
+                "Explores alternative diagrams (Results 2, 4, 6) and redshift evolution of line ratios (Result 2, 3).",
+                "Includes spatially resolved spectroscopy (Result 5) and comparisons of AGN/star-formation mixing (Result 7)."
+            ],
+            "weaknesses": [
+                "Some papers focus on high-redshift galaxies (Results 3, 6, 8, 9), diverging from the main paper’s z~0 focus.",
+                "Less emphasis on RESOLVE/ECO surveys; limited discussion of SF-AGN as a distinct category.",
+                "Overlap with Set 3 (Result 1 in Set 2 = Result 3 in Set 3) reduces novelty."
+            ],
+            "summary": "Set 2 includes strong contributions on multi-wavelength AGN identification and dwarf AGN but is diluted by high-redshift studies and lacks full alignment with the main paper’s surveys."
+        },
+        "3": {
+            "strengths": [
+                "Directly uses RESOLVE/ECO surveys (Results 1-5), aligning with the main paper’s data sources.",
+                "Focuses on low-metallicity dwarf AGN (Results 1, 4, 7, 10) and SF-AGN classification (Results 1, 3, 4).",
+                "Explores Bayesian mixing fractions (Result 5) and emission-line profile fitting (Result 6) to refine AGN identification."
+            ],
+            "weaknesses": [
+                "Minor redundancy (e.g., Result 3 in Set 3 duplicates Result 1 in Set 2).",
+                "Limited discussion of mid-IR AGN confirmation (only briefly mentioned in Results 3, 4)."
+            ],
+            "summary": "Set 3 is highly relevant, with papers directly tied to the main paper’s methodology, surveys, and focus on optimizing diagnostics for low-metallicity dwarf AGN."
+    },
+    "comparison": {
+        "best_set": 3,
+        "justification": "Set 3 is the best because it directly aligns with the main paper’s use of the RESOLVE/ECO surveys, emphasizes multi-diagnostic classification (e.g., Results 1, 4), and identifies SF-AGN in low-metallicity dwarfs. For example, Result 1 introduces a modified scheme using [S II]/Hα and [O I]/Hα, mirroring the main paper’s approach. Result 4 quantifies AGN occupation fractions in dwarfs, while Result 5 applies Bayesian methods to resolve AGN/star-formation mixing. Set 3’s focus on z~0 dwarfs and the same surveys as the main paper makes it uniquely suited to validate and extend the main study’s conclusions.",
+        "key_differences": [
+            "Set 3 is survey-specific (RESOLVE/ECO), while Sets 1-2 use broader datasets.",
+            "Set 3 emphasizes SF-AGN and metallicity-sensitive diagnostics, whereas Sets 1-2 include generic AGN studies.",
+            "Set 2 includes high-redshift analyses, while Set 3 remains strictly low-z."
+        ],
+        "improvement_suggestions": [
+            "Set 1 could include papers on metallicity-dependent AGN diagnostics and RESOLVE/ECO data.",
+            "Set 2 would benefit from excluding high-z studies and adding more RESOLVE/ECO-focused results.",
+            "Both Sets 1 and 2 lack the SF-AGN classification specificity central to the main paper."
+        ]
+    }
+}
+```

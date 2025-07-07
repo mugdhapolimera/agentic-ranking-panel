@@ -1,0 +1,102 @@
+{
+  "individual_scores": {
+    "1": {
+      "score": 1,
+      "explanation": "This paper focuses on a Type Ia supernova and its nebular spectrum using JWST. While it uses JWST's NIRSpec and MIRI instruments (similar to the main paper), the subject matter (supernova vs. asteroid) and scientific goals (understanding supernova composition vs. asteroid characterization) are different. Therefore, it's somewhat relevant due to the shared instrumentation, but tangential to the main paper's focus on Didymos."
+    },
+    "2": {
+      "score": 3,
+      "explanation": "This paper directly discusses JWST observations of Didymos following the DART impact, which is the exact subject of the main paper. It describes the planned observations using NIRCam, NIRSpec, and MIRI, aligning perfectly with the main paper's use of JWST/NIRSpec and MIRI for characterizing Didymos after the impact. It is highly relevant."
+    },
+    "3": {
+      "score": 0,
+      "explanation": "This paper focuses on the hot Jupiter WASP-17b and its atmospheric water abundance using JWST/NIRISS. While JWST is used, the object (exoplanet vs. asteroid) and scientific goals (exoplanet atmosphere vs. asteroid surface composition) are entirely different, making it not relevant."
+    },
+    "4": {
+      "score": 1,
+      "explanation": "This paper discusses JWST observations of Supernova 2014C. While it uses JWST instruments (MIRI and NIRSpec) and explores spectral analysis, the subject matter (supernova vs. asteroid) is different. This paper is only tangentially related because of the shared use of JWST instruments."
+    },
+    "5": {
+      "score": 2,
+      "explanation": "This paper discusses the unusual brightness phase curve of Didymos and relates it to surface composition, connecting to the main paper's goal of characterizing Didymos. However, it uses data from LICIACube and ground-based observations rather than JWST spectroscopy. Therefore, it's relevant but not as strongly aligned methodologically as results using JWST spectroscopy."
+    },
+    "6": {
+      "score": 2,
+      "explanation": "This paper reports on the successful kinetic impact of the DART spacecraft into Dimorphos, setting the stage for the main paper's investigation of the impact's effects using JWST. While it doesn't directly use JWST data, it provides crucial context for the main paper's observations and the overall DART mission. Thus it's relevant and provides important background."
+    },
+    "7": {
+      "score": 0,
+      "explanation": "This paper focuses on comparing mid-infrared spectra of dark, primitive asteroids using Spitzer and SOFIA data. While it deals with asteroids and mid-infrared spectroscopy, it doesn't relate to Didymos or the DART mission, and it uses different telescopes. Therefore, it's not relevant."
+    },
+    "8": {
+      "score": 0,
+      "explanation": "This paper discusses the detection of quartz clouds in the atmosphere of the hot Jupiter HD 189733 b using JWST/MIRI. This is completely unrelated to the main paper's focus on asteroids and the DART mission. It is not relevant."
+    },
+    "9": {
+      "score": 0,
+      "explanation": "This paper discusses theoretical spectra, colors, and detectability of cool brown dwarfs. While it mentions JWST as a potential tool for characterization, the subject matter is brown dwarfs, not asteroids. It is not relevant."
+    },
+    "10": {
+      "score": 0,
+      "explanation": "This paper discusses dust processing in the PDS 70 disk using Spitzer and JWST/MIRI. The focus is on protoplanetary disks and dust mineralogy, not asteroids or the DART mission. It is not relevant."
+    },
+    "11": {
+      "score": 0,
+      "explanation": "This paper presents observations of Lucy's Trojan targets using JWST MIRI. While it mentions JWST and asteroids, it focuses on different asteroids (Jupiter Trojans) and the Lucy mission, not Didymos or the DART mission. It is not relevant."
+    },
+    "12": {
+      "score": 0,
+      "explanation": "This paper analyzes protoplanetary disks using JWST MIRI. The focus is on protoplanetary disks and their chemical composition, not asteroids or the DART mission. It is not relevant."
+    },
+    "13": {
+      "score": 2,
+      "explanation": "This paper presents near-infrared spectra of the Didymos system before and after the DART impact, which is highly relevant to the main paper. However, it focuses on near-infrared spectra obtained with a different telescope (TNG) rather than the mid-infrared spectra obtained by JWST in the main paper. Still, it is on the same object."
+    },
+    "14": {
+      "score": 0,
+      "explanation": "This paper discusses the protoplanetary disk around SY Cha using JWST/MIRI. The focus is on protoplanetary disks and their chemical composition, not asteroids or the DART mission. It is not relevant."
+    },
+    "15": {
+      "score": 2,
+      "explanation": "This paper discusses the pre-impact thermophysical properties and Yarkovsky effect of Didymos. While the main paper focuses on post-impact characterization using JWST, this paper provides valuable pre-impact context, helping to understand the changes caused by the DART impact. Though it doesn't use JWST data, it is focused on Didymos."
+    },
+    "16": {
+      "score": 0,
+      "explanation": "This paper investigates C-complex asteroids using Spitzer data. While it deals with asteroids and mid-infrared spectroscopy, it doesn't relate to Didymos or the DART mission. Therefore, it's not relevant."
+    },
+    "17": {
+      "score": 2,
+      "explanation": "This paper discusses boulder fracturing on Dimorphos, which is relevant to understanding the surface properties and impact effects on the DART target. It provides insight into the physical processes occurring on Dimorphos, which is the target of the main paper. However, it relies on spacecraft observations rather than the JWST spectroscopy used in the main paper."
+    },
+    "18": {
+      "score": 0,
+      "explanation": "This paper presents the JWST/NIRSpec spectrum of the dwarf planet Sedna. While it uses JWST, the subject is a dwarf planet (Sedna), not an asteroid (Didymos), and the research goals are different (characterizing Sedna's surface composition vs. understanding the impact effects on Didymos). It is not relevant."
+    },
+    "19": {
+      "score": 0,
+      "explanation": "This paper discusses a near-complete spectral energy distribution for the brown dwarf 2MASS J04151954-0935066 using JWST. The object is a brown dwarf and not related to Didymos."
+    },
+    "20": {
+      "score": 2,
+      "explanation": "This paper summarizes the achievements of the DART mission, including the orbital period change of Dimorphos and the momentum enhancement factor. While it doesn't focus on JWST observations, it provides context and summarizes the overall DART mission's success, directly supporting the main paper's investigation of the impact's effects. High keyword match."
+    }
+  },
+  "overall_analysis": {
+    "strengths": [
+      "Several results directly relate to the Didymos system and the DART mission.",
+      "Some results provide valuable pre-impact context for understanding the changes caused by the DART impact.",
+      "A few results utilize JWST instruments, although not always on the same target as the main paper."
+    ],
+    "weaknesses": [
+      "Many results focus on different astronomical objects (e.g., supernovae, exoplanets, brown dwarfs) and are therefore not relevant.",
+      "Some results use different telescopes and observational techniques than the main paper, reducing their direct relevance.",
+      "A few results provide general information about asteroids or the DART mission but lack a strong connection to the main paper's specific focus on JWST spectroscopic characterization."
+    ],
+    "suggestions": [
+      "Prioritize results that specifically discuss JWST observations of the Didymos system.",
+      "Focus on results that investigate the surface composition or thermophysical properties of Didymos or Dimorphos.",
+      "Consider results that provide valuable context about the DART mission or the Didymos system, even if they don't directly use JWST data.",
+      "Filter out results that focus on unrelated astronomical objects or use significantly different observational techniques."
+    ]
+  }
+}

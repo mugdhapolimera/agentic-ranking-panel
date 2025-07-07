@@ -1,0 +1,60 @@
+{
+  "individual_scores": {
+    "1": {
+      "score": 3,
+      "explanation": "Directly confronts theoretical predictions with observations of the BPT diagram's evolution, introduces a redshift-dependent classification line, and aligns with the main paper's focus on modeling optical line ratio evolution. Both address AGN/star-forming separation challenges at high-z."
+    },
+    "2": {
+      "score": 2,
+      "explanation": "Relevant for discussing BPT diagram limitations and selection effects at high-z, but focuses on empirical luminosity evolution rather than theoretical ISM/radiation field modeling. Less aligned with the main paper's hydrodynamic simulation approach."
+    },
+    "3": {
+      "score": 2,
+      "explanation": "Provides observational data on high-z galaxy line ratios and metallicity, relevant to the main paper's themes, but lacks theoretical modeling of line ratio evolution. Focuses on local analogs (e.g., M82) rather than cosmological predictions."
+    },
+    "4": {
+      "score": 3,
+      "explanation": "Highly relevant: Uses JWST grism data to test [O III]/H\u03b2 vs. [Ne III]/[O II] diagrams, directly comparing with MAPPINGS photoionization models. Aligns with the main paper's goal of predicting line ratio evolution for future surveys."
+    },
+    "5": {
+      "score": 1,
+      "explanation": "Focuses on low-z dwarf AGN diagnostics optimization, with limited relevance to the main paper's cosmic time evolution focus. Shared interest in metallicity-sensitive line ratios but different redshift regimes."
+    },
+    "6": {
+      "score": 2,
+      "explanation": "Examines metallicity indicators' redshift evolution and cautions against local BPT calibrations at high-z, which complements the main paper's discussion. However, focuses on MZR/FMR rather than theoretical line ratio predictions."
+    },
+    "7": {
+      "score": 3,
+      "explanation": "Highly relevant: Uses JWST/NIRCam WFSS to study line ratios up to z~9, compares with MAPPINGS/IllustrisTNG models, and discusses ionization trends. Directly supports the main paper's modeling context for JWST-era surveys."
+    },
+    "8": {
+      "score": 3,
+      "explanation": "Critical relevance: Observes BPT diagram offsets at z~2.3, attributes them to N/O abundance ratios, and validates O32+R23 as metallicity indicators. Matches the main paper's focus on metallicity-driven line ratio evolution."
+    },
+    "9": {
+      "score": 3,
+      "explanation": "Directly addresses BPT diagram offsets at z~1.6, links to ionization parameter/metallicity evolution, and uses photoionization models. Aligns with the main paper's ISM condition analysis across cosmic time."
+    },
+    "10": {
+      "score": 1,
+      "explanation": "Proposes novel AGN diagnostics using [O III]\u03bb4363, methodologically distinct from the main paper's BPT focus. Limited overlap beyond general AGN classification challenges."
+    }
+  },
+  "overall_analysis": {
+    "strengths": [
+      "Multiple results (1,4,7-9) provide direct observational/theoretical comparisons of BPT diagram evolution and metallicity effects, closely aligning with the main paper's goals.",
+      "Several studies (4,7,8) use JWST or HST data to validate models, supporting the main paper's context for future near-infrared surveys.",
+      "Consistent focus on ionization parameters and metallicity gradients across redshifts strengthens the main paper's narrative."
+    ],
+    "weaknesses": [
+      "Results 5 and 10 focus on niche diagnostics (low-z dwarfs/auroral lines) with limited relevance to the main paper's broad cosmic timeline.",
+      "Some papers (2,3,6) emphasize empirical relations over theoretical predictions, reducing methodological alignment."
+    ],
+    "suggestions": [
+      "Prioritize studies combining hydrodynamic simulations with multi-epoch JWST/NIRSpec data to strengthen theoretical evolution claims.",
+      "Include more comparisons to shock ionization models (mentioned in the main paper) in future literature reviews.",
+      "Expand discussion on nitrogen abundance evolution (as in Result 8) to contextualize BPT diagram offsets."
+    ]
+  }
+}

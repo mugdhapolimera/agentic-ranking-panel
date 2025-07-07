@@ -1,0 +1,86 @@
+
+
+```json
+{
+    "set_analyses": {
+        "1": {
+            "strengths": [
+                "Directly addresses the main paper's focus on RESOLVE/ECO surveys and SF-AGN classification.",
+                "Uses the same multi-diagnostic approach (S II, O I, and BPT diagrams) as the main paper.",
+                "Quantifies AGN percentages in dwarfs and discusses metallicity effects, aligning with the main paper's goals."
+            ],
+            "weaknesses": [
+                "Overlaps significantly with the main paper, potentially offering redundant information.",
+                "Limited discussion of broader implications beyond the RESOLVE/ECO surveys."
+            ],
+            "summary": "Highly relevant as it mirrors the main paper's methodology and results, providing direct validation of the SF-AGN classification and AGN percentages."
+        },
+        "2": {
+            "strengths": [
+                "Explores theoretical evolution of BPT diagrams, useful for contextualizing metallicity effects.",
+                "Discusses redshift-dependent changes in AGN-star-forming mixing sequences."
+            ],
+            "weaknesses": [
+                "Focuses on high-redshift galaxies, not low-metallicity z~0 dwarfs.",
+                "No direct connection to RESOLVE/ECO or SF-AGN."
+            ],
+            "summary": "Marginally relevant; provides theoretical background but lacks direct applicability to the main paper's focus."
+        },
+        "3": {
+            "strengths": [
+                "Tests emission-line diagnostics (e.g., OHNO diagram) at high redshift.",
+                "Highlights metallicity and ionization trends in star-forming galaxies."
+            ],
+            "weaknesses": [
+                "Targets z~1.5 galaxies, not local dwarfs.",
+                "Does not address SF-AGN or low-metallicity AGN in dwarfs."
+            ],
+            "summary": "Limited relevance; focuses on high-z diagnostics rather than z~0 dwarf AGN."
+        },
+        "4": {
+            "strengths": [
+                "Proposes alternative diagnostic diagrams for weak-line galaxies, relevant to improving AGN identification.",
+                "Addresses classification biases in SDSS data, similar to the main paper."
+            ],
+            "weaknesses": [
+                "Not specific to low-metallicity dwarfs or SF-AGN.",
+                "Focuses on LINERs/Seyferts rather than dwarf AGN."
+            ],
+            "summary": "Methodologically relevant but lacks direct focus on the main paper's dwarf AGN population."
+        },
+        "5": {
+            "strengths": [
+                "Uses spatially resolved kinematics to refine emission-line diagnostics.",
+                "Links AGN/LI(N)ER classification to dynamical properties."
+            ],
+            "weaknesses": [
+                "Focuses on general galaxy populations, not dwarfs or metallicity effects.",
+                "No mention of SF-AGN or RESOLVE/ECO."
+            ],
+            "summary": "Useful for methodology but tangential to the main paper's specific goals."
+        },
+        "6": {
+            "strengths": [
+                "Introduces near-IR diagnostics with JWST, expanding emission-line analysis.",
+                "Discusses metallicity and ionization conditions in high-z galaxies."
+            ],
+            "weaknesses": [
+                "Irrelevant to low-z dwarfs and optical diagnostics used in the main paper.",
+                "Focuses on future JWST applications, not current SDSS-based studies."
+            ],
+            "summary": "Minimally relevant; focuses on high-z and near-IR, not z~0 optical diagnostics."
+        },
+        "7": {
+            "strengths": [
+                "Analyzes narrow-line ratios in type 1 AGN, relevant to BPT classification biases.",
+                "Discusses host metallicity and mass-metallicity relations."
+            ],
+            "weaknesses": [
+                "Focuses on broad-line AGN, not dwarf galaxies or SF-AGN.",
+                "No connection to RESOLVE/ECO or low-metallicity dwarfs."
+            ],
+            "summary": "Partially relevant to AGN classification but not specific to the main paper's dwarf AGN focus."
+        },
+        "8": {
+            "strengths": [
+                "Investig

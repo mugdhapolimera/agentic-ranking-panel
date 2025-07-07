@@ -1,0 +1,102 @@
+
+
+```json
+{
+    "individual_scores": {
+        "1": {
+            "score": 3,
+            "explanation": "Directly addresses low-velocity collisions in microgravity, mass transfer events, and uses similar experimental methods (COLLIDE/PRIME). Aligns closely with the main paper's goals and methodology."
+        },
+        "2": {
+            "score": 3,
+            "explanation": "Focuses on COLLIDE/PRIME experiments, drop tower simulations, and mass transfer parameters. Directly overlaps with the main paper's objectives and experimental design."
+        },
+        "3": {
+            "score": 3,
+            "explanation": "Examines COLLIDE/PRIME data, rebound dynamics, and microgravity replication in drop towers. Closely mirrors the main paper's focus on mass transfer thresholds and environmental dependencies."
+        },
+        "4": {
+            "score": 3,
+            "explanation": "Analyzes PRIME/COLLIDE results across gravity levels, emphasizing rebound and ejecta in microgravity. Directly relevant to the main paper's investigation of gravity's role in mass transfer."
+        },
+        "5": {
+            "score": 3,
+            "explanation": "Complements the main paper by testing COLLIDE/PRIME findings in ground-based experiments, exploring regolith properties and microgravity comparisons. Highly aligned."
+        },
+        "6": {
+            "score": 2,
+            "explanation": "Studies mass transfer in protoplanetary dust at higher velocities (1.5–6.0 m/s). Partially relevant but diverges in velocity range and context."
+        },
+        "7": {
+            "score": 1,
+            "explanation": "Focuses on high-velocity collisions (up to 25 m/s) for planetesimal growth. Tangential to the main paper's low-energy focus."
+        },
+        "8": {
+            "score": 3,
+            "explanation": "Reports PRIME-3 campaign results on ejecta and coefficients of restitution in microgravity. Directly relevant to the main paper's experimental framework."
+        },
+        "9": {
+            "score": 3,
+            "explanation": "Investigates slow collisions in microgravity, mass transfer, and ejecta. Aligns with the main paper's methodology and goals."
+        },
+        "10": {
+            "score": 2,
+            "explanation": "Examines ejecta velocity-energy relationships in microgravity. Relevant but less focused on mass transfer, which is central to the main paper."
+        },
+        "11": {
+            "score": 3,
+            "explanation": "Studies low-velocity collisions (up to 2 m/s), fragmentation thresholds, and accretion efficiency. Closely matches the main paper's scope."
+        },
+        "12": {
+            "score": 3,
+            "explanation": "Presents COLLIDE-2 results on coefficients of restitution and ejecta. Directly related to the main paper's experiments and findings."
+        },
+        "13": {
+            "score": 2,
+            "explanation": "Simulates low-velocity impacts but focuses on code validation rather than mass transfer. Methodologically relevant but tangential to core focus."
+        },
+        "14": {
+            "score": 2,
+            "explanation": "Explores decimeter collisions in microgravity. Relevant to collision dynamics but at a larger scale than the main paper's cm-size focus."
+        },
+        "15": {
+            "score": 1,
+            "explanation": "High-velocity collisions (6.68 m/s) with limited relevance to low-energy mass transfer. Contextually divergent."
+        },
+        "16": {
+            "score": 1,
+            "explanation": "Examines momentum transfer for asteroid deflection, unrelated to mass transfer or microgravity adhesion. Low relevance."
+        },
+        "17": {
+            "score": 3,
+            "explanation": "Describes COLLIDE microgravity results on coefficients of restitution. Directly supports the main paper's experimental outcomes."
+        },
+        "18": {
+            "score": 3,
+            "explanation": "Analyzes microgravity impacts, rebound, and penetration depth. Highly relevant to the main paper's investigation of regolith behavior."
+        },
+        "19": {
+            "score": 0,
+            "explanation": "Focuses on high-velocity fragmentation (meters per second) irrelevant to the main paper's low-energy focus."
+        },
+        "20": {
+            "score": 2,
+            "explanation": "Studies low-energy impacts and ejecta but emphasizes ejecta over mass transfer. Partially aligned."
+        }
+    },
+    "overall_analysis": {
+        "strengths": [
+            "Multiple results directly reference COLLIDE/PRIME experiments, microgravity conditions, and low-velocity collisions.",
+            "Several studies replicate drop tower methodologies or analyze mass transfer thresholds, aligning with the main paper's objectives."
+        ],
+        "weaknesses": [
+            "Some results focus on higher velocity regimes (>1 m/s) or tangential topics like ejecta/deflection.",
+            "A few abstracts lack explicit discussion of mass transfer or adhesive responses central to the main paper."
+        ],
+        "suggestions": [
+            "Prioritize studies explicitly investigating mass transfer thresholds and adhesive mechanisms in microgravity.",
+            "Include more comparative analyses of space-based vs. ground-based experiments to validate replication efforts."
+        ]
+    }
+}
+```

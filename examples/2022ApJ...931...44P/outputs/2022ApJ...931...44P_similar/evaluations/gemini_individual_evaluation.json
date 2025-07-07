@@ -1,0 +1,62 @@
+{
+  "individual_scores": {
+    "1": {
+      "score": 3,
+      "explanation": "This paper directly addresses the theoretical evolution of optical strong lines and uses BPT diagrams, which are central to the main paper's methodology. It explores how these diagrams can be used to investigate the spectral properties of AGN, a key aspect of the main paper's research on dwarf AGN."
+    },
+    "2": {
+      "score": 3,
+      "explanation": "This paper is highly relevant as it discusses the RESOLVE and ECO surveys directly, focusing on the census of dwarf AGN. It utilizes the same BPT diagnostic plot and introduces the concept of 'star-forming AGN' (SF-AGN), aligning perfectly with the main paper's findings and methodology. It also investigates the properties and environments of SF-AGN, further strengthening its relevance."
+    },
+    "3": {
+      "score": 3,
+      "explanation": "This paper is relevant because it uses emission-line ratios to study galaxies and also compares [O III]/H\u03b2 versus [S II]/(H\u03b1 + [N II]), which are the same sort of plots used in the main paper. The focus on AGN and star-forming galaxies is also relevant."
+    },
+    "4": {
+      "score": 3,
+      "explanation": "This paper is highly relevant because it uses strong emission-line diagnostics to classify gas ionization properties in galaxies, which is a central theme of the main paper. The use of SDSS-IV MaNGA data and the focus on refining emission-line diagnostic classifications using gas dynamics further enhance its relevance."
+    },
+    "5": {
+      "score": 3,
+      "explanation": "This paper is highly relevant as it directly investigates emission-line properties and uses BPT diagrams, including those involving [S II] and [O I], which are key diagnostics discussed in the main paper for identifying AGN in dwarf galaxies. It also looks at high redshift galaxies."
+    },
+    "6": {
+      "score": 3,
+      "explanation": "This paper is highly relevant because it addresses alternative diagnostic diagrams for classifying galaxies, particularly weak line galaxies (WLGs), and aims to improve the classification scheme. The discussion of transposing divisory lines between star-forming galaxies and AGN hosts, and the use of SDSS data, aligns well with the main paper's goals and methods."
+    },
+    "7": {
+      "score": 3,
+      "explanation": "This paper is highly relevant as it presents optical narrow-line ratios in a SDSS-based sample of type 1 AGN and explores their positions in BPT diagrams. The investigation of how AGN and host properties affect these ratios directly relates to the main paper's focus on identifying AGN in dwarf galaxies using emission-line diagnostics."
+    },
+    "8": {
+      "score": 1,
+      "explanation": "This paper investigates the excitation properties of galaxies at z ~ 2.3 using emission-line diagnostic diagrams, including BPT diagrams. While it uses similar diagnostic tools as the main paper, the focus on higher redshift galaxies makes it less directly relevant to the main paper's study of z ~ 0 dwarf AGN."
+    },
+    "9": {
+      "score": 3,
+      "explanation": "This paper is highly relevant because it probes the excitation properties of high-z galaxies, the impact of AGN, shocks, and photoionization. The paper uses similar diagnostic tools and discusses the BPT diagram, and directly investigates the influence of AGN."
+    },
+    "10": {
+      "score": 3,
+      "explanation": "This paper is relevant because it studies the physical conditions of ionized gas in high-z star-forming galaxies using diagnostic diagrams based on rest-frame optical emission lines, including the BPT diagram. The study finds an offset in the BPT diagram, which is a key aspect of the main paper's research. The focus on the excitation state and chemical enrichment of the interstellar medium makes it applicable."
+    }
+  },
+  "overall_analysis": {
+    "strengths": [
+      "Strong alignment with the main paper's topic of identifying AGN in dwarf galaxies.",
+      "Utilization of similar emission-line diagnostic techniques, particularly BPT diagrams.",
+      "Focus on the challenges of classifying galaxies with strong emission lines.",
+      "Use of SDSS data and other relevant surveys.",
+      "Exploration of factors affecting emission-line ratios, such as metallicity, ionization, and shocks."
+    ],
+    "weaknesses": [
+      "Some papers focus on higher redshift galaxies, reducing their direct relevance to the main paper's study of z ~ 0 dwarf AGN.",
+      "A few papers explore broader aspects of galaxy evolution, which are somewhat tangential to the main paper's specific focus."
+    ],
+    "suggestions": [
+      "Prioritize papers that specifically address dwarf galaxies and low-metallicity environments.",
+      "Focus on studies that directly compare different emission-line diagnostic techniques and their effectiveness in identifying AGN.",
+      "Consider papers that explore the physical mechanisms responsible for the observed emission-line ratios in dwarf galaxies."
+    ]
+  }
+}

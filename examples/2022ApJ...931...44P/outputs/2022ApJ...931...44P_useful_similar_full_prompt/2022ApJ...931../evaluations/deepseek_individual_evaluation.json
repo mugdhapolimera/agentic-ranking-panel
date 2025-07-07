@@ -1,0 +1,59 @@
+{
+  "individual_scores": {
+    "1": {
+      "score": 3,
+      "explanation": "Directly aligns with the main paper's methodology, introducing a modified emission-line classification scheme using [S II]/H\u03b1 and [O I]/H\u03b1 diagnostics to identify SF-AGN in RESOLVE. Discusses photoionization models and AGN percentages in dwarfs, matching the main paper's focus."
+    },
+    "2": {
+      "score": 3,
+      "explanation": "Compares the main paper's comprehensive emission-line method with other AGN detection techniques, explicitly referencing SF-AGN and their contribution to higher AGN percentages in RESOLVE/ECO. Reinforces the main paper's conclusions."
+    },
+    "3": {
+      "score": 3,
+      "explanation": "Closely mirrors the main paper's approach, emphasizing SF-AGN, multi-diagnostic classification, and photoionization models. Uses RESOLVE/ECO to report AGN statistics, directly supporting the main paper's findings."
+    },
+    "4": {
+      "score": 3,
+      "explanation": "Expands on the main paper's multi-diagnostic system and SF-AGN classification, providing detailed AGN percentages in RESOLVE/ECO. Highlights metallicity and gas-rich hosts, aligning with the main paper's methodology and results."
+    },
+    "5": {
+      "score": 1,
+      "explanation": "Introduces Bayesian inference for AGN/star formation mixing, a different methodology from the main paper's diagnostic plots. While related to classification improvements, it is tangential to the main focus on metallicity-optimized diagnostics."
+    },
+    "6": {
+      "score": 1,
+      "explanation": "Focuses on emission-line profile fitting (broad wings) to identify AGN, diverging from the main paper's line-ratio diagnostics. Shares the goal of finding AGN in dwarfs but uses a distinct method."
+    },
+    "7": {
+      "score": 1,
+      "explanation": "Examines metallicity effects on AGN diagnostics but concludes low-metallicity AGN are rare, conflicting with the main paper's emphasis. Relevant to metallicity discussions but methodologically and thematically misaligned."
+    },
+    "8": {
+      "score": 0,
+      "explanation": "Proposes a new AGN identification method based on emission-line excess, unrelated to the main paper's diagnostic plot optimization. No overlap in methodology or focus on low-metallicity dwarfs."
+    },
+    "9": {
+      "score": 1,
+      "explanation": "Analyzes environments of dwarf AGN, a topic outside the main paper's scope. While AGN in dwarfs are discussed, the environmental focus and use of BPT/WHAN make it tangential."
+    },
+    "10": {
+      "score": 2,
+      "explanation": "Reports low-metallicity AGN via broad-line emission, aligning with the main paper's goal but using a different method (broad lines vs. narrow-line diagnostics). Partially relevant but lacks methodological overlap."
+    }
+  },
+  "overall_analysis": {
+    "strengths": [
+      "Results 1-4 directly validate and extend the main paper's methodology, using RESOLVE/ECO data and multi-diagnostic classification to identify SF-AGN.",
+      "Several results (1-4, 10) reinforce the importance of low-metallicity AGN detection, a core focus of the main paper."
+    ],
+    "weaknesses": [
+      "Some results (5-9) diverge methodologically or thematically, reducing their relevance.",
+      "Result 7's conclusion about rare low-metallicity AGN conflicts with the main paper's findings, highlighting potential inconsistencies in the literature."
+    ],
+    "suggestions": [
+      "Incorporate multiwavelength validation (e.g., X-ray, radio) as seen in Result 1 to strengthen AGN confirmation.",
+      "Address discrepancies with studies like Result 7 by discussing metallicity measurement uncertainties or selection biases.",
+      "Explore Bayesian methods (Result 5) as a complementary approach to refine AGN-star formation mixing in future work."
+    ]
+  }
+}

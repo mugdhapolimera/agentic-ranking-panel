@@ -1,0 +1,9 @@
+{
+  "correlations": {
+    "claude": 0.6123724356957945,
+    "gemini": 0.2721655269759087,
+    "deepseek": -0.5345224838248488,
+    "consensus": 0.3227486121839514
+  },
+  "output_file": "examples/2021GSR.....9....1J/outputs/2021GSR.....9....1J_similar_judgements_llm_scored_results.json"
+}

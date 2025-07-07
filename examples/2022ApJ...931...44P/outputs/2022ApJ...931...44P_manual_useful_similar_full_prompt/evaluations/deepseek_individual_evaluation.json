@@ -1,0 +1,73 @@
+{
+  "individual_scores": {
+    "1": {
+      "score": 3,
+      "explanation": "Directly aligns with the main paper's methodology by using spatially-resolved [S II]- and [O I]-BPT diagnostics to identify AGN in dwarfs, including SF-AGN. Discusses higher AGN fractions, mirroring the main paper's conclusions."
+    },
+    "2": {
+      "score": 2,
+      "explanation": "Relevant to AGN demographics in dwarfs but relies on the classical BPT diagram, which the main paper critiques. Highlights higher AGN fractions due to improved sensitivity, but lacks the optimized diagnostics (e.g., [S II]/H\u03b1)."
+    },
+    "3": {
+      "score": 2,
+      "explanation": "Examines BPT reliability and identifies AGN in the star-forming region, supporting the SF-AGN concept. However, focuses on X-ray confirmation rather than metallicity-optimized diagnostics."
+    },
+    "4": {
+      "score": 1,
+      "explanation": "Uses classical BPT and reports low AGN fractions, conflicting with the main paper. Mentions He II and mid-IR methods but does not address metallicity-sensitive diagnostics like [S II]/H\u03b1."
+    },
+    "5": {
+      "score": 1,
+      "explanation": "Focuses on quiescent dwarfs with AGN-like line ratios, differing from the main paper's emphasis on star-forming dwarfs. Limited methodological overlap."
+    },
+    "6": {
+      "score": 2,
+      "explanation": "Identifies AGN in dwarfs using BPT and broad H\u03b1, increasing AGN counts. Aligns with the main paper's goal but relies on BPT, which is critiqued for metallicity bias."
+    },
+    "7": {
+      "score": 1,
+      "explanation": "Focuses on BH demographics and masses without addressing emission-line diagnostics or metallicity. Tangential to the main paper's methodology."
+    },
+    "8": {
+      "score": 2,
+      "explanation": "Discusses metallicity effects on emission lines and [N II] as a metallicity indicator. Partially relevant but does not explore the main paper's preferred [S II]/H\u03b1 and [O I]/H\u03b1 diagnostics."
+    },
+    "9": {
+      "score": 2,
+      "explanation": "Provides theoretical modeling of emission-line grids for low-metallicity galaxies, supporting the main paper's photoionization approach. Lacks direct AGN diagnostic optimization."
+    },
+    "10": {
+      "score": 1,
+      "explanation": "Confirms AGN via X-ray/UV but does not address emission-line diagnostics or metallicity. Relevant to AGN validation but not methodology."
+    },
+    "11": {
+      "score": 0,
+      "explanation": "Focuses on separating shocks/AGN/star formation in NGC 1068, unrelated to low-metallicity dwarfs or optimized diagnostics."
+    },
+    "12": {
+      "score": 2,
+      "explanation": "Examines NLR properties in low-mass AGN, including metallicity trends. Aligns with the main paper's focus but does not use [S II]/H\u03b1 or [O I]/H\u03b1 diagnostics."
+    },
+    "13": {
+      "score": 0,
+      "explanation": "Simulates MBHs in dwarfs for multimessenger signals, unrelated to emission-line diagnostics or metallicity."
+    }
+  },
+  "overall_analysis": {
+    "strengths": [
+      "Multiple studies (1, 8, 12) address metallicity effects and alternative diagnostics.",
+      "Results 1 and 2 corroborate higher AGN fractions in dwarfs, supporting the main paper's findings.",
+      "Result 9 provides theoretical support for modeling low-metallicity emission-line grids."
+    ],
+    "weaknesses": [
+      "Overreliance on classical BPT in Results 2, 4, and 6 conflicts with the main paper's critique.",
+      "Several studies (7, 10, 11, 13) are tangential to metallicity-optimized diagnostics or dwarf AGN focus.",
+      "Limited use of [S II]/H\u03b1 and [O I]/H\u03b1 diagnostics outside Result 1."
+    ],
+    "suggestions": [
+      "Prioritize studies using [S II]/H\u03b1 and [O I]/H\u03b1 diagnostics for metallicity-insensitive AGN identification.",
+      "Include more X-ray/radio follow-up to validate SF-AGN candidates in low-metallicity dwarfs.",
+      "Expand theoretical modeling (e.g., Result 9) to explicitly compare [N II]-, [S II]-, and [O I]-BPT performance."
+    ]
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "set_analyses": {
+    "1": {
+      "strengths": [
+        "Highly relevant to the main paper's topic of finding dwarf AGN candidates using optimized emission-line diagnostics",
+        "Provides additional details and analysis on the methodology used in the main paper",
+        "Discusses the implications and significance of the findings"
+      ],
+      "weaknesses": [
+        "Limited to a single result, so the coverage of the topic is not as comprehensive as other sets"
+      ],
+      "summary": "This set is highly relevant and provides a detailed analysis that complements the main paper well. However, it lacks the breadth of coverage that other sets offer."
+    },
+    "2": {
+      "strengths": [
+        "Covers theoretical aspects and simulations related to emission-line diagnostics and their evolution over cosmic time",
+        "Provides context and background information on the topic"
+      ],
+      "weaknesses": [
+        "Not directly focused on the specific methodology and findings of the main paper",
+        "Theoretical and simulation-based, lacking observational data and analysis"
+      ],
+      "summary": "This set provides useful theoretical context and background information, but it is not as directly relevant to the main paper's specific methodology and findings."
+    },
+    "3": {
+      "strengths": [
+        "Presents observational data and analysis of emission-line diagnostics at high redshift",
+        "Covers some of the same diagnostic diagrams and emission-line ratios used in the main paper"
+      ],
+      "weaknesses": [
+        "Focused on higher redshift galaxies, while the main paper is primarily concerned with local dwarf galaxies",
+        "Does not specifically address the issue of finding dwarf AGN candidates"
+      ],
+      "summary": "This set provides useful observational data and analysis related to emission-line diagnostics, but it is not as directly relevant to the main paper's focus on local dwarf AGN candidates."
+    },
+    "4": {
+      "strengths": [
+        "Discusses alternative diagnostic diagrams that require fewer emission lines, which is relevant to the main paper's goal of optimizing diagnostics for dwarf galaxies",
+        "Provides a large sample size and statistical analysis"
+      ],
+      "weaknesses": [
+        "Does not specifically address the issue of finding dwarf AGN candidates",
+        "Focused on general emission-line galaxy classification rather than the specific methodology used in the main paper"
+      ],
+      "summary": "This set offers a relevant discussion of alternative diagnostic diagrams and provides a large sample size, but it does not directly address the main paper's focus on dwarf AGN candidates."
+    },
+    "5": {
+      "strengths": [
+        "Uses a large sample size and spatially resolved data to refine strong-line diagnostic classifications",
+        "Directly relevant to the main paper's goal of optimizing emission-line diagnostics"
+      ],
+      "weaknesses": [
+        "Does not specifically address the issue of finding dwarf AGN candidates",
+        "Focused on general emission-line galaxy classification rather than the specific methodology used in the main paper"
+      ],
+      "summary": "This set provides a relevant and detailed analysis of strong-line diagnostic classifications using a large sample size, but it does not directly address the main paper's focus on dwarf AGN candidates."
+    },
+    "6": {
+      "strengths": [
+        "Presents observational data and analysis of emission-line diagnostics at high redshift using JWST/NIRSpec",
+        "Covers a wide range of diagnostic diagrams, including some used in the main paper"
+      ],
+      "weaknesses": [
+        "Focused on higher redshift galaxies, while the main paper is primarily concerned with local dwarf galaxies",
+        "Does not specifically address the issue of finding dwarf AGN candidates"
+      ],
+      "summary": "This set offers relevant observational data and analysis of emission-line diagnostics, but it is not directly focused on the main paper's specific topic of local dwarf AGN candidates."
+    },
+    "7": {
+      "strengths": [
+        "Discusses narrow-line ratios in a sample of low-redshift type 1 AGN",
+        "Covers some of the same diagnostic diagrams and emission-line ratios used in the main paper"
+      ],
+      "weaknesses": [
+        "Focused on type 1 AGN, while the main paper is concerned with finding dwarf AGN candidates using narrow-line diagnostics",
+        "Does not specifically address the issue of optimizing diagnostics for low-metallicity or dwarf galaxies"
+      ],
+      "summary": "This set provides relevant analysis of narrow-line ratios and diagnostic diagrams, but it is not directly focused on the main paper's specific topic of finding dwarf AGN candidates using optimized diagnostics."
+    },
+    "8": {
+      "strengths": [
+        "Presents observational data and analysis of emission-line diagnostics at high redshift",
+        "Covers some of the same diagnostic diagrams and emission-line ratios used in the main paper"
+      ],
+      "weaknesses": [
+        "Focused on higher redshift galaxies, while the main paper is primarily concerned with local dwarf galaxies",
+        "Does not specifically address the issue of finding dwarf AGN candidates or optimizing diagnostics for low-metallicity galaxies"
+      ],
+      "summary": "This set offers relevant observational data and analysis of emission-line diagnostics, but it is not directly focused on the main paper's specific topic of local dwarf AGN candidates."
+    },
+    "9": {
+      "strengths": [
+        "Presents observational data and analysis of emission-line diagnostics at high redshift",
+        "Discusses the impact of shocks and AGN on emission-line ratios, which is relevant to the main paper's methodology"
+      ],
+      "weaknesses": [
+        "Focused on higher redshift galaxies, while the main paper is primarily concerned with local dwarf galaxies",
+        "Does not specifically address the issue of finding dwarf AGN candidates or optimizing diagnostics for low-metallicity galaxies"
+      ],
+      "summary": "This set provides useful observational data and analysis related to the impact of shocks and AGN on emission-line ratios, but it is not directly focused on the main paper's specific topic of local dwarf AGN candidates."
+    },
+    "10": {
+      "strengths": [
+        "Directly relevant to the main paper's topic of finding dwarf AGN candidates using optimized emission-line diagnostics",
+        "Presents a sample of dwarf galaxies with optical signatures of active massive black holes",
+        "Discusses the implications and significance of the findings"
+      ],
+      "weaknesses": [
+        "Limited to a single result, so the coverage of the topic is not as comprehensive as other sets"
+      ],
+      "summary": "This set is highly relevant and directly addresses the main paper's topic of finding dwarf AGN candidates using emission-line diagnostics. However, like Set 1, it lacks the breadth of coverage that other sets offer."
+    }
+  },
+  "comparison": {
+    "best_set": 1,
+    "justification": "Set 1 is the most directly relevant and provides a detailed analysis that complements the main paper's methodology and findings. The first result in this set discusses the multiwavelength census of dwarf AGN candidates in the RESOLVE and ECO surveys, which is the same dataset used in the main paper. It provides additional details and analysis on the specific methodology of using optimized emission-line diagnostics to identify 'star-forming AGN' (SF-AGN) in dwarf galaxies. The result also discusses the implications and significance of the findings, such as the higher dwarf AGN percentage compared to previous estimates and the properties of SF-AGN hosts. Overall, Set 1 is highly relevant and directly addresses the main paper's topic, methodology, and findings.",
+    "key_differences": [
+      "Relevance to the main paper's specific topic and methodology",
+      "Level of detail and analysis provided on the main paper's findings",
+      "Coverage of observational data and analysis vs. theoretical or background information"
+    ],
+    "improvement_suggestions": [
+      "For sets focused on theoretical aspects or simulations (e.g., Set 2), include more direct comparisons and applications to the observational data and methodology used in the main paper",
+      "For sets focused on higher redshift galaxies (e.g., Sets 3, 6, 8, 9), include more discussion and analysis of how the findings relate to or differ from the local dwarf galaxy population studied in the main paper",
+      "For sets discussing alternative diagnostic diagrams or general emission-line galaxy classification (e.g., Sets 4, 5), provide more specific analysis and examples related to the main paper's focus on optimizing diagnostics for finding dwarf AGN candidates"
+    ]
+  }
+}
